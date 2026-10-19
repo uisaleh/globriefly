@@ -1,18 +1,17 @@
-19:27:36 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-19:27:36 collecting feeds…
-19:27:36 feed failed: France 24 https://www.france24.com/en/rss — Attribute without value
+22:18:21 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+22:18:21 collecting feeds…
+22:18:22 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
 Line: 0
-Column: 452
-Char: d
-19:27:36 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-19:27:36 247 new items
-19:27:36 223 candidate stories
-19:27:36 writing: Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities (2 sources)
-19:27:37   source text: 2799 / 7000 chars
-19:27:42   too close to source wording — rewriting
-19:27:50   ✓ published: /news/oil-prices-climb-past-one-hundred-and-nine-dollars-following-multiple/ [business] image: none
-19:27:50 writing: France: Curfews issued in Paris, Nice after unrest (2 sources)
-19:27:51   source text: 3100 / 6159 chars
-19:27:56   too close to source wording — rewriting
-19:28:05   ✓ published: /news/french-cities-implement-localized-curfews-following-violent-weekend/ [world] image: wikimedia
-19:28:05 done — 2 stories
+Column: 1
+Char: 
+22:18:22 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+22:18:22 255 new items
+22:18:22 232 candidate stories
+22:18:22 writing: Ronaldo given 30-day suspension and £215 fine by Portuguese FA (2 sources)
+22:18:23   source text: 1875 / 2297 chars
+22:18:38   ✓ published: /news/portuguese-football-captain-faces-thirty-day-ban-after-international/ [sports] image: wikimedia
+22:18:38 writing: Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines (2 sources)
+22:18:39   source text: 3541 / 3899 / 3899 chars
+22:19:03   too close to source wording — rewriting
+22:19:18   ✓ published: /news/prime-minister-unveils-strict-new-regulations-to-curb-private-parking/ [politics] image: wikimedia
+22:19:18 done — 2 stories
