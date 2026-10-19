@@ -1,55 +1,14 @@
-18:03:53 start — writer: Gemini key set (gemini-3.6-flash, gemini-3.5-flash-lite); photos: Wikimedia; review mode: false
-18:03:53 collecting feeds…
-18:03:55 feed failed: France 24 https://www.france24.com/en/rss — Status code 404
-18:03:55 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-18:03:55 247 new items
-18:03:55 225 candidate stories
-18:03:55 writing: Kenyan starvation cult leader guilty of murder of 190 children and one adult (2 sources)
-18:03:55   source text: 4217 / 3244 chars
-18:03:58 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-18:05:14 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-18:05:26   too close to source wording — rewriting
-18:05:26 gemini gemini-3.6-flash failed (429): {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
-18:05:47 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-18:05:59 writer returned unusable output: { "headline": "Kenyan cult leader and associates convicted over mass starvation deaths", "standfirst": "A Kenyan court has convicted self-proclaimed preache
-18:05:59   skipped
-18:05:59 writing: AI firm Anthropic to commit 5% of shares to fund for ‘public good’ (2 sources)
-18:06:00   source text: 2820 / 2614 chars
-18:06:03 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-18:06:09 gemini gemini-3.6-flash failed (429): {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
-18:06:36   ✓ published: /news/anthropic-dedicates-five-percent-of-equity-to-public-benefit-fund-ahead/ [business] image: none
-18:06:36 done — 1 stories
+18:11:17 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+18:11:17 collecting feeds…
+18:11:18 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+18:11:18 267 new items
+18:11:18 244 candidate stories
+18:11:18 writing: Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment (2 sources)
+18:11:18   source text: 4707 / 1874 chars
+18:11:24   too close to source wording — rewriting
+18:11:32   ✓ published: /news/brazilian-electoral-tribunal-doubles-daily-penalties-against-meta-over/ [world] image: wikimedia
+18:11:32 writing: England manager Wiegman signs contract extension (2 sources)
+18:11:32   source text: 3378 / 2523 chars
+18:11:38   too close to source wording — rewriting
+18:11:47   ✓ published: /news/sarina-wiegman-commits-to-england-role-until-2029/ [sports] image: wikimedia
+18:11:47 done — 2 stories
