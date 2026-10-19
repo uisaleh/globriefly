@@ -4,7 +4,7 @@ export const env = {
 
   // Writing model. Gemini has a free tier; Groq is an optional free fallback.
   GEMINI_API_KEY: process.env.GEMINI_API_KEY || '',
-  GEMINI_MODELS: (process.env.GEMINI_MODELS || 'gemini-3.6-flash,gemini-3.5-flash-lite').split(',').map((s) => s.trim()).filter(Boolean),
+  GEMINI_MODELS: (process.env.GEMINI_MODELS || 'gemini-3.5-flash-lite,gemini-3.6-flash').split(',').map((s) => s.trim()).filter(Boolean),
   GROQ_API_KEY: process.env.GROQ_API_KEY || '',
   GROQ_MODEL: process.env.GROQ_MODEL || '',
 

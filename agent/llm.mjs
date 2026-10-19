@@ -66,7 +66,7 @@ async function callGemini(system, user) {
         body: JSON.stringify({
           systemInstruction: { parts: [{ text: system }] },
           contents: [{ role: 'user', parts: [{ text: user }] }],
-          generationConfig: { responseMimeType: 'application/json', temperature: 0.7 },
+          generationConfig: { responseMimeType: 'application/json', temperature: 0.7, maxOutputTokens: 8192 },
         }),
       }, 90000);
       if (res.ok) {
