@@ -5,7 +5,7 @@ export const site = {
   name: 'Globriefly',
   tagline: 'The world, briefly.',
   description: 'Clear, fast coverage of the stories shaping the world — world news, politics, business, technology, science, health, sports and entertainment.',
-  url: (process.env.SITE_URL || 'https://globriefly.com').replace(/\/$/, ''),
+  url: (process.env.SITE_URL || 'https://globriefly.vercel.app').replace(/\/$/, ''),
   facebookUrl: process.env.FACEBOOK_PAGE_URL || 'https://facebook.com',
   // Free newsletter form endpoint (e.g. Buttondown, MailerLite or Brevo form action URL). Leave empty to hide the form action.
   newsletterAction: process.env.NEXT_PUBLIC_NEWSLETTER_ACTION || '',

@@ -7,7 +7,7 @@ export const STATE_FILE = path.join(ROOT, 'content', 'state', 'seen.json');
 export const CARDS_DIR = path.join(ROOT, ".cache", "cards");
 export const IMAGES_DIR = path.join(ROOT, ".cache", "images");
 
-export const UA = 'GlobrieflyBot/1.0 (+https://globriefly.com/about/; news aggregation)';
+export const UA = 'GlobrieflyBot/1.0 (+https://globriefly.vercel.app/about/; news aggregation)';
 
 export const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 

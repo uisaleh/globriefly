@@ -1,6 +1,6 @@
 // Agent settings. Secrets come from environment variables (GitHub Actions secrets).
 export const env = {
-  SITE_URL: (process.env.SITE_URL || 'https://globriefly.com').replace(/\/$/, ''),
+  SITE_URL: (process.env.SITE_URL || 'https://globriefly.vercel.app').replace(/\/$/, ''),
 
   // Writing model. Gemini has a free tier; Groq is an optional free fallback.
   GEMINI_API_KEY: process.env.GEMINI_API_KEY || '',
