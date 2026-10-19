@@ -36,7 +36,7 @@ STRICT RULES
 4. Do not mention or name the source outlets in the article text, and never mention AI, automation or how the article was produced.
 5. Explain background and why the story matters, using only context present in the sources or widely known general facts (e.g. what an organisation is).
 6. "timeline": include only if the sources give at least 3 dated events; otherwise return an empty array.
-7. Length: 600-900 words across 4-6 sections. Short paragraphs (2-4 sentences). British-neutral spelling is fine.
+7. Length and structure (required): exactly 5 sections. Section 1 has an empty heading and 3 paragraphs (the news: who, what, where, when). Sections 2-5 each have a short subheading and 2-3 paragraphs, covering in turn: background and context; what the people and organisations involved say or want; the wider impact or why it matters; what happens next. Every paragraph is 3-4 full sentences. That is roughly 650-850 words. If the sources are thin, use all the detail they contain rather than inventing anything. British-neutral spelling is fine.
 8. Tone: factual, calm, no sensationalism, no opinions.
 
 ${SHAPE}`;
@@ -112,12 +112,26 @@ function parseJSON(text) {
 }
 
 function valid(a) {
-  return a && typeof a.headline === 'string' && a.headline.length > 10 && Array.isArray(a.sections) && a.sections.length >= 2 && categories.some((c) => c.slug === a.category);
+  if (a && typeof a.category === 'string') a.category = a.category.toLowerCase().trim();
+  if (a && !categories.some((c) => c.slug === a.category)) a.category = 'world';
+  return a && typeof a.headline === 'string' && a.headline.length > 10 && Array.isArray(a.sections) && a.sections.length >= 2;
+}
+
+let lastCall = 0;
+async function pace() {
+  // Space out requests so the free tier's per-minute limit isn't hit.
+  const wait = lastCall + 7000 - Date.now();
+  if (wait > 0) await sleep(wait);
+  lastCall = Date.now();
 }
 
 async function generate(system, user) {
-  let out = parseJSON(env.GEMINI_API_KEY ? await callGemini(system, user) : null);
+  await pace();
+  const raw = env.GEMINI_API_KEY ? await callGemini(system, user) : null;
+  let out = parseJSON(raw);
+  if (raw && !valid(out)) log(`writer returned unusable output: ${String(raw).slice(0, 160).replace(/\s+/g, ' ')}`);
   if (!valid(out)) out = parseJSON(await callGroq(system, user));
+  if (out && !categories.some((c) => c.slug === out.category)) out.category = 'world';
   return valid(out) ? out : null;
 }
 

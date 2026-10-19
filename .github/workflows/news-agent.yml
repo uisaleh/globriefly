@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 25
     env:
       SITE_URL: ${{ vars.SITE_URL }}
-      MAX_STORIES_PER_RUN: ${{ vars.MAX_STORIES_PER_RUN || '3' }}
+      MAX_STORIES_PER_RUN: ${{ vars.MAX_STORIES_PER_RUN || '2' }}
       REQUIRE_REVIEW: ${{ vars.REQUIRE_REVIEW || 'false' }}
       GEMINI_MODELS: ${{ vars.GEMINI_MODELS }}
       GROQ_MODEL: ${{ vars.GROQ_MODEL }}
