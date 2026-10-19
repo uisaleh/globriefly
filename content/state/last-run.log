@@ -1,10 +1,11 @@
-17:49:10 start — writer: Gemini key set (gemini-3.6-flash, gemini-3.5-flash-lite); photos: Wikimedia; review mode: false
-17:49:10 collecting feeds…
-17:49:12 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-17:49:12 290 new items
-17:49:12 256 candidate stories
-17:49:12 writing: Australian MP critically injured after being hit by car in apparent attack (4 sources)
-17:49:29 gemini gemini-3.6-flash failed (503): {
+17:55:29 start — writer: Gemini key set (gemini-3.6-flash, gemini-3.5-flash-lite); photos: Wikimedia; review mode: false
+17:55:29 collecting feeds…
+17:55:32 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+17:55:32 280 new items
+17:55:32 252 candidate stories
+17:55:32 writing: Amazon to fund 12 small nuclear reactors at former Indiana coal plant (2 sources)
+17:55:32   source text: 3493 / 2618 chars
+17:55:38 gemini gemini-3.6-flash failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -12,8 +13,7 @@
   }
 }
 
-17:49:32   too close to source wording — rewriting
-17:49:36 gemini gemini-3.6-flash failed (503): {
+17:55:46 gemini gemini-3.6-flash failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -21,9 +21,8 @@
   }
 }
 
-17:49:44   ✓ published: /news/australian-federal-parliamentarian-critically-hurt-following-car-strike/ [world] image: none
-17:49:44 writing: Elon Musk says he'll give a SpaceX share to every child in America next year (3 sources)
-17:49:45 gemini gemini-3.6-flash failed (503): {
+17:55:55   too close to source wording — rewriting
+17:56:02 gemini gemini-3.6-flash failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -31,9 +30,7 @@
   }
 }
 
-17:49:48   ✓ published: /news/elon-musk-announces-plan-to-distribute-billions-in-spacex-shares-to-amer/ [technology] image: wikimedia
-17:49:48 writing: Haaland a doubt, Semenyo out - what are Man City's options? (2 sources)
-17:49:48 gemini gemini-3.6-flash failed (503): {
+17:56:11 gemini gemini-3.6-flash failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -41,15 +38,61 @@
   }
 }
 
-17:49:52   ✓ published: /news/manchester-city-face-striker-dilemma-as-erling-haaland-is-rated-a-doubt/ [sports] image: wikimedia
-17:49:52 writing explainer for: Australian MP critically injured after being hit by car in apparent attack
-17:49:52 gemini gemini-3.6-flash failed (500): {
+17:56:20   361 words — asking for a fuller article
+17:56:29 gemini gemini-3.6-flash failed (503): {
   "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
   }
 }
 
-17:49:57   ✓ explainer: /news/what-is-happening-in-australian-politics-following-a-shocking-attack-on/
-17:49:57 done — 3 stories
+17:56:51 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:57:03   ✓ published: /news/amazon-invests-in-twelve-small-nuclear-reactors-for-indiana-energy/ [technology] image: wikimedia
+17:57:03 writing: Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say (2 sources)
+17:57:04   source text: 4159 / 2650 chars
+17:57:05 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:57:11 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:57:20   378 words — asking for a fuller article
+17:57:20 gemini gemini-3.6-flash failed (429): {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
+17:57:40 gemini gemini-3.6-flash failed (429): {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
+17:58:07   ✓ published: /news/missile-strike-on-yemen-training-camp-leaves-over-fifty-dead/ [world] image: wikimedia
+17:58:07 writing: Svitolina says emotional toll of Ukraine war led to Monfils separation (2 sources)
+17:58:08   source text: 1434 / 1841 chars
+17:58:08 gemini gemini-3.6-flash failed (429): {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
+17:58:28 gemini gemini-3.6-flash failed (429): {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
+17:58:51   skipped
+17:58:51 done — 2 stories

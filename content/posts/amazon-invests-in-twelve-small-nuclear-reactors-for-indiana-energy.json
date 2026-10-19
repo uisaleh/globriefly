@@ -1,0 +1,77 @@
+{
+  "slug": "amazon-invests-in-twelve-small-nuclear-reactors-for-indiana-energy",
+  "status": "published",
+  "type": "news",
+  "category": "technology",
+  "region": "Americas",
+  "headline": "Amazon invests in twelve small nuclear reactors for Indiana energy project",
+  "standfirst": "Amazon has partnered with utility providers and reactor designers to finance a large nuclear facility in Indiana, aiming to power regional grids and corporate data centers.",
+  "keyPoints": [
+    "Amazon will fund a proposed 960-megawatt nuclear facility in Indiana.",
+    "The project involves twelve Xe-100 small modular reactors supplied by X-energy.",
+    "American Electric Power will manage the plant operations on a former coal site.",
+    "The agreement forms part of a broader corporate push to secure clean energy for data centres."
+  ],
+  "sections": [
+    {
+      "heading": "New nuclear initiative in Indiana",
+      "paragraphs": [
+        "A major technology enterprise is backing the construction of a novel nuclear energy facility in Indiana to supply carbon-free electricity. The proposed installation will feature twelve small modular reactors capable of generating a combined 960 megawatts of power. Located on land formerly occupied by a coal-fired power station near Terre Haute, the site will feed energy into the public electricity distribution network while also supporting local data processing facilities.",
+        "Management of the installation will fall to the utility provider American Electric Power. The reactor units themselves will be provided by X-energy, an engineering firm specialising in advanced modular nuclear technology. This agreement marks the second commercial collaboration between the tech corporation and the reactor designer, expanding significantly upon an earlier partnership established two years prior."
+      ]
+    },
+    {
+      "heading": "Strategy behind small modular reactors",
+      "paragraphs": [
+        "Major cloud computing organisations and various technology companies are increasingly turning to advanced nuclear designs to meet the massive electricity demands of artificial intelligence operations. Traditional nuclear reactor construction projects in the country have historically suffered from severe financial overruns and protracted delays. By utilising smaller, factory-produced modular units, developers hope to streamline manufacturing procedures and maintain strict control over construction schedules and budgets.",
+        "The proposed reactors utilise advanced cooling methods that can operate using air, water or a combination of both. Developers indicate this flexibility allows the facilities to be established in regions with limited water resources without straining local water supplies. Economic projections suggest the project could generate hundreds of temporary construction roles alongside permanent operational positions once completed."
+      ]
+    },
+    {
+      "heading": "Broader industry goals and hurdles",
+      "paragraphs": [
+        "The collaboration between the technology firm and the reactor manufacturer forms part of an ambitious long-term strategy to deploy five gigawatts of fresh nuclear generation capacity across the nation before the end of the next decade. However, achieving these targets depends heavily on the successful completion of earlier undertakings, including a planned deployment at a chemical manufacturing site in Texas that has encountered regulatory hurdles.",
+        "While technology firms continue investing heavily in grid infrastructure to offset public concerns regarding the environmental footprint of data centres, experts caution that realising the benefits of these advanced facilities will require considerable time. Nuclear projects involve complex regulatory approvals and prolonged construction phases before power generation can officially commence."
+      ]
+    }
+  ],
+  "highlight": "The proposed installation will feature twelve small modular reactors capable of generating a combined 960 megawatts of power.",
+  "timeline": [],
+  "tags": [
+    "Amazon",
+    "nuclear energy",
+    "Indiana",
+    "X-energy",
+    "technology"
+  ],
+  "socialSummary": "Amazon is funding twelve small modular nuclear reactors in Indiana to power regional grids and data centres.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg/1920px-De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium",
+    "credit": "Trougnouf / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3859).jpg",
+    "license": "CC BY 4.0",
+    "provider": "wikimedia"
+  },
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
+    }
+  ],
+  "sourceTitles": [
+    "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+    "Amazon is funding a new nuclear plant in Indiana"
+  ],
+  "sourceCount": 2,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-10-19T17:57:01.866Z",
+  "updatedAt": "2026-10-19T17:57:01.866Z",
+  "readingMinutes": 2,
+  "facebook": null
+}

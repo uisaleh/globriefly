@@ -1,0 +1,77 @@
+{
+  "slug": "missile-strike-on-yemen-training-camp-leaves-over-fifty-dead",
+  "status": "published",
+  "type": "news",
+  "category": "world",
+  "region": "Middle East",
+  "headline": "Missile strike on Yemen training camp leaves over fifty dead",
+  "standfirst": "A ballistic missile attack on a military training facility in central Yemen has killed dozens of security recruits and injured more than two hundred people amid a sharp escalation in the country's civil war.",
+  "keyPoints": [
+    "Three ballistic missiles struck the al-Alam camp in Shabwa province during a training session.",
+    "Local authorities confirmed at least 53 people were killed and over 200 wounded.",
+    "Yemeni leadership condemned the assault and promised a firm response.",
+    "The attack marks one of the deadliest single incidents in the recent surge of violence."
+  ],
+  "sections": [
+    {
+      "heading": "Devastating strike on security camp",
+      "paragraphs": [
+        "A ballistic missile attack has struck a military and security training installation in the central Yemeni province of Shabwa, killing more than fifty recruits. Local officials and military sources reported that three missiles hit the al-Alam camp near the city of Ataq while personnel were gathered in formation. The incident represents one of the single deadliest security losses recorded during the recent flare-up of violence in the region.",
+        "Provincial media offices and medical teams stated that approximately 200 other individuals sustained injuries in the blast. Local hospitals quickly became overwhelmed by the influx of casualties. Deputy governor Fahad al-Khalifi noted that medical staff had to transfer the most critically wounded patients to neighbouring provinces such as Hadramout and Aden for specialized care."
+      ]
+    },
+    {
+      "heading": "Background of escalating hostilities",
+      "paragraphs": [
+        "The assault follows months of renewed fighting across Yemen, shattering a long-standing informal ceasefire that had previously brought a measure of calm. Pro-government forces, backed by a Saudi-led coalition of Arab states, recently launched offensives in western regions to reclaim territory lost to the Houthi movement. In response, the Iran-backed group has stepped up cross-border drone and missile assaults targeting facilities in Saudi Arabia, as well as positions held by domestic rivals.",
+        "The facility targeted in Shabwa was being used to train new personnel for internal security and rapid intervention forces. Yemeni officials denounced the operation as a war crime directed against non-military trainees. Meanwhile, Houthi military representatives claimed the target was a gathering of Saudi-aligned forces, maintaining that their operations are retaliatory measures against coalition air strikes and territorial blockades."
+      ]
+    },
+    {
+      "heading": "Political reactions and regional fallout",
+      "paragraphs": [
+        "Rashad al-Alimi, head of Yemen's Presidential Leadership Council, strongly condemned the missile strike and vowed a firm response against the perpetrators. Government ministers asserted that the attack was a desperate attempt by the armed group to mask setbacks sustained across various combat fronts. As hostilities intensify on multiple fronts, including around Taiz, Marib, and northern districts, civilian casualties continue to mount from both ground clashes and aerial bombardments.",
+        "The broader conflict stems from the 2014 overthrow of the government in Sanaa by Houthi forces, which prompted a regional military intervention the following year. With diplomatic efforts currently stalled and military operations expanding, international monitors warn of worsening humanitarian conditions as local medical infrastructure struggles to cope with the steady stream of wounded fighters and civilians."
+      ]
+    }
+  ],
+  "highlight": "Local hospitals quickly became overwhelmed by the influx of casualties.",
+  "timeline": [],
+  "tags": [
+    "Yemen",
+    "Houthis",
+    "Shabwa",
+    "Saudi Arabia",
+    "civil war"
+  ],
+  "socialSummary": "A ballistic missile strike on a military training camp in Yemen's Shabwa province has left over 50 security recruits dead.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Mukayras%2C_Al_Bayda%2C_Yemen-_1966_%288032269162%29.jpg/1920px-Mukayras%2C_Al_Bayda%2C_Yemen-_1966_%288032269162%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "The airstrip viewed from our tented camp of 160 - pounder marquees.",
+    "credit": "Brian Harrington Spier from Shanghai, China / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Mukayras,_Al_Bayda,_Yemen-_1966_(8032269162).jpg",
+    "license": "CC BY-SA 2.0",
+    "provider": "wikimedia"
+  },
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "name": "DW",
+      "url": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf"
+    }
+  ],
+  "sourceTitles": [
+    "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+    "Houthi strike on Yemen government military camp kills at least 50"
+  ],
+  "sourceCount": 2,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-10-19T17:58:06.332Z",
+  "updatedAt": "2026-10-19T17:58:06.332Z",
+  "readingMinutes": 2,
+  "facebook": null
+}
