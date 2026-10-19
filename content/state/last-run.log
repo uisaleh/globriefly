@@ -1,14 +1,18 @@
-18:11:17 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-18:11:17 collecting feeds…
-18:11:18 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-18:11:18 267 new items
-18:11:18 244 candidate stories
-18:11:18 writing: Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment (2 sources)
-18:11:18   source text: 4707 / 1874 chars
-18:11:24   too close to source wording — rewriting
-18:11:32   ✓ published: /news/brazilian-electoral-tribunal-doubles-daily-penalties-against-meta-over/ [world] image: wikimedia
-18:11:32 writing: England manager Wiegman signs contract extension (2 sources)
-18:11:32   source text: 3378 / 2523 chars
-18:11:38   too close to source wording — rewriting
-18:11:47   ✓ published: /news/sarina-wiegman-commits-to-england-role-until-2029/ [sports] image: wikimedia
-18:11:47 done — 2 stories
+19:27:36 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+19:27:36 collecting feeds…
+19:27:36 feed failed: France 24 https://www.france24.com/en/rss — Attribute without value
+Line: 0
+Column: 452
+Char: d
+19:27:36 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+19:27:36 247 new items
+19:27:36 223 candidate stories
+19:27:36 writing: Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities (2 sources)
+19:27:37   source text: 2799 / 7000 chars
+19:27:42   too close to source wording — rewriting
+19:27:50   ✓ published: /news/oil-prices-climb-past-one-hundred-and-nine-dollars-following-multiple/ [business] image: none
+19:27:50 writing: France: Curfews issued in Paris, Nice after unrest (2 sources)
+19:27:51   source text: 3100 / 6159 chars
+19:27:56   too close to source wording — rewriting
+19:28:05   ✓ published: /news/french-cities-implement-localized-curfews-following-violent-weekend/ [world] image: wikimedia
+19:28:05 done — 2 stories
