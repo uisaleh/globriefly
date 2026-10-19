@@ -1,11 +1,12 @@
-17:55:29 start — writer: Gemini key set (gemini-3.6-flash, gemini-3.5-flash-lite); photos: Wikimedia; review mode: false
-17:55:29 collecting feeds…
-17:55:32 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-17:55:32 280 new items
-17:55:32 252 candidate stories
-17:55:32 writing: Amazon to fund 12 small nuclear reactors at former Indiana coal plant (2 sources)
-17:55:32   source text: 3493 / 2618 chars
-17:55:38 gemini gemini-3.6-flash failed (503): {
+18:03:53 start — writer: Gemini key set (gemini-3.6-flash, gemini-3.5-flash-lite); photos: Wikimedia; review mode: false
+18:03:53 collecting feeds…
+18:03:55 feed failed: France 24 https://www.france24.com/en/rss — Status code 404
+18:03:55 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+18:03:55 247 new items
+18:03:55 225 candidate stories
+18:03:55 writing: Kenyan starvation cult leader guilty of murder of 190 children and one adult (2 sources)
+18:03:55   source text: 4217 / 3244 chars
+18:03:58 gemini gemini-3.6-flash failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -13,7 +14,7 @@
   }
 }
 
-17:55:46 gemini gemini-3.6-flash failed (503): {
+18:05:14 gemini gemini-3.6-flash failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -21,78 +22,34 @@
   }
 }
 
-17:55:55   too close to source wording — rewriting
-17:56:02 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:56:11 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:56:20   361 words — asking for a fuller article
-17:56:29 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:56:51 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:57:03   ✓ published: /news/amazon-invests-in-twelve-small-nuclear-reactors-for-indiana-energy/ [technology] image: wikimedia
-17:57:03 writing: Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say (2 sources)
-17:57:04   source text: 4159 / 2650 chars
-17:57:05 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:57:11 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:57:20   378 words — asking for a fuller article
-17:57:20 gemini gemini-3.6-flash failed (429): {
+18:05:26   too close to source wording — rewriting
+18:05:26 gemini gemini-3.6-flash failed (429): {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
-17:57:40 gemini gemini-3.6-flash failed (429): {
+18:05:47 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+18:05:59 writer returned unusable output: { "headline": "Kenyan cult leader and associates convicted over mass starvation deaths", "standfirst": "A Kenyan court has convicted self-proclaimed preache
+18:05:59   skipped
+18:05:59 writing: AI firm Anthropic to commit 5% of shares to fund for ‘public good’ (2 sources)
+18:06:00   source text: 2820 / 2614 chars
+18:06:03 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+18:06:09 gemini gemini-3.6-flash failed (429): {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
-17:58:07   ✓ published: /news/missile-strike-on-yemen-training-camp-leaves-over-fifty-dead/ [world] image: wikimedia
-17:58:07 writing: Svitolina says emotional toll of Ukraine war led to Monfils separation (2 sources)
-17:58:08   source text: 1434 / 1841 chars
-17:58:08 gemini gemini-3.6-flash failed (429): {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
-17:58:28 gemini gemini-3.6-flash failed (429): {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
-17:58:51   skipped
-17:58:51 done — 2 stories
+18:06:36   ✓ published: /news/anthropic-dedicates-five-percent-of-equity-to-public-benefit-fund-ahead/ [business] image: none
+18:06:36 done — 1 stories
