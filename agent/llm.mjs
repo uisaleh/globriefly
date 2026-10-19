@@ -76,7 +76,9 @@ async function callGemini(system, user) {
       }
       const errText = res.ok ? 'empty response' : await res.text();
       log(`gemini ${model} failed (${res.status}): ${errText.slice(0, 200)}`);
-      if (res.status === 429) await sleep(20000); else break;
+      if (res.status === 429) await sleep(20000);
+      else if (res.status === 503 || res.status === 500) await sleep(6000); // model briefly busy: wait and retry once
+      else break;
     }
   }
   return null;

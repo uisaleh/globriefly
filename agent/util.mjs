@@ -21,8 +21,19 @@ export function writeJSON(file, data) {
 }
 
 export function slugify(s) {
+  return trimSlug(slugBase(s));
+}
+
+function slugBase(s) {
   return s.toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[’']/g, '')
-    .replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 72).replace(/-+$/, '');
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+function trimSlug(full) {
+  if (full.length <= 72) return full;
+  const cut = full.slice(0, 72);
+  const i = cut.lastIndexOf('-');
+  return i > 30 ? cut.slice(0, i) : cut;
 }
 
 const STOP = new Set('a an the of in on at to for and or but is are was were be been with by from as after over into amid says say said new its it their his her this that will would could after more than up out about against not no'.split(' '));

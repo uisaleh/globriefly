@@ -106,12 +106,19 @@ async function main() {
     if (Date.now() - STARTED > BUDGET_MS) { log('time budget reached — stopping early'); break; }
     log(`writing: ${cluster.title} (${cluster.sourceCount} sources)`);
     const texts = await gatherTexts(cluster);
+    log(`  source text: ${texts.map((t) => t.length).join(' / ')} chars`);
     const sourceTexts = [...texts, ...cluster.items.map((i) => `${i.title} ${i.summary}`)];
     let article = await writeArticle(cluster, texts);
     if (article && sharedPhrases(articleText(article), sourceTexts) > 3) {
       log('  too close to source wording — rewriting');
       article = await writeArticle(cluster, texts, 'Your previous draft reused source wording. Rewrite every sentence in fresh words and a different structure.');
       if (article && sharedPhrases(articleText(article), sourceTexts) > 6) article = null;
+    }
+    // Too short? Ask once for a fuller write-up from the same sources (never invented detail).
+    if (article && words(article) < 450 && Date.now() - STARTED < BUDGET_MS) {
+      log(`  ${words(article)} words — asking for a fuller article`);
+      const longer = await writeArticle(cluster, texts, 'Your draft was too short. Write 600-900 words: cover every relevant fact, figure, quote and piece of background in the sources, in more sections. Do not add anything that is not in the sources.');
+      if (longer && words(longer) > words(article) && sharedPhrases(articleText(longer), sourceTexts) <= 6) article = longer;
     }
     cluster.items.forEach((i) => (state.urls[i.url] = Date.now()));
     state.fps[fingerprint(cluster.title)] = Date.now();
