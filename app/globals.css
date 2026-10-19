@@ -235,3 +235,6 @@ main.home { display: flex; flex-direction: column; gap: 64px; padding: 32px 0 72
 .form-done-icon { width: 52px; height: 52px; border-radius: 26px; background: #1A7F5A; display: inline-flex; align-items: center; justify-content: center; }
 .form-done h2 { font-size: 26px; font-weight: 800; letter-spacing: -0.02em; }
 .form-done p { font-size: 17px; line-height: 1.5; color: var(--text-2); }
+
+/* Article sidebar: Trending keeps its natural height so the ad sits directly below it. */
+.article-main aside > .side { flex: none; }

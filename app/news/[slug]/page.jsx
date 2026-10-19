@@ -173,6 +173,28 @@ export default async function ArticlePage({ params }) {
               </div>
             </section>
           )}
+
+          {moreCat.length > 0 && (
+            <section aria-label={`More in ${post.cat.label}`} style={{ display: 'flex', flexDirection: 'column', paddingTop: 12 }}>
+              <h2 style={{ fontSize: 24, fontWeight: 800, letterSpacing: '-0.02em', paddingBottom: 10, borderBottom: `3px solid ${post.cat.color}` }}>More in {post.cat.label}</h2>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', columnGap: 28 }}>
+                {moreCat.map((p) => (
+                  <Link key={p.slug} href={`/news/${p.slug}/`} className="row-item" style={{ gap: 14, padding: '16px 0' }}>
+                    <Thumb post={p} ratio="" style={{ width: 104, height: 72, flexShrink: 0 }} />
+                    <span className="t hl" style={{ fontSize: 16 }}>{p.headline}</span>
+                  </Link>
+                ))}
+              </div>
+            </section>
+          )}
+
+          <div className="aside-box pattern-dark" style={{ flexDirection: 'row', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', gap: 16, padding: '24px 28px' }}>
+            <span style={{ display: 'flex', flexDirection: 'column', gap: 6, flex: '1 1 260px' }}>
+              <span className="kicker" style={{ color: '#FF6B7A' }}>The morning brief</span>
+              <span style={{ fontSize: 22, fontWeight: 800, lineHeight: 1.15 }}>The world in five minutes, every morning.</span>
+            </span>
+            <a href="/#brief" className="btn" style={{ background: 'var(--red)', justifyContent: 'center', height: 48 }}>Subscribe free</a>
+          </div>
         </article>
 
         <aside style={{ flex: '1 1 300px', minWidth: 0, display: 'flex', flexDirection: 'column', gap: 36 }} aria-label="More stories">
@@ -183,22 +205,6 @@ export default async function ArticlePage({ params }) {
                 <Link key={p.slug} href={`/news/${p.slug}/`} className="num-item" style={{ padding: '14px 0' }}>
                   <span className="num" style={{ fontSize: 28 }}>{i + 1}</span>
                   <span className="t hl" style={{ fontSize: 16 }}>{p.headline}</span>
-                </Link>
-              ))}
-            </div>
-          )}
-          <div className="aside-box pattern-dark">
-            <span className="kicker" style={{ color: '#FF6B7A' }}>The morning brief</span>
-            <span style={{ fontSize: 22, fontWeight: 800, lineHeight: 1.15 }}>The world in five minutes, every morning.</span>
-            <a href="/#brief" className="btn" style={{ background: 'var(--red)', justifyContent: 'center', height: 48 }}>Subscribe free</a>
-          </div>
-          {moreCat.length > 0 && (
-            <div className="side">
-              <h2 className="side-title" style={{ borderBottomColor: post.cat.color }}>More in {post.cat.label}</h2>
-              {moreCat.map((p) => (
-                <Link key={p.slug} href={`/news/${p.slug}/`} className="row-item" style={{ gap: 12, padding: '14px 0' }}>
-                  <Thumb post={p} ratio="" style={{ width: 88, height: 64, flexShrink: 0 }} />
-                  <span className="t hl" style={{ fontSize: 15 }}>{p.headline}</span>
                 </Link>
               ))}
             </div>
