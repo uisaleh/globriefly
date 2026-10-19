@@ -1,0 +1,55 @@
+17:49:10 start — writer: Gemini key set (gemini-3.6-flash, gemini-3.5-flash-lite); photos: Wikimedia; review mode: false
+17:49:10 collecting feeds…
+17:49:12 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+17:49:12 290 new items
+17:49:12 256 candidate stories
+17:49:12 writing: Australian MP critically injured after being hit by car in apparent attack (4 sources)
+17:49:29 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:49:32   too close to source wording — rewriting
+17:49:36 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:49:44   ✓ published: /news/australian-federal-parliamentarian-critically-hurt-following-car-strike/ [world] image: none
+17:49:44 writing: Elon Musk says he'll give a SpaceX share to every child in America next year (3 sources)
+17:49:45 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:49:48   ✓ published: /news/elon-musk-announces-plan-to-distribute-billions-in-spacex-shares-to-amer/ [technology] image: wikimedia
+17:49:48 writing: Haaland a doubt, Semenyo out - what are Man City's options? (2 sources)
+17:49:48 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:49:52   ✓ published: /news/manchester-city-face-striker-dilemma-as-erling-haaland-is-rated-a-doubt/ [sports] image: wikimedia
+17:49:52 writing explainer for: Australian MP critically injured after being hit by car in apparent attack
+17:49:52 gemini gemini-3.6-flash failed (500): {
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
+}
+
+17:49:57   ✓ explainer: /news/what-is-happening-in-australian-politics-following-a-shocking-attack-on/
+17:49:57 done — 3 stories
