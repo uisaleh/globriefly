@@ -1,0 +1,44 @@
+{
+  "slug": "what-is-a-water-sharing-treaty",
+  "status": "published",
+  "type": "explainer",
+  "sample": true,
+  "category": "world",
+  "region": "Global",
+  "headline": "What is a water-sharing treaty, and why is it so hard to agree?",
+  "standfirst": "Rivers do not stop at borders. Here is how countries try to share them — and why talks so often stall.",
+  "keyPoints": [
+    "Many of the world’s big rivers cross several countries.",
+    "Treaties set out how much water each country can use.",
+    "Droughts and new dams put old agreements under strain."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "This is a sample explainer. When the agent runs, it writes one explainer a day about the biggest story."
+      ]
+    },
+    {
+      "heading": "The basics",
+      "paragraphs": [
+        "Explainers answer the simple questions behind the headlines in plain language."
+      ]
+    }
+  ],
+  "highlight": "Explainers answer the simple questions behind the headlines.",
+  "timeline": [],
+  "tags": [
+    "Explainer",
+    "Water"
+  ],
+  "socialSummary": "How countries share rivers.",
+  "image": null,
+  "card": null,
+  "sources": [],
+  "sourceCount": 1,
+  "importance": 6,
+  "breaking": false,
+  "publishedAt": "2026-10-11T20:10:33.977Z",
+  "readingMinutes": 4
+}

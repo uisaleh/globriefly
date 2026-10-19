@@ -1,0 +1,29 @@
+{
+  "name": "globriefly",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve out",
+    "agent": "node agent/run.mjs",
+    "share": "node agent/share.mjs",
+    "card": "node agent/card-preview.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@fontsource/archivo": "^5.1.0",
+    "@fontsource/source-serif-4": "^5.3.1",
+    "@mozilla/readability": "^0.5.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "linkedom": "^0.18.5",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "rss-parser": "^3.13.0",
+    "satori": "^0.12.0"
+  }
+}

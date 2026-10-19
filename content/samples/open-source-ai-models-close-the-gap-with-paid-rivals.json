@@ -1,0 +1,63 @@
+{
+  "slug": "open-source-ai-models-close-the-gap-with-paid-rivals",
+  "status": "published",
+  "type": "news",
+  "sample": true,
+  "category": "technology",
+  "region": "Global",
+  "headline": "Open-source AI models close the gap with paid rivals",
+  "standfirst": "Freely available models now match commercial systems on many everyday tasks.",
+  "keyPoints": [
+    "Freely available models now match commercial systems on many everyday tasks.",
+    "This is a sample story shown until the news agent publishes real articles.",
+    "Real stories will include the key facts, background and what happens next."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "Freely available models now match commercial systems on many everyday tasks. This sample article shows how a full Globriefly story is laid out on the page.",
+        "When the agent is running, this space holds the opening of the story: who is involved, what happened, where and when, written clearly in Globriefly’s own words."
+      ]
+    },
+    {
+      "heading": "Why it matters",
+      "paragraphs": [
+        "Here the article explains the background and the wider significance of the news, so readers understand the context without having to read several other reports."
+      ]
+    },
+    {
+      "heading": "What each side says",
+      "paragraphs": [
+        "This section sets out the main positions and reactions, drawn from the reporting of several news organisations and from official statements."
+      ]
+    },
+    {
+      "heading": "What happens next",
+      "paragraphs": [
+        "Finally, the article looks ahead to the next steps, deadlines or decisions that readers should watch for."
+      ]
+    }
+  ],
+  "highlight": "Every story brings together the key facts, the background and what comes next.",
+  "timeline": [],
+  "tags": [
+    "Technology",
+    "Global"
+  ],
+  "socialSummary": "Freely available models now match commercial systems on many everyday tasks.",
+  "image": null,
+  "card": null,
+  "sources": [
+    {
+      "name": "Example News",
+      "url": "https://example.com"
+    }
+  ],
+  "sourceCount": 3,
+  "importance": 6,
+  "breaking": false,
+  "publishedAt": "2026-10-11T07:34:33.977Z",
+  "updatedAt": "2026-10-11T07:34:33.977Z",
+  "readingMinutes": 4
+}
