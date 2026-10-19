@@ -10,7 +10,10 @@ import { writeArticle, writeExplainer } from './llm.mjs';
 import { findImage } from './images.mjs';
 import { saveCard } from './card.mjs';
 import { categoryBySlug } from '../site.config.mjs';
-import { POSTS_DIR, STATE_FILE, ROOT, log, readJSON, writeJSON, slugify, similarity, fingerprint, loadPosts, sharedPhrases } from './util.mjs';
+import { POSTS_DIR, STATE_FILE, ROOT, log, readJSON, writeJSON, slugify, similarity, fingerprint, loadPosts, sharedPhrases, withDeadline } from './util.mjs';
+
+const STARTED = Date.now();
+const BUDGET_MS = Number(process.env.RUN_BUDGET_MIN || 12) * 60000; // stop starting new stories after this
 
 const CARD_CACHE = path.join(ROOT, '.cache', 'cards');
 
@@ -31,7 +34,7 @@ function articleText(a) {
 
 async function gatherTexts(cluster) {
   const texts = [];
-  for (const it of cluster.items.slice(0, 3)) texts.push(await extractText(it.url));
+  for (const it of cluster.items.slice(0, 3)) texts.push(await withDeadline(extractText(it.url), 20000, ''));
   return texts;
 }
 
@@ -80,8 +83,9 @@ async function main() {
   const recent = loadPosts().filter((p) => Date.now() - new Date(p.publishedAt) < 72 * 36e5);
   const recentTitles = recent.flatMap((p) => [p.headline, ...(p.sourceTitles || [])]);
 
+  log(`start — writer: ${env.GEMINI_API_KEY ? 'Gemini key set' : 'NO GEMINI KEY'} (${env.GEMINI_MODELS.join(', ')})${env.GROQ_API_KEY ? ' + Groq' : ''}; photos: Wikimedia${env.PEXELS_API_KEY ? ' + Pexels' : ''}${env.UNSPLASH_ACCESS_KEY ? ' + Unsplash' : ''}; review mode: ${env.REQUIRE_REVIEW}`);
   log('collecting feeds…');
-  const items = (await collectItems()).filter((it) => !state.urls[it.url]);
+  const items = ((await withDeadline(collectItems(), 120000, [])) || []).filter((it) => !state.urls[it.url]);
   log(`${items.length} new items`);
   const clusters = clusterItems(items).filter((c) => !state.fps[fingerprint(c.title)] && !recentTitles.some((t) => similarity(t, c.title) >= 0.5));
   log(`${clusters.length} candidate stories`);
@@ -99,6 +103,7 @@ async function main() {
 
   const published = [];
   for (const cluster of picked) {
+    if (Date.now() - STARTED > BUDGET_MS) { log('time budget reached — stopping early'); break; }
     log(`writing: ${cluster.title} (${cluster.sourceCount} sources)`);
     const texts = await gatherTexts(cluster);
     const sourceTexts = [...texts, ...cluster.items.map((i) => `${i.title} ${i.summary}`)];
@@ -122,7 +127,7 @@ async function main() {
   // One "Explained" piece per day about the most widely covered story.
   const today = new Date().toISOString().slice(0, 10);
   const hasExplainer = loadPosts().some((p) => p.type === 'explainer' && p.publishedAt?.startsWith(today));
-  if (env.DAILY_EXPLAINER && !hasExplainer && published.length) {
+  if (env.DAILY_EXPLAINER && !hasExplainer && published.length && Date.now() - STARTED < BUDGET_MS) {
     const top = [...published].sort((a, b) => b.cluster.sourceCount - a.cluster.sourceCount)[0];
     log(`writing explainer for: ${top.cluster.title}`);
     const ex = await writeExplainer(top.cluster, top.texts);
@@ -139,8 +144,10 @@ async function main() {
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1]).href) {
-  main().catch((e) => {
-    console.error(e);
-    process.exit(1);
-  });
+  main()
+    .then(() => process.exit(0)) // exit even if a stray connection is still open
+    .catch((e) => {
+      console.error(e);
+      process.exit(1);
+    });
 }

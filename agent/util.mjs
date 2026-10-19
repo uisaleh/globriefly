@@ -43,14 +43,17 @@ export function fingerprint(s) {
   return [...tokens(s)].sort().slice(0, 8).join('-');
 }
 
+// The timeout covers the whole request, including reading the body, so a slow server can never stall the agent.
 export async function fetchWithTimeout(url, opts = {}, ms = 15000) {
-  const ctrl = new AbortController();
-  const t = setTimeout(() => ctrl.abort(), ms);
-  try {
-    return await fetch(url, { ...opts, signal: ctrl.signal, headers: { 'User-Agent': UA, ...(opts.headers || {}) } });
-  } finally {
-    clearTimeout(t);
-  }
+  const signal = AbortSignal.timeout(ms);
+  return fetch(url, { ...opts, signal, headers: { 'User-Agent': UA, ...(opts.headers || {}) } });
+}
+
+// Run a promise with a hard deadline (resolves to `fallback` instead of hanging).
+export function withDeadline(promise, ms, fallback = null) {
+  let t;
+  const timer = new Promise((resolve) => { t = setTimeout(() => resolve(fallback), ms); t.unref?.(); });
+  return Promise.race([promise.catch(() => fallback), timer]).finally(() => clearTimeout(t));
 }
 
 export function loadPosts() {
