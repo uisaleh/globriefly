@@ -1,16 +1,12 @@
-18:26:54 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-18:26:54 collecting feeds…
-18:26:55 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
-Line: 0
-Column: 1
-Char: 
-18:26:55 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-18:26:55 267 new items
-18:26:55 227 candidate stories
-18:26:55 writing: Liverpool v Villarreal: Champions League – live (2 sources)
-18:26:55   source text: 2816 / 6537 / 510 chars
-18:27:06   ✓ published: /news/champions-league-group-stage-action-gets-under-way-across-europe/ [sports] image: wikimedia
-18:27:06 writing: Sudan drone strike kills around 150 in Abyei market (2 sources)
-18:27:06   source text: 4745 / 2859 chars
-18:27:18   ✓ published: /news/devastating-drone-strike-on-abyei-market-leaves-over-150-dead/ [world] image: none
-18:27:18 done — 2 stories
+22:15:34 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+22:15:34 collecting feeds…
+22:15:35 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+22:15:35 285 new items
+22:15:35 236 candidate stories
+22:15:35 writing: Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive (3 sources)
+22:16:06   source text: 0 / 0 / 4267 chars
+22:16:14   ✓ published: /news/nigeria-detects-its-first-ebola-infection-in-abuja-after-traveler/ [world] image: wikimedia
+22:16:14 writing: Google’s more personalized Gemini AI is heading to your car (2 sources)
+22:16:14   source text: 0 / 2880 chars
+22:16:20   ✓ published: /news/google-integrates-personal-intelligence-into-in-car-gemini-assistant/ [technology] image: none
+22:16:20 done — 2 stories
