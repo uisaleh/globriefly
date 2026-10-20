@@ -1,17 +1,15 @@
-22:18:21 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-22:18:21 collecting feeds…
-22:18:22 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
-Line: 0
-Column: 1
-Char: 
-22:18:22 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-22:18:22 255 new items
-22:18:22 232 candidate stories
-22:18:22 writing: Ronaldo given 30-day suspension and £215 fine by Portuguese FA (2 sources)
-22:18:23   source text: 1875 / 2297 chars
-22:18:38   ✓ published: /news/portuguese-football-captain-faces-thirty-day-ban-after-international/ [sports] image: wikimedia
-22:18:38 writing: Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines (2 sources)
-22:18:39   source text: 3541 / 3899 / 3899 chars
-22:19:03   too close to source wording — rewriting
-22:19:18   ✓ published: /news/prime-minister-unveils-strict-new-regulations-to-curb-private-parking/ [politics] image: wikimedia
-22:19:18 done — 2 stories
+01:45:40 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+01:45:41 collecting feeds…
+01:45:41 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+01:45:41 226 new items
+01:45:41 204 candidate stories
+01:45:41 writing: At least four dead after flooding in eastern Spain (2 sources)
+01:45:42   source text: 1818 / 2346 chars
+01:45:47   too close to source wording — rewriting
+01:45:57   ✓ published: /news/severe-autumn-storms-and-flash-floods-claim-four-lives-in-eastern-spain/ [world] image: wikimedia
+01:45:57 writing: Spurs beat Coventry to earn first league win of the season (2 sources)
+01:45:57   source text: 239 / 7000 / 5071 chars
+01:46:04   ✓ published: /news/tottenham-secure-first-premier-league-victory-of-season-against-coventry/ [sports] image: wikimedia
+01:46:04 writing explainer for: At least four dead after flooding in eastern Spain
+01:46:08   ✓ explainer: /news/why-are-severe-floods-hitting-eastern-spain-again/
+01:46:08 done — 2 stories

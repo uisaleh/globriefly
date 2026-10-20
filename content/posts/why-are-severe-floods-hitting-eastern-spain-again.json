@@ -1,0 +1,89 @@
+{
+  "slug": "why-are-severe-floods-hitting-eastern-spain-again",
+  "status": "published",
+  "type": "explainer",
+  "category": "world",
+  "region": "Europe",
+  "headline": "Why are severe floods hitting eastern Spain again?",
+  "standfirst": "Torrential rain and severe flooding have struck eastern Spain once more, leaving at least four people dead and forcing hundreds to flee.",
+  "keyPoints": [
+    "At least four people have died following heavy rain and flash floods in eastern Spain.",
+    "The Valencia and Alicante regions along the Mediterranean coast were hardest hit.",
+    "Emergency services rescued more than 450 people stranded by rapidly rising waters.",
+    "Scientists link the intensity of these autumn Mediterranean storms to climate change."
+  ],
+  "sections": [
+    {
+      "heading": "What is happening in eastern Spain?",
+      "paragraphs": [
+        "Heavy rain and severe flooding have once again battered parts of eastern Spain, prompting urgent rescue operations and leaving at least four people dead. The worst-affected areas span the Valencia, Alicante, and Catalonia regions along Spain's Mediterranean coast.",
+        "Torrential downpours dumped massive amounts of water in just a 24-hour period, submerging roads, sweeping away parked cars, and cutting off homes. Emergency services have been working around the clock to bring stranded residents to safety."
+      ]
+    },
+    {
+      "heading": "How are rescue teams responding?",
+      "paragraphs": [
+        "First responders have carried out hundreds of rescues using boats, helicopters, and ground teams. In some of the hardest-hit towns, residents had to be airlifted directly from rooftops and flooded buildings as waters continued to rise.",
+        "Authorities temporarily placed around 100 municipalities under emergency restrictions, asking people to stay indoors for their safety. Military emergency units were deployed to assist local forces, while transport services faced widespread disruptions, including school closures and flight delays in the Balearic Islands."
+      ]
+    },
+    {
+      "heading": "Why are these floods so severe?",
+      "paragraphs": [
+        "Eastern Spain is historically prone to a seasonal autumn weather phenomenon known locally as a 'gota fría' or cold drop. This occurs when cold air aloft collides with the warm waters of the Mediterranean Sea, triggering intense, concentrated rainfall.",
+        "Scientists warn that human-driven climate change is significantly intensifying these storms. As the Mediterranean absorbs more heat during exceptionally hot summers, evaporation increases, feeding the storm clouds with vastly more moisture and leading to catastrophic downpours."
+      ]
+    },
+    {
+      "heading": "How does this compare to past disasters?",
+      "paragraphs": [
+        "This latest emergency comes as a painful reminder for communities in the region, arriving almost two years after a catastrophic flood disaster in the Valencia area claimed more than 220 lives.",
+        "Following record-breaking summer temperatures and mainland Spain's hottest September on record, communities and local authorities are increasingly grappling with how to adapt to more frequent and deadly extreme weather events."
+      ]
+    }
+  ],
+  "highlight": "As the Mediterranean absorbs more heat during exceptionally hot summers, evaporation increases, feeding storm clouds with vastly more moisture and leading to catastrophic downpours.",
+  "timeline": [
+    {
+      "when": "October 2026",
+      "what": "Torrential rain and severe flooding strike eastern Spain, leaving at least four dead and prompting hundreds of rescues."
+    }
+  ],
+  "tags": [
+    "Spain",
+    "floods",
+    "Valencia",
+    "weather",
+    "climate change"
+  ],
+  "socialSummary": "Severe floods strike eastern Spain's Mediterranean coast, leaving four dead and triggering hundreds of emergency rescues.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flooded_areas_around_Valencia_captured_by_Sentinel-1_ESA503180_-_Flooded_areas_around_Valencia_captured_by_Sentinel-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "alt": "The image on the left shows the area affected by floods, as captured by the Copernicus Sentinel-1 mission. The image on the…",
+    "credit": "European Space Agency / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Flooded_areas_around_Valencia_captured_by_Sentinel-1_ESA503180_-_Flooded_areas_around_Valencia_captured_by_Sentinel-1.jpg",
+    "license": "Attribution",
+    "provider": "wikimedia"
+  },
+  "sources": [
+    {
+      "name": "DW",
+      "url": "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions"
+    }
+  ],
+  "sourceTitles": [
+    "At least four dead after flooding in eastern Spain",
+    "Spain floods kill four as torrential rain inundates eastern regions"
+  ],
+  "sourceCount": 2,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-10-20T01:46:07.970Z",
+  "updatedAt": "2026-10-20T01:46:07.970Z",
+  "readingMinutes": 2,
+  "facebook": null
+}
