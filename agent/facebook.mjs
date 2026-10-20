@@ -18,8 +18,25 @@ export function buildCaption(post, url) {
   return lines.join('\n');
 }
 
+// Accepts a Page token, a user token or a Business system-user token: anything that is not already a Page
+// token is exchanged for the Page's own token, which is what posting requires.
+let pageToken = null;
+async function getPageToken() {
+  if (pageToken) return pageToken;
+  pageToken = env.FB_PAGE_TOKEN;
+  try {
+    const res = await fetchWithTimeout(`${graph(env.FB_PAGE_ID)}?fields=access_token,name&access_token=${encodeURIComponent(env.FB_PAGE_TOKEN)}`, {}, 20000);
+    const data = await res.json().catch(() => ({}));
+    if (data.access_token) { pageToken = data.access_token; log(`Facebook: using Page token for "${data.name}"`); }
+    else if (data.error) log(`Facebook token check: ${data.error.message}`);
+  } catch (e) {
+    log('Facebook token check failed:', e.message);
+  }
+  return pageToken;
+}
+
 async function postForm(path, form) {
-  form.append('access_token', env.FB_PAGE_TOKEN);
+  form.append('access_token', await getPageToken());
   const res = await fetchWithTimeout(graph(path), { method: 'POST', body: form }, 60000);
   const data = await res.json().catch(() => ({}));
   if (!res.ok || data.error) throw new Error(`Facebook ${path}: ${data.error?.message || res.status}`);
