@@ -1,15 +1,13 @@
-01:45:40 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-01:45:41 collecting feeds…
-01:45:41 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-01:45:41 226 new items
-01:45:41 204 candidate stories
-01:45:41 writing: At least four dead after flooding in eastern Spain (2 sources)
-01:45:42   source text: 1818 / 2346 chars
-01:45:47   too close to source wording — rewriting
-01:45:57   ✓ published: /news/severe-autumn-storms-and-flash-floods-claim-four-lives-in-eastern-spain/ [world] image: wikimedia
-01:45:57 writing: Spurs beat Coventry to earn first league win of the season (2 sources)
-01:45:57   source text: 239 / 7000 / 5071 chars
-01:46:04   ✓ published: /news/tottenham-secure-first-premier-league-victory-of-season-against-coventry/ [sports] image: wikimedia
-01:46:04 writing explainer for: At least four dead after flooding in eastern Spain
-01:46:08   ✓ explainer: /news/why-are-severe-floods-hitting-eastern-spain-again/
-01:46:08 done — 2 stories
+07:27:31 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+07:27:31 collecting feeds…
+07:27:32 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+07:27:32 188 new items
+07:27:32 166 candidate stories
+07:27:32 writing: Reese stars as Dream win first WNBA Finals match (3 sources)
+07:27:33   source text: 789 / 2915 / 4403 chars
+07:27:38   too close to source wording — rewriting
+07:27:46   ✓ published: /news/angel-reese-powers-atlanta-dream-to-historic-wnba-finals-win-over/ [sports] image: wikimedia
+07:27:46 writing: Canada: Alberta rejects separation bid, CBC projects (2 sources)
+07:27:47   source text: 1209 / 3987 chars
+07:27:55   ✓ published: /news/alberta-decisively-rejects-separation-bid-in-landmark-vote/ [world] image: wikimedia
+07:27:55 done — 2 stories
