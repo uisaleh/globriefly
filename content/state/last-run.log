@@ -1,19 +1,17 @@
-01:30:47 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-01:30:47 collecting feeds…
-01:30:48 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
+07:31:08 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+07:31:08 collecting feeds…
+07:31:09 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
 Line: 0
 Column: 1
 Char: 
-01:30:48 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-01:30:48 254 new items
-01:30:49 210 candidate stories
-01:30:49 writing: Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld (3 sources)
-01:30:49   source text: 2540 / 2389 / 2389 chars
-01:30:54   too close to source wording — rewriting
-01:31:06   ✓ published: /news/independent-regulator-could-force-manchester-city-sale-following/ [sports] image: wikimedia
-01:31:06 writing: Elon Musk says Tesla-SpaceX merger being considered (3 sources)
-01:31:06   source text: 3089 / 3089 / 3089 chars
-01:31:12   ✓ published: /news/tesla-and-spacex-weigh-historic-merger-under-active-evaluation/ [technology] image: wikimedia
-01:31:12 writing explainer for: Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
-01:31:17   ✓ explainer: /news/what-powers-does-the-new-football-regulator-have-over-manchester-city/
-01:31:17 done — 2 stories
+07:31:09 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+07:31:09 196 new items
+07:31:09 162 candidate stories
+07:31:09 writing: Germany news: 'Tech error' brings early cigarette tax hike (2 sources)
+07:31:10   source text: 3282 / 1310 chars
+07:31:17   ✓ published: /news/germany-accidentally-introduces-major-tobacco-tax-hike-months-ahead-of/ [world] image: wikimedia
+07:31:17 writing: LeBron James' 76ers beat Knicks on NBA opening night (2 sources)
+07:31:18   source text: 2640 / 7000 chars
+07:31:23   too close to source wording — rewriting
+07:31:30   ✓ published: /news/philadelphia-defeats-new-york-as-opening-nba-matches-tip-off/ [sports] image: wikimedia
+07:31:30 done — 2 stories
