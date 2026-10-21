@@ -1,17 +1,12 @@
-07:31:08 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-07:31:08 collecting feeds…
-07:31:09 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
-Line: 0
-Column: 1
-Char: 
-07:31:09 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-07:31:09 196 new items
-07:31:09 162 candidate stories
-07:31:09 writing: Germany news: 'Tech error' brings early cigarette tax hike (2 sources)
-07:31:10   source text: 3282 / 1310 chars
-07:31:17   ✓ published: /news/germany-accidentally-introduces-major-tobacco-tax-hike-months-ahead-of/ [world] image: wikimedia
-07:31:17 writing: LeBron James' 76ers beat Knicks on NBA opening night (2 sources)
-07:31:18   source text: 2640 / 7000 chars
-07:31:23   too close to source wording — rewriting
-07:31:30   ✓ published: /news/philadelphia-defeats-new-york-as-opening-nba-matches-tip-off/ [sports] image: wikimedia
-07:31:30 done — 2 stories
+13:43:33 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+13:43:33 collecting feeds…
+13:43:34 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+13:43:34 241 new items
+13:43:34 178 candidate stories
+13:43:34 writing: Elon Musk ordered Starlink slowdown for Ukraine: Report (2 sources)
+13:43:35   source text: 1746 / 2137 chars
+13:43:46   ✓ published: /news/spacex-chief-elon-musk-restricts-starlink-connection-speeds-for-ukraine/ [business] image: wikimedia
+13:43:46 writing: Pakistani authorities arrest man accused in $126m US postage fraud (2 sources)
+13:43:46   source text: 1970 / 1630 chars
+13:44:01   ✓ published: /news/pakistani-authorities-detain-suspect-in-massive-us-postal-fraud-scheme/ [world] image: wikimedia
+13:44:01 done — 2 stories
