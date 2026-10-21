@@ -6,6 +6,9 @@ import { Resvg } from '@resvg/resvg-js';
 import { categoryBySlug } from '../site.config.mjs';
 import { fetchWithTimeout } from './util.mjs';
 import { patternArea } from '../lib/pattern.mjs';
+import { env } from './config.mjs';
+
+const SITE_HOST = new URL(env.SITE_URL).host.replace(/^www\./, '');
 
 const require = createRequire(import.meta.url);
 const fontFile = (w) => fs.readFileSync(require.resolve(`@fontsource/archivo/files/archivo-latin-${w}-normal.woff`));
@@ -82,7 +85,7 @@ export async function renderCard(post) {
       h('div', { fontSize: size, fontWeight: 800, lineHeight: 1.05, letterSpacing: '-0.015em', display: 'flex', flexShrink: 0 }, headline),
       h('div', { fontSize: 31, lineHeight: 1.36, color: 'rgba(255,255,255,0.88)', display: 'flex', flexShrink: 0 }, summary),
       h('div', { marginTop: 'auto', display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '24px 0 34px', borderTop: '2px solid rgba(255,255,255,0.28)' }, [
-        h('div', { fontSize: 30, fontWeight: 800, display: 'flex' }, 'globriefly.com'),
+        h('div', { fontSize: 30, fontWeight: 800, display: 'flex' }, SITE_HOST),
         h('div', { fontSize: 23, color: 'rgba(255,255,255,0.78)', display: 'flex' }, post.image?.credit ? clip(`Photo: ${post.image.credit}`, 46) : 'Full story: link in comments'),
       ]),
     ]),
