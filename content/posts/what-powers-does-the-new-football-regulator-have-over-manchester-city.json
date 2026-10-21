@@ -1,0 +1,89 @@
+{
+  "slug": "what-powers-does-the-new-football-regulator-have-over-manchester-city",
+  "status": "published",
+  "type": "explainer",
+  "category": "sports",
+  "region": "Europe",
+  "headline": "What powers does the new football regulator have over Manchester City?",
+  "standfirst": "The newly established Independent Football Regulator could force Manchester City's owners to sell the club if ongoing financial verdicts are upheld.",
+  "keyPoints": [
+    "Manchester City were found guilty by an independent commission of inflating revenues by over £900m.",
+    "The club is currently appealing the verdict, calling it unsafe and containing legal errors.",
+    "The Independent Football Regulator possesses absolute power to force owners to divest if rules are broken.",
+    "The UK accounting watchdog is also examining the case and making preliminary inquiries."
+  ],
+  "sections": [
+    {
+      "heading": "What is happening with Manchester City's finances?",
+      "paragraphs": [
+        "Manchester City find themselves at the center of a massive regulatory storm after an independent commission found the Premier League club guilty of numerous financial rule breaches. Over a nine-season period spanning from 2009 to 2018, the club was found to have set up sham commercial arrangements that artificially inflated revenues and reduced costs by more than £900 million. The commission also concluded that the club made concerted efforts to frustrate the league's investigation.",
+        "In response to the verdict, Manchester City have lodged a formal appeal. The club maintains that the original decision contains clear material errors of law, principle, and fact, arguing that the verdict is entirely unsafe. While the legal and sporting appeals process plays out, wider regulatory bodies have begun stepping in to examine how the club's finances and audits were handled during the disputed period."
+      ]
+    },
+    {
+      "heading": "What role does the Independent Football Regulator play?",
+      "paragraphs": [
+        "The Independent Football Regulator, or IFR, is a newly established watchdog designed to oversee the financial health and governance of professional clubs in the United Kingdom. David Kogan, the chair of the IFR, recently confirmed that the organization holds absolute power to intervene if clubs are found to have been run improperly or without proper propriety.",
+        "Kogan emphasized that it would be premature for the watchdog to take immediate action while Manchester City's current appeal is ongoing. However, he made it clear that if the verdict is ultimately upheld and wrongdoing is confirmed, the IFR has the definitive authority to ask owners to step away and force a sale of the club."
+      ]
+    },
+    {
+      "heading": "Why is the UK accounting watchdog involved?",
+      "paragraphs": [
+        "Alongside sporting regulators, the Financial Reporting Council, which serves as the UK's main audit watchdog, has stepped in to take a closer look at the situation. The FRC assumed regulatory consideration of the case to examine the independent commission's findings and determine whether there are grounds for a formal investigation into the club's accounting practices.",
+        "The inquiry also extends to the conduct of BDO, the firm that served as Manchester City's auditors during the disputed years. The independent commission previously found that the club gave a misleading impression of certain financial schemes to its auditors, leaving them unaware of the true origin of injected shareholder funds."
+      ]
+    },
+    {
+      "heading": "What happens next?",
+      "paragraphs": [
+        "The immediate future of the case rests on the outcome of Manchester City's appeal against the independent commission's verdict. Only once those legal challenges are fully resolved will sporting and financial watchdogs decide whether to launch their own formal investigations and apply any potential sanctions.",
+        "The unfolding situation has also sparked wider political debate in the UK Parliament regarding the legal powers available to hold large companies and football club directors accountable. As lawmakers and regulators scrutinize the gaps in current oversight, the case could ultimately reshape how professional sports clubs are governed and audited across the country."
+      ]
+    }
+  ],
+  "highlight": "The Independent Football Regulator will have absolute power to force Manchester City’s owners to sell if they are ultimately found to have run the club improperly.",
+  "timeline": [],
+  "tags": [
+    "Manchester City",
+    "Football",
+    "Premier League",
+    "Regulation",
+    "Finance"
+  ],
+  "socialSummary": "The Independent Football Regulator says it has absolute power to force Manchester City's owners to sell if financial verdicts are upheld.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/1920px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Kalvin Phillips, Julian Alvarez, Erling Haaland and Stefan Ortega kits in the Manchester City dressing room in July 2022.",
+    "credit": "Christian David / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Manchester_City_dressing_room_2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "provider": "wikimedia"
+  },
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/oct/21/manchester-city-david-kogan-independent-football-regulator"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "name": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "sourceTitles": [
+    "Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld",
+    "Audit regulator looking into Manchester City accounting",
+    "Audit regulator looking into Manchester City accounting"
+  ],
+  "sourceCount": 3,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-10-21T01:31:17.382Z",
+  "updatedAt": "2026-10-21T01:31:17.382Z",
+  "readingMinutes": 2,
+  "facebook": null
+}

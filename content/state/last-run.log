@@ -1,12 +1,19 @@
-22:15:34 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-22:15:34 collecting feeds…
-22:15:35 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-22:15:35 285 new items
-22:15:35 236 candidate stories
-22:15:35 writing: Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive (3 sources)
-22:16:06   source text: 0 / 0 / 4267 chars
-22:16:14   ✓ published: /news/nigeria-detects-its-first-ebola-infection-in-abuja-after-traveler/ [world] image: wikimedia
-22:16:14 writing: Google’s more personalized Gemini AI is heading to your car (2 sources)
-22:16:14   source text: 0 / 2880 chars
-22:16:20   ✓ published: /news/google-integrates-personal-intelligence-into-in-car-gemini-assistant/ [technology] image: none
-22:16:20 done — 2 stories
+01:30:47 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+01:30:47 collecting feeds…
+01:30:48 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
+Line: 0
+Column: 1
+Char: 
+01:30:48 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+01:30:48 254 new items
+01:30:49 210 candidate stories
+01:30:49 writing: Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld (3 sources)
+01:30:49   source text: 2540 / 2389 / 2389 chars
+01:30:54   too close to source wording — rewriting
+01:31:06   ✓ published: /news/independent-regulator-could-force-manchester-city-sale-following/ [sports] image: wikimedia
+01:31:06 writing: Elon Musk says Tesla-SpaceX merger being considered (3 sources)
+01:31:06   source text: 3089 / 3089 / 3089 chars
+01:31:12   ✓ published: /news/tesla-and-spacex-weigh-historic-merger-under-active-evaluation/ [technology] image: wikimedia
+01:31:12 writing explainer for: Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
+01:31:17   ✓ explainer: /news/what-powers-does-the-new-football-regulator-have-over-manchester-city/
+01:31:17 done — 2 stories
