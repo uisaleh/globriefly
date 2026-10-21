@@ -9,7 +9,7 @@ export default function Cookies() {
       <h2>Essential cookies</h2>
       <p>Globriefly itself does not need cookies to work. You can read every story without signing in.</p>
       <h2>Analytics</h2>
-      <p>We may use analytics tools to understand which stories are read most, so we can improve our coverage. These tools may set cookies that record anonymous usage information.</p>
+      <p>We use Vercel Web Analytics to understand which stories are read most, so we can improve our coverage. It is cookie-free and collects only anonymous, aggregated visit data.</p>
       <h2>Advertising</h2>
       <p>If we show ads, our advertising partners, such as Google AdSense, may use cookies to show ads that are relevant to you and to measure how they perform. You can learn more and opt out of personalised ads at <a href="https://adssettings.google.com" rel="noopener">Google Ad Settings</a>.</p>
       <h2>Managing cookies</h2>

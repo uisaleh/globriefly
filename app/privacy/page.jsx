@@ -9,7 +9,7 @@ export default function Privacy() {
       <h2>What we collect</h2>
       <p>If you subscribe to our newsletter we store your email address with our email provider, only to send you the newsletter. You can unsubscribe at any time using the link in every email.</p>
       <h2>Analytics and advertising</h2>
-      <p>We may use privacy-friendly analytics and advertising partners such as Google AdSense, which can use cookies to show relevant ads. You can manage cookie preferences in your browser.</p>
+      <p>We use Vercel Web Analytics to count page views and see which stories are read most. It does not use cookies and does not identify you personally. We may also use advertising partners such as Google AdSense, which can use cookies to show relevant ads. You can manage cookie preferences in your browser.</p>
       <h2>Contact</h2>
       <p>Questions about your data: <a href="/contact/?reason=privacy" style={{ textDecoration: 'underline' }}>contact us</a>. Messages sent through our contact form are delivered to our editorial inbox and used only to reply to you.</p>
     </StaticPage>

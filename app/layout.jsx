@@ -5,6 +5,7 @@ import '@fontsource/archivo/latin-800.css';
 import '@fontsource/archivo/latin-900.css';
 import '@fontsource/source-serif-4/latin-400.css';
 import '@fontsource/source-serif-4/latin-600.css';
+import { Analytics } from '@vercel/analytics/next';
 import { site } from '@/site.config.mjs';
 import './globals.css';
 
@@ -35,6 +36,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         {children}
+        <Analytics />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify([org, website]) }} />
       </body>
     </html>
