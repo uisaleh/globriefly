@@ -1,13 +1,13 @@
-18:34:46 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-18:34:46 collecting feeds…
-18:34:47 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-18:34:47 290 new items
-18:34:48 222 candidate stories
-18:34:48 writing: Meta Ordered to Pay $25 Billion in New Mexico Data Privacy Case (2 sources)
-18:34:49   source text: 1873 / 4202 chars
-18:34:57   ✓ published: /news/new-mexico-judge-penalises-meta-25-billion-in-data-privacy-lawsuit/ [business] image: wikimedia
-18:34:57 writing: New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking (2 sources)
-18:34:57   source text: 5588 / 5671 chars
-18:35:03   too close to source wording — rewriting
-18:35:10   ✓ published: /news/new-mexico-files-lawsuit-against-epstein-legal-and-financial-advisers/ [business] image: wikimedia
-18:35:10 done — 2 stories
+22:17:43 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+22:17:43 collecting feeds…
+22:17:45 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+22:17:45 300 new items
+22:17:45 237 candidate stories
+22:17:45 writing: Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start (3 sources)
+22:17:46   source text: 3336 / 253 / 7000 chars
+22:17:50   too close to source wording — rewriting
+22:17:57   skipped
+22:17:57 writing: Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks (3 sources)
+22:17:58   source text: 5804 / 350 / 773 chars
+22:18:07   ✓ published: /news/kyiv-struck-by-missiles-as-russia-and-us-revive-peace-discussions/ [world] image: wikimedia
+22:18:07 done — 1 stories
