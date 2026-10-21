@@ -1,12 +1,13 @@
-13:43:33 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-13:43:33 collecting feeds…
-13:43:34 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-13:43:34 241 new items
-13:43:34 178 candidate stories
-13:43:34 writing: Elon Musk ordered Starlink slowdown for Ukraine: Report (2 sources)
-13:43:35   source text: 1746 / 2137 chars
-13:43:46   ✓ published: /news/spacex-chief-elon-musk-restricts-starlink-connection-speeds-for-ukraine/ [business] image: wikimedia
-13:43:46 writing: Pakistani authorities arrest man accused in $126m US postage fraud (2 sources)
-13:43:46   source text: 1970 / 1630 chars
-13:44:01   ✓ published: /news/pakistani-authorities-detain-suspect-in-massive-us-postal-fraud-scheme/ [world] image: wikimedia
-13:44:01 done — 2 stories
+18:34:46 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+18:34:46 collecting feeds…
+18:34:47 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+18:34:47 290 new items
+18:34:48 222 candidate stories
+18:34:48 writing: Meta Ordered to Pay $25 Billion in New Mexico Data Privacy Case (2 sources)
+18:34:49   source text: 1873 / 4202 chars
+18:34:57   ✓ published: /news/new-mexico-judge-penalises-meta-25-billion-in-data-privacy-lawsuit/ [business] image: wikimedia
+18:34:57 writing: New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking (2 sources)
+18:34:57   source text: 5588 / 5671 chars
+18:35:03   too close to source wording — rewriting
+18:35:10   ✓ published: /news/new-mexico-files-lawsuit-against-epstein-legal-and-financial-advisers/ [business] image: wikimedia
+18:35:10 done — 2 stories
