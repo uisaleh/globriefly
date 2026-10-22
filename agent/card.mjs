@@ -52,11 +52,24 @@ function cardDate(iso) {
 
 // Renders the Facebook photocard (1080×1350 PNG) for a post.
 // Layout: photo on top with a category-coloured frame line inside it; text panel in the category colour below.
+// The card font is Latin-only, so Cyrillic/Greek credits are transliterated (otherwise they render as boxes).
+const TR = { а:'a',б:'b',в:'v',г:'g',д:'d',е:'e',ё:'yo',ж:'zh',з:'z',и:'i',й:'y',к:'k',л:'l',м:'m',н:'n',о:'o',п:'p',р:'r',с:'s',т:'t',у:'u',ф:'f',х:'kh',ц:'ts',ч:'ch',ш:'sh',щ:'shch',ъ:'',ы:'y',ь:'',э:'e',ю:'yu',я:'ya',і:'i',ї:'yi',є:'ye',ґ:'g',
+  α:'a',β:'v',γ:'g',δ:'d',ε:'e',ζ:'z',η:'i',θ:'th',ι:'i',κ:'k',λ:'l',μ:'m',ν:'n',ξ:'x',ο:'o',π:'p',ρ:'r',σ:'s',ς:'s',τ:'t',υ:'y',φ:'f',χ:'ch',ψ:'ps',ω:'o' };
+function latinize(str = '') {
+  const out = [...str].map((ch) => {
+    const lo = ch.toLowerCase();
+    if (!(lo in TR)) return ch;
+    const t = TR[lo];
+    return ch !== lo && t ? t[0].toUpperCase() + t.slice(1) : t;
+  }).join('');
+  return out.replace(/[^\x00-\u024F\u2010-\u2027]/g, '').replace(/\s+/g, ' ').trim() || 'Wikimedia Commons';
+}
+
 export async function renderCard(post) {
   const cat = categoryBySlug[post.category] || categoryBySlug.world;
   const photo = await toDataUri(post.image?.src);
   const headline = clip(post.headline, 110);
-  const size = headline.length > 85 ? 58 : headline.length > 60 ? 68 : 78;
+  const size = headline.length > 85 ? 56 : headline.length > 52 ? 62 : 78;
   const summary = clip(post.socialSummary || post.standfirst, 120);
 
   const tree = h('div', { width: W, height: H, display: 'flex', flexDirection: 'column', position: 'relative', backgroundColor: cat.color, fontFamily: 'Archivo', color: '#fff' }, [
@@ -86,7 +99,7 @@ export async function renderCard(post) {
       h('div', { fontSize: 31, lineHeight: 1.36, color: 'rgba(255,255,255,0.88)', display: 'flex', flexShrink: 0 }, summary),
       h('div', { marginTop: 'auto', display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '24px 0 34px', borderTop: '2px solid rgba(255,255,255,0.28)' }, [
         h('div', { fontSize: 30, fontWeight: 800, display: 'flex' }, SITE_HOST),
-        h('div', { fontSize: 23, color: 'rgba(255,255,255,0.78)', display: 'flex' }, post.image?.credit ? clip(`Photo: ${post.image.credit}`, 46) : 'Full story: link in comments'),
+        h('div', { fontSize: 23, color: 'rgba(255,255,255,0.78)', display: 'flex' }, post.image?.credit ? clip(`Photo: ${latinize(post.image.credit)}`, 46) : 'Full story: link in comments'),
       ]),
     ]),
     // Brand bar
