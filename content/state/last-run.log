@@ -1,20 +1,17 @@
-01:27:48 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-01:27:48 collecting feeds…
-01:27:49 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
+07:29:56 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+07:29:56 collecting feeds…
+07:29:57 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
 Line: 0
 Column: 1
 Char: 
-01:27:49 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-01:27:49 289 new items
-01:27:49 230 candidate stories
-01:27:49 writing: Pope Leo will not need further cancer treatment — Vatican (4 sources)
-01:27:50   source text: 2370 / 2838 / 3176 chars
-01:27:55   too close to source wording — rewriting
-01:28:02   skipped
-01:28:02 writing: Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win (3 sources)
-01:28:02   source text: 4269 / 3372 / 297 chars
-01:28:09   too close to source wording — rewriting
-01:28:16   ✓ published: /news/real-madrid-secure-commanding-champions-league-victory-against-leipzig/ [sports] image: none
-01:28:17 writing explainer for: Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win
-01:28:22   ✓ explainer: /news/how-did-real-madrid-crush-rb-leipzig-in-the-champions-league/
-01:28:22 done — 1 stories
+07:29:57 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+07:29:57 226 new items
+07:29:57 181 candidate stories
+07:29:57 writing: North Korea says it will resume propaganda broadcasts across border into South Korea (3 sources)
+07:30:13   source text: 0 / 2996 / 2822 chars
+07:30:18   ✓ published: /news/north-korea-plans-to-restart-psychological-border-broadcasts/ [world] image: wikimedia
+07:30:18 writing: James Talarico fires back at Elon Musk in Texas Senate race feud (2 sources)
+07:30:18   source text: 2441 / 3027 chars
+07:30:25   too close to source wording — rewriting
+07:30:32   ✓ published: /news/texas-senate-hopeful-james-talarico-trades-sharp-critiques-with-elon/ [politics] image: none
+07:30:32 done — 2 stories
