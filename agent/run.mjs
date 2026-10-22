@@ -39,7 +39,8 @@ async function gatherTexts(cluster) {
 }
 
 export async function buildPost(cluster, article, type = 'news') {
-  const cat = categoryBySlug[article.category] ? article.category : cluster.hint;
+  // Stories picked to fill a category stay in it; otherwise the writer's category wins.
+  const cat = cluster.reserved && categoryBySlug[cluster.hint] ? cluster.hint : categoryBySlug[article.category] ? article.category : cluster.hint;
   const image = await findImage(article.imageQuery || cluster.title, `${categoryBySlug[cat].label} ${article.tags?.[0] || ''}`.trim(), article.imageAlt || article.imageQuery || article.headline);
   const now = new Date().toISOString();
   const sources = [];
@@ -108,7 +109,7 @@ async function main() {
     for (const cat of behind) {
       if (picked.length >= reserved) break;
       const c = pool.find((x) => x.hint === cat && !picked.includes(x));
-      if (c) { picked.push(c); usedCats.add(cat); added = true; }
+      if (c) { c.reserved = true; picked.push(c); usedCats.add(cat); added = true; }
     }
     if (!added) break;
   }
