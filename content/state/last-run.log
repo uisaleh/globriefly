@@ -1,13 +1,20 @@
-22:17:43 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
-22:17:43 collecting feeds…
-22:17:45 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-22:17:45 300 new items
-22:17:45 237 candidate stories
-22:17:45 writing: Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start (3 sources)
-22:17:46   source text: 3336 / 253 / 7000 chars
-22:17:50   too close to source wording — rewriting
-22:17:57   skipped
-22:17:57 writing: Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks (3 sources)
-22:17:58   source text: 5804 / 350 / 773 chars
-22:18:07   ✓ published: /news/kyiv-struck-by-missiles-as-russia-and-us-revive-peace-discussions/ [world] image: wikimedia
-22:18:07 done — 1 stories
+01:27:48 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia; review mode: false
+01:27:48 collecting feeds…
+01:27:49 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
+Line: 0
+Column: 1
+Char: 
+01:27:49 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+01:27:49 289 new items
+01:27:49 230 candidate stories
+01:27:49 writing: Pope Leo will not need further cancer treatment — Vatican (4 sources)
+01:27:50   source text: 2370 / 2838 / 3176 chars
+01:27:55   too close to source wording — rewriting
+01:28:02   skipped
+01:28:02 writing: Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win (3 sources)
+01:28:02   source text: 4269 / 3372 / 297 chars
+01:28:09   too close to source wording — rewriting
+01:28:16   ✓ published: /news/real-madrid-secure-commanding-champions-league-victory-against-leipzig/ [sports] image: none
+01:28:17 writing explainer for: Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win
+01:28:22   ✓ explainer: /news/how-did-real-madrid-crush-rb-leipzig-in-the-champions-league/
+01:28:22 done — 1 stories
