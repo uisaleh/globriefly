@@ -1,0 +1,87 @@
+{
+  "slug": "severe-drought-and-human-fires-fuel-record-emissions-across-new-guinea",
+  "status": "published",
+  "type": "news",
+  "category": "science",
+  "region": "Asia",
+  "headline": "Severe drought and human fires fuel record emissions across New Guinea",
+  "standfirst": "Unprecedented blazes driven by El Niño and human land clearing have blanketed New Guinea in thick smoke, setting historic carbon emission records.",
+  "keyPoints": [
+    "Papua New Guinea carbon emissions surpassed all previous annual records by October 2019.",
+    "A prolonged drought linked to El Niño left parts of the island without rain for over 90 days.",
+    "Most fires are human-ignited for agriculture, hunting, and land clearing before spreading out of control.",
+    "Heavy smoke pollution has forced school closures, flight delays, and health advisories across the region."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "Severe wildfires are sweeping across New Guinea, the world's second-largest island, creating unprecedented levels of air pollution and carbon emissions. Satellite instruments recently captured thick plumes of smoke streaming from the southern territories as drought-parched landscapes continue to burn. The environmental crisis has severely disrupted daily life, forcing educational institutions to shut down and causing significant delays to regional flight schedules.",
+        "Local authorities have advised vulnerable populations, including the elderly and young children, to wear protective face coverings outdoors to mitigate the health hazards. Meteorological services report that the southern Trans-Fly region endured more than ninety consecutive days without measurable rainfall. Precipitation levels in these affected zones have dropped to a tiny fraction of their typical historical averages during this period.",
+        "Monitoring databases indicate that carbon emissions on the eastern half of the island have already surpassed levels seen in any prior full calendar year. Meanwhile, the western Indonesian territories have recorded their third-highest carbon output on record, trailing only previous severe El Niño seasons. Scientific experts note that the vast majority of these blazes originate from human activities rather than natural causes."
+      ]
+    },
+    {
+      "heading": "Climate conditions and human activity",
+      "paragraphs": [
+        "The island features a diverse array of ecosystems, ranging from tropical rainforests to seasonally dry savannas that are naturally susceptible to burning. A strong El Niño phenomenon has altered regional rainfall patterns, creating extremely dry conditions that prime vegetation to ignite easily. Meteorological data shows that parts of the island have received only five to ten percent of their normal precipitation since August.",
+        "While weather patterns create the dry fuel, people ignite nearly all of the fires observed across the region. Common motivations for setting fires include pasture maintenance, crop preparation, hunting, and clearing land for new developments. When these managed flames encounter parched conditions, they frequently escape human control and transform into destructive wildfires."
+      ]
+    },
+    {
+      "heading": "Perspectives from researchers and scientists",
+      "paragraphs": [
+        "Specialists studying global fire emissions emphasize the historic scale of the current disaster unfolding across the island. Researchers tracking atmospheric data point out that carbon output has already exceeded past benchmarks, with further burning expected before seasonal rains arrive. One expert described the unfolding situation as horrible while detailing how smoke interacts with regional weather systems.",
+        "Scientists explain that smoke often becomes trapped near the surface rather than washing out or rising into the upper atmosphere. This atmospheric trapping mechanism concentrates pollutants near populated areas, compounding air quality issues for residents. Researchers also highlight that industrial expansion and new plantations have transformed parts of the island into active deforestation frontiers."
+      ]
+    },
+    {
+      "heading": "Wider consequences of the environmental crisis",
+      "paragraphs": [
+        "The heavy haze blanketing the island has triggered widespread social and economic disruptions for local communities. Crop failures and acute water shortages accompany the smoke hazard, compounding the difficulties faced by residents during the prolonged dry spell. Educational disruptions have left children out of classrooms while health systems manage an influx of respiratory complaints.",
+        "Environmental analysts point out that unmanaged territories and the edges of primary forests experience the heaviest fire activity. In contrast, heavily developed industrial areas with established plantations often maintain private fire response teams to safeguard their commercial assets. The disparity in firefighting capacity leaves vulnerable ecosystems exposed to rapid destruction."
+      ]
+    },
+    {
+      "heading": "Looking ahead to the wet season",
+      "paragraphs": [
+        "Atmospheric scientists and local meteorologists expect the destructive fire activity to persist until seasonal weather patterns shift. Relief is not anticipated until the heavy precipitation of the approaching wet season reaches the southern parts of the island. Forecasters suggest this moisture transition typically begins during the early days of November.",
+        "Until those rains arrive, monitoring agencies will continue tracking satellite observations to measure the full extent of the environmental damage. The long-term recovery of the impacted savannas, rainforests, and swamp ecosystems will depend heavily on the timing and volume of the incoming seasonal rainfall."
+      ]
+    }
+  ],
+  "highlight": "The environmental crisis has severely disrupted daily life, forcing educational institutions to shut down and causing significant delays to regional flight schedules.",
+  "timeline": [],
+  "tags": [
+    "New Guinea",
+    "wildfires",
+    "El Nino",
+    "deforestation",
+    "climate change"
+  ],
+  "socialSummary": "Severe drought and human-set fires are driving record carbon emissions and hazardous smoke pollution across New Guinea.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Fires_in_central_Africa_%28MODIS_2015-02-06%29.jpg/1920px-Fires_in_central_Africa_%28MODIS_2015-02-06%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "The mid-winter fire season continued to blaze across central Africa in late January, 2015. The Moderate Resolution Imaging…",
+    "credit": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Fires_in_central_Africa_(MODIS_2015-02-06).jpg",
+    "license": "Public domain",
+    "provider": "wikimedia"
+  },
+  "sources": [
+    {
+      "name": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/"
+    }
+  ],
+  "sourceTitles": [
+    "Fires Char New Guinea"
+  ],
+  "sourceCount": 1,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-10-22T08:30:44.402Z",
+  "updatedAt": "2026-10-22T08:30:44.402Z",
+  "readingMinutes": 3,
+  "facebook": null
+}

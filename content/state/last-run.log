@@ -1,25 +1,22 @@
-08:25:49 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-08:25:49 collecting feeds…
-08:25:50 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
+08:30:23 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+08:30:23 collecting feeds…
+08:30:24 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
 Line: 0
 Column: 1
 Char: 
-08:25:50 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-08:25:50 205 new items
-08:25:50 167 candidate stories
-08:25:50 categories needing stories: science, entertainment → reserved science, entertainment, science, entertainment
-08:25:50 writing: Jackdaw decision 'taken outwith Scotland about Scotland's energy' (1 sources)
-08:25:50   source text: 60 / 60 chars
-08:25:55   ✓ published: /news/jackdaw-energy-decisions-made-outside-scotland/ [politics] image: wikimedia
-08:25:55 writing: Sebastian Koch, Toni Servillo Set for Oscar Winner Gabriele Salvatores’ Chess-World Noir ‘The Lüneburg Variation’ (EXCLUSIVE) (1 sources)
-08:25:55   source text: 2804 chars
-08:26:10   ✓ published: /news/oscar-winners-unite-for-chess-noir-film-production/ [entertainment] image: none
-08:26:10 writing: NI risks missing 2030 energy goals, says Stormont committee (1 sources)
-08:26:10   source text: 3155 / 3155 chars
-08:26:17   too close to source wording — rewriting
-08:26:23 writer returned unusable output: { "headline": "Northern Ireland could miss 2030 green energy targets, parliament warns", "standfirst": "A Stormont committee warns that Northern Ireland ris
-08:26:23   skipped
-08:26:23 writing: ‘The History Boys’ Returns to London West End After 20 Years, With Nicholas Hytner Back Directing Alan Bennett’s Play (1 sources)
-08:26:23   source text: 2681 chars
-08:26:31   ✓ published: /news/alan-bennett-comedy-heading-back-to-west-end-stage-after-twenty-years/ [entertainment] image: wikimedia
-08:26:31 done — 3 stories
+08:30:24 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+08:30:24 198 new items
+08:30:24 162 candidate stories
+08:30:24 categories needing stories: science → reserved science, science, science
+08:30:24 writing: APOD: 2026 October 22 – The First Green Star, WD J1330+6435 (1 sources)
+08:30:25   source text: 976 chars
+08:30:31   ✓ published: /news/astronomers-discover-white-dwarf-stars-can-display-unusual-colours/ [science] image: wikimedia
+08:30:31 writing: Fires Char New Guinea (1 sources)
+08:30:31   source text: 6717 chars
+08:30:38   too close to source wording — rewriting
+08:30:46   ✓ published: /news/severe-drought-and-human-fires-fuel-record-emissions-across-new-guinea/ [science] image: wikimedia
+08:30:46 writing: Faster to Science: A Letter to the Science Community (1 sources)
+08:30:46   source text: 7000 chars
+08:30:51   too close to source wording — rewriting
+08:31:00   ✓ published: /news/space-agency-overhauls-mission-selection-to-accelerate-scientific/ [science] image: wikimedia
+08:31:00 done — 3 stories
