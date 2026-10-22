@@ -3,7 +3,16 @@ name: News agent
 on:
   schedule:
     - cron: '7 * * * *' # every hour at :07 (UTC)
-  workflow_dispatch: {}  # lets you run it by hand from the Actions tab
+  workflow_dispatch:  # lets you run it by hand from the Actions tab
+    inputs:
+      categories:
+        description: 'Optional — only these categories this run, e.g. science,entertainment'
+        required: false
+        default: ''
+      count:
+        description: 'Optional — how many stories this run (max 5)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -18,7 +27,8 @@ jobs:
     timeout-minutes: 25
     env:
       SITE_URL: ${{ vars.SITE_URL }}
-      MAX_STORIES_PER_RUN: ${{ vars.MAX_STORIES_PER_RUN || '2' }}
+      MAX_STORIES_PER_RUN: ${{ github.event.inputs.count || vars.MAX_STORIES_PER_RUN || '2' }}
+      FOCUS_CATEGORIES: ${{ github.event.inputs.categories }}
       REQUIRE_REVIEW: ${{ vars.REQUIRE_REVIEW || 'false' }}
       GEMINI_MODELS: ${{ vars.GEMINI_MODELS }}
       GROQ_MODEL: ${{ vars.GROQ_MODEL }}

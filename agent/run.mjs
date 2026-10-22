@@ -3,7 +3,7 @@
 import path from 'node:path';
 import fs from 'node:fs';
 import { pathToFileURL } from 'node:url';
-import { env } from './config.mjs';
+import { env, categoryQuota } from './config.mjs';
 import { collectItems, clusterItems } from './collect.mjs';
 import { extractText } from './extract.mjs';
 import { writeArticle, writeExplainer } from './llm.mjs';
@@ -90,12 +90,32 @@ async function main() {
   const clusters = clusterItems(items).filter((c) => !state.fps[fingerprint(c.title)] && !recentTitles.some((t) => similarity(t, c.title) >= 0.5));
   log(`${clusters.length} candidate stories`);
 
-  // Prefer stories covered by several outlets; keep categories varied within a run.
+  // Prefer stories covered by several outlets, but make sure every category keeps getting stories:
+  // categories that are behind their daily quota (or named in FOCUS_CATEGORIES) get the first slots.
   const picked = [];
   const usedCats = new Set();
   const pool = [...clusters.filter((c) => c.sourceCount >= 2), ...clusters.filter((c) => c.sourceCount < 2)];
+  const dayCount = {};
+  recent.filter((p) => Date.now() - new Date(p.publishedAt) < 24 * 36e5).forEach((p) => (dayCount[p.category] = (dayCount[p.category] || 0) + 1));
+  const focus = env.FOCUS_CATEGORIES;
+  const behind = Object.entries(categoryQuota)
+    .filter(([cat, q]) => focus.length ? focus.includes(cat) : (dayCount[cat] || 0) < q)
+    .sort((a, b) => (dayCount[a[0]] || 0) / a[1] - (dayCount[b[0]] || 0) / b[1])
+    .map(([cat]) => cat);
+  const reserved = focus.length ? env.MAX_STORIES_PER_RUN : Math.max(1, Math.floor(env.MAX_STORIES_PER_RUN / 2));
+  for (let round = 0; picked.length < reserved && round < 3; round++) {
+    let added = false;
+    for (const cat of behind) {
+      if (picked.length >= reserved) break;
+      const c = pool.find((x) => x.hint === cat && !picked.includes(x));
+      if (c) { picked.push(c); usedCats.add(cat); added = true; }
+    }
+    if (!added) break;
+  }
+  if (behind.length) log(`categories needing stories: ${behind.join(', ')} → reserved ${picked.map((c) => c.hint).join(', ') || 'none available'}`);
   for (const c of pool) {
     if (picked.length >= env.MAX_STORIES_PER_RUN) break;
+    if (picked.includes(c) || (focus.length && !focus.includes(c.hint))) continue;
     if (usedCats.has(c.hint) && pool.length > env.MAX_STORIES_PER_RUN * 2) continue;
     picked.push(c);
     usedCats.add(c.hint);

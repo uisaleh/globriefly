@@ -202,8 +202,8 @@ export default async function ArticlePage({ params }) {
             <div className="side">
               <h2 className="side-title">Trending</h2>
               {hot.map((p, i) => (
-                <Link key={p.slug} href={`/news/${p.slug}/`} className="num-item" style={{ padding: '14px 0' }}>
-                  <span className="num" style={{ fontSize: 28 }}>{i + 1}</span>
+                <Link key={p.slug} href={`/news/${p.slug}/`} className="row-item" style={{ gap: 14, padding: '14px 0' }}>
+                  {p.image?.src ? <Thumb post={p} ratio="" style={{ width: 96, height: 66, flexShrink: 0 }} /> : <span className="num" style={{ fontSize: 28 }}>{i + 1}</span>}
                   <span className="t hl" style={{ fontSize: 16 }}>{p.headline}</span>
                 </Link>
               ))}

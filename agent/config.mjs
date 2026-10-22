@@ -19,7 +19,9 @@ export const env = {
   FB_LINK_IN: process.env.FB_LINK_IN || 'comment', // 'comment' or 'caption'
 
   // Behaviour.
-  MAX_STORIES_PER_RUN: Number(process.env.MAX_STORIES_PER_RUN || 3),
+  MAX_STORIES_PER_RUN: Math.min(5, Number(process.env.MAX_STORIES_PER_RUN || 3)),
+  // Optional: only pick stories from these categories this run, e.g. "science,entertainment"
+  FOCUS_CATEGORIES: (process.env.FOCUS_CATEGORIES || '').split(',').map((s) => s.trim().toLowerCase()).filter(Boolean),
   MAX_ITEM_AGE_HOURS: Number(process.env.MAX_ITEM_AGE_HOURS || 12),
   REQUIRE_REVIEW: /^(1|true|yes)$/i.test(process.env.REQUIRE_REVIEW || 'false'),
   DAILY_EXPLAINER: !/^(0|false|no)$/i.test(process.env.DAILY_EXPLAINER || 'true'),

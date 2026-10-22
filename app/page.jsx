@@ -23,7 +23,7 @@ export default function Home() {
   if (lead) used.add(lead.slug);
   const breaking = news.find((p) => p.breaking && Date.now() - new Date(p.publishedAt) < 12 * 36e5);
   const top = take(textFirst(news), 5);
-  const latest = take(pictured, 6);
+  const latest = take(pictured, 8);
   const updates = news.slice(0, 6);
   const blocks = ['business', 'technology'].map((slug) => {
     const all = byCategory(slug);
@@ -33,7 +33,7 @@ export default function Home() {
   const pics = take(pictured, 5);
   const regionNames = ['Asia', 'Europe', 'Americas', 'Africa', 'Middle East'];
   const regions = regionNames.map((r) => ({ name: r, items: textFirst(news.filter((p) => p.region === r)).slice(0, 3) })).filter((r) => r.items.length);
-  const hot = trending(10);
+  const hot = trending(9);
   const explained = posts.filter((p) => p.type === 'explainer').slice(0, 3);
   const sh = withImage(news.filter((p) => p.category === 'science' || p.category === 'health'));
   const shFeature = sh.find((p) => !used.has(p.slug));
@@ -80,7 +80,7 @@ export default function Home() {
         {latest.length > 0 && (
           <section className="wrap">
             <SecHead title="Latest" href="/world/" />
-            <div className="grid-cards">{latest.map((p) => <Card key={p.slug} post={p} />)}</div>
+            <div className="grid-cards grid-latest">{latest.map((p) => <Card key={p.slug} post={p} />)}</div>
           </section>
         )}
 
@@ -166,7 +166,10 @@ export default function Home() {
             <ol className="mostread">
               {hot.map((p, i) => (
                 <li key={p.slug}>
-                  <Link href={`/news/${p.slug}/`}><span className="num">{i + 1}</span><span className="t hl">{p.headline}</span></Link>
+                  <Link href={`/news/${p.slug}/`}>
+                    {p.image?.src ? <Thumb post={p} ratio="" className="trend-thumb" /> : <span className="num">{i + 1}</span>}
+                    <span style={{ display: 'flex', flexDirection: 'column', gap: 6, minWidth: 0 }}><Kicker post={p} /><span className="t hl">{p.headline}</span></span>
+                  </Link>
                 </li>
               ))}
             </ol>

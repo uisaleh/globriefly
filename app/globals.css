@@ -247,3 +247,17 @@ main.home { display: flex; flex-direction: column; gap: 64px; padding: 32px 0 72
 /* Newsletter form states */
 .nl-msg { flex-basis: 100%; font-size: 15px; font-weight: 600; margin: 4px 0 0; color: #fff; }
 .newsletter form button[disabled] { opacity: .7; cursor: progress; }
+
+/* Latest: always full rows — 4×2 desktop, 3×2 mid, 2×4 tablet, 1×4 phone */
+.grid-latest { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 1100px) { .grid-latest { grid-template-columns: repeat(3, 1fr); } .grid-latest > :nth-child(n+7) { display: none; } }
+@media (max-width: 820px) { .grid-latest { grid-template-columns: repeat(2, 1fr); gap: 28px 20px; } .grid-latest > :nth-child(n+7) { display: flex; } }
+@media (max-width: 540px) { .grid-latest { grid-template-columns: 1fr; } .grid-latest > :nth-child(n+5) { display: none; } }
+
+/* Trending with thumbnails — 3 columns × 3 desktop, 2 × 4 tablet, 6 on phones */
+.mostread { grid-template-columns: repeat(3, 1fr); }
+.mostread a { align-items: center; }
+.mostread .trend-thumb { width: 112px; height: 76px; flex-shrink: 0; border-radius: 4px; object-fit: cover; }
+.mostread .t { font-size: 17px; }
+@media (max-width: 1000px) { .mostread { grid-template-columns: repeat(2, 1fr); } .mostread > li:nth-child(n+9) { display: none; } }
+@media (max-width: 640px) { .mostread { grid-template-columns: 1fr; } .mostread > li:nth-child(n+7) { display: none; } .mostread .trend-thumb { width: 96px; height: 66px; } }
