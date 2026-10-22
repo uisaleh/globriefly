@@ -18,7 +18,7 @@ export default function Listing({ title, kicker, color = 'var(--ink)', intro, po
         <div style={{ display: 'flex', flexDirection: 'column' }}>
           {posts.map((p) => (
             <Link key={p.slug} href={`/news/${p.slug}/`} className="row-item" style={{ gap: 20, padding: '20px 0' }}>
-              <Thumb post={p} ratio="" style={{ width: 200, height: 125, flexShrink: 0 }} />
+              {p.image?.src && <Thumb post={p} ratio="" style={{ width: 200, height: 125, flexShrink: 0 }} />}
               <span style={{ display: 'flex', flexDirection: 'column', gap: 8, minWidth: 0 }}>
                 <Kicker post={p} />
                 <span className="hl" style={{ fontSize: 21, fontWeight: 800, lineHeight: 1.2, letterSpacing: '-0.01em' }}>{p.headline}</span>

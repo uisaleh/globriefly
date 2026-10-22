@@ -238,3 +238,12 @@ main.home { display: flex; flex-direction: column; gap: 64px; padding: 32px 0 72
 
 /* Article sidebar: Trending keeps its natural height so the ad sits directly below it. */
 .article-main aside > .side { flex: none; }
+
+/* Headline-only list (stories without a photo) */
+.headline-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); column-gap: 32px; }
+.headline-list a { display: flex; flex-direction: column; gap: 6px; padding: 16px 0; border-bottom: 1px solid var(--line); }
+.headline-list .t { font-size: 18px; font-weight: 700; line-height: 1.28; }
+
+/* Newsletter form states */
+.nl-msg { flex-basis: 100%; font-size: 15px; font-weight: 600; margin: 4px 0 0; color: #fff; }
+.newsletter form button[disabled] { opacity: .7; cursor: progress; }

@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { site, categories } from '@/site.config.mjs';
 import TimeAgo, { Today } from './TimeAgo';
+import NewsletterForm from './NewsletterForm';
 
 export function Logo({ dark = false, size = 30 }) {
   const ink = dark ? '#FFFFFF' : '#0E1116';
@@ -125,11 +126,7 @@ export function Newsletter() {
           <h2>The world in five minutes, every morning.</h2>
           <p style={{ fontSize: 17, color: '#FFE5E8', lineHeight: 1.5 }}>The day’s biggest stories in one short email. Free, and you can unsubscribe any time.</p>
         </div>
-        <form action={site.newsletterAction || undefined} method="post" target="_blank">
-          <label htmlFor="nl-email" className="sr-only">Email address</label>
-          <input id="nl-email" name="email" type="email" required placeholder="you@example.com" />
-          <button type="submit">Subscribe free</button>
-        </form>
+        <NewsletterForm />
       </div>
     </section>
   );

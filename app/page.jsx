@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getAllPosts, byCategory, trending, hhmm } from '@/lib/posts';
+import { getAllPosts, byCategory, trending, hhmm, withImage, textFirst } from '@/lib/posts';
 import { categoryBySlug } from '@/site.config.mjs';
 import { Header, Footer, Thumb, Kicker, Card, SecHead, Newsletter } from '@/components/ui';
 import TimeAgo from '@/components/TimeAgo';
@@ -17,24 +17,34 @@ export default function Home() {
     return out;
   };
 
-  const lead = news.find((p) => p.image?.src && (p.importance || 0) >= 7) || news[0];
+  // Picture-led slots only use stories with a photo; headline-only slots take the photo-less stories first.
+  const pictured = withImage(news);
+  const lead = pictured.find((p) => (p.importance || 0) >= 7) || pictured[0] || news[0];
   if (lead) used.add(lead.slug);
   const breaking = news.find((p) => p.breaking && Date.now() - new Date(p.publishedAt) < 12 * 36e5);
-  const top = take(news, 5);
-  const latest = take(news, 6);
+  const top = take(textFirst(news), 5);
+  const latest = take(pictured, 6);
   const updates = news.slice(0, 6);
-  const blocks = ['business', 'technology'].map((slug) => ({ cat: categoryBySlug[slug], items: take(byCategory(slug), 4) })).filter((b) => b.items.length);
-  const pics = take(news.filter((p) => p.image?.src), 5);
+  const blocks = ['business', 'technology'].map((slug) => {
+    const all = byCategory(slug);
+    const [first] = take(withImage(all), 1);
+    return { cat: categoryBySlug[slug], first, rest: take(textFirst(all), first ? 3 : 4) };
+  }).filter((b) => b.first || b.rest.length);
+  const pics = take(pictured, 5);
   const regionNames = ['Asia', 'Europe', 'Americas', 'Africa', 'Middle East'];
-  const regions = regionNames.map((r) => ({ name: r, items: news.filter((p) => p.region === r).slice(0, 3) })).filter((r) => r.items.length);
+  const regions = regionNames.map((r) => ({ name: r, items: textFirst(news.filter((p) => p.region === r)).slice(0, 3) })).filter((r) => r.items.length);
   const hot = trending(10);
   const explained = posts.filter((p) => p.type === 'explainer').slice(0, 3);
-  const sh = news.filter((p) => p.category === 'science' || p.category === 'health');
-  const shFeature = sh.find((p) => !used.has(p.slug) && p.image?.src) || sh.find((p) => !used.has(p.slug));
+  const sh = withImage(news.filter((p) => p.category === 'science' || p.category === 'health'));
+  const shFeature = sh.find((p) => !used.has(p.slug));
   if (shFeature) used.add(shFeature.slug);
   const shSide = take(sh, 4);
-  const strip = take(news.filter((p) => p.category === 'sports' || p.category === 'entertainment'), 4);
-  const textCols = ['politics', 'world', 'business'].map((slug) => ({ cat: categoryBySlug[slug], items: byCategory(slug, 4) })).filter((c) => c.items.length);
+  const strip = take(withImage(news.filter((p) => p.category === 'sports' || p.category === 'entertainment')), 4);
+  const textCols = ['politics', 'world', 'business'].map((slug) => {
+    const all = textFirst(byCategory(slug));
+    const fresh = take(all, 4);
+    return { cat: categoryBySlug[slug], items: fresh.length >= 2 ? fresh : all.slice(0, 4) };
+  }).filter((c) => c.items.length);
 
   return (
     <>
@@ -98,13 +108,15 @@ export default function Home() {
 
         {blocks.length > 0 && (
           <section className="wrap blocks">
-            {blocks.map(({ cat, items: [first, ...rest] }) => (
+            {blocks.map(({ cat, first, rest }) => (
               <div key={cat.slug} style={{ display: 'flex', flexDirection: 'column' }}>
                 <SecHead title={cat.label} href={`/${cat.slug}/`} linkText={`More ${cat.label}`} color={cat.color} />
-                <Link href={`/news/${first.slug}/`} className="block-lead" style={{ paddingTop: 0 }}>
-                  <Thumb post={first} ratio="r21" />
-                  <h3 className="hl">{first.headline}</h3>
-                </Link>
+                {first && (
+                  <Link href={`/news/${first.slug}/`} className="block-lead" style={{ paddingTop: 0 }}>
+                    <Thumb post={first} ratio="r21" />
+                    <h3 className="hl">{first.headline}</h3>
+                  </Link>
+                )}
                 {rest.map((p) => <Link key={p.slug} href={`/news/${p.slug}/`} className="list-link hl">{p.headline}</Link>)}
               </div>
             ))}
@@ -186,7 +198,7 @@ export default function Home() {
             <SecHead title="Science & Health" color="#4652C8" />
             <div className="feature">
               <Link href={`/news/${shFeature.slug}/`} className="feature-big" style={{ backgroundColor: shFeature.cat.color }}>
-                {shFeature.image?.src ? <img src={shFeature.image.src} alt={shFeature.image.alt || shFeature.headline} loading="lazy" /> : <div className="ph thumb" style={{ backgroundColor: shFeature.cat.color, borderRadius: 0 }} />}
+                <img src={shFeature.image.src} alt={shFeature.image.alt || shFeature.headline} loading="lazy" />
                 <span className="feature-panel">
                   <span className="kicker" style={{ color: '#C9CEF5' }}>{shFeature.cat.label}</span>
                   <span className="t">{shFeature.headline}</span>

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { categories, categoryBySlug } from '@/site.config.mjs';
-import { byCategory, PAGE_SIZE } from '@/lib/posts';
+import { byCategory, PAGE_SIZE, hasImage } from '@/lib/posts';
 import { Header, Footer, Thumb, Card, Newsletter } from '@/components/ui';
 import TimeAgo from '@/components/TimeAgo';
 
@@ -28,7 +28,11 @@ export default async function CategoryPage({ params }) {
   if (!cat) notFound();
   const everything = byCategory(cat.slug);
   const posts = everything.slice(0, PAGE_SIZE);
-  const [lead, ...rest] = posts;
+  // Photos lead the page; stories without a photo are listed as headlines underneath.
+  const pictured = posts.filter(hasImage);
+  const headlines = posts.filter((p) => !hasImage(p));
+  const lead = pictured[0] || headlines.shift();
+  const rest = pictured.slice(1);
   const side = rest.slice(0, 4);
   const grid = rest.slice(4);
 
@@ -65,6 +69,19 @@ export default async function CategoryPage({ params }) {
           </section>
         )}
         {grid.length > 0 && <div className="grid-cards" style={{ marginBottom: 40 }}>{grid.map((p) => <Card key={p.slug} post={p} />)}</div>}
+        {headlines.length > 0 && (
+          <section aria-label={`More ${cat.label} headlines`} style={{ marginBottom: 48 }}>
+            <h2 className="side-title" style={{ borderBottom: `3px solid ${cat.color}`, paddingBottom: 10, marginBottom: 4 }}>More {cat.label} headlines</h2>
+            <div className="headline-list">
+              {headlines.map((p) => (
+                <Link key={p.slug} href={`/news/${p.slug}/`}>
+                  <span className="t hl">{p.headline}</span>
+                  <span className="meta"><TimeAgo iso={p.publishedAt} /></span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
         {everything.length > PAGE_SIZE && <Link href={`/${cat.slug}/page/2/`} rel="next" className="btn btn-dark" style={{ marginBottom: 64 }}>Older {cat.label.toLowerCase()} stories</Link>}
       </main>
       <Newsletter />

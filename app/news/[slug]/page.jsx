@@ -36,10 +36,10 @@ export default async function ArticlePage({ params }) {
   if (!post) notFound();
   const url = `${site.url}/news/${post.slug}/`;
   const enc = encodeURIComponent(url);
-  const rel = related(post, 3);
+  const rel = related(post, 10).filter((p) => p.image?.src).slice(0, 3);
   const hot = trending(6).filter((p) => p.slug !== post.slug).slice(0, 5);
   const moreCat = byCategory(post.category).filter((p) => p.slug !== post.slug && !rel.includes(p)).slice(0, 4);
-  const more = getAllPosts().filter((p) => p.slug !== post.slug && p.category !== post.category).slice(0, 4);
+  const more = getAllPosts().filter((p) => p.slug !== post.slug && p.category !== post.category && p.image?.src).slice(0, 4);
   const sections = post.sections || [];
   const half = Math.ceil(sections.length / 2);
 
@@ -180,7 +180,7 @@ export default async function ArticlePage({ params }) {
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', columnGap: 28 }}>
                 {moreCat.map((p) => (
                   <Link key={p.slug} href={`/news/${p.slug}/`} className="row-item" style={{ gap: 14, padding: '16px 0' }}>
-                    <Thumb post={p} ratio="" style={{ width: 104, height: 72, flexShrink: 0 }} />
+                    {p.image?.src && <Thumb post={p} ratio="" style={{ width: 104, height: 72, flexShrink: 0 }} />}
                     <span className="t hl" style={{ fontSize: 16 }}>{p.headline}</span>
                   </Link>
                 ))}
