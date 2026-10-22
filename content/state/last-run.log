@@ -1,14 +1,13 @@
-18:29:48 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-18:29:48 collecting feeds…
-18:29:49 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-18:29:49 316 new items
-18:29:49 264 candidate stories
-18:29:49 categories needing stories: health, technology → reserved health
-18:29:49 writing: Why getting dressed can cause daily meltdowns for some people (1 sources)
-18:29:50   source text: 107 chars
-18:29:57   ✓ published: /news/understanding-the-daily-distress-of-dressing-with-neurodivergence/ [health] image: wikimedia
-18:29:57 writing: Shamonda virus detected in human for first time in France (4 sources)
-18:29:57   source text: 2630 / 2294 / 2294 chars
-18:30:06   too close to source wording — rewriting
-18:30:17   ✓ published: /news/france-records-first-human-infection-with-animal-borne-shamonda-virus/ [health] image: wikimedia
-18:30:17 done — 2 stories
+22:16:17 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+22:16:17 collecting feeds…
+22:16:18 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+22:16:18 305 new items
+22:16:18 257 candidate stories
+22:16:18 categories needing stories: business, technology → reserved business
+22:16:18 writing: Elon Musk invests about $1 billion in Skydance (2 sources)
+22:16:18   source text: 1561 / 1467 chars
+22:16:25   ✓ published: /news/elon-musk-contributes-billion-dollar-investment-to-newly-formed-media/ [business] image: wikimedia
+22:16:25 writing: Trump ordered to sit for deposition in BBC defamation lawsuit (3 sources)
+22:16:25   source text: 3868 / 4869 / 2785 chars
+22:16:39   ✓ published: /news/us-judge-orders-donald-trump-to-face-deposition-in-bbc-defamation/ [world] image: wikimedia
+22:16:39 done — 2 stories
