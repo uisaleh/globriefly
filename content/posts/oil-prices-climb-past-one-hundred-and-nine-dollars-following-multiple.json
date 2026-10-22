@@ -63,7 +63,14 @@
     "Russia"
   ],
   "socialSummary": "Crude oil prices approach $110 per barrel following militant attacks in Saudi Arabia and renewed strikes on Russian energy terminals.",
-  "image": null,
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Spilled_oil_in_a_parking_lot_02.jpg/1920px-Spilled_oil_in_a_parking_lot_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Spilled oil in a parking lot in Freiham, Munich",
+    "credit": "Kritzolina / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Spilled_oil_in_a_parking_lot_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "provider": "wikimedia"
+  },
   "sources": [
     {
       "name": "CNBC",

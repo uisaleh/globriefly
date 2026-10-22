@@ -60,7 +60,14 @@
     "Automotive Technology"
   ],
   "socialSummary": "Google is updating its in-car Gemini AI to connect with Gmail, Calendar, and Maps for a more personalised driving experience.",
-  "image": null,
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/1920px-Googleplex_HQ_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Googleplex Headquarters, Mountain View, US",
+    "credit": "Asoundd / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Googleplex_HQ_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "provider": "wikimedia"
+  },
   "sources": [
     {
       "name": "The Verge",

@@ -45,7 +45,14 @@
     "security"
   ],
   "socialSummary": "Independent Australian MP Helen Haines is critically injured after being hit by a car in an apparent deliberate attack in Wangaratta.",
-  "image": null,
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg/1920px-Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "The office of federal Indi MP Helen Haines, an independent politician, on Murphy Street in Wangaratta.",
+    "credit": "Alison Newman / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg",
+    "license": "CC0",
+    "provider": "wikimedia"
+  },
   "sources": [
     {
       "name": "BBC News",

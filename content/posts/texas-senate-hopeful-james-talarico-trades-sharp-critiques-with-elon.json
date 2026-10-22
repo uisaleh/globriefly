@@ -59,7 +59,14 @@
     "midterm elections"
   ],
   "socialSummary": "James Talarico and Elon Musk trade barbs in a tight Texas Senate race as prominent Republicans defect.",
-  "image": null,
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/%C2%A1Viva_Democracy%21_Awesome_turnout_last_night_at_the_James_Talarico_Rally_at_The_Backyard.jpg/1920px-%C2%A1Viva_Democracy%21_Awesome_turnout_last_night_at_the_James_Talarico_Rally_at_The_Backyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "¡Viva Democracy! Awesome turnout last night at the James Talarico Rally at The Backyard.",
+    "credit": "H. Michael Karshis / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:%C2%A1Viva_Democracy!_Awesome_turnout_last_night_at_the_James_Talarico_Rally_at_The_Backyard.jpg",
+    "license": "CC BY 4.0",
+    "provider": "wikimedia"
+  },
   "sources": [
     {
       "name": "CNBC",

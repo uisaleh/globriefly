@@ -64,7 +64,14 @@
     "conflict"
   ],
   "socialSummary": "A drone strike on an Abyei market kills over 150 people and ignites a massive fuel depot fire.",
-  "image": null,
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Sudan_Envoy_-_Abyei.jpg/1920px-Sudan_Envoy_-_Abyei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "A view of Abyei Town.",
+    "credit": "Sudan Envoy / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sudan_Envoy_-_Abyei.jpg",
+    "license": "CC BY 2.0",
+    "provider": "wikimedia"
+  },
   "sources": [
     {
       "name": "DW",

@@ -64,7 +64,14 @@
     "public benefit fund"
   ],
   "socialSummary": "Anthropic commits 5% of its shares to a public benefit fund to address AI job disruption ahead of its upcoming stock market listing.",
-  "image": null,
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._%2854098999333%29.jpg/1920px-Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._%2854098999333%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "25/10/2024. San Francisco, United States. Secretary of State Peter Kyle visits Anthropic in San Francisco. Picture by…",
+    "credit": "Department for Science, Innovation and Technology / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._(54098999333).jpg",
+    "license": "CC BY 2.0",
+    "provider": "wikimedia"
+  },
   "sources": [
     {
       "name": "The Guardian",
