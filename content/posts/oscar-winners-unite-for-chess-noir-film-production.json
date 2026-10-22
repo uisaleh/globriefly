@@ -60,7 +60,14 @@
     "film production"
   ],
   "socialSummary": "Sebastian Koch and Toni Servillo star in Gabriele Salvatores' new chess-themed noir film shooting in Italy.",
-  "image": null,
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Madame_Nobel_-_film_set_Vienna_May_2014_Birgit_Minichmayr_Sebastian_Koch_3.jpg/1920px-Madame_Nobel_-_film_set_Vienna_May_2014_Birgit_Minichmayr_Sebastian_Koch_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Birgit Minichmayr as Bertha von Suttner and Sebastian Koch as Alfred Nobel on the filming location of the movie Madame…",
+    "credit": "Manfred Werner - Tsui / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Madame_Nobel_-_film_set_Vienna_May_2014_Birgit_Minichmayr_Sebastian_Koch_3.jpg",
+    "license": "CC BY-SA 3.0",
+    "provider": "wikimedia"
+  },
   "sources": [
     {
       "name": "Variety",
