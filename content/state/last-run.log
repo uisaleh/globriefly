@@ -1,19 +1,14 @@
-13:44:07 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-13:44:07 collecting feeds…
-13:44:07 feed failed: UN News https://news.un.org/feed/subscribe/en/news/all/rss.xml — Non-whitespace before first tag.
-Line: 0
-Column: 1
-Char: 
-13:44:07 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-13:44:07 248 new items
-13:44:08 199 candidate stories
-13:44:08 categories needing stories: technology, health, world → reserved technology
-13:44:08 writing: Nirva raises $33M for a pendant that only listens to you (1 sources)
-13:44:08   source text: 4279 chars
-13:44:43 image source error: The operation was aborted due to timeout
-13:44:59 image source error: The operation was aborted due to timeout
-13:45:00   ✓ published: /news/wearable-startup-secures-funding-to-develop-voice-activated-smart/ [technology] image: none
-13:45:00 writing: Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live (3 sources)
-13:45:01   source text: 7000 / 3473 / 1221 chars
-13:45:21   ✓ published: /news/french-authorities-restrict-demonstrations-as-government-targets/ [world] image: wikimedia
-13:45:21 done — 2 stories
+18:29:48 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+18:29:48 collecting feeds…
+18:29:49 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+18:29:49 316 new items
+18:29:49 264 candidate stories
+18:29:49 categories needing stories: health, technology → reserved health
+18:29:49 writing: Why getting dressed can cause daily meltdowns for some people (1 sources)
+18:29:50   source text: 107 chars
+18:29:57   ✓ published: /news/understanding-the-daily-distress-of-dressing-with-neurodivergence/ [health] image: wikimedia
+18:29:57 writing: Shamonda virus detected in human for first time in France (4 sources)
+18:29:57   source text: 2630 / 2294 / 2294 chars
+18:30:06   too close to source wording — rewriting
+18:30:17   ✓ published: /news/france-records-first-human-infection-with-animal-borne-shamonda-virus/ [health] image: wikimedia
+18:30:17 done — 2 stories

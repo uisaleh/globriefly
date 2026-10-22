@@ -1,0 +1,104 @@
+{
+  "slug": "france-records-first-human-infection-with-animal-borne-shamonda-virus",
+  "status": "published",
+  "type": "news",
+  "category": "health",
+  "region": "Europe",
+  "headline": "France records first human infection with animal-borne Shamonda virus",
+  "standfirst": "Health authorities report the initial human case of Shamonda virus in a vulnerable patient who passed away in October.",
+  "keyPoints": [
+    "A severely immunocompromised patient in France represents the first known human case of Shamonda virus.",
+    "The pathogen is a bunyavirus typically spread by midges among livestock such as cattle, sheep, and goats.",
+    "Health agencies emphasise that the threat to the general public remains very low with no evidence of human-to-human transmission.",
+    "Investigations continue to determine whether the infection directly contributed to the patient's death."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "A hospitalized individual in France has become the initial documented human subject to contract the Shamonda virus. Medical professionals identified the pathogen while treating the patient in a facility located in Lyon. Authorities are actively examining whether this rare infection contributed to the individual's death in October.",
+        "The person was already receiving treatment for a separate serious condition and possessed a weakened immune system. Initial findings from health ministries suggest the individual likely acquired the pathogen through a midge bite while in the eastern region of the country. Experts noted that the patient experienced neurological complications believed to be connected to the infection.",
+        "International health bodies, including the World Health Organization and the European Centre for Disease Prevention and Control, are closely observing the situation. Although animal infections have circulated for decades across Africa and Asia, human contraction was previously unheard of. Officials stress that this unique event does not indicate a broader public danger."
+      ]
+    },
+    {
+      "heading": "Understanding the pathogen and livestock impact",
+      "paragraphs": [
+        "The Shamonda virus belongs to the bunyavirus family and is primarily transmitted via the bites of infected midges. While it has a long history of affecting cattle, sheep, goats, horses, and alpacas in other parts of the world, European livestock only began displaying cases recently. The presence of the pathogen was first documented in animals on the European continent during the spring and summer.",
+        "In agricultural settings, animals that contract the disease often suffer from fever, diarrhoea, reduced appetite, and lower milk yields. In severe instances involving pregnant livestock, the virus can lead to congenital abnormalities and miscarriages in newborn calves and lambs. Furthermore, researchers in some European nations have identified viral genetic material inside the brains of horses that succumbed to neurological symptoms."
+      ]
+    },
+    {
+      "heading": "Expert assessments and ongoing investigations",
+      "paragraphs": [
+        "Leading virologists and public health specialists have moved quickly to reassure the global community following the announcement. Experts point out that the absence of prior human cases indicates that transmission to people is exceptionally unusual. Specialists also highlight that there is currently zero evidence showing sustained transmission between humans.",
+        "Health organizations explain that the cooler months of the year naturally reduce the transmission rates of midge-borne viruses. Researchers continue to analyze whether healthy individuals could potentially contract the illness without experiencing symptoms. Authorities maintain that normal daily activities can safely continue without the need for additional precautions."
+      ]
+    },
+    {
+      "heading": "Broader implications for European health surveillance",
+      "paragraphs": [
+        "The detection of the virus in humans prompts closer cooperation among European health networks to monitor potential public health repercussions. Since the initial livestock detections on the continent, farm animals in several other European nations have tested positive for the condition. Public health agencies view this scenario as an important reminder to maintain rigorous agricultural surveillance systems.",
+        "Scientists emphasize the importance of tracking vector-borne pathogens as shifting environmental conditions potentially alter animal disease distributions. Even though the current risk assessment points to an isolated occurrence, authorities remain vigilant about monitoring animal-to-human spillover events. Continued research will help clarify the full spectrum of symptoms the virus might trigger in rare human exposures."
+      ]
+    },
+    {
+      "heading": "Next steps in evaluating the rare case",
+      "paragraphs": [
+        "French health and agriculture ministries are leading the ongoing inquiry to establish the exact pathway of transmission. Investigators are working to piece together how the patient encountered the infected insect and whether specific environmental factors played a role. Laboratory analyses aim to provide clearer data regarding the interaction between the virus and the human immune system.",
+        "International health agencies anticipate releasing further guidance once comprehensive risk assessments are fully finalized. In the meantime, medical professionals across the continent remain informed about the rare diagnosis to watch for any similar presentations. Surveillance of midge populations and livestock health will persist as an essential tool for regional safety."
+      ]
+    }
+  ],
+  "highlight": "Specialists also highlight that there is currently zero evidence showing sustained transmission between humans.",
+  "timeline": [],
+  "tags": [
+    "Shamonda virus",
+    "France",
+    "public health",
+    "livestock diseases",
+    "ECDC"
+  ],
+  "socialSummary": "France records its first human Shamonda virus case in an immunocompromised patient, though experts say public risk remains very low.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Hospital_de_la_Charite_de_la_Ville_de_Lyon._%28to_accompany%29_Topographia_Galliae_dat_is_beschrivinge_van_Vranckrijck_...Derde_%28IA_dr_hospital-de-la-charite-de-la-ville-de-lyon-to-accompany-topographia-gall-13088241%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Zoomable full resolution image available at davidrumsey.com.This image 13088.241 is a part of image group…",
+    "credit": "Merian, Kasper, 1593-1650 Zeiller, Martin 1589-1661 / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Hospital_de_la_Charite_de_la_Ville_de_Lyon._(to_accompany)_Topographia_Galliae_dat_is_beschrivinge_van_Vranckrijck_...Derde_(IA_dr_hospital-de-la-charite-de-la-ville-de-lyon-to-accompany-topographia-gall-13088241).jpg",
+    "license": "Public domain",
+    "provider": "wikimedia"
+  },
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "name": "DW",
+      "url": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk"
+    }
+  ],
+  "sourceTitles": [
+    "Shamonda virus detected in human for first time in France",
+    "First human case of Shamonda virus detected in France, officials say",
+    "First human case of Shamonda virus detected in France, officials say",
+    "First human case of Shamonda virus detected in France, officials say",
+    "France confirms first Shamonda virus infection in a human death of 'severely immunocompromised' individual",
+    "France reports first human case of Shamonda virus, but says there's no public health risk"
+  ],
+  "sourceCount": 4,
+  "importance": 6,
+  "breaking": false,
+  "publishedAt": "2026-10-22T18:30:17.390Z",
+  "updatedAt": "2026-10-22T18:30:17.390Z",
+  "readingMinutes": 3,
+  "facebook": null
+}
