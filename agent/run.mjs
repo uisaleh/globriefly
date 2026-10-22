@@ -83,7 +83,7 @@ async function main() {
   const recent = loadPosts().filter((p) => Date.now() - new Date(p.publishedAt) < 72 * 36e5);
   const recentTitles = recent.flatMap((p) => [p.headline, ...(p.sourceTitles || [])]);
 
-  log(`start — writer: ${env.GEMINI_API_KEY ? 'Gemini key set' : 'NO GEMINI KEY'} (${env.GEMINI_MODELS.join(', ')})${env.GROQ_API_KEY ? ' + Groq' : ''}; photos: Wikimedia${env.PEXELS_API_KEY ? ' + Pexels' : ''}${env.UNSPLASH_ACCESS_KEY ? ' + Unsplash' : ''}; review mode: ${env.REQUIRE_REVIEW}`);
+  log(`start — writer: ${env.GEMINI_API_KEY ? 'Gemini key set' : 'NO GEMINI KEY'} (${env.GEMINI_MODELS.join(', ')})${env.GROQ_API_KEY ? ' + Groq' : ''}; photos: Wikimedia + Openverse${env.PEXELS_API_KEY ? ' + Pexels' : ''}${env.UNSPLASH_ACCESS_KEY ? ' + Unsplash' : ''}; review mode: ${env.REQUIRE_REVIEW}`);
   log('collecting feeds…');
   const items = ((await withDeadline(collectItems(), 120000, [])) || []).filter((it) => !state.urls[it.url]);
   log(`${items.length} new items`);
