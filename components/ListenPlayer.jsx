@@ -9,7 +9,7 @@ const FEMALE = /female|woman|samantha|karen|moira|tessa|victoria|fiona|veena|ser
 const MALE = /\bmale\b|\bman\b|daniel|alex\b|fred|\btom\b|oliver|arthur|aaron|rishi|gordon|\blee\b|reed|rocko|eddy|grandpa|ralph|david|mark|guy|ryan|george|james|william|thomas|christopher|eric|prabhat|ravi|brian|matthew|justin|joey|russell|liam|noah|andrew|brandon|davis|jason|tony|roger|steffan|ken\b/i;
 const QUALITY = /natural|neural|premium|enhanced|online|google|siri/i;
 
-const ACCENT = { US: 'US', GB: 'UK', AU: 'Australia', IN: 'India', IE: 'Ireland', ZA: 'South Africa', CA: 'Canada', NZ: 'New Zealand', SG: 'Singapore', NG: 'Nigeria', PH: 'Philippines', KE: 'Kenya' };
+const ACCENT = { US: 'US English', GB: 'UK English' };
 
 function genderOf(v) {
   const n = v.name;
@@ -22,9 +22,9 @@ function genderOf(v) {
 
 function label(v) {
   const region = (v.lang || '').split(/[-_]/)[1]?.toUpperCase();
-  const name = v.name.replace(/^(Microsoft|Google)\s+/i, '').replace(/\s*\(.*?\)\s*/g, ' ').replace(/\s+Online.*$/i, '').replace(/\s*-\s*English.*$/i, '').trim();
+  const name = /^Google\s+(UK|US)\s+English/i.test(v.name) ? 'Google' : v.name.replace(/^(Microsoft|Google)\s+/i, '').replace(/\s*\(.*?\)\s*/g, ' ').replace(/\s+Online.*$/i, '').replace(/\s*-\s*English.*$/i, '').trim();
   const g = genderOf(v);
-  return `${name}${ACCENT[region] ? ` · ${ACCENT[region]}` : ''}${g !== 'other' ? ` · ${g === 'female' ? 'Female' : 'Male'}` : ''}`;
+  return `${name}${ACCENT[region] ? ` · ${ACCENT[region]}` : ''}${g !== 'other' ? ` · ${g === 'female' ? 'Woman' : 'Man'}` : ''}`;
 }
 
 // Split into short chunks: long utterances get cut off in some browsers.
@@ -61,7 +61,9 @@ export default function ListenPlayer({ texts, minutes = 4 }) {
     if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
     setSupported(true);
     const load = () => {
-      const all = window.speechSynthesis.getVoices().filter((v) => /^en([-_]|$)/i.test(v.lang));
+      const usuk = window.speechSynthesis.getVoices().filter((v) => /^en[-_](US|GB)/i.test(v.lang));
+      const gendered = usuk.filter((v) => genderOf(v) !== 'other');
+      const all = gendered.length ? gendered : usuk;
       all.sort((a, b) => (QUALITY.test(b.name) - QUALITY.test(a.name)) || (/^en[-_]US/i.test(b.lang) - /^en[-_]US/i.test(a.lang)) || a.name.localeCompare(b.name));
       setVoices(all);
       const saved = store.get('gb-voice');
@@ -147,9 +149,9 @@ export default function ListenPlayer({ texts, minutes = 4 }) {
         </div>
         {state !== 'idle' && (
           <div className="listen-ctrl">
-            <button type="button" onClick={() => skip(-1)} aria-label="Back one sentence"><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M11 6L3 12l8 6zM21 6l-8 6 8 6z" fill="currentColor" /></svg></button>
-            <button type="button" onClick={() => skip(1)} aria-label="Forward one sentence"><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M13 6l8 6-8 6zM3 6l8 6-8 6z" fill="currentColor" /></svg></button>
-            <button type="button" onClick={stop} aria-label="Stop"><svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor" /></svg></button>
+            <button type="button" onClick={() => skip(-1)} aria-label="Previous sentence" title="Previous sentence"><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="5" width="2.6" height="14" rx="1" fill="currentColor" /><path d="M19 5.5v13a.8.8 0 0 1-1.2.7L9 12.7a.8.8 0 0 1 0-1.4l8.8-6.5a.8.8 0 0 1 1.2.7z" fill="currentColor" /></svg></button>
+            <button type="button" onClick={() => skip(1)} aria-label="Next sentence" title="Next sentence"><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><rect x="16.4" y="5" width="2.6" height="14" rx="1" fill="currentColor" /><path d="M5 5.5v13a.8.8 0 0 0 1.2.7l8.8-6.5a.8.8 0 0 0 0-1.4L6.2 4.8A.8.8 0 0 0 5 5.5z" fill="currentColor" /></svg></button>
+            <button type="button" onClick={stop} aria-label="Stop" title="Stop"><svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor" /></svg></button>
           </div>
         )}
         <button type="button" className="listen-settings" onClick={() => setOpen((o) => !o)} aria-expanded={open} aria-label="Voice settings">
@@ -163,15 +165,15 @@ export default function ListenPlayer({ texts, minutes = 4 }) {
           {(females.length > 0 || males.length > 0) && (
             <div className="listen-row" role="group" aria-label="Narrator">
               <span className="listen-lbl">Narrator</span>
-              {females.length > 0 && <button type="button" className={gender === 'female' ? 'on' : ''} onClick={() => pickGender('female')}>Female</button>}
-              {males.length > 0 && <button type="button" className={gender === 'male' ? 'on' : ''} onClick={() => pickGender('male')}>Male</button>}
+              {females.length > 0 && <button type="button" className={gender === 'female' ? 'on' : ''} onClick={() => pickGender('female')}>Woman</button>}
+              {males.length > 0 && <button type="button" className={gender === 'male' ? 'on' : ''} onClick={() => pickGender('male')}>Man</button>}
             </div>
           )}
           {voices.length > 1 && (
             <label className="listen-row">
-              <span className="listen-lbl">Voice &amp; accent</span>
+              <span className="listen-lbl">Voice</span>
               <select value={voiceName} onChange={(e) => pickVoice(e.target.value)}>
-                {[['Female', females], ['Male', males], ['Other voices', voices.filter((v) => genderOf(v) === 'other')]].map(([g, list]) => list.length > 0 && (
+                {[['Women', females], ['Men', males], ['Voices', voices.filter((v) => genderOf(v) === 'other')]].map(([g, list]) => list.length > 0 && (
                   <optgroup key={g} label={g}>{list.map((v) => <option key={v.name} value={v.name}>{label(v)}</option>)}</optgroup>
                 ))}
               </select>
@@ -181,7 +183,7 @@ export default function ListenPlayer({ texts, minutes = 4 }) {
             <span className="listen-lbl">Speed</span>
             {[0.8, 1, 1.25, 1.5, 2].map((r) => <button key={r} type="button" className={rate === r ? 'on' : ''} onClick={() => pickRate(r)}>{r}×</button>)}
           </div>
-          <p className="listen-note">Voices come from your device, so the choice differs between phones and computers.</p>
+          <p className="listen-note">US and UK English voices from your device — the list differs between phones and computers.</p>
         </div>
       )}
     </section>
