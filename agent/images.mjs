@@ -195,7 +195,8 @@ export async function findImageFor(info, writerAlt = '') {
     try {
       const img = await t();
       if (img) {
-        img.alt = makeAlt(img.alt, writerAlt, query);
+        // The writer's alt text describes their photo idea; for a name/subject match describe what was matched.
+        img.alt = makeAlt(img.alt, step === 'idea' ? writerAlt : query, query);
         img.query = query;
         img.matchedBy = step; // idea | name | subject — useful when reviewing photos
         return img;
