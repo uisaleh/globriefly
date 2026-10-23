@@ -28,18 +28,20 @@ async function fetchFeed(id) {
     `https://www.youtube.com/feeds/videos.xml?playlist_id=UU${id.slice(2)}`,
   ];
   let last;
-  for (let attempt = 0; attempt < 3; attempt++) {
+  for (let attempt = 0; attempt < 4; attempt++) {
     for (const u of urls) {
       try { return await parser.parseURL(u); } catch (e) { last = e; }
     }
-    await new Promise((r) => setTimeout(r, 1500 * (attempt + 1)));
+    await new Promise((r) => setTimeout(r, 2500 * (attempt + 1)));
   }
   throw last;
 }
 
 export async function collectVideos({ max = 24, perChannel = 5, maxAgeHours = 72 } = {}) {
   const cutoff = Date.now() - maxAgeHours * 36e5;
-  const lists = await Promise.all(videoChannels.map(async (ch) => {
+  // One channel at a time: YouTube refuses bursts of parallel feed requests.
+  const lists = [];
+  for (const ch of videoChannels) lists.push(await (async () => {
     try {
       const feed = await fetchFeed(ch.id);
       const items = feed.items
@@ -59,7 +61,7 @@ export async function collectVideos({ max = 24, perChannel = 5, maxAgeHours = 72
       log(`  video feed ${ch.name} failed: ${e.message}`);
       return [];
     }
-  }));
+  })());
   // Interleave channels so one channel never fills the section, newest first within each round.
   const out = [];
   for (let i = 0; i < perChannel; i++) for (const l of lists) if (l[i]) out.push(l[i]);
@@ -68,8 +70,21 @@ export async function collectVideos({ max = 24, perChannel = 5, maxAgeHours = 72
 }
 
 export async function updateVideos() {
-  const videos = await withDeadline(collectVideos(), 60000, []);
-  if (!videos?.length) { log('videos: none collected, keeping previous list'); return 0; }
+  const fresh = (await withDeadline(collectVideos(), 150000, [])) || [];
+  // Keep earlier videos (still within 72 h) so channels that fail this run stay in the mix.
+  let prev = [];
+  try { prev = JSON.parse(fs.readFileSync(OUT, 'utf8')).videos || []; } catch {}
+  const cutoff = Date.now() - 72 * 36e5;
+  const byId = new Map();
+  for (const v of [...fresh, ...prev]) if (!byId.has(v.id) && new Date(v.publishedAt) >= cutoff) byId.set(v.id, v);
+  const all = [...byId.values()].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  // Interleave channels again so the top of the list mixes broadcasters.
+  const groups = {};
+  all.forEach((v) => (groups[v.channel] ||= []).push(v));
+  const videos = [];
+  for (let i = 0; videos.length < all.length; i++) for (const g of Object.values(groups)) if (g[i]) videos.push(g[i]);
+  if (!videos.length) { log('videos: none collected, keeping previous list'); return 0; }
+  videos.splice(24);
   fs.writeFileSync(OUT, JSON.stringify({ updatedAt: new Date().toISOString(), videos }, null, 2) + '\n');
   log(`videos: saved ${videos.length}`);
   return videos.length;
