@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T04:47:47.461Z",
+  "updatedAt": "2026-10-23T04:50:58.237Z",
   "videos": [
     {
       "id": "RPcmgWcL0Zo",
@@ -10,12 +10,44 @@
       "description": "A magnitude 7.0 earthquake kills at least 16 in Tibet as rescuers battle blocked roads, damaged homes and harsh mountain conditions."
     },
     {
+      "id": "l43UYKzqS0M",
+      "title": "Powerful earthquake hits Tibet, killing 16 people, reports say. #BBCNews",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-23T01:47:10.000Z",
+      "description": ""
+    },
+    {
+      "id": "rFVCBfTIOUk",
+      "title": "Government warns British families to have plan if critical infrastructure is attacked | The Wrap",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-23T00:15:23.000Z",
+      "description": "The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
+    },
+    {
       "id": "Oee2rwgU_UQ",
       "title": "Inside Ukraine’s steel plant hit by Russian attacks",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
       "publishedAt": "2026-10-23T01:23:42.000Z",
       "description": "Russian drone and missile attacks have forced Ukraine’s Kametstal steel plant in Kamianske offline, dealing a major blow to the country’s steel industry and economy."
+    },
+    {
+      "id": "6P2_kb0KljI",
+      "title": "Bryan Cranston on death of Breaking Bad co-star RJ Mitte at the age of 34. #BBCNews",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-22T23:31:47.000Z",
+      "description": ""
+    },
+    {
+      "id": "mK3Ing6tIDY",
+      "title": "UK government calls on households to be ready for an emergency",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-22T21:57:04.000Z",
+      "description": "The government has issued a stark warning to UK households to make sure they are ready if hostile powers or terrorists take out parts of the country's critical infrastructure. "
     },
     {
       "id": "03uQT_e1MB8",
@@ -26,6 +58,22 @@
       "description": "Several surveillance videos show the moment a 7.0-magnitude earthquake struck China's southwestern region of Tibet, killing at least 16 people. The ​quake is the strongest to hit China since January 2024."
     },
     {
+      "id": "_pW4vIdJsU0",
+      "title": "Yemen’s humanitarian crisis deepens following Houthi strikes on Saudi Arabia | BBC News",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-22T23:04:46.000Z",
+      "description": "Yemen’s humanitarian crisis, already one of the worst in the world, is deepening, with continued fighting between government forces backed by Saudi Arabia, and Iranian supported Houthi rebels. "
+    },
+    {
+      "id": "ajv5CyVbiPY",
+      "title": "Trump answers reporters' questions while leaving the White House",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-22T21:02:45.000Z",
+      "description": "President Trump departs the White House en route Sioux City, Iowa."
+    },
+    {
       "id": "0Iy3qJqoPzQ",
       "title": "Are Democratic Socialists Reshaping the Democratic Party",
       "channel": "Al Jazeera English",
@@ -34,12 +82,44 @@
       "description": "Democratic socialists are gaining momentum in Michigan as Democrats grapple with a cost-of-living crisis, working-class voters and an ongoing identity crisis ahead of the midterm elections."
     },
     {
+      "id": "2HiHQOy9PYA",
+      "title": "President Trump ordered to answer questions under oath in BBC lawsuit | BBC News",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-22T23:00:03.000Z",
+      "description": "A US judge has ordered President Donald Trump to answer questions under oath in his defamation lawsuit against the BBC by 11 December."
+    },
+    {
+      "id": "ZpERdlShBZ4",
+      "title": "Met officer abused online: 'People made AI images of her wearing suicide vests'",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-22T20:55:03.000Z",
+      "description": "Metropolitan Police Commissioner Sir Mark Rowley has condemned \"completely vile\" racist and sexist abuse targeting PC Fiona Shaik Umar after an old image of her with a weapon circulated online."
+    },
+    {
       "id": "pK2E7Qxkupg",
       "title": "Michigan voters closely divided between Rogers and El-Sayed",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
       "publishedAt": "2026-10-22T21:51:29.000Z",
       "description": "Less than two weeks before the midterm elections, some Michigan voters are still deciding between Republican Mike Rogers and Democrat Abdul El-Sayed in the race for a US Senate seat. At an event in Detroit this week, one"
+    },
+    {
+      "id": "LNZU5jqkZbI",
+      "title": "Have we just entered a new era for cyber security? | BBC Newscast",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-22T22:00:39.000Z",
+      "description": "Millions of websites around the world are dealing with the discovery of a potential cyber-security threat using artificial intelligence."
+    },
+    {
+      "id": "ClPRxZ1mWLw",
+      "title": "Could 'off the charts' El Niño bring a cold snap to the UK?",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-22T20:41:30.000Z",
+      "description": "This year's El Niño could be \"off the charts\", as unusually warm Pacific waters raise fears of more extreme weather around the world."
     }
   ]
 }
