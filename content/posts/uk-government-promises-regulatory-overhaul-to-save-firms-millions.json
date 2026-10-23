@@ -82,6 +82,9 @@
   "publishedAt": "2026-10-23T08:10:12.308Z",
   "updatedAt": "2026-10-23T08:10:12.308Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172604022681745",
+    "sharedAt": "2026-10-23T08:14:06.523Z"
+  },
   "ogImage": "/og/uk-government-promises-regulatory-overhaul-to-save-firms-millions.jpg"
 }

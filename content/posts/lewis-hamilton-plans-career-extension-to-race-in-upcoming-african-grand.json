@@ -89,6 +89,9 @@
   "publishedAt": "2026-10-23T07:24:59.837Z",
   "updatedAt": "2026-10-23T07:24:59.837Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172603752681745",
+    "sharedAt": "2026-10-23T08:13:22.370Z"
+  },
   "ogImage": "/og/lewis-hamilton-plans-career-extension-to-race-in-upcoming-african-grand.jpg"
 }
