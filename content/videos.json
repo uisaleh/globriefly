@@ -1,13 +1,45 @@
 {
-  "updatedAt": "2026-10-23T12:26:22.678Z",
+  "updatedAt": "2026-10-23T13:21:15.901Z",
   "videos": [
     {
-      "id": "i1_9kIEj2b8",
-      "title": "What happens when everything becomes a market?",
+      "id": "Hko9Evnd5Gg",
+      "title": "AI job threat: Barclays to slash 5,000 jobs in AI-powered cost-cut drive",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T12:00:37.000Z",
-      "description": "Is there really an economic case for trading on Taylor Swift? Tarek Mansour, co-founder and CEO of prediction market Kalshi, joins the Reuters Econ World podcast to explain why there's a market for just about everything."
+      "publishedAt": "2026-10-23T13:06:48.000Z",
+      "description": "Barclays said it is cutting around 5,000 jobs or 5% of its workforce this year, as it uses technology such as AI to slash fixed costs and improve returns. Lawrence White has more."
+    },
+    {
+      "id": "9HTLyZYkGpA",
+      "title": "The fight to protect India’s 600-year-old mosque in Ujjain",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T12:41:17.000Z",
+      "description": "The minaret of their mosque collapsed during demolition work to widen a road for a Hindu pilgrimage. Now, Indian Muslims in Ujjain are working to repair their centuries-old building."
+    },
+    {
+      "id": "Mw50oMGLp9c",
+      "title": "Police treating shooting in Paris suburb as \"terrorist incident\".",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-23T12:38:06.000Z",
+      "description": ""
+    },
+    {
+      "id": "E4N_PAh4S-U",
+      "title": "For decades, he’s hunted tickets from Cal Ripken’s ‘Iron Man’ streak. Just 8 elude him",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-23T12:27:14.000Z",
+      "description": "Lifelong Orioles fan Rick Taylor has spent 28 years collecting tickets from every game in Cal Ripken Jr.’s 2,632-game streak. Just eight tickets elude him. (AP video by Mingson Lau)\r"
+    },
+    {
+      "id": "8ttnJ_7_IQY",
+      "title": "How Brazil's election could impact the Amazon rainforest",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T12:13:02.000Z",
+      "description": "As Brazilians head to the polls to choose between President Lula and his predecessor's son, Flavio Bolsonaro, that choice could affect the future of the Amazon rainforest — and eventually your food prices. "
     },
     {
       "id": "QqxVhGcavt0",
@@ -26,20 +58,20 @@
       "description": "In Singapore, the quest for eternal youth is no longer just a billionaire's fantasy. It's becoming big business. High-tech clinics, longevity labs and specialist companies all promise the same thing: slowing down the age"
     },
     {
-      "id": "gUhS0YhkLzE",
-      "title": "Israeli strikes hit Nuseirat camp as elections near",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T11:45:37.000Z",
-      "description": "Homes in Nuseirat lie shattered after a series of Israeli strikes, forcing residents to grab what they can and search for safety. With Israel’s vote approaching, Palestinians say only a real diplomatic shift can stop the"
+      "id": "i1_9kIEj2b8",
+      "title": "What happens when everything becomes a market?",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T12:00:37.000Z",
+      "description": "Is there really an economic case for trading on Taylor Swift? Tarek Mansour, co-founder and CEO of prediction market Kalshi, joins the Reuters Econ World podcast to explain why there's a market for just about everything."
     },
     {
-      "id": "aLkkfSq83So",
-      "title": "AfD scrambling after data breach",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T11:40:51.000Z",
-      "description": "Germany’s far-right AfD is investigating the extent of the damage done by a massive breach of data. Hackers copied hundreds of thousands of emails and sensitive documents. The data has been published online, and the firs"
+      "id": "CX2pWaprvw0",
+      "title": "From jewelry to bars: China’s rush to gold as a safe haven",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T12:37:16.000Z",
+      "description": "In China’s biggest gold market, shoppers buy fewer necklaces and more coins and bars. Jewelry sales drop by about a third, while investment gold jumps nearly 30 percent as households search for a safe haven amid a weak p"
     },
     {
       "id": "E8zFh4i0AaE",
@@ -58,12 +90,12 @@
       "description": "President Donald Trump on Thursday accused NBA star LeBron James of disrespecting the United States after he appeared to continue warming up during the national anthem before Philadelphia’s season opener on Tuesday. Spea"
     },
     {
-      "id": "ZgXYH5nxCSA",
-      "title": "Market Talk: ECB could rescue everyone but France",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T11:54:29.000Z",
-      "description": "French borrowing costs have surged to 5%, fuelling fears of a new euro zone debt crisis. Carsten Brzeski from ING told Reuters the ECB could deploy its crisis-fighting tools to shield the rest of the euro zone, while lea"
+      "id": "aLkkfSq83So",
+      "title": "AfD scrambling after data breach",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T11:40:51.000Z",
+      "description": "Germany’s far-right AfD is investigating the extent of the damage done by a massive breach of data. Hackers copied hundreds of thousands of emails and sensitive documents. The data has been published online, and the firs"
     },
     {
       "id": "9H2pBlCO_MI",
@@ -82,20 +114,20 @@
       "description": "French Interior Minister Laurent Nunez held a press conference on security arrangements ahead of upcoming protests. He announced that 70,000 security forces would be mobilised on October 24 to keep order."
     },
     {
-      "id": "RZ23A6q3DUw",
-      "title": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T11:25:36.000Z",
-      "description": "Health workers in Gaza are participating in a breast cancer campaign "
+      "id": "ZgXYH5nxCSA",
+      "title": "Market Talk: ECB could rescue everyone but France",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T11:54:29.000Z",
+      "description": "French borrowing costs have surged to 5%, fuelling fears of a new euro zone debt crisis. Carsten Brzeski from ING told Reuters the ECB could deploy its crisis-fighting tools to shield the rest of the euro zone, while lea"
     },
     {
-      "id": "4lWB4zx-PhI",
-      "title": "Israeli army says 'terror attack' prevented after shooting",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T11:40:22.000Z",
-      "description": "Israel's Prime Minister Benjamin Netanyahu has instructed Israeli security forces to immediately cordon off the city of Hebron and prepare to fully close all of the West Bank. It's after the Israeli army said it had prev"
+      "id": "g3bwy8rpnZA",
+      "title": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T12:14:48.000Z",
+      "description": "Huge waves were seen crashing into Taiwan’s northeastern coast as Typhoon Champi approached with winds reaching 191 km|h. The storm has killed one person so far and injured 163, forcing thousands to evacuate as much of t"
     },
     {
       "id": "YMWxi98MJSc",
@@ -114,12 +146,12 @@
       "description": "U.S. President Donald Trump said administration officials who are not honest should be prosecuted, responding to a question about reports that the Justice Department is looking into Corey Lewandowski. Trump said he was u"
     },
     {
-      "id": "q0wwl5Q0baM",
-      "title": "Australian reporter recalls 'terrifying' rescue of man from sinking car",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T07:30:27.000Z",
-      "description": "An Australian television reporter who rescued a man from a car as it was engulfed by flood waters said it was terrifying to watch someone almost drown but added \"there are few better feelings\" than rescuing a person's li"
+      "id": "4lWB4zx-PhI",
+      "title": "Israeli army says 'terror attack' prevented after shooting",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T11:40:22.000Z",
+      "description": "Israel's Prime Minister Benjamin Netanyahu has instructed Israeli security forces to immediately cordon off the city of Hebron and prepare to fully close all of the West Bank. It's after the Israeli army said it had prev"
     },
     {
       "id": "DNONFn5HjA4",
@@ -138,60 +170,28 @@
       "description": "Dozens of protesters took to the Paris streets on Thursday despite bans on demonstrations ordered in multiple French cities following a weekend of clashes and widespread looting that marked France’s most violent unrest i"
     },
     {
-      "id": "CI4Jw4kFS1g",
-      "title": "Rescue teams search for survivors after Tibet earthquake",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T09:47:34.000Z",
-      "description": "Subscribe to our channel: http://bit.ly/AJSubscribe"
+      "id": "q0wwl5Q0baM",
+      "title": "Australian reporter recalls 'terrifying' rescue of man from sinking car",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T07:30:27.000Z",
+      "description": "An Australian television reporter who rescued a man from a car as it was engulfed by flood waters said it was terrifying to watch someone almost drown but added \"there are few better feelings\" than rescuing a person's li"
     },
     {
-      "id": "BPDZSI_l0gY",
-      "title": "NATO to boost its presence in the Black Sea after strikes",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T10:40:46.000Z",
-      "description": "NATO is planning to deploy extra assets in the Black Sea including patrol aircraft, radar systems and intelligence personnel. The alliance hasn't directly blamed any country, but the working assumption is that Russia is "
+      "id": "gUhS0YhkLzE",
+      "title": "Israeli strikes hit Nuseirat camp as elections near",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T11:45:37.000Z",
+      "description": "Homes in Nuseirat lie shattered after a series of Israeli strikes, forcing residents to grab what they can and search for safety. With Israel’s vote approaching, Palestinians say only a real diplomatic shift can stop the"
     },
     {
       "id": "HBOQnt-sCS0",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "title": "Ukraine disputes Trump claim Musk reversed Starlink restrictions",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
       "publishedAt": "2026-10-23T10:24:29.000Z",
       "description": "Ukraine is still recording issues with the Starlink network, sources within the defence ministry say, after Donald Trump said limits on the satellite uplink had been reversed by Elon Musk."
-    },
-    {
-      "id": "YknB3uw08x0",
-      "title": "How visiting US surgeons reconstruct eyes of wounded Ukraine soldiers",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-23T05:30:30.000Z",
-      "description": "A mine blast on the battlefield plunged Ukrainian war veteran Mykola Kasiuk’s world into near-total darkness. After two years and multiple operations by local doctors, Kasiuk hopes a visiting team of U.S. surgeons can re"
-    },
-    {
-      "id": "9B3zb7Lt1dU",
-      "title": "Ukrainian soldier amputated his own foot to survive",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T07:30:03.000Z",
-      "description": "Ukrainian soldier Kostiantyn Vlasenko spent 491 days trapped in the drone-filled \"kill zone,\" and months hiding in a hole when he lost both feet after a Russian attack. Just when he had given up hope, his unit sent a gia"
-    },
-    {
-      "id": "326r4RbBpx4",
-      "title": "Why the youngest woman in the House of Lords wants to scrap it",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-23T07:00:26.000Z",
-      "description": "The youngest woman in the House of Lords wants to see it replaced."
-    },
-    {
-      "id": "C8h9qYy71Fs",
-      "title": "🇧🇷 Brazil: Why should you care about the country's elections? • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-23T07:01:48.000Z",
-      "description": "🗳️ On October 25, a runoff election in #Brazil could change the political landscape of #LatinAmerica. In the first round, #FlavioBolsonaro, son of ex-president Jair #Bolsonaro, beat incumbent President Luiz Inacio #Lula"
     }
   ]
 }

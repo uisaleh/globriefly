@@ -1,22 +1,22 @@
-12:26:22 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-12:26:22 collecting videos…
-12:26:22   video feed BBC News: 15 in feed, 5 kept
-12:26:22   video feed Al Jazeera English: 15 in feed, 5 kept
-12:26:22   video feed DW News: 15 in feed, 5 kept
-12:26:22   video feed FRANCE 24 English: 15 in feed, 5 kept
-12:26:22   video feed Sky News: 15 in feed, 5 kept
-12:26:22   video feed Reuters: 15 in feed, 5 kept
-12:26:22   video feed Associated Press: 15 in feed, 5 kept
-12:26:22 videos: saved 24
-12:26:22 collecting feeds…
-12:26:28 751 new items
-12:26:29 609 candidate stories
-12:26:29 categories needing stories: science, entertainment, politics, technology, sports → reserved science
-12:26:29 writing: Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths (2 sources)
-12:26:44   source text: 7000 / 0 chars
-12:27:04   ✓ published: /news/record-european-summer-heat-claims-over-50-000-lives-in-new-study/ [science] image: wikimedia
-12:27:04 writing: Netanyahu orders West Bank closure as attack wounds Israelis before election (7 sources)
-12:27:21   source text: 4820 / 358 / 0 / 3283 / 3795 chars
-12:27:33   too close to source wording — rewriting
-12:27:46   ✓ published: /news/netanyahu-shuts-down-west-bank-following-shooting-before-national-vote/ [world] image: wikimedia
-12:27:46 done — 2 stories
+13:21:15 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+13:21:15 collecting videos…
+13:21:15   video feed BBC News: 15 in feed, 5 kept
+13:21:15   video feed Al Jazeera English: 15 in feed, 5 kept
+13:21:15   video feed DW News: 15 in feed, 5 kept
+13:21:15   video feed FRANCE 24 English: 15 in feed, 5 kept
+13:21:15   video feed Sky News: 15 in feed, 5 kept
+13:21:15   video feed Reuters: 15 in feed, 5 kept
+13:21:15   video feed Associated Press: 15 in feed, 5 kept
+13:21:15 videos: saved 24
+13:21:15 collecting feeds…
+13:21:18 792 new items
+13:21:20 648 candidate stories
+13:21:20 categories needing stories: entertainment, politics, technology, sports → reserved entertainment
+13:21:20 writing: Just in Time For Halloween, Ryan Gosling Is Reviving His Spooky Rock Band Dead Man’s Bones (2 sources)
+13:21:20   source text: 3196 / 1826 chars
+13:21:28   ✓ published: /news/ryan-gosling-revives-spooky-rock-duo-dead-mans-bones/ [entertainment] image: wikimedia
+13:21:28 writing: Greece enacts social media ban for kids under 15 (4 sources)
+13:21:29   source text: 2029 / 1923 / 990 chars
+13:21:50 writer returned unusable output: { "headline": "Greece approves social media ban for children under fifteen", "standfirst": "The Greek parliament has passed legislation banning children und
+13:21:50   skipped
+13:21:50 done — 1 stories
