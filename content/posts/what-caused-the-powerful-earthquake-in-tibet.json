@@ -1,0 +1,90 @@
+{
+  "slug": "what-caused-the-powerful-earthquake-in-tibet",
+  "status": "published",
+  "type": "explainer",
+  "category": "world",
+  "region": "Asia",
+  "headline": "What caused the powerful earthquake in Tibet?",
+  "standfirst": "A magnitude 7.0 earthquake struck Tibet, causing widespread damage, dozens of injuries, and at least 16 tragic deaths.",
+  "keyPoints": [
+    "A 7.0-magnitude earthquake struck Tibet in southwestern China.",
+    "At least 16 people died and 32 others were injured.",
+    "Hundreds of residential buildings and several livestock sheds collapsed.",
+    "The earthquake was the strongest to hit China since January 2024."
+  ],
+  "sections": [
+    {
+      "heading": "What happened in Tibet?",
+      "paragraphs": [
+        "A powerful earthquake measuring 7.0 on the Richter scale struck the remote Himalayan region of Tibet in southwestern China on Thursday night. State media reported that the tremor caused the collapse of hundreds of homes and severely impacted local infrastructure. The disaster response was swift, with emergency management bureaus activating a level-II disaster emergency response.",
+        "Local officials and state news agencies confirmed that at least 16 people lost their lives in the disaster. Dozens of others sustained injuries, with several individuals requiring urgent medical care for serious conditions. Surveillance and news videos captured residents rushing outdoors to find safe shelter in the streets and vehicles as the tremors shook the area."
+      ]
+    },
+    {
+      "heading": "Where did the earthquake strike?",
+      "paragraphs": [
+        "According to the US Geological Survey, the epicenter of the earthquake was located in a mountainous, sparsely populated area about 190 kilometers northeast of the city of Nagqu. The tremor was also felt roughly 300 to 390 kilometers north of the Tibetan regional capital of Lhasa. Despite the lower population density in the immediate vicinity, the sheer force of the tremor caused significant structural damage.",
+        "The earthquake struck at a relatively shallow depth of only 10 kilometers. Seismologists and disaster experts generally consider shallow earthquakes to be much more dangerous and destructive because the seismic energy has less distance to travel before reaching the surface, intensifying the shaking felt on the ground."
+      ]
+    },
+    {
+      "heading": "How severe is the damage?",
+      "paragraphs": [
+        "State media reports indicated that at least 339 residential buildings collapsed completely, while many other homes in villages near the epicenter developed severe structural cracks. Additionally, twenty livestock sheds were destroyed, dealing a blow to local agriculture and livelihoods in the remote community.",
+        "Disaster relief operations faced immediate challenges due to disrupted power and communication lines in the affected zone. Local authorities and emergency response teams deployed personnel to assess the full scale of the destruction, rescue trapped residents, and deliver medical aid to the injured."
+      ]
+    },
+    {
+      "heading": "Are earthquakes common in this region?",
+      "paragraphs": [
+        "China frequently experiences seismic activity due to complex tectonic movements, particularly around the mountainous plateaus of the southwest. This particular tremor stands out as the most powerful earthquake to hit China since January 2024, and the strongest to hit the Tibetan region in five years.",
+        "The region has a history of major seismic events. For instance, a quake near Mount Everest in Tibet's Tingri region caused significant casualties previously, and major historical tremors in neighboring provinces have demonstrated the vulnerability of mountain infrastructure to sudden tectonic shifts."
+      ]
+    }
+  ],
+  "highlight": "The earthquake is the strongest to hit the region in the past five years, and the most powerful to hit China since January 2024.",
+  "timeline": [],
+  "tags": [
+    "earthquake",
+    "Tibet",
+    "China",
+    "Nagqu",
+    "natural disaster"
+  ],
+  "socialSummary": "A 7.0-magnitude earthquake in Tibet has left at least 16 dead, dozens injured, and hundreds of homes collapsed.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Sagarmatha_Everest_Zone%2C_Nepal%2C_Himalayas.jpg/1920px-Sagarmatha_Everest_Zone%2C_Nepal%2C_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "View of Khumbu Glacier, Ama Dablam, Kangtega, Thamserku and other mountain peaks in the Sagarmatha Everest Zone in Nepal,…",
+    "credit": "Vyacheslav Argenberg / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sagarmatha_Everest_Zone,_Nepal,_Himalayas.jpg",
+    "license": "CC BY 4.0",
+    "provider": "wikimedia"
+  },
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss"
+    },
+    {
+      "name": "DW",
+      "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
+    }
+  ],
+  "sourceTitles": [
+    "Tibet rocked by 7.0-magnitude earthquake",
+    "Tibet earthquake kills at least 16 people, injures dozens: state media",
+    "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+    "Strong earthquake strikes China’s remote Tibet region"
+  ],
+  "sourceCount": 3,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-10-23T01:27:24.048Z",
+  "updatedAt": "2026-10-23T01:27:24.048Z",
+  "readingMinutes": 2,
+  "facebook": null
+}
