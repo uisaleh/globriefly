@@ -1,24 +1,23 @@
-16:12:29 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-16:12:29 collecting videos…
-16:12:29   video feed BBC News: 15 in feed, 5 kept
-16:12:29   video feed Al Jazeera English: 15 in feed, 5 kept
-16:12:29   video feed DW News: 15 in feed, 5 kept
-16:12:29   video feed FRANCE 24 English: 15 in feed, 5 kept
-16:12:29   video feed Sky News: 15 in feed, 5 kept
-16:12:29   video feed Reuters: 15 in feed, 5 kept
-16:12:29   video feed Associated Press: 15 in feed, 5 kept
-16:12:29 videos: saved 24
-16:12:29 collecting feeds…
-16:12:35 914 new items
-16:12:36 738 candidate stories
-16:12:36 categories needing stories: technology, politics, sports → reserved technology
-16:12:36 writing: Apple Music has a fun Easter egg for the iPod's 25th anniversary (2 sources)
-16:12:36   source text: 2046 / 1106 chars
-16:12:50   ✓ published: /news/apple-music-hides-interactive-virtual-ipod-on-error-pages-for-milestone/ [technology] image: wikimedia via idea "Apple Music website"
-16:12:50 writing: Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live (4 sources)
-16:12:50   source text: 7000 / 2456 / 3388 chars
-16:12:57   ✓ published: /news/melania-trump-brokers-local-ceasefire-in-russian-occupied-oleshky/ [world] image: wikimedia via idea "Melania Trump White House"
-16:12:57 writing: DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses (3 sources)
-16:12:58   source text: 3604 / 7000 / 0 chars
-16:13:09   ✓ published: /news/justice-department-launches-lawsuit-to-halt-alaska-senate-certification/ [politics] image: wikimedia via idea "Dan Sullivan Alaska Senate"
-16:13:09 done — 3 stories
+18:16:05 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+18:16:05 collecting videos…
+18:16:05   video feed BBC News: 15 in feed, 5 kept
+18:16:05   video feed Al Jazeera English: 15 in feed, 5 kept
+18:16:05   video feed DW News: 15 in feed, 5 kept
+18:16:05   video feed FRANCE 24 English: 15 in feed, 5 kept
+18:16:05   video feed Sky News: 15 in feed, 5 kept
+18:16:05   video feed Reuters: 15 in feed, 5 kept
+18:16:05   video feed Associated Press: 15 in feed, 5 kept
+18:16:05 videos: saved 24
+18:16:05 collecting feeds…
+18:16:08 901 new items
+18:16:10 720 candidate stories
+18:16:10 categories needing stories: technology, sports → reserved technology
+18:16:10 writing: The iPhone Duo should have been an iPad (2 sources)
+18:16:10   source text: 2213 / 7000 chars
+18:16:17   ✓ published: /news/apple-enters-the-foldable-smartphone-market-with-the-debut-of-the/ [technology] image: wikimedia via idea "iPhone Duo foldable smartphone"
+18:16:17 writing: Vincent Kompany hospitalized after collapsing at Bayern Munich training ground (5 sources)
+18:16:17   source text: 1972 / 1615 / 0 / 1301 chars
+18:16:23   too close to source wording — rewriting
+18:16:45 image source error: The operation was aborted due to timeout
+18:16:45   ✓ published: /news/vincent-kompany-hospitalized-following-training-ground-collapse/ [sports] image: wikimedia via name "Vincent Kompany"
+18:16:45 done — 2 stories
