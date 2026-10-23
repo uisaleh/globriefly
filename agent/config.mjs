@@ -13,8 +13,9 @@ export const env = {
   PEXELS_API_KEY: process.env.PEXELS_API_KEY || '',
 
   // Facebook Page publishing.
-  FB_PAGE_ID: process.env.FB_PAGE_ID || '',
-  FB_PAGE_TOKEN: process.env.FB_PAGE_TOKEN || '',
+  FB_PAGE_ID: (process.env.FB_PAGE_ID || '').replace(/[^0-9]/g, ''),
+  // Tolerate copy-paste extras: quotes, spaces, line breaks, a leading "access_token": label, trailing comma.
+  FB_PAGE_TOKEN: ((process.env.FB_PAGE_TOKEN || '').match(/EAA[A-Za-z0-9]+/) || [''])[0],
   FB_GRAPH_VERSION: process.env.FB_GRAPH_VERSION || 'v25.0',
   FB_LINK_IN: process.env.FB_LINK_IN || 'comment', // 'comment' or 'caption'
 

@@ -12,7 +12,10 @@ const get = async (u) => (await fetchWithTimeout(u, {}, 20000)).json().catch(() 
 
 say(`Facebook check — ${new Date().toISOString()}`);
 if (!env.FB_PAGE_ID) say('✗ FB_PAGE_ID secret is missing');
-if (!env.FB_PAGE_TOKEN) say('✗ FB_PAGE_TOKEN secret is missing');
+const raw = process.env.FB_PAGE_TOKEN || '';
+if (!raw) say('✗ FB_PAGE_TOKEN secret is missing');
+else say(`token secret: ${raw.length} characters saved, ${env.FB_PAGE_TOKEN.length} usable${raw.trim().startsWith('EAA') ? '' : ' (extra characters were stripped)'}`);
+if (raw && !env.FB_PAGE_TOKEN) say('✗ no token starting with EAA found in FB_PAGE_TOKEN');
 if (env.FB_PAGE_ID && env.FB_PAGE_TOKEN) {
   const t = encodeURIComponent(env.FB_PAGE_TOKEN);
   const dbg = await get(g(`debug_token?input_token=${t}&access_token=${t}`));
