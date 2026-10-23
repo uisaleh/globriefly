@@ -22,19 +22,23 @@ if (env.FB_PAGE_ID && env.FB_PAGE_TOKEN) {
   const d = dbg.data || {};
   if (dbg.error) say(`token check error: ${dbg.error.message}`);
   else {
-    say(`token type: ${d.type || '?'} · valid: ${d.is_valid} · expires: ${d.expires_at ? (d.expires_at === 0 ? 'never' : new Date(d.expires_at * 1000).toISOString()) : 'never'}`);
+    say(`token type: ${d.type || '?'} · valid: ${d.is_valid} · expires: ${d.expires_at ? new Date(d.expires_at * 1000).toISOString().slice(0, 10) : 'never'} · data access until: ${d.data_access_expires_at ? new Date(d.data_access_expires_at * 1000).toISOString().slice(0, 10) : '-'}`);
     const scopes = d.scopes || [];
     say(`permissions: ${scopes.join(', ') || '(none listed)'}`);
     for (const need of ['pages_manage_posts', 'pages_read_engagement', 'pages_show_list', 'pages_manage_engagement']) {
       say(`${scopes.includes(need) ? '✓' : '✗'} ${need}${need === 'pages_manage_engagement' ? ' (only needed for the link-in-first-comment)' : ''}`);
     }
   }
-  const page = await get(g(`${env.FB_PAGE_ID}?fields=name,access_token,tasks&access_token=${t}`));
+  const page = await get(g(`${env.FB_PAGE_ID}?fields=name,access_token&access_token=${t}`));
   if (page.error) say(`✗ Page lookup failed: ${page.error.message}`);
   else {
     say(`✓ Page found: ${page.name}`);
     say(page.access_token ? '✓ Page token obtained — auto-posting will work' : 'ℹ token is already a Page token (or Page token not returned)');
-    if (page.tasks) say(`Page tasks: ${page.tasks.join(', ')}`);
+    if (page.access_token) {
+      const pt = encodeURIComponent(page.access_token);
+      const pd = (await get(g(`debug_token?input_token=${pt}&access_token=${pt}`))).data || {};
+      say(`Page token: type ${pd.type || '?'} · valid: ${pd.is_valid} · expires: ${pd.expires_at ? new Date(pd.expires_at * 1000).toISOString().slice(0, 10) : 'never'}`);
+    }
   }
 }
 fs.mkdirSync(path.join(ROOT, 'content', 'state'), { recursive: true });
