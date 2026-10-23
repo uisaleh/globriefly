@@ -96,6 +96,8 @@
   "publishedAt": "2026-10-19T17:49:56.502Z",
   "updatedAt": "2026-10-19T17:49:56.502Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/what-is-happening-in-australian-politics-following-a-shocking-attack-on.jpg"
 }

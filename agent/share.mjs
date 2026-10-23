@@ -21,7 +21,7 @@ async function isLive(url) {
 async function main() {
   if (!facebookReady()) { log('Facebook not configured — skipping share'); return; }
   const queue = loadPosts()
-    .filter((p) => p.status === 'published' && !p.facebook?.postId && !p.facebook?.skip && Date.now() - new Date(p.publishedAt) < 48 * 36e5)
+    .filter((p) => p.status === 'published' && !p.facebook?.postId && !p.facebook?.skip && Date.now() - new Date(p.publishedAt) < 12 * 36e5)
     .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt))
     .slice(0, MAX_PER_RUN);
 

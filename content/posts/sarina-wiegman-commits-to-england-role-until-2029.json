@@ -92,6 +92,8 @@
   "publishedAt": "2026-10-19T18:11:47.032Z",
   "updatedAt": "2026-10-19T18:11:47.032Z",
   "readingMinutes": 5,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/sarina-wiegman-commits-to-england-role-until-2029.jpg"
 }

@@ -100,6 +100,8 @@
   "publishedAt": "2026-10-22T18:30:17.390Z",
   "updatedAt": "2026-10-22T18:30:17.390Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/france-records-first-human-infection-with-animal-borne-shamonda-virus.jpg"
 }

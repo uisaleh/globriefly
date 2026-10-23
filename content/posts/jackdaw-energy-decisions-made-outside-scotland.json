@@ -83,6 +83,8 @@
   "publishedAt": "2026-10-22T08:25:55.083Z",
   "updatedAt": "2026-10-22T08:25:55.083Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/jackdaw-energy-decisions-made-outside-scotland.jpg"
 }

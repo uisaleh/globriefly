@@ -76,6 +76,8 @@
   "publishedAt": "2026-10-22T13:44:59.107Z",
   "updatedAt": "2026-10-22T13:44:59.107Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/wearable-startup-secures-funding-to-develop-voice-activated-smart.jpg"
 }

@@ -88,6 +88,8 @@
   "publishedAt": "2026-10-21T07:31:30.199Z",
   "updatedAt": "2026-10-21T07:31:30.199Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/philadelphia-defeats-new-york-as-opening-nba-matches-tip-off.jpg"
 }

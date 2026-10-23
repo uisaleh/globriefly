@@ -89,6 +89,8 @@
   "publishedAt": "2026-10-19T22:19:17.777Z",
   "updatedAt": "2026-10-19T22:19:17.777Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/prime-minister-unveils-strict-new-regulations-to-curb-private-parking.jpg"
 }

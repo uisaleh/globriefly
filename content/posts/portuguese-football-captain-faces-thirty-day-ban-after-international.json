@@ -88,6 +88,8 @@
   "publishedAt": "2026-10-19T22:18:38.151Z",
   "updatedAt": "2026-10-19T22:18:38.151Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/portuguese-football-captain-faces-thirty-day-ban-after-international.jpg"
 }

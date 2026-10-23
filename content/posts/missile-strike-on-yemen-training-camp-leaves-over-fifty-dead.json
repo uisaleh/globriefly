@@ -73,6 +73,8 @@
   "publishedAt": "2026-10-19T17:58:06.332Z",
   "updatedAt": "2026-10-19T17:58:06.332Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/missile-strike-on-yemen-training-camp-leaves-over-fifty-dead.jpg"
 }

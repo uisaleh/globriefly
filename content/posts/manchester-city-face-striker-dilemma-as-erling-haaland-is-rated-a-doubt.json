@@ -65,6 +65,8 @@
   "publishedAt": "2026-10-19T17:49:52.085Z",
   "updatedAt": "2026-10-19T17:49:52.085Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/manchester-city-face-striker-dilemma-as-erling-haaland-is-rated-a-doubt.jpg"
 }

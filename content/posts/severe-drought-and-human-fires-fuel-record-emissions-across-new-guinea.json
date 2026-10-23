@@ -83,6 +83,8 @@
   "publishedAt": "2026-10-22T08:30:44.402Z",
   "updatedAt": "2026-10-22T08:30:44.402Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/severe-drought-and-human-fires-fuel-record-emissions-across-new-guinea.jpg"
 }

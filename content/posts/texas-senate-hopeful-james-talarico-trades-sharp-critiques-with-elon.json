@@ -87,6 +87,8 @@
   "publishedAt": "2026-10-22T07:30:32.592Z",
   "updatedAt": "2026-10-22T07:30:32.592Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/texas-senate-hopeful-james-talarico-trades-sharp-critiques-with-elon.jpg"
 }

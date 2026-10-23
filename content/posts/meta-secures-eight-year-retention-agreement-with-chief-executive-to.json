@@ -91,6 +91,8 @@
   "publishedAt": "2026-10-23T01:27:04.927Z",
   "updatedAt": "2026-10-23T01:27:04.927Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/meta-secures-eight-year-retention-agreement-with-chief-executive-to.jpg"
 }

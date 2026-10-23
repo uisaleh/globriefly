@@ -106,6 +106,8 @@
   "publishedAt": "2026-10-20T07:27:45.759Z",
   "updatedAt": "2026-10-20T07:27:45.759Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/angel-reese-powers-atlanta-dream-to-historic-wnba-finals-win-over.jpg"
 }

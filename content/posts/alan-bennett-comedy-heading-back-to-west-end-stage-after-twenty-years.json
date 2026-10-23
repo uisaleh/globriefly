@@ -87,6 +87,8 @@
   "publishedAt": "2026-10-22T08:26:31.061Z",
   "updatedAt": "2026-10-22T08:26:31.061Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "skip": "published before auto-posting was switched on"
+  },
   "ogImage": "/og/alan-bennett-comedy-heading-back-to-west-end-stage-after-twenty-years.jpg"
 }
