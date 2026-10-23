@@ -1,0 +1,31 @@
+name: Collect videos
+
+# Refreshes the Watch section (content/videos.json). The news agent also does this every run.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  videos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: node agent/videos.mjs
+      - name: Save
+        run: |
+          git config user.name "Globriefly Desk"
+          git config user.email "desk@users.noreply.github.com"
+          git add content/videos.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update videos"
+            git pull --rebase
+            git push
+          fi

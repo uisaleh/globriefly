@@ -8,6 +8,7 @@ import { collectItems, clusterItems } from './collect.mjs';
 import { extractText } from './extract.mjs';
 import { writeArticle, writeExplainer } from './llm.mjs';
 import { findImage } from './images.mjs';
+import { updateVideos } from './videos.mjs';
 import { saveCard } from './card.mjs';
 import { categoryBySlug } from '../site.config.mjs';
 import { POSTS_DIR, STATE_FILE, ROOT, log, readJSON, writeJSON, slugify, similarity, fingerprint, loadPosts, sharedPhrases, withDeadline } from './util.mjs';
@@ -85,6 +86,8 @@ async function main() {
   const recentTitles = recent.flatMap((p) => [p.headline, ...(p.sourceTitles || [])]);
 
   log(`start — writer: ${env.GEMINI_API_KEY ? 'Gemini key set' : 'NO GEMINI KEY'} (${env.GEMINI_MODELS.join(', ')})${env.GROQ_API_KEY ? ' + Groq' : ''}; photos: Wikimedia + Openverse${env.PEXELS_API_KEY ? ' + Pexels' : ''}${env.UNSPLASH_ACCESS_KEY ? ' + Unsplash' : ''}; review mode: ${env.REQUIRE_REVIEW}`);
+  log('collecting videos…');
+  await updateVideos().catch((e) => log('videos failed:', e.message));
   log('collecting feeds…');
   const items = ((await withDeadline(collectItems(), 120000, [])) || []).filter((it) => !state.urls[it.url]);
   log(`${items.length} new items`);
