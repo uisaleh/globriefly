@@ -1,0 +1,94 @@
+✓ [current] world         BBC News                   25 fresh / 25 items, 24 with summary  https://feeds.bbci.co.uk/news/world/rss.xml
+✓ [current] world         Al Jazeera                 25 fresh / 25 items, 24 with summary  https://www.aljazeera.com/xml/rss/all.xml
+✓ [current] world         The Guardian               37 fresh / 45 items, 45 with summary  https://www.theguardian.com/world/rss
+✓ [current] world         NPR                        10 fresh / 10 items, 10 with summary  https://feeds.npr.org/1004/rss.xml
+✓ [current] world         DW                         31 fresh / 133 items, 133 with summary  https://rss.dw.com/rdf/rss-en-all
+✓ [current] world         France 24                  24 fresh / 24 items, 20 with summary  https://www.france24.com/en/rss
+✗ [current] world         UN News                    Non-whitespace before first tag.
+Line: 0
+Column: 1
+Char:   https://news.un.org/feed/subscribe/en/news/all/rss.xml
+✓ [current] politics      BBC News                   31 fresh / 60 items, 54 with summary  https://feeds.bbci.co.uk/news/politics/rss.xml
+✓ [current] politics      NPR                        10 fresh / 10 items, 10 with summary  https://feeds.npr.org/1014/rss.xml
+✓ [current] business      BBC News                   30 fresh / 55 items, 48 with summary  https://feeds.bbci.co.uk/news/business/rss.xml
+✓ [current] business      CNBC                       30 fresh / 30 items, 26 with summary  https://www.cnbc.com/id/100727362/device/rss/rss.html
+✓ [current] business      The Guardian               9 fresh / 20 items, 20 with summary  https://www.theguardian.com/business/rss
+✓ [current] technology    BBC News                   12 fresh / 21 items, 18 with summary  https://feeds.bbci.co.uk/news/technology/rss.xml
+✓ [current] technology    TechCrunch                 20 fresh / 20 items, 19 with summary  https://techcrunch.com/feed/
+✓ [current] technology    The Verge                  10 fresh / 10 items, 10 with summary  https://www.theverge.com/rss/index.xml
+✓ [current] technology    Ars Technica               20 fresh / 20 items, 9 with summary  https://feeds.arstechnica.com/arstechnica/index
+✓ [current] science       BBC News                   24 fresh / 40 items, 37 with summary  https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+✓ [current] science       ScienceDaily               27 fresh / 60 items, 60 with summary  https://www.sciencedaily.com/rss/top.xml
+✓ [current] science       NASA                       10 fresh / 10 items, 10 with summary  https://www.nasa.gov/news-release/feed/
+✓ [current] health        BBC News                   20 fresh / 56 items, 52 with summary  https://feeds.bbci.co.uk/news/health/rss.xml
+· [current] health        WHO                        0 fresh / 109 items, 109 with summary  https://www.who.int/rss-feeds/news-english.xml
+✓ [current] health        NPR                        6 fresh / 10 items, 10 with summary  https://feeds.npr.org/1128/rss.xml
+✓ [current] sports        BBC Sport                  43 fresh / 73 items, 68 with summary  https://feeds.bbci.co.uk/sport/rss.xml
+✗ [current] sports        ESPN                       Unable to parse XML.  https://www.espn.com/espn/rss/news
+✓ [current] sports        The Guardian               26 fresh / 26 items, 26 with summary  https://www.theguardian.com/sport/rss
+✓ [current] entertainment BBC News                   16 fresh / 21 items, 21 with summary  https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+✓ [current] entertainment Variety                    10 fresh / 10 items, 10 with summary  https://variety.com/feed/
+✓ [current] entertainment The Guardian               22 fresh / 26 items, 26 with summary  https://www.theguardian.com/culture/rss
+✓ [new]     world         Sky News                   7 fresh / 10 items, 10 with summary  https://feeds.skynews.com/feeds/rss/world.xml
+✓ [new]     world         CBS News                   27 fresh / 30 items, 30 with summary  https://www.cbsnews.com/latest/rss/world
+✓ [new]     world         ABC News                   25 fresh / 25 items, 25 with summary  https://abcnews.go.com/abcnews/internationalheadlines
+✗ [new]     world         The Independent            Non-whitespace before first tag.
+Line: 0
+Column: 1
+Char:   https://www.independent.co.uk/news/world/rss
+✓ [new]     world         New York Times             45 fresh / 50 items, 48 with summary  https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+✗ [new]     world         Washington Post            Status code 502  https://feeds.washingtonpost.com/rss/world
+✓ [new]     world         ABC News Australia         16 fresh / 25 items, 25 with summary  https://www.abc.net.au/news/feed/2942460/rss.xml
+✗ [new]     world         CBC News                   Request timed out after 20000ms  https://www.cbc.ca/webfeed/rss/rss-world
+✓ [new]     world         Euronews                   45 fresh / 50 items, 50 with summary  https://www.euronews.com/rss?level=theme&name=news
+✓ [new]     world         CNA                        20 fresh / 20 items, 14 with summary  https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311
+✓ [new]     world         The Hindu                  60 fresh / 60 items, 58 with summary  https://www.thehindu.com/news/international/feeder/default.rss
+✓ [new]     world         South China Morning Post   50 fresh / 50 items, 50 with summary  https://www.scmp.com/rss/91/feed
+✓ [new]     world         RNZ                        3 fresh / 3 items, 3 with summary  https://www.rnz.co.nz/rss/world.xml
+✓ [new]     world         Times of India             20 fresh / 20 items, 15 with summary  https://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+✓ [new]     world         The Japan Times            30 fresh / 30 items, 29 with summary  https://www.japantimes.co.jp/feed/
+✓ [new]     world         Africanews                 50 fresh / 50 items, 47 with summary  https://www.africanews.com/feed/rss
+✓ [new]     world         The Conversation           14 fresh / 49 items, 49 with summary  https://theconversation.com/global/articles.atom
+✓ [new]     politics      Politico                   10 fresh / 30 items, 19 with summary  https://rss.politico.com/politics-news.xml
+✓ [new]     politics      The Hill                   15 fresh / 15 items, 13 with summary  https://thehill.com/news/feed/
+✓ [new]     politics      The Guardian               18 fresh / 21 items, 18 with summary  https://www.theguardian.com/politics/rss
+✓ [new]     politics      New York Times             20 fresh / 20 items, 19 with summary  https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
+✓ [new]     politics      Politico Europe            10 fresh / 10 items, 10 with summary  https://www.politico.eu/feed/
+✓ [new]     business      New York Times             31 fresh / 49 items, 49 with summary  https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+✓ [new]     business      MarketWatch                10 fresh / 10 items, 7 with summary  https://feeds.content.dowjones.io/public/rss/mw_topstories
+✗ [new]     business      Yahoo Finance              Status code 404  https://finance.yahoo.com/news/rssindex
+✓ [new]     business      Fortune                    10 fresh / 10 items, 7 with summary  https://fortune.com/feed/
+✓ [new]     business      Sky News                   9 fresh / 10 items, 10 with summary  https://feeds.skynews.com/feeds/rss/business.xml
+✗ [new]     business      Al Jazeera                 Status code 404  https://www.aljazeera.com/xml/rss/economy.xml
+✓ [new]     technology    Wired                      45 fresh / 50 items, 49 with summary  https://www.wired.com/feed/rss
+✓ [new]     technology    Engadget                   20 fresh / 20 items, 15 with summary  https://www.engadget.com/rss.xml
+✓ [new]     technology    MIT Technology Review      8 fresh / 10 items, 10 with summary  https://www.technologyreview.com/feed/
+✓ [new]     technology    New York Times             13 fresh / 23 items, 22 with summary  https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+✓ [new]     technology    The Guardian               20 fresh / 36 items, 36 with summary  https://www.theguardian.com/technology/rss
+✓ [new]     technology    ZDNET                      8 fresh / 25 items, 22 with summary  https://www.zdnet.com/news/rss.xml
+✓ [new]     science       New York Times             16 fresh / 30 items, 30 with summary  https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
+✓ [new]     science       New Scientist              10 fresh / 10 items, 10 with summary  https://www.newscientist.com/feed/home/
+✓ [new]     science       Space.com                  17 fresh / 50 items, 44 with summary  https://www.space.com/feeds/all
+✓ [new]     science       Phys.org                   30 fresh / 30 items, 30 with summary  https://phys.org/rss-feed/
+✓ [new]     science       Live Science               13 fresh / 50 items, 49 with summary  https://www.livescience.com/feeds/all
+✓ [new]     science       The Guardian               11 fresh / 27 items, 27 with summary  https://www.theguardian.com/science/rss
+✓ [new]     science       Scientific American        15 fresh / 50 items, 34 with summary  http://rss.sciam.com/ScientificAmerican-Global
+✓ [new]     science       ESA                        5 fresh / 9 items, 6 with summary  https://www.esa.int/rssfeed/Our_Activities/Space_News
+✓ [new]     health        New York Times             11 fresh / 20 items, 19 with summary  https://rss.nytimes.com/services/xml/rss/nyt/Health.xml
+✓ [new]     health        STAT                       20 fresh / 20 items, 20 with summary  https://www.statnews.com/feed/
+✓ [new]     health        ScienceDaily               14 fresh / 60 items, 60 with summary  https://www.sciencedaily.com/rss/health_medicine.xml
+✓ [new]     health        KFF Health News            7 fresh / 10 items, 10 with summary  https://kffhealthnews.org/feed/
+✓ [new]     health        The Guardian               17 fresh / 20 items, 20 with summary  https://www.theguardian.com/society/health/rss
+✓ [new]     health        Medical Xpress             30 fresh / 30 items, 30 with summary  https://medicalxpress.com/rss-feed/
+· [new]     sports        Sky Sports                 0 fresh / 20 items, 11 with summary  https://www.skysports.com/rss/12040
+✓ [new]     sports        BBC Sport                  42 fresh / 80 items, 77 with summary  https://feeds.bbci.co.uk/sport/football/rss.xml
+· [new]     sports        New York Times             0 fresh / 0 items, 0 with summary  https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml
+✓ [new]     sports        Yahoo Sports               50 fresh / 50 items, 44 with summary  https://sports.yahoo.com/rss/
+✓ [new]     sports        CBS Sports                 36 fresh / 36 items, 31 with summary  https://www.cbssports.com/rss/headlines/
+✓ [new]     sports        ESPN Cricinfo              43 fresh / 100 items, 83 with summary  https://www.espncricinfo.com/rss/content/story/feeds/0.xml
+✓ [new]     entertainment The Hollywood Reporter     10 fresh / 10 items, 7 with summary  https://www.hollywoodreporter.com/feed/
+✓ [new]     entertainment Deadline                   12 fresh / 12 items, 12 with summary  https://deadline.com/feed/
+✓ [new]     entertainment Rolling Stone              10 fresh / 10 items, 10 with summary  https://www.rollingstone.com/feed/
+✓ [new]     entertainment Billboard                  10 fresh / 10 items, 8 with summary  https://www.billboard.com/feed/
+✓ [new]     entertainment New York Times             48 fresh / 62 items, 61 with summary  https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml
+✓ [new]     entertainment Sky News                   1 fresh / 10 items, 9 with summary  https://feeds.skynews.com/feeds/rss/entertainment.xml
