@@ -1,6 +1,7 @@
 // Finds a licensed photo for published stories that have none (Wikimedia → Openverse → Pexels/Unsplash if keys set).
 // Usage: node agent/fill-images.mjs                       → stories with no photo
 //        node agent/fill-images.mjs "slug=search words; slug2=other words"  → re-pick a photo for those stories
+//        node agent/fill-images.mjs "slug=auto"  → re-run the normal search (story idea → names → subject)
 import fs from 'node:fs';
 import path from 'node:path';
 import { findImage, findImageFor } from './images.mjs';
@@ -16,7 +17,7 @@ for (const name of fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith('.json')))
   const query = overrides[post.slug];
   if (Object.keys(overrides).length ? !query : post.image?.src) continue;
   let img = null;
-  if (query) {
+  if (query && query !== 'auto') {
     const [q1, q2] = query.split('|').map((x) => x.trim());
     img = await findImage(q1, q2, post.headline);
   } else {

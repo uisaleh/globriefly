@@ -16,14 +16,28 @@ const strip = (h = '') => h.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 // 'most' = at least 60 %, 'any' = at least one.
 const STOP = new Set(['the', 'and', 'for', 'with', 'from', 'into', 'over', 'after', 'new', 'of', 'in', 'on', 'at', 'to', 'a', 'an', 'its', 'his', 'her']);
 const words = (s = '') => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9 ]+/g, ' ').split(/\s+/).filter((w) => w.length > 1 && !STOP.has(w));
+// Words a photo description may lack without being off-topic.
+const SOFT = new Set(['website', 'site', 'app', 'logo', 'building', 'headquarters', 'hq', 'office', 'offices', 'city', 'skyline', 'street', 'photo', 'portrait', 'event', 'press', 'conference', 'meeting', 'speech', 'speaking', 'official', 'view', 'scene', 'close', 'up', 'exterior', 'interior', 'sign', 'flag']);
+const norm = (s = '') => ' ' + words(s).join(' ') + ' ';
 function relevant(query, text, mode = 'most') {
   const q = [...new Set(words(query))];
   if (!q.length) return true;
-  const t = new Set(words(text));
-  const hits = q.filter((w) => t.has(w) || t.has(w.replace(/s$/, '')) || t.has(w + 's')).length;
-  if (mode === 'all') return hits === q.length;
-  if (mode === 'any') return hits >= 1;
-  return hits >= Math.max(1, Math.ceil(q.length * 0.6));
+  const tw = words(text);
+  const t = new Set(tw);
+  const has = (w) => t.has(w) || t.has(w.replace(/s$/, '')) || t.has(w + 's');
+  const nt = ' ' + tw.join(' ') + ' ';
+  if (mode === 'name') return nt.includes(' ' + q.join(' ') + ' '); // the whole name, as a phrase
+  if (mode === 'any') return q.some(has);
+  if (mode === 'all') return q.every(has);
+  // 'most': important words must be there (one may be missing in a 3+ word search), and at least two of
+  // them must sit side by side — so "Apple Music" won't match "Mrs Green Apple … Music Awards".
+  const key = q.filter((w) => !SOFT.has(w));
+  if (!key.length) return q.some(has);
+  const missing = key.filter((w) => !has(w)).length;
+  if (missing > (key.length >= 3 ? 1 : 0)) return false;
+  if (key.length < 2) return true;
+  for (let i = 0; i < key.length - 1; i++) if (nt.includes(` ${key[i]} ${key[i + 1]} `)) return true;
+  return false;
 }
 
 async function wikimedia(query, mode = 'most') {
@@ -161,7 +175,7 @@ export async function findImageFor(info, writerAlt = '') {
   const q = (info.imageQuery || '').trim();
   if (q) tries.push(['idea', q, () => wikimedia(q, 'most')], ['idea', q, () => openverse(q, 'most')]);
   for (const name of namesFrom(info)) {
-    tries.push(['name', name, () => wikimedia(name, 'all')], ['name', name, () => openverse(name, 'all')]);
+    tries.push(['name', name, () => wikimedia(name, 'name')], ['name', name, () => openverse(name, 'name')]);
   }
   const subject = (info.imageSubject || info.fallbackSubject || '').trim();
   if (subject) {
