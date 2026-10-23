@@ -19,14 +19,18 @@ const words = (s = '') => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u03
 // Words a photo description may lack without being off-topic.
 const SOFT = new Set(['website', 'site', 'app', 'logo', 'building', 'headquarters', 'hq', 'office', 'offices', 'city', 'skyline', 'street', 'photo', 'portrait', 'event', 'press', 'conference', 'meeting', 'speech', 'speaking', 'official', 'view', 'scene', 'close', 'up', 'exterior', 'interior', 'sign', 'flag']);
 const norm = (s = '') => ' ' + words(s).join(' ') + ' ';
-function relevant(query, text, mode = 'most') {
+function relevant(query, text, mode = 'most', ctx = []) {
   const q = [...new Set(words(query))];
   if (!q.length) return true;
   const tw = words(text);
   const t = new Set(tw);
   const has = (w) => t.has(w) || t.has(w.replace(/s$/, '')) || t.has(w + 's');
   const nt = ' ' + tw.join(' ') + ' ';
-  if (mode === 'name') return nt.includes(' ' + q.join(' ') + ' '); // the whole name, as a phrase
+  if (mode === 'name') {
+    if (!nt.includes(' ' + q.join(' ') + ' ')) return false; // the whole name, as a phrase
+    // One-word names are ambiguous (Apple the company vs the fruit): also need a word from the story.
+    return q.length > 1 || !ctx.length || ctx.some((w) => !q.includes(w) && has(w));
+  }
   if (mode === 'any') return q.some(has);
   if (mode === 'all') return q.every(has);
   // 'most': important words must be there (one may be missing in a 3+ word search), and at least two of
@@ -40,7 +44,7 @@ function relevant(query, text, mode = 'most') {
   return false;
 }
 
-async function wikimedia(query, mode = 'most') {
+async function wikimedia(query, mode = 'most', ctx = []) {
   const u = new URL('https://commons.wikimedia.org/w/api.php');
   Object.entries({
     action: 'query', format: 'json', generator: 'search', gsrnamespace: '6', gsrlimit: '12',
@@ -55,7 +59,7 @@ async function wikimedia(query, mode = 'most') {
     if (BAD_TITLE.test(p.title)) continue;
     const md = ii.extmetadata || {};
     const about = `${p.title} ${strip(md.ImageDescription?.value)} ${strip(md.ObjectName?.value)} ${strip(md.Categories?.value)}`;
-    if (!relevant(query, about, mode)) continue;
+    if (!relevant(query, about, mode, ctx)) continue;
     const license = strip(md.LicenseShortName?.value);
     if (!OK_LICENSE.test(license)) continue;
     const artist = strip(md.Artist?.value) || 'Wikimedia Commons';
@@ -72,7 +76,7 @@ async function wikimedia(query, mode = 'most') {
 }
 
 // Openverse: only licences that allow commercial reuse (CC0, PDM, CC BY, CC BY-SA). No key required.
-async function openverse(query, mode = 'most') {
+async function openverse(query, mode = 'most', ctx = []) {
   const u = new URL('https://api.openverse.org/v1/images/');
   Object.entries({ q: query, license: 'cc0,pdm,by,by-sa', aspect_ratio: 'wide', size: 'large', mature: 'false', page_size: '12' })
     .forEach(([k, v]) => u.searchParams.set(k, v));
@@ -80,7 +84,7 @@ async function openverse(query, mode = 'most') {
   if (!res.ok) return null;
   for (const r of (await res.json())?.results || []) {
     if (!r.url || (r.width && r.width < 900) || BAD_TITLE.test(r.title || '')) continue;
-    if (!relevant(query, `${r.title || ''} ${(r.tags || []).map((t) => t.name).join(' ')}`, mode)) continue;
+    if (!relevant(query, `${r.title || ''} ${(r.tags || []).map((t) => t.name).join(' ')}`, mode, ctx)) continue;
     if (!/\.(jpe?g|png|webp)(\?|$)/i.test(r.url) && r.filetype && !/jpe?g|png|webp/i.test(r.filetype)) continue;
     const lic = r.license === 'pdm' ? 'Public domain' : r.license === 'cc0' ? 'CC0' : `CC ${r.license.toUpperCase()} ${r.license_version || ''}`.trim();
     const who = (r.creator || r.source || 'Openverse').slice(0, 80);
@@ -174,8 +178,12 @@ export async function findImageFor(info, writerAlt = '') {
   const tries = [];
   const q = (info.imageQuery || '').trim();
   if (q) tries.push(['idea', q, () => wikimedia(q, 'most')], ['idea', q, () => openverse(q, 'most')]);
-  for (const name of namesFrom(info)) {
-    tries.push(['name', name, () => wikimedia(name, 'name')], ['name', name, () => openverse(name, 'name')]);
+  // Story words that confirm a one-word name is the right "Apple", "Meta", "Amazon"…
+  const ctx = [...new Set(words(`${info.headline || ''} ${(info.tags || []).join(' ')} ${info.imageSubject || ''}`))].filter((w) => w.length > 3);
+  // Longer, more specific names first ("Apple Music" before "Apple").
+  const names = namesFrom(info).sort((a, b) => b.split(/\s+/).length - a.split(/\s+/).length);
+  for (const name of names) {
+    tries.push(['name', name, () => wikimedia(name, 'name', ctx)], ['name', name, () => openverse(name, 'name', ctx)]);
   }
   const subject = (info.imageSubject || info.fallbackSubject || '').trim();
   if (subject) {
