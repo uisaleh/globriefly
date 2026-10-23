@@ -163,7 +163,7 @@ main.home { display: flex; flex-direction: column; gap: 64px; padding: 32px 0 72
 .article .standfirst { font-size: 21px; }
 .crumbs { display: flex; gap: 8px; font-size: 14px; color: var(--muted); }
 .byline { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px; padding: 14px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
-.avatar { width: 40px; height: 40px; border-radius: 20px; background: var(--ink); color: #fff; display: inline-flex; align-items: center; justify-content: center; font-weight: 900; }
+.avatar { width: 44px; height: 44px; flex-shrink: 0; border-radius: 22px; background: var(--ink); color: #fff; display: inline-flex; align-items: center; justify-content: center; font-weight: 900; }
 .share { display: flex; gap: 8px; }
 .keypoints { background: var(--mist); border-radius: 8px; padding: 22px 24px; }
 .keypoints h2 { font-size: 13px; font-weight: 800; letter-spacing: .08em; color: var(--red-text); margin-bottom: 12px; }

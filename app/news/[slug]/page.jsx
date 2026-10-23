@@ -93,7 +93,9 @@ export default async function ArticlePage({ params }) {
 
           <div className="byline">
             <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-              <span className="avatar">G</span>
+              <span className="avatar" aria-hidden="true">
+                <svg width="26" height="26" viewBox="0 0 32 32"><circle cx="14" cy="16" r="11" fill="none" stroke="#FFFFFF" strokeWidth="3" /><ellipse cx="14" cy="16" rx="4.5" ry="11" fill="none" stroke="#FFFFFF" strokeWidth="2" /><rect x="9" y="13.5" width="23" height="5" rx="1" fill="#E5142B" /></svg>
+              </span>
               <span style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                 <span style={{ fontWeight: 700, fontSize: 15 }}>Globriefly {post.cat.label} Desk</span>
                 <span className="meta">
