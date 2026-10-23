@@ -1,9 +1,11 @@
-Facebook check — 2026-10-23T08:08:35.559Z
+Facebook check — 2026-10-23T08:09:25.671Z
 token secret: 189 characters saved, 189 usable
-token type: USER · valid: true · expires: never
+token type: USER · valid: true · expires: never · data access until: 2027-01-21
 permissions: pages_show_list, pages_read_engagement, pages_read_user_content, pages_manage_posts, pages_manage_engagement, public_profile
 ✓ pages_manage_posts
 ✓ pages_read_engagement
 ✓ pages_show_list
 ✓ pages_manage_engagement (only needed for the link-in-first-comment)
-✗ Page lookup failed: (#100) Tried accessing nonexisting field (tasks)
+✓ Page found: Globriefly
+✓ Page token obtained — auto-posting will work
+Page token: type PAGE · valid: true · expires: never
