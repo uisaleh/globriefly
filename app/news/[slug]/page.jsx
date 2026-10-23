@@ -15,13 +15,15 @@ export async function generateMetadata({ params }) {
   const post = getPost(slug);
   if (!post) return {};
   const url = `/news/${post.slug}/`;
-  const image = post.image?.src || '/og-default.png';
+  // Our own 1200×630 preview (photo + brand frame) — Facebook can't always fetch hotlinked Wikimedia photos.
+  const image = post.ogImage || '/og-default.png';
+  const ogType = image.endsWith('.png') ? 'image/png' : 'image/jpeg';
   return {
     title: post.headline,
     description: post.standfirst,
     alternates: { canonical: url },
     keywords: post.tags,
-    openGraph: { type: 'article', url, title: post.headline, description: post.standfirst, images: [{ url: image, alt: post.image?.alt || post.headline }], publishedTime: post.publishedAt, modifiedTime: post.updatedAt || post.publishedAt, section: post.cat.label, tags: post.tags },
+    openGraph: { type: 'article', url, title: post.headline, description: post.standfirst, images: [{ url: image, width: 1200, height: 630, type: ogType, alt: post.image?.alt || post.headline }], publishedTime: post.publishedAt, modifiedTime: post.updatedAt || post.publishedAt, section: post.cat.label, tags: post.tags },
     twitter: { card: 'summary_large_image', title: post.headline, description: post.standfirst, images: image ? [image] : [] },
   };
 }

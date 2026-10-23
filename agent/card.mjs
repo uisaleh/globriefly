@@ -117,3 +117,55 @@ export async function saveCard(post, dir) {
   fs.writeFileSync(file, png);
   return file;
 }
+
+// Link-preview image (Open Graph) — 1200×630, the shape Facebook, X, WhatsApp and LinkedIn show for links.
+// Same look as the photocard: the story photo, category-coloured frame, globriefly logo, category + date.
+// Hosted on our own domain so Facebook can always fetch it (hotlinked Wikimedia images often fail there).
+const OW = 1200, OH = 630;
+export async function renderOg(post) {
+  const cat = categoryBySlug[post.category] || categoryBySlug.world;
+  const photo = await toDataUri(post.image?.src);
+  const pattern = `data:image/svg+xml;base64,${Buffer.from(patternArea(OW, OH, '#FFFFFF', 0.08, 1.3)).toString('base64')}`;
+  const headline = clip(post.headline, 95);
+  const tree = h('div', { width: OW, height: OH, display: 'flex', position: 'relative', backgroundColor: cat.color, fontFamily: 'Archivo', color: '#fff' }, [
+    photo
+      ? img(photo, { position: 'absolute', top: 0, left: 0, width: OW, height: OH - 10, objectFit: 'cover' })
+      : img(pattern, { position: 'absolute', top: 0, left: 0, width: OW, height: OH }),
+    // No photo: the headline carries the image instead
+    ...(photo ? [] : [h('div', { position: 'absolute', left: 56, right: 56, bottom: 120, display: 'flex', fontSize: headline.length > 70 ? 54 : 62, fontWeight: 800, lineHeight: 1.06, letterSpacing: '-0.02em' }, headline)]),
+    // Category-coloured frame
+    h('div', { position: 'absolute', top: 22, left: 22, width: OW - 44, height: OH - 54, display: 'flex', border: `7px solid ${cat.color}` }, []),
+    // Logo
+    h('div', { position: 'absolute', top: 48, left: 48, display: 'flex', gap: 5 }, [
+      h('div', { width: 72, height: 72, backgroundColor: INK, display: 'flex', alignItems: 'center', justifyContent: 'center' }, [img(mark('#FFFFFF', RED), { width: 48, height: 48 })]),
+      h('div', { height: 72, padding: '0 20px', backgroundColor: INK, display: 'flex', alignItems: 'center', fontSize: 38, fontWeight: 900, letterSpacing: '-0.045em' }, 'globriefly'),
+    ]),
+    ...(post.breaking ? [h('div', { position: 'absolute', top: 48, right: 48, height: 72, padding: '0 22px', backgroundColor: RED, display: 'flex', alignItems: 'center', fontSize: 26, fontWeight: 900, letterSpacing: '0.06em' }, 'BREAKING')] : []),
+    // Category + date
+    h('div', { position: 'absolute', left: 48, bottom: 54, display: 'flex', alignItems: 'stretch' }, [
+      h('div', { backgroundColor: photo ? cat.color : '#FFFFFF', color: photo ? '#FFFFFF' : cat.color, fontSize: 24, fontWeight: 900, letterSpacing: '0.08em', padding: '10px 18px', display: 'flex' }, cat.label.toUpperCase()),
+      h('div', { backgroundColor: INK, fontSize: 22, fontWeight: 700, padding: '10px 18px', display: 'flex', alignItems: 'center' }, cardDate(post.publishedAt)),
+    ]),
+    // Brand bar
+    h('div', { position: 'absolute', left: 0, bottom: 0, width: OW, height: 10, display: 'flex' }, [h('div', { flex: 7, backgroundColor: INK, display: 'flex' }, []), h('div', { flex: 3, backgroundColor: RED, display: 'flex' }, [])]),
+  ]);
+  const svg = await satori(tree, { width: OW, height: OH, fonts });
+  return new Resvg(svg, { fitTo: { mode: 'width', value: OW } }).render().asPng();
+}
+
+// Saves public/og/<slug>.jpg (JPEG keeps it small; falls back to PNG if sharp is unavailable)
+// and returns the site path to store on the post as `ogImage`.
+export async function saveOg(post, root = process.cwd()) {
+  const png = await renderOg(post);
+  const dir = path.join(root, 'public', 'og');
+  fs.mkdirSync(dir, { recursive: true });
+  try {
+    const sharp = (await import('sharp')).default;
+    const jpg = await sharp(png).jpeg({ quality: 84, mozjpeg: true }).toBuffer();
+    fs.writeFileSync(path.join(dir, `${post.slug}.jpg`), jpg);
+    return `/og/${post.slug}.jpg`;
+  } catch {
+    fs.writeFileSync(path.join(dir, `${post.slug}.png`), png);
+    return `/og/${post.slug}.png`;
+  }
+}

@@ -9,7 +9,7 @@ import { extractText } from './extract.mjs';
 import { writeArticle, writeExplainer } from './llm.mjs';
 import { findImage } from './images.mjs';
 import { updateVideos } from './videos.mjs';
-import { saveCard } from './card.mjs';
+import { saveCard, saveOg } from './card.mjs';
 import { categoryBySlug } from '../site.config.mjs';
 import { POSTS_DIR, STATE_FILE, ROOT, log, readJSON, writeJSON, slugify, similarity, fingerprint, loadPosts, sharedPhrases, withDeadline } from './util.mjs';
 
@@ -149,6 +149,7 @@ async function main() {
     if (!article) { log('  skipped'); continue; }
 
     const post = await buildPost(cluster, article);
+    try { post.ogImage = await saveOg(post); } catch (e) { log('  link preview render failed:', e.message); }
     if (!env.DRY_RUN) writeJSON(path.join(POSTS_DIR, `${post.slug}.json`), post);
     try { await saveCard(post, CARD_CACHE); } catch (e) { log('  card render failed:', e.message); }
     published.push({ post, cluster, texts });
@@ -164,6 +165,7 @@ async function main() {
     const ex = await writeExplainer(top.cluster, top.texts);
     if (ex) {
       const post = await buildPost(top.cluster, ex, 'explainer');
+      try { post.ogImage = await saveOg(post); } catch {}
       if (!env.DRY_RUN) writeJSON(path.join(POSTS_DIR, `${post.slug}.json`), post);
       try { await saveCard(post, CARD_CACHE); } catch {}
       log(`  ✓ explainer: /news/${post.slug}/`);
