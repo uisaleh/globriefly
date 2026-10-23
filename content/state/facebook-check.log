@@ -1,3 +1,3 @@
-Facebook check — 2026-10-23T08:02:33.337Z
-token check error: Invalid OAuth access token - Cannot parse access token
-✗ Page lookup failed: Invalid OAuth access token - Cannot parse access token
+Facebook check — 2026-10-23T08:03:29.138Z
+token secret: 15 characters saved, 0 usable (extra characters were stripped)
+✗ no token starting with EAA found in FB_PAGE_TOKEN
