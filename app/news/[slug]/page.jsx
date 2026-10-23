@@ -71,19 +71,10 @@ export default async function ArticlePage({ params }) {
     ],
   };
 
-  // What the "Listen" player reads: headline, standfirst, key points, then every section.
-  const listenTexts = [
-    post.headline + '.',
-    post.standfirst,
-    ...(post.keyPoints?.length ? ['Key points.', ...post.keyPoints] : []),
-    ...sections.flatMap((s) => [...(s.heading ? [s.heading + '.'] : []), ...(s.paragraphs || [])]),
-    `This story was brought to you by Globriefly.`,
-  ].filter(Boolean);
-
   const renderSection = (s, i) => (
     <div key={i} style={{ display: 'contents' }}>
-      {s.heading ? <h2>{s.heading}</h2> : null}
-      {(s.paragraphs || []).map((para, j) => <p key={j}>{para}</p>)}
+      {s.heading ? <h2 data-tts="">{s.heading}</h2> : null}
+      {(s.paragraphs || []).map((para, j) => <p key={j} data-tts="">{para}</p>)}
     </div>
   );
 
@@ -98,8 +89,8 @@ export default async function ArticlePage({ params }) {
             <Link href={`/${post.category}/`} style={{ color: post.cat.color, fontWeight: 700 }}>{post.cat.label}</Link>
           </nav>
           {post.breaking && <span className="live-tag" style={{ background: '#FDECEE', color: 'var(--red-text)', fontSize: 12 }}><span className="dot" style={{ background: 'var(--red-text)', margin: 0 }} />DEVELOPING STORY</span>}
-          <h1>{post.headline}</h1>
-          <p className="standfirst">{post.standfirst}</p>
+          <h1 data-tts="">{post.headline}</h1>
+          <p className="standfirst" data-tts="">{post.standfirst}</p>
 
           <div className="byline">
             <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
@@ -131,7 +122,7 @@ export default async function ArticlePage({ params }) {
             </div>
           </div>
 
-          <ListenPlayer texts={listenTexts} minutes={post.readingMinutes || 5} />
+          <ListenPlayer />
 
           {post.image?.src && (
             <figure style={{ margin: 0, display: 'flex', flexDirection: 'column', gap: 8 }}>
@@ -146,14 +137,14 @@ export default async function ArticlePage({ params }) {
 
           {post.keyPoints?.length > 0 && (
             <section className="keypoints" aria-label="Key points">
-              <h2>KEY POINTS</h2>
-              <ul>{post.keyPoints.map((k, i) => <li key={i}>{k}</li>)}</ul>
+              <h2 data-tts="" data-tts-say="Key points.">KEY POINTS</h2>
+              <ul>{post.keyPoints.map((k, i) => <li key={i} data-tts="">{k}</li>)}</ul>
             </section>
           )}
 
           <div className="body">
             {sections.slice(0, half).map(renderSection)}
-            {post.highlight && <blockquote className="highlight">{post.highlight}</blockquote>}
+            {post.highlight && <blockquote className="highlight" data-tts="">{post.highlight}</blockquote>}
           </div>
 
           {post.timeline?.length > 0 && (
