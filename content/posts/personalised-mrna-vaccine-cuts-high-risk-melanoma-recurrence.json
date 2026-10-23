@@ -1,0 +1,111 @@
+{
+  "slug": "personalised-mrna-vaccine-cuts-high-risk-melanoma-recurrence",
+  "status": "published",
+  "type": "news",
+  "category": "health",
+  "region": "Global",
+  "headline": "Personalised mRNA vaccine cuts high-risk melanoma recurrence significantly",
+  "standfirst": "A global Phase III clinical trial reveals that combining a custom cancer vaccine with standard immunotherapy lowers melanoma recurrence or death rates by 42%.",
+  "keyPoints": [
+    "A custom mRNA therapeutic vaccine called intismeran was tested alongside pembrolizumab immunotherapy in a Phase III trial.",
+    "The international study involved 1,137 high-risk melanoma patients across 157 global sites after surgical removal.",
+    "Combining the treatments reduced the risk of cancer recurrence or death by 42% compared to immunotherapy alone.",
+    "Patients remaining recurrence-free past six months saw an even higher risk reduction of 58%."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "A groundbreaking international clinical trial has demonstrated that adding a personalised therapeutic cancer vaccine to standard immunotherapy significantly lowers the risk of melanoma recurrence or death. Presented at the European Society for Medical Oncology Congress, the Phase III study evaluated 1,137 patients whose high-risk melanoma had been surgically removed. Participants had stage IIB to IV disease and had not previously undergone any systemic drug treatments.",
+        "The trial assessed the experimental mRNA-based vaccine, known as intismeran, administered alongside pembrolizumab immunotherapy. Results showed that this combination reduced the risk of cancer returning or proving fatal by 42% compared to administering pembrolizumab on its own. For individuals who remained free of the disease past six months, the risk reduction rose to an impressive 58% relative to the control group.",
+        "Jointly developed by pharmaceutical companies MSD and Moderna, the investigational treatment works by targeting the unique biological fingerprint of an individual patient's tumour. Researchers noted that the vaccine was generally well tolerated, with side effects remaining transient and mild, such as injection-site pain, fatigue, and chills. The findings mark a major milestone in oncology by merging advanced messenger RNA technology with immune checkpoint inhibitors."
+      ]
+    },
+    {
+      "heading": "The science behind custom tumour vaccines",
+      "paragraphs": [
+        "Unlike preventative vaccines administered to healthy individuals to block infectious diseases, therapeutic cancer vaccines are created after a patient receives a formal diagnosis. Every individual melanoma carries distinct abnormal proteins called neoantigens, which act much like a biological fingerprint unique to that specific tumour. Medical professionals sequence a sample of the patient's cancer tissue to decode these specific protein markers before manufacturing the bespoke treatment.",
+        "Once engineered using mRNA technology, the vaccine acts essentially as a targeted advisory notice for the body. It trains the patient's cellular machinery to display these specific tumour markers so that the immune system can easily identify and destroy remaining malignant cells. Meanwhile, the accompanying pembrolizumab drug blocks deceptive signals that tumours use to evade detection, effectively removing the brakes from the patient's immune response."
+      ]
+    },
+    {
+      "heading": "Perspectives from clinical trial leaders",
+      "paragraphs": [
+        "Global principal investigator Professor Georgina Long AO described the outcome as a foundational shift in how medical science approaches oncology. Speaking at the conference in Madrid, she stated that harnessing the immune system in such a personalised way had never been achieved previously in the history of cancer drug development. She likened the individualised neoantigen therapy to a targeted wanted poster that sharpens the body's natural defences.",
+        "Other investigators involved in the multi-site project echoed these sentiments regarding the potential breadth of the technology. Professor Matteo Carlino and Professor Alex Menzies highlighted the extensive collaboration across Australian facilities and international centres during the trial phases. They expressed hope that the successful proof of concept in melanoma could eventually pave the way for treating other challenging tumour types where standard immunotherapies struggle."
+      ]
+    },
+    {
+      "heading": "Broader implications for oncology",
+      "paragraphs": [
+        "The success of the INTerpath-001 trial opens new avenues for treating aggressive malignancies that historically have responded poorly to conventional therapies. Because the underlying technology relies on reading individual genetic signatures rather than a universal formula, researchers believe the platform can be adapted for numerous other conditions. Scientific teams are already exploring the application of custom mRNA vaccines against other severe illnesses such as glioblastoma and pancreatic cancer.",
+        "Experts suggest that validating this combination therapy could fundamentally alter post-surgical care standards for various oncological diseases. By shifting towards highly tailored regimens based on a patient's specific genetic makeup, the medical community aims to achieve prolonged remission periods. This initial success in advanced skin cancer provides a robust framework for future drug development across multiple medical specialties."
+      ]
+    },
+    {
+      "heading": "Next steps in clinical research",
+      "paragraphs": [
+        "Following the presentation of these highly anticipated Phase III results, the medical community will continue monitoring trial participants for long-term survival outcomes. Researchers plan to analyse extended data sets to determine the durability of the immune response over several years. Additionally, regulatory submissions and discussions with health authorities are expected to be pursued by the developers.",
+        "Further clinical investigations are anticipated to expand the evaluation of intismeran into earlier disease stages and entirely different cancer categories. Investigators aim to refine manufacturing processes to streamline the production of these personalised treatments for broader clinical availability. Collaborative global networks will remain central as the scientific field moves from initial trial validation toward potential future healthcare integration."
+      ]
+    }
+  ],
+  "highlight": "The INTerpath-001 trial shows that treatment built from the unique signature of a patient's own tumor, working alongside checkpoint inhibitor immunotherapy, can sharpen the immune system to find and destroy any remaining cancer cells.",
+  "timeline": [],
+  "tags": [
+    "melanoma",
+    "cancer vaccine",
+    "mRNA",
+    "immunotherapy",
+    "clinical trial"
+  ],
+  "socialSummary": "A personalised mRNA vaccine combined with immunotherapy cuts high-risk melanoma recurrence or death by 42%.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bangladesh_Council_of_Scientific_and_Industrial_Research_Laboratory%2C_Rajshahi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "alt": "Bangladesh Council of Scientific and Industrial Research (BCSIR) (Bengali: বাংলাদেশ বিজ্ঞান ও শিল্প গবেষণা পরিষদ) is a…",
+    "credit": "SalehRokon / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Bangladesh_Council_of_Scientific_and_Industrial_Research_Laboratory,_Rajshahi.JPG",
+    "license": "CC BY-SA 4.0",
+    "provider": "wikimedia",
+    "query": "scientific laboratory research",
+    "matchedBy": "subject"
+  },
+  "imageSearch": {
+    "query": "mRNA vaccine vial laboratory",
+    "names": [
+      "Moderna",
+      "MSD",
+      "Melanoma Institute Australia"
+    ],
+    "subject": "scientific laboratory research"
+  },
+  "sources": [
+    {
+      "name": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-10-melanoma-vaccine-death-cancer-recurrence.html"
+    },
+    {
+      "name": "STAT",
+      "url": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html"
+    }
+  ],
+  "sourceTitles": [
+    "Melanoma vaccine reduces death or cancer recurrence by 42%",
+    "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+    "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+    "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+    "Melanoma Vaccine Ushers in New Hope for Cancer Patients"
+  ],
+  "sourceCount": 3,
+  "importance": 9,
+  "breaking": false,
+  "publishedAt": "2026-10-23T22:05:32.174Z",
+  "updatedAt": "2026-10-23T22:05:32.174Z",
+  "readingMinutes": 3,
+  "facebook": null,
+  "ogImage": "/og/personalised-mrna-vaccine-cuts-high-risk-melanoma-recurrence.jpg"
+}

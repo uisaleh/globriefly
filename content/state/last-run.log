@@ -1,23 +1,25 @@
-18:16:05 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-18:16:05 collecting videos…
-18:16:05   video feed BBC News: 15 in feed, 5 kept
-18:16:05   video feed Al Jazeera English: 15 in feed, 5 kept
-18:16:05   video feed DW News: 15 in feed, 5 kept
-18:16:05   video feed FRANCE 24 English: 15 in feed, 5 kept
-18:16:05   video feed Sky News: 15 in feed, 5 kept
-18:16:05   video feed Reuters: 15 in feed, 5 kept
-18:16:05   video feed Associated Press: 15 in feed, 5 kept
-18:16:05 videos: saved 24
-18:16:05 collecting feeds…
-18:16:08 901 new items
-18:16:10 720 candidate stories
-18:16:10 categories needing stories: technology, sports → reserved technology
-18:16:10 writing: The iPhone Duo should have been an iPad (2 sources)
-18:16:10   source text: 2213 / 7000 chars
-18:16:17   ✓ published: /news/apple-enters-the-foldable-smartphone-market-with-the-debut-of-the/ [technology] image: wikimedia via idea "iPhone Duo foldable smartphone"
-18:16:17 writing: Vincent Kompany hospitalized after collapsing at Bayern Munich training ground (5 sources)
-18:16:17   source text: 1972 / 1615 / 0 / 1301 chars
-18:16:23   too close to source wording — rewriting
-18:16:45 image source error: The operation was aborted due to timeout
-18:16:45   ✓ published: /news/vincent-kompany-hospitalized-following-training-ground-collapse/ [sports] image: wikimedia via name "Vincent Kompany"
-18:16:45 done — 2 stories
+22:04:23 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+22:04:23 collecting videos…
+22:04:23   video feed BBC News: 15 in feed, 5 kept
+22:04:23   video feed Al Jazeera English: 15 in feed, 5 kept
+22:04:23   video feed DW News: 15 in feed, 5 kept
+22:04:23   video feed FRANCE 24 English: 15 in feed, 5 kept
+22:04:23   video feed Sky News: 15 in feed, 5 kept
+22:04:23   video feed Reuters: 15 in feed, 5 kept
+22:04:23   video feed Associated Press: 15 in feed, 5 kept
+22:04:23 videos: saved 24
+22:04:23 collecting feeds…
+22:04:28 801 new items
+22:04:29 647 candidate stories
+22:04:29 categories needing stories: health → reserved health
+22:04:29 writing: Melanoma vaccine reduces death or cancer recurrence by 42% (3 sources)
+22:04:30   source text: 7000 / 1717 / 0 / 0 / 0 chars
+22:04:50 image source error: The operation was aborted due to timeout
+22:05:16 image source error: The operation was aborted due to timeout
+22:05:31 image source error: The operation was aborted due to timeout
+22:05:33   ✓ published: /news/personalised-mrna-vaccine-cuts-high-risk-melanoma-recurrence/ [health] image: wikimedia via subject "scientific laboratory research"
+22:05:33 writing: Macron condemns racism after one killed in ‘terrorist’ shooting near Paris (7 sources)
+22:05:33   source text: 4771 / 2184 / 4136 chars
+22:05:39   too close to source wording — rewriting
+22:05:59   ✓ published: /news/france-reels-after-racist-drive-by-shooting-leaves-one-dead-near-paris/ [world] image: wikimedia via name "Emmanuel Macron"
+22:05:59 done — 2 stories

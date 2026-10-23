@@ -1,37 +1,85 @@
 {
-  "updatedAt": "2026-10-23T18:16:05.847Z",
+  "updatedAt": "2026-10-23T22:04:23.991Z",
   "videos": [
     {
-      "id": "COxr6MXNqic",
-      "title": "Israeli PM stakes his re-election on the promise of another war with Iran • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-23T18:13:14.000Z",
-      "description": "#israel #netanyahu #israelielections"
-    },
-    {
-      "id": "U2VRZiPmM8g",
-      "title": "Newshour | Meghan 'deeply distressed' by 'disturbing allegations' against her father",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-23T18:07:16.000Z",
-      "description": "The Duchess of Sussex has issued a statement saying she is 'deeply distressed' by allegations against her father Thomas Markle."
-    },
-    {
-      "id": "Icav4JgdKRg",
-      "title": "Hospitals deliberately targeted by Sudan’s RSF fighters, BBC finds",
+      "id": "rxn-NJHbzaI",
+      "title": "Meghan Markle “distressed” after learning of “sickening” allegations against her father",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-23T18:00:37.000Z",
-      "description": "The fall of el-Fasher in Sudan in October 2025 was on the most brutal chapters of the civil war that has raged between the government's Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF)."
+      "publishedAt": "2026-10-23T21:33:50.000Z",
+      "description": "Meghan Markle says she was informed about \"disturbing allegations\" about her estranged father Thomas Markle in 2018. He is being investigated by the authorities in the Philippines over allegations relating to images of c"
     },
     {
-      "id": "4JZHXrhfRhg",
-      "title": "How the French protests are being spun for political gain",
+      "id": "fRRmrM4qc3A",
+      "title": "France: Major security operation ahead of planned protests",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T17:40:58.000Z",
-      "description": "Burning cars and clashes with police. Those are the images most people associate with France's latest protests. But they tell only part of the story. Many demonstrators insist the movement is about much more than violenc"
+      "publishedAt": "2026-10-23T21:30:21.000Z",
+      "description": "France is mounting a huge security operation ahead of another weekend of nationwide protests after last week's demonstrations descended into riots, looting and arson. Authorities are deploying 70,000 police and gendarmes"
+    },
+    {
+      "id": "_56NiRYkX7Q",
+      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T21:27:08.000Z",
+      "description": "At least seven people were killed and 34 wounded after two masked gunmen opened fire during a funeral at a Greek Orthodox church in Karak, Jordan. Security forces are hunting the suspects as King Abdullah vows severe pun"
+    },
+    {
+      "id": "s7GDxEWSveE",
+      "title": "How has Trump changed the White House in his second term?",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-23T21:17:57.000Z",
+      "description": "For more than 200 years, presidents and their families have expanded, rebuilt and reimagined America’s most recognizable home. In AP’s new documentary “A Changing White House,” White House reporters, historians, and pres"
+    },
+    {
+      "id": "YkZY6JrhIuE",
+      "title": "The cats providing comfort on Ukraine's frontline",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-23T21:16:08.000Z",
+      "description": "A rescue cat café in Zaporizhzhia has released footage of its animals getting frightened by bombs - but they continue to provide comfort to war-weary Ukrainians."
+    },
+    {
+      "id": "JoeWHTsEi6A",
+      "title": "Apple's first folding iPhone sold out in minutes. Is it worth the hype?",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T21:10:40.000Z",
+      "description": "Apple's first folding phone, the iPhone Duo, hit stores around the world with a price tag of about $2,000 and less of the fanfare that accompanied previous iPhone launches. Stephen Nellis explains."
+    },
+    {
+      "id": "ygSxRh1am_s",
+      "title": "Building collapse in Nairobi search for survivors under way • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-23T20:35:55.000Z",
+      "description": "In tonight's programme, scramble to get through rubble to trapped survivors after a more than 10 storeys building being built in Nairobi goes down. Also, Kenya says that there's been a second Ebola death. Earlier this we"
+    },
+    {
+      "id": "wUGFsjjH_II",
+      "title": "How Yemen fits into Saudi Arabia and Iran's rivalry",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-23T21:05:41.000Z",
+      "description": "How did the civil war in Yemen become a conflict with global consequences? From attacks on key shipping routes to the rivalry between Iran and Saudi Arabia, we explain how events in Yemen came to affect trade, oil prices"
+    },
+    {
+      "id": "j99KFV6NxTE",
+      "title": "Can these countries finally end the world’s biggest conflicts?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T21:18:20.000Z",
+      "description": "Eight countries are meeting in Istanbul for a new round of diplomacy as wars in Iran, Yemen and Ukraine threaten global trade, energy supplies and food security. Germany, France, the UK and Italy are joining Turkey, Egyp"
+    },
+    {
+      "id": "aef4edzF3ag",
+      "title": "Why is Israel increasing its presence in the Balkans? |",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T20:56:24.000Z",
+      "description": "Across the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?"
     },
     {
       "id": "O2rS-Fa0BnU",
@@ -42,30 +90,6 @@
       "description": "Zach and Julie Ertz discuss supporting each other throughout their respective careers. Hear more from them and Falcons All-Pro running back Bijan Robinson on AP’s latest “Football Unfiltered with Rob Maaddi.”"
     },
     {
-      "id": "LPlZXfs0-C0",
-      "title": "Why is the UK at the forefront of AI-driven job cuts?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T17:30:29.000Z",
-      "description": "British bank Barclays plans to cut 5,000 jobs by the end of 2026 as it integrates artificial intelligence to reduce costs. Its chief executive has described AI as the \"icing on the cake\" of its cost-cutting strategy, whi"
-    },
-    {
-      "id": "VKeHihQvoAE",
-      "title": "Rescue underway in Nairobi after building collapse",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T17:16:22.000Z",
-      "description": "A 12-story building under construction in Kenya's capital Nairobi collapsed. The Nairobi County governor's office said in a statement there were reports people may be trapped beneath the rubble."
-    },
-    {
-      "id": "-R_oFLTq9t0",
-      "title": "Israel: Could Arab parties play kingmaker in the next Knesset ? • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-23T17:11:57.000Z",
-      "description": "As Israelis head to the polls for the first legislative election since Hamas's October 7 attacks, neither Prime Minister Benjamin #Netanyahu's Likud party nor former army chief of staff Gadi #Eisenkot's Yashar party are "
-    },
-    {
       "id": "_KfaqUgVmQ8",
       "title": "Sally Rooney is pulling her books from shops in the UK. This Is Why",
       "channel": "Sky News",
@@ -74,20 +98,44 @@
       "description": "There's been a rush to buy Sally Rooney's books after she said she can no longer sell them in the UK. "
     },
     {
-      "id": "GkyjBro8Czc",
-      "title": "Why we can’t stop watching people die",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-23T17:30:30.000Z",
-      "description": "Why are we seeing more death on our feeds? "
+      "id": "3NPHvqR6-RI",
+      "title": "Dogs dressed as music icons take over Key West's annual Pet Masquerade",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T20:49:04.000Z",
+      "description": "🎶 Rock 'n' roll dogs took over the stage in Key West, Florida, as costumed pets and their humans competed in the annual Fantasy Fest Pet Masquerade."
     },
     {
-      "id": "bOP-aYEBCYA",
-      "title": "Fact check: How Bolsonaro sows distrust in democracy",
+      "id": "Lixc0IXoZHM",
+      "title": "After French Riots, Curfews & Calm .. is a new Storm Brewing ? Plus Ukraine & Israel • FRANCE 24",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-23T18:45:17.000Z",
+      "description": "It's been week that’s seen mass protests hijacked by violent rioters across France. The looting of shops, trashing of public buildings, the burning of Lyon’s Tourist Information and the iconic Limoges City Hall.  After t"
+    },
+    {
+      "id": "oaa4lp0iQrM",
+      "title": "Could Brazil be about to swing back to the right?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-23T19:03:53.000Z",
+      "description": "Brazilians head to the polls on Sunday to choose the country’s next president.  "
+    },
+    {
+      "id": "7BaKymT51AE",
+      "title": "Former Israeli PM Olmert explains how Netanyahu may try to turn tide against him",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T17:30:34.000Z",
-      "description": "Listening to right-wing presidential candidate Flavio Bolsonaro, one would think incumbent left-wing President Lula da Silva has brought Brazil's democracy to the brink. But how much of that rhetoric is true?"
+      "publishedAt": "2026-10-23T19:40:27.000Z",
+      "description": "Just days before Israelis head to the polls in the first election since the October 7 attacks, Prime Minister Benjamin Netanyahu is threatening a major new military operation in the West Bank. DW speaks with former Israe"
+    },
+    {
+      "id": "VcGeA5QH8iA",
+      "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T20:01:53.000Z",
+      "description": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire between Russia and Ukraine in the Ukrainian city of Oleshky, which has been under Russian occupation for four years. The ceasefire"
     },
     {
       "id": "ec1VcRtPieI",
@@ -98,30 +146,6 @@
       "description": "A dusky shark nicknamed Bukangi remains trapped in a Busan canal, with noise, bright lights and electrical activity from nearby ships and facilities possibly disrupting its senses. A South Korean fisheries expert warned "
     },
     {
-      "id": "Xv9CrKkAesg",
-      "title": "Jerusalem Daily: Netanyahu orders a ‘full lockdown’ of the occupied West Bank",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T17:27:28.000Z",
-      "description": "🔴Netanyahu orders ‘full lockdown’ of the occupied West Bank after Hebron shooting"
-    },
-    {
-      "id": "M_xoJRr0NEM",
-      "title": "How a lip artist turned pain into a platform for healing",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T16:24:48.000Z",
-      "description": "Ryan Kelly's artwork may only last a few hours, but she hopes its impact lasts much longer. The Maryland artist built a social media following by transforming her lips into intricate works of art. After surviving domesti"
-    },
-    {
-      "id": "MI4TleKFa00",
-      "title": "West Bank: Extensive military operation 'on the way', Netanyahu says • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-23T15:56:28.000Z",
-      "description": "Israeli Prime Minister Benjamin Netanyahu on Friday warned of an imminent large-scale military operation in the West Bank and vowed to displace some residents of Hebron after Palestinian gunmen killed two soldiers in an "
-    },
-    {
       "id": "14irDlWvH6U",
       "title": "Part of Brighton's ruined West Pier collapses as UK hit by Storm Austen",
       "channel": "Sky News",
@@ -130,68 +154,44 @@
       "description": "A part of Brighton's historic West Pier has collapsed after strong waves generated by Storm Austen crashed into the structure. "
     },
     {
-      "id": "615I97nPfMU",
-      "title": "'Despicable': Democrat Amy Acton responds to attack ad featuring estranged mother",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-23T16:55:18.000Z",
-      "description": "Vivek Ramaswamy, the Republican candidate for governor of the US state of Ohio, released a campaign ad attacking his Democratic opponent Amy Acton and features her estranged mother, Donna Arthur, claiming Acton \"lied her"
-    },
-    {
-      "id": "z5GSME_IQv0",
-      "title": "Deadly drive-by shooting near Paris",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T16:30:25.000Z",
-      "description": "At least one person was killed and four others seriously injured when a man opened fire with an automatic weapon from a vehicle at several locations west of Paris on Friday, French authorities said. Prosecutors are inves"
-    },
-    {
-      "id": "E4N_PAh4S-U",
-      "title": "For decades, he’s hunted tickets from Cal Ripken’s ‘Iron Man’ streak. Just 8 elude him",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-23T12:27:14.000Z",
-      "description": "Lifelong Orioles fan Rick Taylor has spent 28 years collecting tickets from every game in Cal Ripken Jr.’s 2,632-game streak. Just eight tickets elude him. (AP video by Mingson Lau)\r"
-    },
-    {
-      "id": "oTvF1fTj-3U",
-      "title": "Why Chinese families are rushing to buy gold",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T17:18:57.000Z",
-      "description": "China is experiencing a gold rush as families buy more of it, but not necessarily to wear as jewellery. Al Jazeera’s Katrina Yu has been to China’s biggest gold market to look at what’s happening."
-    },
-    {
-      "id": "B8R4OhRwF0c",
-      "title": "New York City votes to ban horse-drawn carriages",
+      "id": "ZNa1cRITFdI",
+      "title": "Why are white evangelicals still standing by Trump?",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T16:08:58.000Z",
-      "description": "New York City banned horse-drawn carriages from city streets and Central Park beginning in June 2028, ending a historic tourist attraction and long-standing industry."
+      "publishedAt": "2026-10-23T20:47:54.000Z",
+      "description": "First Lady Melania Trump has brokered a localized ceasefire between Russia and Ukraine for the besieged town of Oleshky. White evangelicals remain Trump's most loyal demographic, but even that support is slowly slipping."
     },
     {
-      "id": "7dDRCmU0aKU",
-      "title": "AKAA art and design fair brings African artists to Paris • FRANCE 24 English",
+      "id": "l11343tC28U",
+      "title": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-23T15:14:23.000Z",
-      "description": "Every year the art and design fair AKAA, or \"Also Known as Africa\", brings dozens of African and Afro-descendant artists to the French capital. As the 11th edition gets underway, we welcome Nigerian painter Midegbeyan Oj"
+      "publishedAt": "2026-10-23T18:21:33.000Z",
+      "description": "As Israel approaches a consequential parliamentary election amid renewed violence in the occupied West Bank, Yedioth Ahronoth Senior Journalist Ben-Dror Yemini offers a critical assessment of Benjamin Netanyahu's politic"
     },
     {
-      "id": "QqxVhGcavt0",
-      "title": "The battle inside the Green Party",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-23T12:00:24.000Z",
-      "description": "After Zack Polanski's by-election defeat and the passing of the controversial 'Zionism is racism' motion, Sky's Alex Rogers digs into the growing splits within the Green Party and what it might mean for the left of Briti"
-    },
-    {
-      "id": "3UdGx2sTFK0",
-      "title": "Detective raped by colleague says Met handling of case 'like being raped again’",
+      "id": "Icav4JgdKRg",
+      "title": "Hospitals deliberately targeted by Sudan’s RSF fighters, BBC finds",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-23T14:30:16.000Z",
-      "description": "A Metropolitan Police detective who was raped by a fellow officer has told the BBC that Scotland Yard's handling of her case was \"like being raped all over again\"."
+      "publishedAt": "2026-10-23T18:00:37.000Z",
+      "description": "The fall of el-Fasher in Sudan in October 2025 was on the most brutal chapters of the civil war that has raged between the government's Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF)."
+    },
+    {
+      "id": "ROzob4vCguc",
+      "title": "Are the \"Gen Z\" protests around the world connected?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T19:30:11.000Z",
+      "description": "Youth-led protests have emerged across the world, in countries with vastly different political and economic realities. But the protesters are voicing a similar concern about their future, begging the question: Are we wit"
+    },
+    {
+      "id": "gLJVURhDcAQ",
+      "title": "Trump’s broken promises: economy, war and ICE: Steve Cortes and Mehdi Hasan",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T20:00:04.000Z",
+      "description": "With the US midterm elections approaching, the balance of power in Congress is at stake, and the outcome could shape the legacy of President Donald Trump’s second term. As Republicans face growing voter dissatisfaction, "
     }
   ]
 }
