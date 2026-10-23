@@ -12,6 +12,7 @@ export async function collectItems() {
     return (feed.items || []).map((it) => ({
       source: f.name,
       hint: f.hint,
+      paywall: Boolean(f.paywall),
       title: (it.title || '').trim(),
       url: it.link,
       summary: (it.contentSnippet || it.summary || it.content || '').replace(/\s+/g, ' ').trim().slice(0, 600),

@@ -33,9 +33,14 @@ function articleText(a) {
   return [a.headline, a.standfirst, ...(a.keyPoints || []), ...(a.sections || []).flatMap((s) => [s.heading, ...(s.paragraphs || [])])].join(' ');
 }
 
+// Read free-to-read outlets first (paywalled pages return little text); stop once 3 usable texts are in.
 async function gatherTexts(cluster) {
   const texts = [];
-  for (const it of cluster.items.slice(0, 3)) texts.push(await withDeadline(extractText(it.url), 20000, ''));
+  const ordered = [...cluster.items.filter((i) => !i.paywall), ...cluster.items.filter((i) => i.paywall)];
+  for (const it of ordered.slice(0, 5)) {
+    if (texts.filter((t) => t.split(/\s+/).length > 150).length >= 3) break;
+    texts.push(await withDeadline(extractText(it.url), 20000, ''));
+  }
   return texts;
 }
 
@@ -131,6 +136,12 @@ async function main() {
     log(`writing: ${cluster.title} (${cluster.sourceCount} sources)`);
     const texts = await gatherTexts(cluster);
     log(`  source text: ${texts.map((t) => t.length).join(' / ')} chars`);
+    const usableWords = texts.join(' ').split(/\s+/).filter(Boolean).length;
+    if (usableWords < 120 && cluster.items.every((i) => i.paywall)) {
+      log('  skipped: only paywalled sources, not enough readable text');
+      cluster.items.forEach((i) => (state.urls[i.url] = Date.now()));
+      continue;
+    }
     const sourceTexts = [...texts, ...cluster.items.map((i) => `${i.title} ${i.summary}`)];
     let article = await writeArticle(cluster, texts);
     if (article && sharedPhrases(articleText(article), sourceTexts) > 3) {
