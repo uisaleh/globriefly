@@ -1,23 +1,19 @@
-07:24:42 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-07:24:42 collecting videos…
-07:24:43   video feed BBC News: 15 in feed, 5 kept
-07:24:43   video feed Al Jazeera English: 15 in feed, 5 kept
-07:24:43   video feed DW News: 15 in feed, 5 kept
-07:24:43   video feed FRANCE 24 English: 15 in feed, 5 kept
-07:24:43   video feed Sky News: 15 in feed, 5 kept
-07:24:43   video feed Reuters: 15 in feed, 5 kept
-07:24:43   video feed Associated Press: 15 in feed, 5 kept
-07:24:43 videos: saved 24
-07:24:43 collecting feeds…
-07:24:45 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-07:24:45 207 new items
-07:24:45 173 candidate stories
-07:24:45 categories needing stories: sports, technology → reserved sports
-07:24:45 writing: Approach African GP with humility, says Hamilton (2 sources)
-07:24:45   source text: 1906 / 5885 / 5885 chars
-07:24:53   too close to source wording — rewriting
-07:25:01   ✓ published: /news/lewis-hamilton-plans-career-extension-to-race-in-upcoming-african-grand/ [sports] image: wikimedia
-07:25:01 writing: Taiwan braces as El Nino-supercharged Typhoon Champi approaches island (2 sources)
-07:25:02   source text: 3125 / 2802 chars
-07:25:18   ✓ published: /news/taiwan-shuts-down-as-powerful-typhoon-champi-approaches/ [world] image: wikimedia
-07:25:18 done — 2 stories
+08:10:05 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+08:10:05 collecting videos…
+08:10:05   video feed BBC News: 15 in feed, 5 kept
+08:10:05   video feed Al Jazeera English: 15 in feed, 5 kept
+08:10:05   video feed DW News: 15 in feed, 5 kept
+08:10:05   video feed FRANCE 24 English: 15 in feed, 5 kept
+08:10:05   video feed Sky News: 15 in feed, 5 kept
+08:10:05   video feed Reuters: 15 in feed, 5 kept
+08:10:05   video feed Associated Press: 15 in feed, 5 kept
+08:10:05 videos: saved 24
+08:10:05 collecting feeds…
+08:10:06 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+08:10:06 202 new items
+08:10:06 172 candidate stories
+08:10:06 categories needing stories: politics, technology, sports → reserved politics
+08:10:06 writing: Chancellor says he will cut 'pointless paperwork' to save businesses up to £800m (1 sources)
+08:10:06   source text: 2152 chars
+08:10:13   ✓ published: /news/uk-government-promises-regulatory-overhaul-to-save-firms-millions/ [politics] image: wikimedia
+08:10:13 done — 1 stories

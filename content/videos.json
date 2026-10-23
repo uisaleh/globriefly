@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-23T07:24:43.921Z",
+  "updatedAt": "2026-10-23T08:10:05.212Z",
   "videos": [
+    {
+      "id": "ndxWHasgbKE",
+      "title": "'Ceasefire' in Gaza leaves 81 displaced and living in tents",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T07:41:42.000Z",
+      "description": "A year after the ceasefire in Gaza, families like the Abu Ouns are still living in tents, struggling for water and food and fearing renewed Israeli attacks. More than 134,000 structures have been destroyed, and 81% of Ga"
+    },
+    {
+      "id": "q0wwl5Q0baM",
+      "title": "Australian reporter recalls 'terrifying' rescue of man from sinking car",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T07:30:27.000Z",
+      "description": "An Australian television reporter who rescued a man from a car as it was engulfed by flood waters said it was terrifying to watch someone almost drown but added \"there are few better feelings\" than rescuing a person's li"
+    },
+    {
+      "id": "_OYTQjFqFp0",
+      "title": "Huge crowds fill Belgrade for final rallies before election",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T07:18:55.000Z",
+      "description": "Just days before Serbia's elections, Belgrade has seen competing rallies. The right-wing populist Serbian Progressive Party is facing a challenge from an election ticket known as the \"Student List\" — a group of candidate"
+    },
     {
       "id": "C8h9qYy71Fs",
       "title": "🇧🇷 Brazil: Why should you care about the country's elections? • FRANCE 24 English",
@@ -16,30 +40,6 @@
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
       "publishedAt": "2026-10-23T07:00:26.000Z",
       "description": "The youngest woman in the House of Lords wants to see it replaced."
-    },
-    {
-      "id": "dK0z8EMvOgo",
-      "title": "Rescuers race to find survivors of Tibet quake",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T06:50:50.000Z",
-      "description": "Police officers in northern Tibet were seen carrying out rescue efforts after an earthquake of magnitude 7 struck China's south-west region with an epicentre in Nagqu."
-    },
-    {
-      "id": "RS5GY7Akpmc",
-      "title": "How has Prime Minister Netanyahu weathered decades at the top?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T06:43:49.000Z",
-      "description": "Wanted by the ICC, protested by hundreds of thousands at home, charged with corruption and bribery – and still Benjamin Netanyahu is not only hanging on to power, but going into the October 27 prime ministerial election "
-    },
-    {
-      "id": "xgG_djUucrg",
-      "title": "How the midterms could change Trump’s presidency",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T06:24:59.000Z",
-      "description": "Donald Trump isn't on the ballot this November, but the midterms could change the final two years of his presidency. From blocking legislation to launching investigations, here's what's at stake if control of Congress sh"
     },
     {
       "id": "YknB3uw08x0",
@@ -58,6 +58,30 @@
       "description": ""
     },
     {
+      "id": "xgG_djUucrg",
+      "title": "How the midterms could change Trump’s presidency",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T06:24:59.000Z",
+      "description": "Donald Trump isn't on the ballot this November, but the midterms could change the final two years of his presidency. From blocking legislation to launching investigations, here's what's at stake if control of Congress sh"
+    },
+    {
+      "id": "9B3zb7Lt1dU",
+      "title": "Ukrainian soldier amputated his own foot to survive",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T07:30:03.000Z",
+      "description": "Ukrainian soldier Kostiantyn Vlasenko spent 491 days trapped in the drone-filled \"kill zone,\" and months hiding in a hole when he lost both feet after a Russian attack. Just when he had given up hope, his unit sent a gia"
+    },
+    {
+      "id": "RS5GY7Akpmc",
+      "title": "How has Prime Minister Netanyahu weathered decades at the top?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T06:43:49.000Z",
+      "description": "Wanted by the ICC, protested by hundreds of thousands at home, charged with corruption and bribery – and still Benjamin Netanyahu is not only hanging on to power, but going into the October 27 prime ministerial election "
+    },
+    {
       "id": "KJ6elfyEnKk",
       "title": "Italy's trucker protests halt buffalo mozzarella production, cost producers €3m • FRANCE 24",
       "channel": "FRANCE 24 English",
@@ -72,30 +96,6 @@
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
       "publishedAt": "2026-10-23T00:15:23.000Z",
       "description": "The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
-    },
-    {
-      "id": "-u6nx4bUgDE",
-      "title": "Iran shows off purported underground drone factory in state TV footage",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T06:11:31.000Z",
-      "description": "Footage aired on Iranian state television purportedly showed an underground drone production facility, visited by country's army commander-in-chief Amir Hatami."
-    },
-    {
-      "id": "cmuryECp6HQ",
-      "title": "The US accuses Canada of meddling in midterm elections",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T05:27:38.000Z",
-      "description": "The Canada-US trade dispute has taken a political turn, with US officials alleging \"potential Canadian interference\" ahead of the midterm elections. Ontario Premier Doug Ford and Prime Minister Mark Carney have rejected "
-    },
-    {
-      "id": "ywCGSB2KG1w",
-      "title": "Kyrie Irving: Azeez Al-Shaair’s Hind Rajab tribute is a ‘selfless act’",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T04:29:18.000Z",
-      "description": "Dallas Mavericks star Kyrie Irving says Houston Texans linebacker Azeez Al-Shaair is a ‘brother in this revolution’ for writing the name of Hind Rajab, the Palestinian girl killed in Gaza, on his eye black. Irving has of"
     },
     {
       "id": "u55NtxNQLSQ",
@@ -114,6 +114,30 @@
       "description": ""
     },
     {
+      "id": "ywCGSB2KG1w",
+      "title": "Kyrie Irving: Azeez Al-Shaair’s Hind Rajab tribute is a ‘selfless act’",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T04:29:18.000Z",
+      "description": "Dallas Mavericks star Kyrie Irving says Houston Texans linebacker Azeez Al-Shaair is a ‘brother in this revolution’ for writing the name of Hind Rajab, the Palestinian girl killed in Gaza, on his eye black. Irving has of"
+    },
+    {
+      "id": "dK0z8EMvOgo",
+      "title": "Rescuers race to find survivors of Tibet quake",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T06:50:50.000Z",
+      "description": "Police officers in northern Tibet were seen carrying out rescue efforts after an earthquake of magnitude 7 struck China's south-west region with an epicentre in Nagqu."
+    },
+    {
+      "id": "cmuryECp6HQ",
+      "title": "The US accuses Canada of meddling in midterm elections",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T05:27:38.000Z",
+      "description": "The Canada-US trade dispute has taken a political turn, with US officials alleging \"potential Canadian interference\" ahead of the midterm elections. Ontario Premier Doug Ford and Prime Minister Mark Carney have rejected "
+    },
+    {
       "id": "VJpjUVz4hUA",
       "title": "‘The best on Earth’: Can weak economic growth undermine Europe’s ‘very sophisticated social system’?",
       "channel": "FRANCE 24 English",
@@ -130,12 +154,12 @@
       "description": "The government has issued a stark warning to UK households to make sure they are ready if hostile powers or terrorists take out parts of the country's critical infrastructure. "
     },
     {
-      "id": "fkbbUDbtJdo",
-      "title": "Is Trump trying to end the war in Ukraine, or helping Putin win it?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-22T20:30:00.000Z",
-      "description": "US military aid to Ukraine has collapsed. Now Donald Trump is easing pressure on Russia, trying to curb Ukrainian attacks on Russian oil facilities and pushing Kyiv to make a deal. Is he simply trying to end the war, or "
+      "id": "_pW4vIdJsU0",
+      "title": "Yemen’s humanitarian crisis deepens following Houthi strikes on Saudi Arabia",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-22T23:04:46.000Z",
+      "description": "Yemen’s humanitarian crisis, already one of the worst in the world, is deepening, with continued fighting between government forces backed by Saudi Arabia, and Iranian supported Houthi rebels. "
     },
     {
       "id": "AvW0Za5c7sg",
@@ -146,12 +170,20 @@
       "description": "A 27-year-old Indian developer has created a satirical video game inspired by the Cockroach Party-led protests over alleged electoral list irregularities. Players can take on the role of protesters facing baton charges, "
     },
     {
-      "id": "_pW4vIdJsU0",
-      "title": "Yemen’s humanitarian crisis deepens following Houthi strikes on Saudi Arabia",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-22T23:04:46.000Z",
-      "description": "Yemen’s humanitarian crisis, already one of the worst in the world, is deepening, with continued fighting between government forces backed by Saudi Arabia, and Iranian supported Houthi rebels. "
+      "id": "-u6nx4bUgDE",
+      "title": "Iran shows off purported underground drone factory in state TV footage",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T06:11:31.000Z",
+      "description": "Footage aired on Iranian state television purportedly showed an underground drone production facility, visited by country's army commander-in-chief Amir Hatami."
+    },
+    {
+      "id": "fkbbUDbtJdo",
+      "title": "Is Trump trying to end the war in Ukraine, or helping Putin win it?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-22T20:30:00.000Z",
+      "description": "US military aid to Ukraine has collapsed. Now Donald Trump is easing pressure on Russia, trying to curb Ukrainian attacks on Russian oil facilities and pushing Kyiv to make a deal. Is he simply trying to end the war, or "
     },
     {
       "id": "ajv5CyVbiPY",
@@ -160,38 +192,6 @@
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
       "publishedAt": "2026-10-22T21:02:45.000Z",
       "description": "President Trump departs the White House en route Sioux City, Iowa."
-    },
-    {
-      "id": "Oee2rwgU_UQ",
-      "title": "Inside Ukraine’s steel plant hit by Russian attacks",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T01:23:42.000Z",
-      "description": "Russian drone and missile attacks have forced Ukraine’s Kametstal steel plant in Kamianske offline, dealing a major blow to the country’s steel industry and economy."
-    },
-    {
-      "id": "2HiHQOy9PYA",
-      "title": "President Trump ordered to answer questions under oath in BBC lawsuit",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-22T23:00:03.000Z",
-      "description": "A US judge has ordered President Donald Trump to answer questions under oath in his defamation lawsuit against the BBC by 11 December."
-    },
-    {
-      "id": "ZpERdlShBZ4",
-      "title": "Met officer abused online: 'People made AI images of her wearing suicide vests'",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-22T20:55:03.000Z",
-      "description": "Metropolitan Police Commissioner Sir Mark Rowley has condemned \"completely vile\" racist and sexist abuse targeting PC Fiona Shaik Umar after an old image of her with a weapon circulated online."
-    },
-    {
-      "id": "0Iy3qJqoPzQ",
-      "title": "Are Democratic Socialists Reshaping the Democratic Party",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-22T23:57:23.000Z",
-      "description": "Democratic socialists are gaining momentum in Michigan as Democrats grapple with a cost-of-living crisis, working-class voters and an ongoing identity crisis ahead of the midterm elections."
     }
   ]
 }
