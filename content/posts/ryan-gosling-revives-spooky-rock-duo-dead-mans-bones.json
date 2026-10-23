@@ -92,6 +92,9 @@
   "publishedAt": "2026-10-23T13:21:27.077Z",
   "updatedAt": "2026-10-23T13:21:27.077Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172619592681745",
+    "sharedAt": "2026-10-23T13:25:00.569Z"
+  },
   "ogImage": "/og/ryan-gosling-revives-spooky-rock-duo-dead-mans-bones.jpg"
 }
