@@ -61,14 +61,14 @@
   ],
   "socialSummary": "Apple Music hides a fully interactive virtual iPod on its error pages to celebrate the device's 25th anniversary.",
   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/BuzzFeed_MUSIC_AWARDS_JAPAN_2026_-_Mrs_Green_Apple.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "alt": "Mrs. Green Apple at the 2026 Music Awards Japan",
-    "credit": "BuzzFeed Japan / Wikimedia Commons",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:BuzzFeed_MUSIC_AWARDS_JAPAN_2026_-_Mrs_Green_Apple.png",
-    "license": "CC BY 4.0",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/1920px-Red_Apple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Red Apple. Used white paper behind apple and above apple and bounced SB-600 at 1/4th power.",
+    "credit": "Abhijit Tembhekar from Mumbai, India / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Red_Apple.jpg",
+    "license": "CC BY 2.0",
     "provider": "wikimedia",
-    "query": "Apple Music website",
-    "matchedBy": "idea"
+    "query": "Apple",
+    "matchedBy": "name"
   },
   "imageSearch": {
     "query": "Apple Music website",
