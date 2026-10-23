@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import ListenPlayer from '@/components/ListenPlayer';
+import ArticleAutoScroll from '@/components/ArticleAutoScroll';
 import { notFound } from 'next/navigation';
 import { getAllPosts, getPost, related, trending, byCategory, formatDateTime, tagSlug } from '@/lib/posts';
 import { site } from '@/site.config.mjs';
@@ -83,6 +84,7 @@ export default async function ArticlePage({ params }) {
       <Header active={post.category} />
       <div style={{ height: 4, width: '38%', background: 'var(--red)' }} aria-hidden="true" />
       <main className="wrap article-main">
+        <ArticleAutoScroll />
         <article className="article" style={{ '--cat': post.cat.color }}>
           <nav className="crumbs" aria-label="Breadcrumb">
             <Link href="/">Home</Link><span aria-hidden="true">/</span>

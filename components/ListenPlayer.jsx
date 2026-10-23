@@ -1,5 +1,6 @@
 'use client';
 import { useCallback, useEffect, useRef, useState } from 'react';
+import ListenGate, { getListener } from './ListenGate';
 
 // "Listen to this story" — reads the article aloud with the US/UK English voices built into the reader's device
 // (Web Speech API: free, no server). It reads every element tagged data-tts in page order, highlights the
@@ -85,6 +86,10 @@ export default function ListenPlayer() {
   const [open, setOpen] = useState(false);
   const [follow, setFollow] = useState(true);
   const [inlineVisible, setInlineVisible] = useState(true);
+  const [pastCard, setPastCard] = useState(false); // scrolled below the card → pin the player to the top
+  const [pinClosed, setPinClosed] = useState(false);
+  const [listener, setListener] = useState(null);
+  const [gate, setGate] = useState(false);
   const [chunks, setChunks] = useState([]);
   const run = useRef({ i: 0, token: 0, chunkStart: 0, follow: true, programmaticUntil: 0 });
   const cardRef = useRef(null);
@@ -98,6 +103,7 @@ export default function ListenPlayer() {
     if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
     setSupported(true);
     setChunks(buildChunks());
+    setListener(getListener());
     const load = () => {
       const usuk = window.speechSynthesis.getVoices().filter((v) => /^en[-_](US|GB)/i.test(v.lang));
       const gendered = usuk.filter((v) => genderOf(v) !== 'other');
@@ -121,7 +127,10 @@ export default function ListenPlayer() {
   // Is the inline card on screen? If not, the floating player shows.
   useEffect(() => {
     if (!cardRef.current || typeof IntersectionObserver === 'undefined') return;
-    const io = new IntersectionObserver(([e]) => setInlineVisible(e.isIntersecting), { threshold: 0.2 });
+    const io = new IntersectionObserver(([e]) => {
+      setInlineVisible(e.isIntersecting);
+      setPastCard(!e.isIntersecting && e.boundingClientRect.top < 0);
+    }, { threshold: 0.2 });
     io.observe(cardRef.current);
     return () => io.disconnect();
   }, [supported]);
@@ -186,11 +195,15 @@ export default function ListenPlayer() {
       }
     }
     if (scroll && run.current.follow) {
-      const top = 90, bottom = window.innerHeight - 150; // keep clear of the header and the floating player
+      const top = 150, bottom = window.innerHeight - 70; // keep clear of the player pinned at the top
       if (rect.top < top || rect.bottom > bottom) {
         run.current.programmaticUntil = Date.now() + 900;
         const reduce = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
-        window.scrollTo({ top: window.scrollY + rect.top - window.innerHeight * 0.35, behavior: reduce ? 'auto' : 'smooth' });
+        // Never scroll above the start of the story (keeps the site header out of the way).
+        const startEl = document.querySelector('.article .crumbs') || document.querySelector('.article');
+        const minY = startEl ? startEl.getBoundingClientRect().top + window.scrollY - 12 : 0;
+        const y = Math.max(minY, window.scrollY + rect.top - Math.max(170, window.innerHeight * 0.38));
+        window.scrollTo({ top: y, behavior: reduce ? 'auto' : 'smooth' });
       }
     }
   }, [chunks]);
@@ -222,6 +235,7 @@ export default function ListenPlayer() {
   }
 
   function toggle() {
+    if (state === 'idle' && !listener) { setGate(true); return; }
     if (state === 'playing') { run.current.token++; window.speechSynthesis.cancel(); setState('paused'); return; }
     if (state === 'idle') { run.current.follow = true; setFollow(true); }
     speakFrom(state === 'paused' ? run.current.i : 0);
@@ -243,6 +257,12 @@ export default function ListenPlayer() {
     run.current.i = k; setIndex(k); setElapsed(starts[k] || 0);
     run.current.follow = true; setFollow(true);
     if (state === 'playing') speakFrom(k); else show(k);
+  }
+  function closePin() { if (state !== 'idle') stop(); setPinClosed(true); }
+  function onSignedIn(l) {
+    setListener(l); setGate(false);
+    run.current.follow = true; setFollow(true);
+    speakFrom(0);
   }
   function backToReading() { run.current.follow = true; setFollow(true); show(run.current.i); }
   function pickVoice(name) {
@@ -328,28 +348,38 @@ export default function ListenPlayer() {
         )}
       </section>
 
-      {/* Floating player — stays on screen while listening */}
-      {active && !inlineVisible && (
-        <div className="listen-float" role="region" aria-label="Audio player">
+      {/* Player pinned to the top once the reader scrolls past the card */}
+      {pastCard && !pinClosed && (
+        <div className={`listen-float${active ? '' : ' is-idle'}`} role="region" aria-label="Audio player">
           <div className="listen-float-in">
             <div className="listen-float-row">
-              <button type="button" className="lf-btn" onClick={() => skip(-1)} aria-label="Previous sentence">{prevIcon}</button>
+              {active && <button type="button" className="lf-btn" onClick={() => skip(-1)} aria-label="Previous sentence">{prevIcon}</button>}
               <button type="button" className="listen-play lf-play" onClick={toggle} aria-label={playLabel}>{playIcon}</button>
-              <button type="button" className="lf-btn" onClick={() => skip(1)} aria-label="Next sentence">{nextIcon}</button>
+              {active && <button type="button" className="lf-btn" onClick={() => skip(1)} aria-label="Next sentence">{nextIcon}</button>}
               <div className="lf-info">
-                <span className="lf-title">{state === 'playing' ? 'Listening' : 'Paused'} · <span className="lf-voice">{label(voice)}</span></span>
-                {timeline('lf-timeline')}
+                {active ? (
+                  <>
+                    <span className="lf-title">{state === 'playing' ? 'Listening' : 'Paused'} · <span className="lf-voice">{label(voice)}</span></span>
+                    {timeline('lf-timeline')}
+                  </>
+                ) : (
+                  <>
+                    <span className="lf-title">Listen to this story</span>
+                    <span className="lf-voice" style={{ fontSize: 12 }}>{fmt(total)} · {label(voice)}</span>
+                  </>
+                )}
               </div>
-              <button type="button" className="lf-btn lf-rate" onClick={nextRate} aria-label={`Speed ${rate}×, change`}>{rate}×</button>
-              <button type="button" className="lf-btn" onClick={stop} aria-label="Stop and close player"><svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" /></svg></button>
+              {active && <button type="button" className="lf-btn lf-rate" onClick={nextRate} aria-label={`Speed ${rate}×, change`}>{rate}×</button>}
+              <button type="button" className="lf-btn lf-close" onClick={closePin} aria-label={active ? 'Stop and close player' : 'Close player'} title="Close"><svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" /></svg></button>
             </div>
-            {!follow && <button type="button" className="lf-follow" onClick={backToReading}>↓ Back to reading</button>}
+            {active && !follow && <button type="button" className="lf-follow" onClick={backToReading}>↓ Back to reading</button>}
           </div>
         </div>
       )}
-      {active && inlineVisible && !follow && (
+      {active && (!pastCard || pinClosed) && !follow && (
         <button type="button" className="lf-follow lf-follow-solo" onClick={backToReading}>↓ Back to reading</button>
       )}
+      {gate && <ListenGate onDone={onSignedIn} onClose={() => setGate(false)} />}
     </>
   );
 }

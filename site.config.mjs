@@ -11,6 +11,10 @@ export const site = {
   newsletterAction: process.env.NEXT_PUBLIC_NEWSLETTER_ACTION || '',
   // Contact form → your inbox, via Web3Forms (free). Get the key at https://web3forms.com by entering the
   // email address that should receive messages. The key is safe to make public: it can only send to that address.
+  // Google sign-in for the Listen feature (public OAuth Client ID — safe to publish). Empty = email form instead.
+  googleClientId: process.env.NEXT_PUBLIC_GOOGLE_CLIENT_ID || '',
+  // Optional: Google Apps Script web-app URL that appends listener sign-ups to a Google Sheet.
+  leadsEndpoint: process.env.NEXT_PUBLIC_LEADS_ENDPOINT || '',
   contactFormKey: process.env.NEXT_PUBLIC_WEB3FORMS_KEY || 'ddfb58df-7589-4a99-b40f-44716761b96a',
   // Sticky 300×600 ad on article pages. Point `src` at any HTML5 ad in public/ads/, or set it to '' to show
   // the empty slot for an AdSense unit instead.
