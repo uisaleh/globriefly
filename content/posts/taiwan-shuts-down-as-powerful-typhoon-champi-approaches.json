@@ -1,0 +1,93 @@
+{
+  "slug": "taiwan-shuts-down-as-powerful-typhoon-champi-approaches",
+  "status": "published",
+  "type": "news",
+  "category": "world",
+  "region": "Asia",
+  "headline": "Taiwan shuts down as powerful Typhoon Champi approaches",
+  "standfirst": "Taiwan has closed businesses, schools, and flights as Typhoon Champi nears the island, fuelled by an exceptionally strong El Nino season.",
+  "keyPoints": [
+    "Nearly all businesses, shops, and schools closed across Taiwan on Friday.",
+    "More than 1,200 people evacuated their homes as the storm approached.",
+    "At least one person died after being swept out to sea, with dozens injured.",
+    "The typhoon is fuelled by a historically strong El Nino weather phenomenon."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "Taiwan has come to a standstill as Typhoon Champi bears down on the island, forcing widespread closures of businesses, retail shops, and educational institutions. Authorities have reported that at least one person has lost their life after being swept into the sea by violent waves, while dozens of other individuals have sustained injuries. Emergency responders and local residents have spent frantic hours securing properties, installing metal barriers, and placing sandbags to mitigate potential flood damage.",
+        "The Ministry of Transportation confirmed that hundreds of flight cancellations have disrupted regional travel and commerce. More than 1,200 vulnerable residents have been forced to evacuate their homes and seek refuge in higher locations away from vulnerable coastal areas. Military personnel remain fully mobilised and positioned across the territory alongside rescue vehicles to assist with emergency response operations as conditions deteriorate.",
+        "In the capital city of Taipei, public transport networks continued to operate on restricted schedules while streets emptied out. Meteorological officials tracked the centre of the storm approximately 220 kilometres east of the southern coastline. Forecasters warned that torrential downpours, hurricane-force gusts, and massive ocean waves would lash the region continuously through Friday and Saturday."
+      ]
+    },
+    {
+      "heading": "Meteorological context and extreme weather",
+      "paragraphs": [
+        "The extraordinary ferocity of Typhoon Champi is directly linked to an exceptionally intense El Nino cycle currently active in the equatorial Pacific Ocean. This cyclical climate pattern involves abnormal warming of tropical sea surface temperatures, which acts as a powerful engine for tropical cyclones. Earlier in its journey across the ocean, Champi achieved the classification of a super typhoon before experiencing a slight reduction in overall intensity.",
+        "Despite losing its peak super-typhoon status, the storm maintains a massive radius of approximately 320 kilometres, large enough to blanket the entire island territory. Meteorological authorities noted that the storm is expected to deposit up to 90 centimetres of rainfall in specific northeastern areas over a three-day period. Forecasters have expressed particular concern that the system might decelerate as it grazes the northeastern tip, thereby prolonging the duration of hazardous weather conditions."
+      ]
+    },
+    {
+      "heading": "Local preparedness and community response",
+      "paragraphs": [
+        "Communities across the island have mobilised rapidly to confront the advancing natural disaster, drawing on extensive experience with seasonal Pacific storms. Citizens reinforced domestic windows and doors with protective wooden boards, while agricultural workers worried openly about potential crop destruction and flooding. Local commercial employees secured storefronts and prepared emergency barriers ahead of the anticipated midnight approach of the eye of the storm.",
+        "Public officials have maintained a state of high alert, deploying inflatable rescue watercraft and amphibious transport units to strategic locations. The Central Weather Administration has continuously updated the public regarding the shifting trajectory and potential landfall risks. Residents have been strongly advised to remain indoors and avoid coastal zones as high winds and heavy precipitation persist."
+      ]
+    },
+    {
+      "heading": "Broader implications of global climate cycles",
+      "paragraphs": [
+        "The unfolding crisis in Taiwan highlights the growing severity of extreme weather events driven by shifting global climate patterns. International organisations, including the United Nations, have characterized the current El Nino phase as unprecedented and exceptionally potent. Scientists project that this cyclical phenomenon will reach its peak intensity in December, with socioeconomic and environmental repercussions anticipated to linger for years.",
+        "Global authorities have repeatedly urged nations situated across the Pacific basin to enact rigorous disaster preparedness measures. The compounding interaction between baseline global warming and intense El Nino phases continues to amplify the destructive potential of seasonal typhoons. Consequently, governments face mounting pressure to upgrade infrastructure and protect vulnerable populations from recurring climate extremes."
+      ]
+    },
+    {
+      "heading": "Future trajectory and ongoing monitoring",
+      "paragraphs": [
+        "Following its projected passage past Taiwan's northeastern shore, Typhoon Champi is expected to track northward towards mainland China. Meteorological agencies will continue tracking the storm's progression as it subsequently curves eastward in the direction of southern Japan. Any unexpected deviation in the steering currents could still result in a direct landfall on Taiwanese soil, according to weather forecasters.",
+        "Emergency services and disaster management teams will maintain their heightened operational readiness throughout the weekend as the storm system gradually clears the region. Officials will subsequently assess infrastructural damage, coordinate recovery efforts for displaced citizens, and review the overall effectiveness of the emergency response. Regional transport hubs will gradually resume normal operations once meteorological alerts are officially lifted."
+      ]
+    }
+  ],
+  "highlight": "The extraordinary ferocity of Typhoon Champi is directly linked to an exceptionally intense El Nino cycle currently active in the equatorial Pacific Ocean.",
+  "timeline": [],
+  "tags": [
+    "Taiwan",
+    "Typhoon Champi",
+    "weather",
+    "El Nino",
+    "storm"
+  ],
+  "socialSummary": "Taiwan shuts down schools and businesses as Typhoon Champi approaches amid an intense El Nino season.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Comic_World_Taiwan_envelope_20180316.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "alt": "Waves crash violently against a concrete breakwater along the coast of Taiwan during Typhoon Champi",
+    "credit": "Solomon203 / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Comic_World_Taiwan_envelope_20180316.jpg",
+    "license": "CC BY-SA 4.0",
+    "provider": "wikimedia"
+  },
+  "sources": [
+    {
+      "name": "DW",
+      "url": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"
+    }
+  ],
+  "sourceTitles": [
+    "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
+    "Taiwan shuts down schools and businesses as Typhoon Champi approaches"
+  ],
+  "sourceCount": 2,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-10-23T07:25:17.520Z",
+  "updatedAt": "2026-10-23T07:25:17.520Z",
+  "readingMinutes": 3,
+  "facebook": null,
+  "ogImage": "/og/taiwan-shuts-down-as-powerful-typhoon-champi-approaches.jpg"
+}

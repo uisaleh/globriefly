@@ -1,17 +1,23 @@
-01:26:48 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-01:26:48 collecting feeds…
-01:26:49 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-01:26:49 275 new items
-01:26:49 236 candidate stories
-01:26:49 categories needing stories: business, technology → reserved business
-01:26:49 writing: Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax (2 sources)
-01:26:49   source text: 4854 / 4854 / 4854 chars
-01:26:54   too close to source wording — rewriting
-01:27:05   ✓ published: /news/meta-secures-eight-year-retention-agreement-with-chief-executive-to/ [business] image: wikimedia
-01:27:05 writing: Tibet rocked by 7.0-magnitude earthquake (3 sources)
-01:27:06   source text: 236 / 1956 / 987 chars
-01:27:11   too close to source wording — rewriting
-01:27:18   ✓ published: /news/major-7-0-magnitude-earthquake-kills-sixteen-people-across-remote-tibet/ [world] image: wikimedia
-01:27:18 writing explainer for: Tibet rocked by 7.0-magnitude earthquake
-01:27:24   ✓ explainer: /news/what-caused-the-powerful-earthquake-in-tibet/
-01:27:24 done — 2 stories
+07:24:42 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+07:24:42 collecting videos…
+07:24:43   video feed BBC News: 15 in feed, 5 kept
+07:24:43   video feed Al Jazeera English: 15 in feed, 5 kept
+07:24:43   video feed DW News: 15 in feed, 5 kept
+07:24:43   video feed FRANCE 24 English: 15 in feed, 5 kept
+07:24:43   video feed Sky News: 15 in feed, 5 kept
+07:24:43   video feed Reuters: 15 in feed, 5 kept
+07:24:43   video feed Associated Press: 15 in feed, 5 kept
+07:24:43 videos: saved 24
+07:24:43 collecting feeds…
+07:24:45 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
+07:24:45 207 new items
+07:24:45 173 candidate stories
+07:24:45 categories needing stories: sports, technology → reserved sports
+07:24:45 writing: Approach African GP with humility, says Hamilton (2 sources)
+07:24:45   source text: 1906 / 5885 / 5885 chars
+07:24:53   too close to source wording — rewriting
+07:25:01   ✓ published: /news/lewis-hamilton-plans-career-extension-to-race-in-upcoming-african-grand/ [sports] image: wikimedia
+07:25:01 writing: Taiwan braces as El Nino-supercharged Typhoon Champi approaches island (2 sources)
+07:25:02   source text: 3125 / 2802 chars
+07:25:18   ✓ published: /news/taiwan-shuts-down-as-powerful-typhoon-champi-approaches/ [world] image: wikimedia
+07:25:18 done — 2 stories
