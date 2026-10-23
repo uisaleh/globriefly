@@ -8,7 +8,7 @@ export const metadata = { title: 'Site map', description: 'Every section and pag
 const pages = [
   ['Top stories', '/'], ['All stories', '/archive/'], ['About', '/about/'], ['Editorial standards', '/editorial-standards/'],
   ['Corrections', '/corrections/'], ['Contact', '/contact/'], ['Advertise', '/advertise/'], ['Privacy policy', '/privacy/'],
-  ['Cookie policy', '/cookies/'], ['Terms of use', '/terms/'], ['RSS feed', '/rss.xml'], ['XML sitemap', '/sitemap.xml'],
+  ['Cookie policy', '/cookies/'], ['Terms of use', '/terms/'], ['Videos', '/videos/'], ['RSS feed', '/rss/'], ['XML sitemap', '/sitemap.xml'],
 ];
 
 export default function SiteMap() {

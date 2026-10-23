@@ -3,7 +3,7 @@ import { site, categories } from '@/site.config.mjs';
 
 export const dynamic = 'force-static';
 
-const STATIC = ['about', 'editorial-standards', 'corrections', 'contact', 'advertise', 'privacy', 'cookies', 'terms', 'site-map', 'archive', 'videos'];
+const STATIC = ['about', 'editorial-standards', 'corrections', 'contact', 'advertise', 'privacy', 'cookies', 'terms', 'site-map', 'archive', 'videos', 'rss'];
 
 export default function sitemap() {
   const posts = getAllPosts();

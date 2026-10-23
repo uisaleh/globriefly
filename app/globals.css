@@ -284,3 +284,18 @@ main.home { display: flex; flex-direction: column; gap: 64px; padding: 32px 0 72
 .video-card.on-dark .video-title { color: #fff; }
 .video-card.on-dark .video-meta, .video-card.on-dark .video-meta a { color: var(--on-dark); }
 .video-meta a { text-decoration: underline; text-underline-offset: 2px; }
+
+/* Footer logo + social */
+.footer-logo { display: inline-flex; align-self: flex-start; }
+.footer-logo:hover { opacity: .85; }
+.footer-social { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 4px; }
+.footer-social a { display: inline-flex; align-items: center; gap: 8px; height: 40px; padding: 0 16px; border-radius: 20px; border: 1px solid rgba(255,255,255,.22); color: #fff; font-size: 14px; font-weight: 700; }
+.footer-social a:hover { background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.4); }
+.footer-social a:first-child { background: #1877F2; border-color: #1877F2; }
+.footer-social a:first-child:hover { background: #166FE0; }
+
+/* RSS page */
+.copy-field { display: flex; gap: 8px; max-width: 620px; font-family: var(--font-sans, inherit); }
+.copy-field input { flex: 1; min-width: 0; height: 48px; padding: 0 14px; border: 1px solid var(--line); border-radius: 6px; font-size: 15px; background: var(--mist, #F4F5F7); }
+.copy-field button { height: 48px; padding: 0 20px; border: 0; border-radius: 6px; background: var(--red); color: #fff; font-weight: 800; font-size: 15px; cursor: pointer; }
+.feed-buttons { display: flex; flex-wrap: wrap; gap: 10px; font-family: var(--font-sans, inherit); }

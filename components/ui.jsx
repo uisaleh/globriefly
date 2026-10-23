@@ -57,9 +57,19 @@ export function Footer() {
     <footer className="footer pattern-dark">
       <div className="wrap footer-top">
         <div style={{ flex: '1 1 300px', display: 'flex', flexDirection: 'column', gap: 14 }}>
-          <Logo dark size={26} />
+          <Link href="/" aria-label="Globriefly home" className="footer-logo"><Logo dark size={26} /></Link>
           <span style={{ fontSize: 17, fontWeight: 600, color: '#fff' }}>{site.tagline}</span>
           <p style={{ fontSize: 14, lineHeight: 1.6, maxWidth: 380 }}>Clear, fast coverage of the stories shaping the world, with links to the original reporting in every article.</p>
+          <div className="footer-social">
+            <a href={site.facebookUrl} target="_blank" rel="noopener me" aria-label="Globriefly on Facebook">
+              <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.5 22v-8h2.7l.4-3.2h-3.1V8.8c0-.9.3-1.6 1.6-1.6h1.7V4.4c-.3 0-1.3-.1-2.5-.1-2.4 0-4.1 1.5-4.1 4.2v2.3H7.5V14h2.7v8h3.3z" /></svg>
+              Follow us on Facebook
+            </a>
+            <Link href="/rss/" aria-label="RSS feed">
+              <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="19" r="2.2" fill="currentColor" /><path d="M3 10.5a10.5 10.5 0 0 1 10.5 10.5M3 3.5A17.5 17.5 0 0 1 20.5 21" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" /></svg>
+              RSS
+            </Link>
+          </div>
         </div>
         <nav className="footer-cats" aria-label="Footer categories">
           {categories.map((c) => <Link key={c.slug} href={`/${c.slug}/`}>{c.label}</Link>)}
@@ -77,8 +87,7 @@ export function Footer() {
           <Link href="/privacy/">Privacy policy</Link>
           <Link href="/cookies/">Cookie policy</Link>
           <Link href="/terms/">Terms of use</Link>
-          <a href={site.facebookUrl} rel="noopener">Facebook</a>
-          <a href="/rss.xml">RSS feed</a>
+          <Link href="/rss/">RSS feed</Link>
         </nav>
       </div>
       <div className="wrap footer-bottom">© {new Date().getFullYear()} Globriefly. All rights reserved.</div>
