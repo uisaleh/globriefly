@@ -98,6 +98,9 @@
   "publishedAt": "2026-10-23T16:12:47.856Z",
   "updatedAt": "2026-10-23T16:12:47.856Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172626726681745",
+    "sharedAt": "2026-10-23T16:16:33.823Z"
+  },
   "ogImage": "/og/apple-music-hides-interactive-virtual-ipod-on-error-pages-for-milestone.jpg"
 }
