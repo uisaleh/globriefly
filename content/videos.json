@@ -1,13 +1,117 @@
 {
-  "updatedAt": "2026-10-23T08:10:05.212Z",
+  "updatedAt": "2026-10-23T12:26:22.678Z",
   "videos": [
     {
-      "id": "ndxWHasgbKE",
-      "title": "'Ceasefire' in Gaza leaves 81 displaced and living in tents",
+      "id": "i1_9kIEj2b8",
+      "title": "What happens when everything becomes a market?",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T12:00:37.000Z",
+      "description": "Is there really an economic case for trading on Taylor Swift? Tarek Mansour, co-founder and CEO of prediction market Kalshi, joins the Reuters Econ World podcast to explain why there's a market for just about everything."
+    },
+    {
+      "id": "QqxVhGcavt0",
+      "title": "The battle inside the Green Party",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-23T12:00:24.000Z",
+      "description": "After Zack Polanski's by-election defeat and the passing of the controversial 'Zionism is racism' motion, Sky's Alex Rogers digs into the growing splits within the Green Party and what it might mean for the left of Briti"
+    },
+    {
+      "id": "7IJ6qkgBM8Y",
+      "title": "Singapore's longevity industry: The quest for eternal youth • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-23T11:54:30.000Z",
+      "description": "In Singapore, the quest for eternal youth is no longer just a billionaire's fantasy. It's becoming big business. High-tech clinics, longevity labs and specialist companies all promise the same thing: slowing down the age"
+    },
+    {
+      "id": "gUhS0YhkLzE",
+      "title": "Israeli strikes hit Nuseirat camp as elections near",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T07:41:42.000Z",
-      "description": "A year after the ceasefire in Gaza, families like the Abu Ouns are still living in tents, struggling for water and food and fearing renewed Israeli attacks. More than 134,000 structures have been destroyed, and 81% of Ga"
+      "publishedAt": "2026-10-23T11:45:37.000Z",
+      "description": "Homes in Nuseirat lie shattered after a series of Israeli strikes, forcing residents to grab what they can and search for safety. With Israel’s vote approaching, Palestinians say only a real diplomatic shift can stop the"
+    },
+    {
+      "id": "aLkkfSq83So",
+      "title": "AfD scrambling after data breach",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T11:40:51.000Z",
+      "description": "Germany’s far-right AfD is investigating the extent of the damage done by a massive breach of data. Hackers copied hundreds of thousands of emails and sensitive documents. The data has been published online, and the firs"
+    },
+    {
+      "id": "E8zFh4i0AaE",
+      "title": "Netanyahu orders closure of entire occupied West Bank after shooting",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-23T11:32:40.000Z",
+      "description": "Israel's Prime Minister Benjamin Netanyahu has ordered the closure of the entire occupied West Bank and the cancellation of his party's political events after a shooting."
+    },
+    {
+      "id": "2FrxW-NnhNY",
+      "title": "Trump blasts 76ers star LeBron James for not standing still during national anthem",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-23T11:00:32.000Z",
+      "description": "President Donald Trump on Thursday accused NBA star LeBron James of disrespecting the United States after he appeared to continue warming up during the national anthem before Philadelphia’s season opener on Tuesday. Spea"
+    },
+    {
+      "id": "ZgXYH5nxCSA",
+      "title": "Market Talk: ECB could rescue everyone but France",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-23T11:54:29.000Z",
+      "description": "French borrowing costs have surged to 5%, fuelling fears of a new euro zone debt crisis. Carsten Brzeski from ING told Reuters the ECB could deploy its crisis-fighting tools to shield the rest of the euro zone, while lea"
+    },
+    {
+      "id": "9H2pBlCO_MI",
+      "title": "Trump holds rally in Florida ahead of midterms",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-23T11:40:32.000Z",
+      "description": "President Trump holds rally in Fort Meyers, Florida ahead of the midterm elections."
+    },
+    {
+      "id": "ZXYLXLHbfcg",
+      "title": "REPLAY: Laurent Nunez holds presser on security arrangements ahead of protests • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-23T11:29:16.000Z",
+      "description": "French Interior Minister Laurent Nunez held a press conference on security arrangements ahead of upcoming protests. He announced that 70,000 security forces would be mobilised on October 24 to keep order."
+    },
+    {
+      "id": "RZ23A6q3DUw",
+      "title": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T11:25:36.000Z",
+      "description": "Health workers in Gaza are participating in a breast cancer campaign "
+    },
+    {
+      "id": "4lWB4zx-PhI",
+      "title": "Israeli army says 'terror attack' prevented after shooting",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T11:40:22.000Z",
+      "description": "Israel's Prime Minister Benjamin Netanyahu has instructed Israeli security forces to immediately cordon off the city of Hebron and prepare to fully close all of the West Bank. It's after the Israeli army said it had prev"
+    },
+    {
+      "id": "YMWxi98MJSc",
+      "title": "Storm Austen hits parts of UK leaving thousands without power and disrupting travel",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-23T10:57:42.000Z",
+      "description": "Power cuts are affecting more than 9,000 homes in Cornwall and Devon as Storm Austen hits parts of the UK. "
+    },
+    {
+      "id": "uJoTozfXBDk",
+      "title": "Trump says he 'heard something about' DOJ probe into Corey Lewandowski",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-23T10:00:34.000Z",
+      "description": "U.S. President Donald Trump said administration officials who are not honest should be prosecuted, responding to a question about reports that the Justice Department is looking into Corey Lewandowski. Trump said he was u"
     },
     {
       "id": "q0wwl5Q0baM",
@@ -18,28 +122,44 @@
       "description": "An Australian television reporter who rescued a man from a car as it was engulfed by flood waters said it was terrifying to watch someone almost drown but added \"there are few better feelings\" than rescuing a person's li"
     },
     {
-      "id": "_OYTQjFqFp0",
-      "title": "Huge crowds fill Belgrade for final rallies before election",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T07:18:55.000Z",
-      "description": "Just days before Serbia's elections, Belgrade has seen competing rallies. The right-wing populist Serbian Progressive Party is facing a challenge from an election ticket known as the \"Student List\" — a group of candidate"
-    },
-    {
-      "id": "C8h9qYy71Fs",
-      "title": "🇧🇷 Brazil: Why should you care about the country's elections? • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-23T07:01:48.000Z",
-      "description": "🗳️ On October 25, a runoff election in #Brazil could change the political landscape of #LatinAmerica. In the first round, #FlavioBolsonaro, son of ex-president Jair #Bolsonaro, beat incumbent President Luiz Inacio #Lula"
-    },
-    {
-      "id": "326r4RbBpx4",
-      "title": "Why the youngest woman in the House of Lords wants to scrap it",
+      "id": "DNONFn5HjA4",
+      "title": "Meghan Markle responds to allegations against her father",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-23T07:00:26.000Z",
-      "description": "The youngest woman in the House of Lords wants to see it replaced."
+      "publishedAt": "2026-10-23T11:15:21.000Z",
+      "description": "Meghan Markle has given a statement responding to claims published in The Sun that images of child sexual abuse have been found in Thomas Markle's Philippines home and that his son, Thomas Markle Jr, has reported him to "
+    },
+    {
+      "id": "6TxECRmUOZ4",
+      "title": "French authorities ban some student protests after weekend looting and clashes • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-23T11:21:53.000Z",
+      "description": "Dozens of protesters took to the Paris streets on Thursday despite bans on demonstrations ordered in multiple French cities following a weekend of clashes and widespread looting that marked France’s most violent unrest i"
+    },
+    {
+      "id": "CI4Jw4kFS1g",
+      "title": "Rescue teams search for survivors after Tibet earthquake",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-23T09:47:34.000Z",
+      "description": "Subscribe to our channel: http://bit.ly/AJSubscribe"
+    },
+    {
+      "id": "BPDZSI_l0gY",
+      "title": "NATO to boost its presence in the Black Sea after strikes",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-23T10:40:46.000Z",
+      "description": "NATO is planning to deploy extra assets in the Black Sea including patrol aircraft, radar systems and intelligence personnel. The alliance hasn't directly blamed any country, but the working assumption is that Russia is "
+    },
+    {
+      "id": "HBOQnt-sCS0",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-23T10:24:29.000Z",
+      "description": "Ukraine is still recording issues with the Starlink network, sources within the defence ministry say, after Donald Trump said limits on the satellite uplink had been reversed by Elon Musk."
     },
     {
       "id": "YknB3uw08x0",
@@ -50,22 +170,6 @@
       "description": "A mine blast on the battlefield plunged Ukrainian war veteran Mykola Kasiuk’s world into near-total darkness. After two years and multiple operations by local doctors, Kasiuk hopes a visiting team of U.S. surgeons can re"
     },
     {
-      "id": "l43UYKzqS0M",
-      "title": "Powerful earthquake hits Tibet, killing 16 people, reports say.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-23T01:47:10.000Z",
-      "description": ""
-    },
-    {
-      "id": "xgG_djUucrg",
-      "title": "How the midterms could change Trump’s presidency",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T06:24:59.000Z",
-      "description": "Donald Trump isn't on the ballot this November, but the midterms could change the final two years of his presidency. From blocking legislation to launching investigations, here's what's at stake if control of Congress sh"
-    },
-    {
       "id": "9B3zb7Lt1dU",
       "title": "Ukrainian soldier amputated his own foot to survive",
       "channel": "Reuters",
@@ -74,124 +178,20 @@
       "description": "Ukrainian soldier Kostiantyn Vlasenko spent 491 days trapped in the drone-filled \"kill zone,\" and months hiding in a hole when he lost both feet after a Russian attack. Just when he had given up hope, his unit sent a gia"
     },
     {
-      "id": "RS5GY7Akpmc",
-      "title": "How has Prime Minister Netanyahu weathered decades at the top?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T06:43:49.000Z",
-      "description": "Wanted by the ICC, protested by hundreds of thousands at home, charged with corruption and bribery – and still Benjamin Netanyahu is not only hanging on to power, but going into the October 27 prime ministerial election "
+      "id": "326r4RbBpx4",
+      "title": "Why the youngest woman in the House of Lords wants to scrap it",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-23T07:00:26.000Z",
+      "description": "The youngest woman in the House of Lords wants to see it replaced."
     },
     {
-      "id": "KJ6elfyEnKk",
-      "title": "Italy's trucker protests halt buffalo mozzarella production, cost producers €3m • FRANCE 24",
+      "id": "C8h9qYy71Fs",
+      "title": "🇧🇷 Brazil: Why should you care about the country's elections? • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-22T20:54:53.000Z",
-      "description": "A daily update on the latest business and economic news. "
-    },
-    {
-      "id": "rFVCBfTIOUk",
-      "title": "Government warns British families to have plan if critical infrastructure is attacked",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-23T00:15:23.000Z",
-      "description": "The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
-    },
-    {
-      "id": "u55NtxNQLSQ",
-      "title": "Venezuela opposition supporters rally to demand Machado’s return and presidential elections",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-23T04:30:53.000Z",
-      "description": "Supporters of Venezuelan opposition leader Maria Corina Machado took to the country’s streets on Thursday to demand her return and presidential elections that could lead to a democratic transition in Venezuela.\r"
-    },
-    {
-      "id": "6P2_kb0KljI",
-      "title": "Bryan Cranston on death of Breaking Bad co-star RJ Mitte at the age of 34.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-22T23:31:47.000Z",
-      "description": ""
-    },
-    {
-      "id": "ywCGSB2KG1w",
-      "title": "Kyrie Irving: Azeez Al-Shaair’s Hind Rajab tribute is a ‘selfless act’",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T04:29:18.000Z",
-      "description": "Dallas Mavericks star Kyrie Irving says Houston Texans linebacker Azeez Al-Shaair is a ‘brother in this revolution’ for writing the name of Hind Rajab, the Palestinian girl killed in Gaza, on his eye black. Irving has of"
-    },
-    {
-      "id": "dK0z8EMvOgo",
-      "title": "Rescuers race to find survivors of Tibet quake",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T06:50:50.000Z",
-      "description": "Police officers in northern Tibet were seen carrying out rescue efforts after an earthquake of magnitude 7 struck China's south-west region with an epicentre in Nagqu."
-    },
-    {
-      "id": "cmuryECp6HQ",
-      "title": "The US accuses Canada of meddling in midterm elections",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-23T05:27:38.000Z",
-      "description": "The Canada-US trade dispute has taken a political turn, with US officials alleging \"potential Canadian interference\" ahead of the midterm elections. Ontario Premier Doug Ford and Prime Minister Mark Carney have rejected "
-    },
-    {
-      "id": "VJpjUVz4hUA",
-      "title": "‘The best on Earth’: Can weak economic growth undermine Europe’s ‘very sophisticated social system’?",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-22T19:59:49.000Z",
-      "description": "Can Europe continue to sustain one of the world's most ambitious social models while falling increasingly behind its major economic competitors? For Pascal Lamy, former European Commissioner for Trade and former Director"
-    },
-    {
-      "id": "mK3Ing6tIDY",
-      "title": "UK government calls on households to be ready for an emergency",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-22T21:57:04.000Z",
-      "description": "The government has issued a stark warning to UK households to make sure they are ready if hostile powers or terrorists take out parts of the country's critical infrastructure. "
-    },
-    {
-      "id": "_pW4vIdJsU0",
-      "title": "Yemen’s humanitarian crisis deepens following Houthi strikes on Saudi Arabia",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-22T23:04:46.000Z",
-      "description": "Yemen’s humanitarian crisis, already one of the worst in the world, is deepening, with continued fighting between government forces backed by Saudi Arabia, and Iranian supported Houthi rebels. "
-    },
-    {
-      "id": "AvW0Za5c7sg",
-      "title": "Indian developer turns ‘Cockroach' protests into video game",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-23T02:43:38.000Z",
-      "description": "A 27-year-old Indian developer has created a satirical video game inspired by the Cockroach Party-led protests over alleged electoral list irregularities. Players can take on the role of protesters facing baton charges, "
-    },
-    {
-      "id": "-u6nx4bUgDE",
-      "title": "Iran shows off purported underground drone factory in state TV footage",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-23T06:11:31.000Z",
-      "description": "Footage aired on Iranian state television purportedly showed an underground drone production facility, visited by country's army commander-in-chief Amir Hatami."
-    },
-    {
-      "id": "fkbbUDbtJdo",
-      "title": "Is Trump trying to end the war in Ukraine, or helping Putin win it?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-22T20:30:00.000Z",
-      "description": "US military aid to Ukraine has collapsed. Now Donald Trump is easing pressure on Russia, trying to curb Ukrainian attacks on Russian oil facilities and pushing Kyiv to make a deal. Is he simply trying to end the war, or "
-    },
-    {
-      "id": "ajv5CyVbiPY",
-      "title": "Trump answers reporters' questions while leaving the White House",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-22T21:02:45.000Z",
-      "description": "President Trump departs the White House en route Sioux City, Iowa."
+      "publishedAt": "2026-10-23T07:01:48.000Z",
+      "description": "🗳️ On October 25, a runoff election in #Brazil could change the political landscape of #LatinAmerica. In the first round, #FlavioBolsonaro, son of ex-president Jair #Bolsonaro, beat incumbent President Luiz Inacio #Lula"
     }
   ]
 }

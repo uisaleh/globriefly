@@ -1,19 +1,22 @@
-08:10:05 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-08:10:05 collecting videos…
-08:10:05   video feed BBC News: 15 in feed, 5 kept
-08:10:05   video feed Al Jazeera English: 15 in feed, 5 kept
-08:10:05   video feed DW News: 15 in feed, 5 kept
-08:10:05   video feed FRANCE 24 English: 15 in feed, 5 kept
-08:10:05   video feed Sky News: 15 in feed, 5 kept
-08:10:05   video feed Reuters: 15 in feed, 5 kept
-08:10:05   video feed Associated Press: 15 in feed, 5 kept
-08:10:05 videos: saved 24
-08:10:05 collecting feeds…
-08:10:06 feed failed: ESPN https://www.espn.com/espn/rss/news — Unable to parse XML.
-08:10:06 202 new items
-08:10:06 172 candidate stories
-08:10:06 categories needing stories: politics, technology, sports → reserved politics
-08:10:06 writing: Chancellor says he will cut 'pointless paperwork' to save businesses up to £800m (1 sources)
-08:10:06   source text: 2152 chars
-08:10:13   ✓ published: /news/uk-government-promises-regulatory-overhaul-to-save-firms-millions/ [politics] image: wikimedia
-08:10:13 done — 1 stories
+12:26:22 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+12:26:22 collecting videos…
+12:26:22   video feed BBC News: 15 in feed, 5 kept
+12:26:22   video feed Al Jazeera English: 15 in feed, 5 kept
+12:26:22   video feed DW News: 15 in feed, 5 kept
+12:26:22   video feed FRANCE 24 English: 15 in feed, 5 kept
+12:26:22   video feed Sky News: 15 in feed, 5 kept
+12:26:22   video feed Reuters: 15 in feed, 5 kept
+12:26:22   video feed Associated Press: 15 in feed, 5 kept
+12:26:22 videos: saved 24
+12:26:22 collecting feeds…
+12:26:28 751 new items
+12:26:29 609 candidate stories
+12:26:29 categories needing stories: science, entertainment, politics, technology, sports → reserved science
+12:26:29 writing: Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths (2 sources)
+12:26:44   source text: 7000 / 0 chars
+12:27:04   ✓ published: /news/record-european-summer-heat-claims-over-50-000-lives-in-new-study/ [science] image: wikimedia
+12:27:04 writing: Netanyahu orders West Bank closure as attack wounds Israelis before election (7 sources)
+12:27:21   source text: 4820 / 358 / 0 / 3283 / 3795 chars
+12:27:33   too close to source wording — rewriting
+12:27:46   ✓ published: /news/netanyahu-shuts-down-west-bank-following-shooting-before-national-vote/ [world] image: wikimedia
+12:27:46 done — 2 stories
