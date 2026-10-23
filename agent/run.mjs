@@ -7,7 +7,7 @@ import { env, categoryQuota } from './config.mjs';
 import { collectItems, clusterItems } from './collect.mjs';
 import { extractText } from './extract.mjs';
 import { writeArticle, writeExplainer } from './llm.mjs';
-import { findImage } from './images.mjs';
+import { findImageFor } from './images.mjs';
 import { updateVideos } from './videos.mjs';
 import { saveCard, saveOg } from './card.mjs';
 import { categoryBySlug } from '../site.config.mjs';
@@ -47,7 +47,14 @@ async function gatherTexts(cluster) {
 export async function buildPost(cluster, article, type = 'news') {
   // Stories picked to fill a category stay in it; otherwise the writer's category wins.
   const cat = cluster.reserved && categoryBySlug[cluster.hint] ? cluster.hint : categoryBySlug[article.category] ? article.category : cluster.hint;
-  const image = await findImage(article.imageQuery || cluster.title, `${categoryBySlug[cat].label} ${article.tags?.[0] || ''}`.trim(), article.imageAlt || article.imageQuery || article.headline);
+  const image = await findImageFor({
+    imageQuery: article.imageQuery || '',
+    imageNames: article.imageNames || [],
+    imageSubject: article.imageSubject || '',
+    fallbackSubject: `${categoryBySlug[cat].label} ${article.tags?.[0] || ''}`.trim(),
+    headline: article.headline,
+    tags: article.tags || [],
+  }, article.imageAlt || article.imageQuery || article.headline);
   const now = new Date().toISOString();
   const sources = [];
   for (const it of cluster.items) {
@@ -69,6 +76,7 @@ export async function buildPost(cluster, article, type = 'news') {
     tags: (article.tags || []).slice(0, 6),
     socialSummary: article.socialSummary || article.standfirst || '',
     image,
+    imageSearch: { query: article.imageQuery || "", names: article.imageNames || [], subject: article.imageSubject || "" },
     sources,
     sourceTitles: cluster.items.map((i) => i.title).slice(0, 6),
     sourceCount: cluster.sourceCount,
@@ -164,7 +172,7 @@ async function main() {
     if (!env.DRY_RUN) writeJSON(path.join(POSTS_DIR, `${post.slug}.json`), post);
     try { await saveCard(post, CARD_CACHE); } catch (e) { log('  card render failed:', e.message); }
     published.push({ post, cluster, texts });
-    log(`  ✓ ${post.status}: /news/${post.slug}/ [${post.category}] image: ${post.image?.provider || 'none'}`);
+    log(`  ✓ ${post.status}: /news/${post.slug}/ [${post.category}] image: ${post.image ? `${post.image.provider} via ${post.image.matchedBy} "${post.image.query}"` : 'none'}`);
   }
 
   // One "Explained" piece per day about the most widely covered story.

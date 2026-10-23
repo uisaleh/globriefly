@@ -3,7 +3,8 @@
 //        node agent/fill-images.mjs "slug=search words; slug2=other words"  → re-pick a photo for those stories
 import fs from 'node:fs';
 import path from 'node:path';
-import { findImage } from './images.mjs';
+import { findImage, findImageFor } from './images.mjs';
+import { categoryBySlug } from '../site.config.mjs';
 import { POSTS_DIR, readJSON, log } from './util.mjs';
 
 const overrides = Object.fromEntries((process.argv[2] || '').split(';').map((x) => x.split('=').map((y) => y.trim())).filter(([k, v]) => k && v)
@@ -14,21 +15,28 @@ for (const name of fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith('.json')))
   const post = readJSON(file);
   const query = overrides[post.slug];
   if (Object.keys(overrides).length ? !query : post.image?.src) continue;
-  const tags = (post.tags || []).filter((t) => t && t.length > 2).slice(0, 4);
   let img = null;
   if (query) {
     const [q1, q2] = query.split('|').map((x) => x.trim());
     img = await findImage(q1, q2, post.headline);
-  }
-  for (let i = 0; i < tags.length && !img && !query; i += 2) {
-    img = await findImage(tags[i], tags[i + 1], post.headline);
+  } else {
+    // Same order as new stories: the story's photo idea → names in the headline → the general subject.
+    const s = post.imageSearch || {};
+    img = await findImageFor({
+      imageQuery: s.query || '',
+      imageNames: s.names || [],
+      imageSubject: s.subject || '',
+      fallbackSubject: `${categoryBySlug[post.category]?.label || ''} ${post.tags?.[0] || ''}`.trim(),
+      headline: post.headline,
+      tags: post.tags || [],
+    }, post.headline);
   }
   if (img) {
     post.image = img;
     post.updatedAt = post.updatedAt || post.publishedAt;
     fs.writeFileSync(file, JSON.stringify(post, null, 2) + '\n');
     filled++;
-    log(`  ✓ ${post.slug} ← ${img.provider} (${img.credit}, ${img.license})`);
+    log(`  ✓ ${post.slug} ← ${img.provider} via ${img.matchedBy || 'search'} "${img.query || ''}" (${img.credit}, ${img.license})`);
   } else {
     missing++;
     log(`  · ${post.slug}: no licensed photo found`);

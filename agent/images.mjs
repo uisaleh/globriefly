@@ -11,7 +11,22 @@ const OK_LICENSE = /^(cc0|cc[- ]by(-sa)?([- ][0-9.]+)?|public domain|pd|attribut
 const BAD_TITLE = /(logo|flag|map|coat of arms|seal|icon|diagram|chart|signature|locator|svg)/i;
 const strip = (h = '') => h.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 
-async function wikimedia(query) {
+// Relevance: the photo's file name / description must mention the query words.
+// mode 'all' = every word (names: "Real Madrid" must not match "Teatro Real de Madrid" only by luck — see order below),
+// 'most' = at least 60 %, 'any' = at least one.
+const STOP = new Set(['the', 'and', 'for', 'with', 'from', 'into', 'over', 'after', 'new', 'of', 'in', 'on', 'at', 'to', 'a', 'an', 'its', 'his', 'her']);
+const words = (s = '') => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9 ]+/g, ' ').split(/\s+/).filter((w) => w.length > 1 && !STOP.has(w));
+function relevant(query, text, mode = 'most') {
+  const q = [...new Set(words(query))];
+  if (!q.length) return true;
+  const t = new Set(words(text));
+  const hits = q.filter((w) => t.has(w) || t.has(w.replace(/s$/, '')) || t.has(w + 's')).length;
+  if (mode === 'all') return hits === q.length;
+  if (mode === 'any') return hits >= 1;
+  return hits >= Math.max(1, Math.ceil(q.length * 0.6));
+}
+
+async function wikimedia(query, mode = 'most') {
   const u = new URL('https://commons.wikimedia.org/w/api.php');
   Object.entries({
     action: 'query', format: 'json', generator: 'search', gsrnamespace: '6', gsrlimit: '12',
@@ -25,6 +40,8 @@ async function wikimedia(query) {
     if (!ii || !/jpe?g|png|webp/.test(ii.mime) || ii.width < 900 || ii.width < ii.height) continue;
     if (BAD_TITLE.test(p.title)) continue;
     const md = ii.extmetadata || {};
+    const about = `${p.title} ${strip(md.ImageDescription?.value)} ${strip(md.ObjectName?.value)} ${strip(md.Categories?.value)}`;
+    if (!relevant(query, about, mode)) continue;
     const license = strip(md.LicenseShortName?.value);
     if (!OK_LICENSE.test(license)) continue;
     const artist = strip(md.Artist?.value) || 'Wikimedia Commons';
@@ -41,7 +58,7 @@ async function wikimedia(query) {
 }
 
 // Openverse: only licences that allow commercial reuse (CC0, PDM, CC BY, CC BY-SA). No key required.
-async function openverse(query) {
+async function openverse(query, mode = 'most') {
   const u = new URL('https://api.openverse.org/v1/images/');
   Object.entries({ q: query, license: 'cc0,pdm,by,by-sa', aspect_ratio: 'wide', size: 'large', mature: 'false', page_size: '12' })
     .forEach(([k, v]) => u.searchParams.set(k, v));
@@ -49,6 +66,7 @@ async function openverse(query) {
   if (!res.ok) return null;
   for (const r of (await res.json())?.results || []) {
     if (!r.url || (r.width && r.width < 900) || BAD_TITLE.test(r.title || '')) continue;
+    if (!relevant(query, `${r.title || ''} ${(r.tags || []).map((t) => t.name).join(' ')}`, mode)) continue;
     if (!/\.(jpe?g|png|webp)(\?|$)/i.test(r.url) && r.filetype && !/jpe?g|png|webp/i.test(r.filetype)) continue;
     const lic = r.license === 'pdm' ? 'Public domain' : r.license === 'cc0' ? 'CC0' : `CC ${r.license.toUpperCase()} ${r.license_version || ''}`.trim();
     const who = (r.creator || r.source || 'Openverse').slice(0, 80);
@@ -104,10 +122,72 @@ export function makeAlt(providerAlt, writerAlt, query) {
   return alt.charAt(0).toUpperCase() + alt.slice(1);
 }
 
+// Names a photo could show, from the writer's list, else from capitalised names in the headline / tags.
+export function namesFrom({ imageNames = [], headline = '', tags = [] } = {}) {
+  const out = [...(Array.isArray(imageNames) ? imageNames : [])];
+  // Proper-noun runs in the headline (headlines are sentence case, so capitals mid-sentence are names).
+  const words = headline.split(/\s+/);
+  let run = [];
+  const GENERIC = /^(Record|Major|Severe|Global|Independent|Prime|Big|Top|First|Last|Breaking|Exclusive)$/;
+  const flush = () => { while (run.length > 1 && GENERIC.test(run[0])) run.shift(); if (run.length) out.push(run.join(' ')); run = []; };
+  const inTags = (w) => tags.some((t) => /^\p{Lu}/u.test(t) && t.toLowerCase().split(/\s+/).includes(w.toLowerCase()));
+  words.forEach((w, i) => {
+    const clean = w.replace(/[^\p{L}\p{N}&.'’-]/gu, '');
+    let isCap = /^\p{Lu}/u.test(clean);
+    // First word of a sentence-case headline is capitalised anyway: only keep it if it is clearly a name
+    // (an acronym, part of a multi-word name, or one of the story's tags).
+    if (isCap && i === 0) {
+      const nextCap = /^\p{Lu}/u.test((words[1] || '').replace(/[^\p{L}]/gu, ''));
+      isCap = /^\p{Lu}{2,}/u.test(clean) || nextCap || inTags(clean);
+    }
+    if (isCap) run.push(clean); else flush();
+  });
+  flush();
+  // Tags that look like names (capitalised) and also appear in the headline come next.
+  tags.filter((t) => /^\p{Lu}/u.test(t) && headline.toLowerCase().includes(t.toLowerCase())).forEach((t) => out.push(t));
+  // Nationality words on their own ("American", "Portuguese") are not something a photo can show.
+  const DEMONYM = /^(American|European|African|Asian|British|English|French|German|Chinese|Russian|Portuguese|Spanish|Italian|Indian|Pakistani|Brazilian|Australian|Israeli|Palestinian|Iranian|Ukrainian|Japanese|Korean|Turkish|Canadian|Mexican|Nigerian|Egyptian|Saudi|Arab|Western|Eastern|Northern|Southern|Independent|Prime|Major|Record|Severe|Global|National|International)$/;
+  const seen = new Set();
+  return out.map((n) => String(n).trim().replace(/['’]s$/, '')).filter((n) => n.length > 2 && !DEMONYM.test(n) && !seen.has(n.toLowerCase()) && seen.add(n.toLowerCase())).slice(0, 4);
+}
+
+// Photo search, in order of how closely the photo matches the story:
+//   1. the story's own photo idea (writer's imageQuery)
+//   2. the people / companies / places named in the headline
+//   3. the general subject of the story
+// Free licensed sources only (Wikimedia Commons, Openverse; Pexels/Unsplash for generic subjects when keys exist).
+export async function findImageFor(info, writerAlt = '') {
+  const tries = [];
+  const q = (info.imageQuery || '').trim();
+  if (q) tries.push(['idea', q, () => wikimedia(q, 'most')], ['idea', q, () => openverse(q, 'most')]);
+  for (const name of namesFrom(info)) {
+    tries.push(['name', name, () => wikimedia(name, 'all')], ['name', name, () => openverse(name, 'all')]);
+  }
+  const subject = (info.imageSubject || info.fallbackSubject || '').trim();
+  if (subject) {
+    tries.push(['subject', subject, () => wikimedia(subject, 'most')], ['subject', subject, () => openverse(subject, 'most')]);
+    tries.push(['subject', subject, () => pexels(subject)], ['subject', subject, () => unsplash(subject)]);
+  }
+  if (q) tries.push(['idea', q, () => pexels(q)], ['idea', q, () => unsplash(q)]);
+  for (const [step, query, t] of tries) {
+    try {
+      const img = await t();
+      if (img) {
+        img.alt = makeAlt(img.alt, writerAlt, query);
+        img.query = query;
+        img.matchedBy = step; // idea | name | subject — useful when reviewing photos
+        return img;
+      }
+    } catch (e) {
+      log('image source error:', e.message);
+    }
+  }
+  return null;
+}
+
+// Kept for older callers: query + fallback query.
 export async function findImage(query, fallbackQuery, writerAlt = '') {
-  const img = await pickImage(query, fallbackQuery);
-  if (img) img.alt = makeAlt(img.alt, writerAlt, query);
-  return img;
+  return findImageFor({ imageQuery: query, imageSubject: fallbackQuery }, writerAlt);
 }
 
 async function pickImage(query, fallbackQuery) {

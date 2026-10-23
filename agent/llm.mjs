@@ -21,6 +21,8 @@ const SHAPE = `Return ONLY a JSON object with exactly these keys:
   "timeline": [{ "when": "date or period", "what": "event" }],
   "socialSummary": "one plain sentence, max 140 characters, for a social media card",
   "imageQuery": "2-5 words naming the most concrete visual subject — a specific person, place, landmark or object (e.g. 'Nile river Egypt', 'Eiffel Tower', 'electric car battery')",
+  "imageNames": ["up to 3 exact proper names from the headline that a photo could show — people, companies, organisations, teams, places — most important first (e.g. 'Elon Musk', 'Skydance Media', 'Hebron'); [] if none"],
+  "imageSubject": "2-4 words: a generic, photographable subject for the story if no named photo exists (e.g. 'oil tanker ship', 'hospital ward', 'football stadium crowd', 'stock market screen')",
   "imageAlt": "alt text for a photo of the imageQuery subject, max 120 characters, plain description without 'image of' (e.g. 'The Nile river flowing past the Cairo skyline')",
   "importance": 1-10,
   "breaking": true or false
