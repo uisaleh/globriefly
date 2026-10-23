@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import ListenPlayer from '@/components/ListenPlayer';
 import { notFound } from 'next/navigation';
 import { getAllPosts, getPost, related, trending, byCategory, formatDateTime, tagSlug } from '@/lib/posts';
 import { site } from '@/site.config.mjs';
@@ -70,6 +71,15 @@ export default async function ArticlePage({ params }) {
     ],
   };
 
+  // What the "Listen" player reads: headline, standfirst, key points, then every section.
+  const listenTexts = [
+    post.headline + '.',
+    post.standfirst,
+    ...(post.keyPoints?.length ? ['Key points.', ...post.keyPoints] : []),
+    ...sections.flatMap((s) => [...(s.heading ? [s.heading + '.'] : []), ...(s.paragraphs || [])]),
+    `This story was brought to you by Globriefly.`,
+  ].filter(Boolean);
+
   const renderSection = (s, i) => (
     <div key={i} style={{ display: 'contents' }}>
       {s.heading ? <h2>{s.heading}</h2> : null}
@@ -120,6 +130,8 @@ export default async function ArticlePage({ params }) {
               </ShareIcon>
             </div>
           </div>
+
+          <ListenPlayer texts={listenTexts} minutes={post.readingMinutes || 5} />
 
           {post.image?.src && (
             <figure style={{ margin: 0, display: 'flex', flexDirection: 'column', gap: 8 }}>
