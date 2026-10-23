@@ -36,7 +36,7 @@ export async function collectVideos({ max = 24, perChannel = 5, maxAgeHours = 72
         }))
         .filter((v) => v.id && v.title && !SKIP.test(v.title) && new Date(v.publishedAt) >= cutoff && !/\/shorts\//.test(v.link || ''))
         .slice(0, perChannel);
-      log(`  video feed ${ch.name}: ${items.length}`);
+      log(`  video feed ${ch.name}: ${feed.items.length} in feed, ${items.length} kept`);
       return items;
     } catch (e) {
       log(`  video feed ${ch.name} failed: ${e.message}`);
