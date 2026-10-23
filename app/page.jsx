@@ -3,6 +3,8 @@ import { getAllPosts, byCategory, trending, hhmm, withImage, textFirst } from '@
 import { categoryBySlug } from '@/site.config.mjs';
 import { Header, Footer, Thumb, Kicker, Card, SecHead, Newsletter } from '@/components/ui';
 import TimeAgo from '@/components/TimeAgo';
+import VideoCard from '@/components/VideoCard';
+import { getVideos } from '@/lib/videos';
 
 export default function Home() {
   const posts = getAllPosts();
@@ -22,6 +24,12 @@ export default function Home() {
   const lead = pictured.find((p) => (p.importance || 0) >= 7) || pictured[0] || news[0];
   if (lead) used.add(lead.slug);
   const breaking = news.find((p) => p.breaking && Date.now() - new Date(p.publishedAt) < 12 * 36e5);
+  // Science & Health is reserved first so it always gets a feature + 4 stories.
+  const sh = withImage(news.filter((p) => p.category === 'science' || p.category === 'health'));
+  const shFeature = sh.find((p) => !used.has(p.slug));
+  if (shFeature) used.add(shFeature.slug);
+  const shSide = take(sh, 4);
+  const videos = getVideos(4);
   const top = take(textFirst(news), 5);
   const latest = take(pictured, 8);
   const updates = news.slice(0, 6);
@@ -35,10 +43,6 @@ export default function Home() {
   const regions = regionNames.map((r) => ({ name: r, items: textFirst(news.filter((p) => p.region === r)).slice(0, 3) })).filter((r) => r.items.length);
   const hot = trending(9);
   const explained = posts.filter((p) => p.type === 'explainer').slice(0, 3);
-  const sh = withImage(news.filter((p) => p.category === 'science' || p.category === 'health'));
-  const shFeature = sh.find((p) => !used.has(p.slug));
-  if (shFeature) used.add(shFeature.slug);
-  const shSide = take(sh, 4);
   const strip = take(withImage(news.filter((p) => p.category === 'sports' || p.category === 'entertainment')), 4);
   const textCols = ['politics', 'world', 'business'].map((slug) => {
     const all = textFirst(byCategory(slug));
@@ -218,6 +222,15 @@ export default function Home() {
                   ))}
                 </div>
               )}
+            </div>
+          </section>
+        )}
+
+        {videos.length > 0 && (
+          <section className="band-dark pattern-dark" aria-label="Watch">
+            <div className="wrap">
+              <SecHead title="Watch" href="/videos/" linkText="More videos" />
+              <div className="video-grid">{videos.map((v) => <VideoCard key={v.id} video={v} />)}</div>
             </div>
           </section>
         )}

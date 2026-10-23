@@ -4,7 +4,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import Parser from 'rss-parser';
-import { ROOT, log, withDeadline } from './util.mjs';
+import { ROOT, log, withDeadline, similarity } from './util.mjs';
 
 export const videoChannels = [
   { name: 'BBC News', id: 'UC16niRr50-MSBwiO3YDb3RA' },
@@ -18,6 +18,8 @@ export const videoChannels = [
 
 const OUT = path.join(ROOT, 'content', 'videos.json');
 const SKIP = /#shorts|\bshorts?\b|live:|🔴|livestream|live stream|24\/7|full episode|podcast/i;
+// "Title | BBC News", "Title #BBCNews", "Title | The Wrap" → "Title"
+const cleanTitle = (t = '') => t.replace(/(\s+#\w+)+\s*$/g, '').replace(/\s+[|–—-]\s+[^|–—-]{2,40}$/, '').replace(/\s+#\w+/g, '').trim();
 const parser = new Parser({ timeout: 15000, customFields: { item: [['yt:videoId', 'videoId'], ['media:group', 'media']] } });
 
 // YouTube's public feeds sometimes answer 404/500 at random, so try a few times and
@@ -47,7 +49,7 @@ export async function collectVideos({ max = 24, perChannel = 5, maxAgeHours = 72
       const items = feed.items
         .map((it) => ({
           id: it.videoId || (it.link || '').split('v=')[1],
-          title: (it.title || '').trim(),
+          title: cleanTitle(it.title || ''),
           channel: ch.name,
           channelUrl: `https://www.youtube.com/channel/${ch.id}`,
           publishedAt: new Date(it.pubDate || it.isoDate).toISOString(),
@@ -76,7 +78,13 @@ export async function updateVideos() {
   try { prev = JSON.parse(fs.readFileSync(OUT, 'utf8')).videos || []; } catch {}
   const cutoff = Date.now() - 72 * 36e5;
   const byId = new Map();
-  for (const v of [...fresh, ...prev]) if (!byId.has(v.id) && new Date(v.publishedAt) >= cutoff) byId.set(v.id, v);
+  for (const v of [...fresh, ...prev]) {
+    if (byId.has(v.id) || new Date(v.publishedAt) < cutoff) continue;
+    v.title = cleanTitle(v.title);
+    // One video per topic: skip near-duplicates from other channels (e.g. three clips of the same earthquake).
+    if ([...byId.values()].some((x) => similarity(x.title, v.title) >= 0.35)) continue;
+    byId.set(v.id, v);
+  }
   const all = [...byId.values()].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
   // Interleave channels again so the top of the list mixes broadcasters.
   const groups = {};

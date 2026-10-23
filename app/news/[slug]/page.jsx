@@ -119,7 +119,7 @@ export default async function ArticlePage({ params }) {
 
           {post.image?.src && (
             <figure style={{ margin: 0, display: 'flex', flexDirection: 'column', gap: 8 }}>
-              <img src={post.image.src} alt={post.image.alt || post.headline} className="thumb r169" fetchPriority="high" />
+              <img src={post.image.src} alt={post.image.alt || post.headline} className="thumb r169" style={{ backgroundColor: post.cat.color }} fetchPriority="high" />
               <figcaption className="credit" style={{ fontSize: 13, lineHeight: 1.45 }}>
                 {post.image.alt ? `${post.image.alt}. ` : ''}
                 {post.image.creditUrl ? <a href={post.image.creditUrl} rel="noopener" target="_blank" style={{ textDecoration: 'underline' }}>{post.image.credit}</a> : post.image.credit}

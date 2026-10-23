@@ -88,7 +88,7 @@ export function Footer() {
 
 export function Thumb({ post, ratio = 'r1610', className = '', style }) {
   if (post?.image?.src) {
-    return <img src={post.image.src} alt={post.image.alt || post.headline} className={`thumb ${ratio} ${className}`} style={style} loading="lazy" />;
+    return <img src={post.image.src} alt={post.image.alt || post.headline} className={`thumb ${ratio} ${className}`} style={{ backgroundColor: post.cat?.color, ...style }} loading="lazy" />;
   }
   return <div className={`thumb ${ratio} ${className}`} style={{ backgroundColor: post?.cat?.color, ...style }} aria-hidden="true" />;
 }
