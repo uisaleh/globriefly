@@ -100,6 +100,9 @@
   "publishedAt": "2026-10-23T12:27:44.831Z",
   "updatedAt": "2026-10-23T12:27:44.831Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172616826681745",
+    "sharedAt": "2026-10-23T12:31:24.899Z"
+  },
   "ogImage": "/og/netanyahu-shuts-down-west-bank-following-shooting-before-national-vote.jpg"
 }
