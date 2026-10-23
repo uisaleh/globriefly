@@ -113,6 +113,9 @@
   "publishedAt": "2026-10-23T22:05:59.273Z",
   "updatedAt": "2026-10-23T22:05:59.273Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172644774681745",
+    "sharedAt": "2026-10-23T22:09:28.944Z"
+  },
   "ogImage": "/og/france-reels-after-racist-drive-by-shooting-leaves-one-dead-near-paris.jpg"
 }
