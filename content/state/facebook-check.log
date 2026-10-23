@@ -1,3 +1,9 @@
-Facebook check — 2026-10-23T08:03:29.138Z
-token secret: 15 characters saved, 0 usable (extra characters were stripped)
-✗ no token starting with EAA found in FB_PAGE_TOKEN
+Facebook check — 2026-10-23T08:08:35.559Z
+token secret: 189 characters saved, 189 usable
+token type: USER · valid: true · expires: never
+permissions: pages_show_list, pages_read_engagement, pages_read_user_content, pages_manage_posts, pages_manage_engagement, public_profile
+✓ pages_manage_posts
+✓ pages_read_engagement
+✓ pages_show_list
+✓ pages_manage_engagement (only needed for the link-in-first-comment)
+✗ Page lookup failed: (#100) Tried accessing nonexisting field (tasks)
