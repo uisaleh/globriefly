@@ -98,6 +98,9 @@
   "publishedAt": "2026-10-23T18:16:16.684Z",
   "updatedAt": "2026-10-23T18:16:16.684Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172633116681745",
+    "sharedAt": "2026-10-23T18:19:56.598Z"
+  },
   "ogImage": "/og/apple-enters-the-foldable-smartphone-market-with-the-debut-of-the.jpg"
 }

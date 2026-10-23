@@ -113,6 +113,9 @@
   "publishedAt": "2026-10-23T18:16:45.386Z",
   "updatedAt": "2026-10-23T18:16:45.386Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172633248681745",
+    "sharedAt": "2026-10-23T18:20:20.221Z"
+  },
   "ogImage": "/og/vincent-kompany-hospitalized-following-training-ground-collapse.jpg"
 }
