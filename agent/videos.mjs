@@ -20,11 +20,28 @@ const OUT = path.join(ROOT, 'content', 'videos.json');
 const SKIP = /#shorts|\bshorts?\b|live:|🔴|livestream|live stream|24\/7|full episode|podcast/i;
 const parser = new Parser({ timeout: 15000, customFields: { item: [['yt:videoId', 'videoId'], ['media:group', 'media']] } });
 
+// YouTube's public feeds sometimes answer 404/500 at random, so try a few times and
+// also the channel's uploads playlist (UC… → UU…), which serves the same videos.
+async function fetchFeed(id) {
+  const urls = [
+    `https://www.youtube.com/feeds/videos.xml?channel_id=${id}`,
+    `https://www.youtube.com/feeds/videos.xml?playlist_id=UU${id.slice(2)}`,
+  ];
+  let last;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    for (const u of urls) {
+      try { return await parser.parseURL(u); } catch (e) { last = e; }
+    }
+    await new Promise((r) => setTimeout(r, 1500 * (attempt + 1)));
+  }
+  throw last;
+}
+
 export async function collectVideos({ max = 24, perChannel = 5, maxAgeHours = 72 } = {}) {
   const cutoff = Date.now() - maxAgeHours * 36e5;
   const lists = await Promise.all(videoChannels.map(async (ch) => {
     try {
-      const feed = await parser.parseURL(`https://www.youtube.com/feeds/videos.xml?channel_id=${ch.id}`);
+      const feed = await fetchFeed(ch.id);
       const items = feed.items
         .map((it) => ({
           id: it.videoId || (it.link || '').split('v=')[1],
