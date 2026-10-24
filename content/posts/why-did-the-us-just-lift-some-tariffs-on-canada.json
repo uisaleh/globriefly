@@ -109,6 +109,9 @@
   "publishedAt": "2026-10-24T05:47:59.414Z",
   "updatedAt": "2026-10-24T05:47:59.414Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172672794681745",
+    "sharedAt": "2026-10-24T05:51:31.692Z"
+  },
   "ogImage": "/og/why-did-the-us-just-lift-some-tariffs-on-canada.jpg"
 }
