@@ -99,6 +99,9 @@
   "publishedAt": "2026-10-24T20:43:53.687Z",
   "updatedAt": "2026-10-24T20:43:53.687Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172723776681745",
+    "sharedAt": "2026-10-24T20:47:11.559Z"
+  },
   "ogImage": "/og/footballers-license-ai-clones-to-monetise-digital-likenesses.jpg"
 }
