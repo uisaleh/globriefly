@@ -1,0 +1,114 @@
+{
+  "slug": "why-did-the-us-just-lift-some-tariffs-on-canada",
+  "status": "published",
+  "type": "explainer",
+  "category": "politics",
+  "region": "Americas",
+  "headline": "Why did the US just lift some tariffs on Canada?",
+  "standfirst": "The White House has dropped several tariffs on Canadian imports just weeks before the midterm elections, offering a timely boost to a vulnerable Republican senator in Maine.",
+  "keyPoints": [
+    "The US administration lifted select tariffs on Canadian imports, including plywood, paper products, and specific agricultural machinery.",
+    "The move comes only two weeks before crucial US midterm elections on November 3.",
+    "Republican Senator Susan Collins of Maine lobbied for the exemptions to help local farmers and businesses hit hard by cross-border trade tensions.",
+    "While some levies were removed, the White House announced new tariffs on other items like carpets and waste products starting October 30."
+  ],
+  "sections": [
+    {
+      "heading": "What is changing with US-Canada trade?",
+      "paragraphs": [
+        "The United States government has lifted specific tariffs on a range of Canadian imports, offering a sudden reprieve to cross-border commerce. The exemptions cover products like plywood sheets, paper goods, refrigeration equipment, and several agricultural materials.",
+        "This shift arrives just two weeks before the midterm elections on November 3, a critical moment when control of Congress hangs in the balance. The adjustment alters a trade landscape that has been strained since bilateral talks broke down earlier in the year."
+      ]
+    },
+    {
+      "heading": "Why are these tariff changes happening now?",
+      "paragraphs": [
+        "The timing of the White House announcement is closely tied to domestic political battles. Senator Susan Collins, a long-serving Republican facing a fierce re-election challenge in the border state of Maine, had actively lobbied the administration for relief.",
+        "Maine's economy relies heavily on trade with Canada, and local industries like agriculture and logging felt the squeeze of previous duties. By securing exemptions for items like potato, blueberry, and seaweed producers, Collins gains a major talking point on the campaign trail as Democrats attempt to flip her seat."
+      ]
+    },
+    {
+      "heading": "How have the broader trade tensions unfolded?",
+      "paragraphs": [
+        "The US and Canadian economies are deeply interconnected, with the vast majority of Canadian exports heading south. However, trade relations frayed after negotiations collapsed, prompting a wave of American tariffs on roughly twenty billion dollars worth of Canadian goods.",
+        "In response, Canada implemented retaliatory duties on American products. While Friday's action removes certain barriers, the White House simultaneously announced new levies on separate items such as carpets and waste products, keeping overall economic friction alive."
+      ]
+    }
+  ],
+  "highlight": "The economies of the United States and Canada are heavily interconnected, with roughly 70% of Canada’s exports heading to the United States.",
+  "timeline": [
+    {
+      "when": "August 2026",
+      "what": "Trade talks between the US and Canada break down, leading to new American tariffs."
+    },
+    {
+      "when": "October 23, 2026",
+      "what": "The White House announces the removal of specific tariffs on Canadian agricultural and processing goods."
+    },
+    {
+      "when": "November 3, 2026",
+      "what": "US midterm elections take place, featuring high-stakes congressional races."
+    }
+  ],
+  "tags": [
+    "tariffs",
+    "trade war",
+    "Susan Collins",
+    "Maine",
+    "midterms",
+    "Canada"
+  ],
+  "socialSummary": "The White House drops select tariffs on Canada just before the midterms, aiding vulnerable Senator Susan Collins in Maine.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Susan_Collins_meets_with_US_Air_Force_STAFF_Sergeants_Keith_%26_Katrina_Martin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "alt": "Senator Susan Collins of Maine, meets with US Air Force STAFF Sergeants Keith &amp; Katrina Martin. Both are assigned to…",
+    "credit": "Series: Combined Military Service Digital Photographic Files, 1982 - 2007 Record / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Susan_Collins_meets_with_US_Air_Force_STAFF_Sergeants_Keith_%26_Katrina_Martin.jpg",
+    "license": "Public domain",
+    "provider": "wikimedia",
+    "query": "Susan Collins Maine",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "Susan Collins Maine",
+    "names": [
+      "Susan Collins",
+      "Donald Trump"
+    ],
+    "subject": "politician speaking at a podium"
+  },
+  "sources": [
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/trump-lifts-some-canada-tariffs-ahead-of-midterms/article71618930.ece"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada"
+    },
+    {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/world/trump-canada-tariffs-midterms-6488081"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html"
+    }
+  ],
+  "sourceTitles": [
+    "Trump lifts some Canada tariffs ahead of midterms",
+    "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+    "Trump lifts some Canada tariffs ahead of midterms",
+    "Trump dropping some Canada tariffs but 'replacing' them with other products",
+    "Trump eases Canada tariffs ahead of US midterms",
+    "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods"
+  ],
+  "sourceCount": 7,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-10-24T05:47:59.414Z",
+  "updatedAt": "2026-10-24T05:47:59.414Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-did-the-us-just-lift-some-tariffs-on-canada.jpg"
+}
