@@ -103,6 +103,9 @@
   "publishedAt": "2026-10-24T18:05:27.588Z",
   "updatedAt": "2026-10-24T18:05:27.588Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172713702681745",
+    "sharedAt": "2026-10-24T18:08:46.619Z"
+  },
   "ogImage": "/og/box-office-success-for-horror-infused-dc-villain-origin-story-clayface.jpg"
 }
