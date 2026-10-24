@@ -1,22 +1,21 @@
-18:05:00 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-18:05:00 collecting videos…
-18:05:00   video feed BBC News: 15 in feed, 5 kept
-18:05:00   video feed Al Jazeera English: 15 in feed, 5 kept
-18:05:00   video feed DW News: 15 in feed, 5 kept
-18:05:00   video feed FRANCE 24 English: 15 in feed, 5 kept
-18:05:00   video feed Sky News: 15 in feed, 5 kept
-18:05:00   video feed Reuters: 15 in feed, 5 kept
-18:05:00   video feed Associated Press: 15 in feed, 5 kept
-18:05:00 videos: saved 24
-18:05:00 collecting feeds…
-18:05:03 623 new items
-18:05:04 489 candidate stories
-18:05:04 categories needing stories: entertainment, business, technology, world → reserved entertainment
-18:05:04 writing: ‘You Can See Everything’ Eyes $20M Second Weekend as ‘Clayface’ Leads Box Office (3 sources)
-18:05:04   source text: 3691 / 7000 / 3819 chars
-18:05:12   too close to source wording — rewriting
-18:05:28   ✓ published: /news/box-office-success-for-horror-infused-dc-villain-origin-story-clayface/ [entertainment] image: wikimedia via name "Warner Bros"
-18:05:28 writing: Ukraine has ‘stable connection’ to Starlink: govt (5 sources)
-18:05:29   source text: 1904 / 3892 / 2995 chars
-18:05:37   ✓ published: /news/ukraine-confirms-full-restoration-of-starlink-speeds-after-dispute/ [world] image: wikimedia via idea "Starlink satellite dish"
-18:05:37 done — 2 stories
+20:43:41 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+20:43:41 collecting videos…
+20:43:41   video feed BBC News: 15 in feed, 5 kept
+20:43:41   video feed Al Jazeera English: 15 in feed, 5 kept
+20:43:41   video feed DW News: 15 in feed, 5 kept
+20:43:41   video feed FRANCE 24 English: 15 in feed, 5 kept
+20:43:41   video feed Sky News: 15 in feed, 5 kept
+20:43:41   video feed Reuters: 15 in feed, 5 kept
+20:43:41   video feed Associated Press: 15 in feed, 5 kept
+20:43:41 videos: saved 24
+20:43:41 collecting feeds…
+20:43:46 627 new items
+20:43:47 487 candidate stories
+20:43:47 categories needing stories: technology, business, sports → reserved technology
+20:43:47 writing: ‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone (2 sources)
+20:43:47   source text: 7000 / 0 chars
+20:43:56   ✓ published: /news/footballers-license-ai-clones-to-monetise-digital-likenesses/ [technology] image: wikimedia via idea "Cristian Volpato football player"
+20:43:56 writing: Hundreds of thousands march in France as protests take place across Europe – as it happened (4 sources)
+20:43:56   source text: 7000 / 5356 / 6870 chars
+20:44:02   ✓ published: /news/hundreds-of-thousands-march-across-european-cities-amid-widespread/ [world] image: wikimedia via idea "protesters police Paris France"
+20:44:02 done — 2 stories

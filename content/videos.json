@@ -1,21 +1,157 @@
 {
-  "updatedAt": "2026-10-24T18:05:00.968Z",
+  "updatedAt": "2026-10-24T20:43:41.848Z",
   "videos": [
     {
-      "id": "vB2NePJ6uII",
-      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "id": "ekkHuu-Ehz4",
+      "title": "Hebron under lockdown as Israeli demolitions and attacks escalate",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-24T17:46:35.000Z",
-      "description": "North Korean leader Kim Jong Un waved to crowds as he crossed a newly opened bridge linking his country with China, Chinese state media reported. The Yalu River Bridge is seen as a strategic link in expanding trade ties "
+      "publishedAt": "2026-10-24T20:26:16.000Z",
+      "description": "Nearly half a million Palestinians in Hebron are under Israeli lockdown and attack, as extensive Israeli demolitions have left the city's Farsh al-Hawa area unrecognisable, raising fears of what may await the rest of Heb"
     },
     {
-      "id": "6WvNuLrRRqM",
-      "title": "Israeli army demolishes Palestinian homes in Hebron after deadly attack",
+      "id": "U_H1X4lVKUw",
+      "title": "Clashes and tear gas in Rome as protesters gather under heavy security",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-24T20:24:09.000Z",
+      "description": "Police in Rome deployed tear gas and water cannons against protesters on Saturday as a demonstration turned violent in the Italian capital.\r"
+    },
+    {
+      "id": "vCvyfYeBkjA",
+      "title": "Over 1,000 told to leave homes in Hebron, officials say",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-24T20:12:59.000Z",
+      "description": "Israeli forces have sealed every road in and out of Hebron while bulldozers demolish homes across the occupied West Bank city. The operation follows an attack that killed two Israeli soldiers, but rights groups say the r"
+    },
+    {
+      "id": "HXlTP08VL5A",
+      "title": "On the ground as French protesters clash with police",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-24T20:04:37.000Z",
+      "description": "Demonstrations were held across France as unrest over the cost of living continues, with tear gas and water cannons deployed as the peaceful protests descended into chaos."
+    },
+    {
+      "id": "WEeGSY6XuL4",
+      "title": "Inside Hollywood's Fear Factory: How horror is saving the box office",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-24T17:32:05.000Z",
-      "description": "Israeli forces demolished homes and damaged roads in Hebron in the occupied West Bank, forcing around 1,200 Palestinians to leave their homes a day after a Palestinian attack killed two Israeli soldiers. "
+      "publishedAt": "2026-10-24T19:47:55.000Z",
+      "description": "Horror movies have long been one of the safer box-office bets for studios wringing big returns out of modest budgets. In post-pandemic times, that reliability has become a beacon. Tiana McGee explains."
+    },
+    {
+      "id": "kNUedqBNAlY",
+      "title": "What happens behind the scenes when the UK prepares for economic announcements?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-24T19:00:36.000Z",
+      "description": "On Wednesday the Chancellor John Healey will deliver his first Budget."
+    },
+    {
+      "id": "cl_Utyu5xBo",
+      "title": "France: Watching the Post-Riot Protests • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-24T18:42:09.000Z",
+      "description": "After the French protests turned into riots last weekend, the curfews, and then the alleged racist mass shooting yesterday on the outskirts of Paris, there has been much anxiety, planning and preparation ahead of today's"
+    },
+    {
+      "id": "5FbRffz5yss",
+      "title": "Thousands join Paris protests as authorities clamp down on disorder",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-24T18:55:48.000Z",
+      "description": "Thousands of protesters are on the streets of Paris for a second weekend. French authorities banned demonstrations in central areas of the city, following violence last weekend. Some 70,000 police have been deployed acro"
+    },
+    {
+      "id": "M9crMlmg9Fk",
+      "title": "What is your biggest hope for Brazil's election?",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-24T15:00:03.000Z",
+      "description": "As Brazil gears up for its next presidential election, AP takes a microphone to Rio de Janeiro’s Copacabana beach to ask everyday Brazilians one simple question: “What’s your biggest hope for this election?”"
+    },
+    {
+      "id": "9BJ9hlwuddE",
+      "title": "Is the climate game already lost?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-24T16:43:24.000Z",
+      "description": "The world is falling short of its climate goals. A new UNEP report reveals the gaps, setbacks and what comes next."
+    },
+    {
+      "id": "jV0Ai-jAKWc",
+      "title": "'Relentless rain', as 80mph winds expected from Storm Boelo",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-24T19:26:26.000Z",
+      "description": "After Storm Austen battered parts of the South West yesterday, Storm Boelo is hitting today. "
+    },
+    {
+      "id": "x8_NJzucBPw",
+      "title": "'Token of love': Day of the Dead parades in Texas honor the deceased",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-24T19:47:52.000Z",
+      "description": "Crowds filled San Antonio, Texas's River Walk for the annual Day of the Dead celebration, with illuminated floats, mariachi music and costumed participants honoring deceased loved ones. "
+    },
+    {
+      "id": "HxeICv4o02U",
+      "title": "Artists want to work with me because of Amy Winehouse song, Mark Ronson says.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-24T18:30:31.000Z",
+      "description": ""
+    },
+    {
+      "id": "1TJqTBCUDEk",
+      "title": "“Witkoff should step down” says Ukraine Committee Chief • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-24T18:36:31.000Z",
+      "description": "Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted front-line operations for more than a week, Ukrainian President Volodymyr Zelenskyy sa"
+    },
+    {
+      "id": "IEmVtzLD2JQ",
+      "title": "Thousands protest the far-right in France's Orleans",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-24T18:43:06.000Z",
+      "description": "Thousands of people took to the streets of Orleans to protest against the far-right, as the National Rally chose the city to host its national conference and launch the presidential bid of its candidate, Marine Le Pen. P"
+    },
+    {
+      "id": "Ntl23vsubGU",
+      "title": "Colorado's glaciers thinned dramatically due to record low snow and heat in 2026",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-24T13:32:09.000Z",
+      "description": "The most prominent glaciers in Colorado thinned dramatically over the past year due to the combination of record low mountain snow and record warm temperatures. Scientists say Colorado’s glaciers may not have much time l"
+    },
+    {
+      "id": "gKdUerXJdWM",
+      "title": "A generation divided: Young Israelis head to the polls",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-24T15:14:59.000Z",
+      "description": "Israel's first-time voters grew up during conflict, political deadlock and Benjamin Netanyahu's long years in power. Now they are entering the voting booth for the first time, with sharply different visions for Israel's "
+    },
+    {
+      "id": "fc3ig83rzqA",
+      "title": "What do we know about the allegations against Thomas Markle?",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-24T18:36:20.000Z",
+      "description": "The Metropolitan Police has confirmed it received a letter in early 2019 containing allegations about the Duchess of Sussex's father, Thomas Markle."
+    },
+    {
+      "id": "2qtCIpJt8oI",
+      "title": "Fire devastates former Nazi guest house known as 'The Eagle's Nest'",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-24T18:50:58.000Z",
+      "description": "Firefighters battled for hours to contain a blaze that engulfed the former Nazi guest house ‌known as 'The Eagle's Nest' in southern Germany, while police investigated the cause after detaining a man near the scene ."
     },
     {
       "id": "W3LbjzivSb0",
@@ -34,132 +170,12 @@
       "description": "The Palestinian Authority has called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Fri"
     },
     {
-      "id": "9BJ9hlwuddE",
-      "title": "Is the climate game already lost?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-24T16:43:24.000Z",
-      "description": "The world is falling short of its climate goals. A new UNEP report reveals the gaps, setbacks and what comes next."
-    },
-    {
-      "id": "fy_XijDn9YQ",
-      "title": "Which AI models are left wing?",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-24T16:11:34.000Z",
-      "description": "Is there a left-wing AI model?"
-    },
-    {
-      "id": "M9crMlmg9Fk",
-      "title": "What is your biggest hope for Brazil's election?",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-24T15:00:03.000Z",
-      "description": "As Brazil gears up for its next presidential election, AP takes a microphone to Rio de Janeiro’s Copacabana beach to ask everyday Brazilians one simple question: “What’s your biggest hope for this election?”"
-    },
-    {
-      "id": "5Pd-vVrzK5I",
-      "title": "Could Israel's military crackdown influence Tuesday's election?",
+      "id": "IiOgAxaUZNk",
+      "title": "Who holds the UN accountable when It breaks the rules?",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-24T17:30:26.000Z",
-      "description": "Two Israeli soldiers were killed in a shooting near Hebron on Friday morning. Israel is responding with a sweeping military operation and a lockdown across the occupied West Bank."
-    },
-    {
-      "id": "1BLy8dMgUDI",
-      "title": "'He fired at me': Jordan church attack survivor recalls narrow escape",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-24T15:36:03.000Z",
-      "description": "Prayer services had just started at a Greek Orthodox church in Jordan when Nasser al-Burqan heard what he thought was an exploding air conditioner. He soon spotted gunmen outside the window — one aiming straight at him."
-    },
-    {
-      "id": "BfWIsrjRHuY",
-      "title": "Rocks thrown in Albanian capital as students join wider anti-government protest.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-24T16:35:26.000Z",
-      "description": ""
-    },
-    {
-      "id": "HeTkJCKoySQ",
-      "title": "Italy hit by new cost of living protests • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-24T17:12:52.000Z",
-      "description": "Soldiers were deployed across Milan and luxury boutiques boarded up as protesters took to the streets again on Saturday, a week after looting and clashes with police. Prime Minister Giorgia Meloni announced a series of m"
-    },
-    {
-      "id": "gKdUerXJdWM",
-      "title": "A generation divided: Young Israelis head to the polls",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-24T15:14:59.000Z",
-      "description": "Israel's first-time voters grew up during conflict, political deadlock and Benjamin Netanyahu's long years in power. Now they are entering the voting booth for the first time, with sharply different visions for Israel's "
-    },
-    {
-      "id": "kgNtrjf_uAs",
-      "title": "A record hot summer, drilling in the North Sea... so where are all the climate protests?",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-24T16:00:28.000Z",
-      "description": "It's been a record-hot summer and the government has announced an easing of restrictions on drilling in the North Sea."
-    },
-    {
-      "id": "Ntl23vsubGU",
-      "title": "Colorado's glaciers thinned dramatically due to record low snow and heat in 2026",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-24T13:32:09.000Z",
-      "description": "The most prominent glaciers in Colorado thinned dramatically over the past year due to the combination of record low mountain snow and record warm temperatures. Scientists say Colorado’s glaciers may not have much time l"
-    },
-    {
-      "id": "eg3s11ZW6QE",
-      "title": "Serbian elections: A country where students may actually take power",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-24T16:31:54.000Z",
-      "description": "Serbia is voting in an early election, where the most powerful politician in the country, in charge for 14 years, has a serious rival for the first time - students. Aleksandar Vučić, who stepped down from his second mand"
-    },
-    {
-      "id": "uVwvJEX7s4U",
-      "title": "'Zombies’ storm Seoul city tour bus ahead of Halloween",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-24T15:18:37.000Z",
-      "description": "What looks like a sightseeing bus rolling past Seoul's landmarks turns into a nightmare on wheels as 'zombies' suddenly attack the vehicle, in a Halloween program inspired by the popular South Korean movie 'Train to Busa"
-    },
-    {
-      "id": "OuWTrQHuFtk",
-      "title": "French police arrest 135 people, as tens of thousands protest across country",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-24T15:30:23.000Z",
-      "description": "France's interior minister said that 135 people have been arrested as tens of thousands join protests across the country."
-    },
-    {
-      "id": "WJHv4EZNGt8",
-      "title": "Paris: 70.000 police officers deployed nationwide • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-24T17:11:43.000Z",
-      "description": "A coalition of the “Yellow Vests” movement, trade unions and students will march across France on Saturday with demands over studying conditions and purchasing power. Some 70,000 police are expected to be deployed as aut"
-    },
-    {
-      "id": "S6CbRglj2tw",
-      "title": "How France's unrest could help Marine Le Pen's presidential push",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-24T14:53:32.000Z",
-      "description": "France is bracing for another weekend of mass protests, just one week after demonstrations descended into rioting and looting. As hundreds of thousands take to the streets, far-right leader Marine Le Pen is launching her"
-    },
-    {
-      "id": "ypUnGqMA4dI",
-      "title": "How Sky News gained access to occupied Ukrainian city",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-24T15:31:09.000Z",
-      "description": "Sky’s Stuart Ramsay tells Michael Clarke how his team were able to gain access to drone footage from the occupied city of Oleshky in Ukraine, where residents have had to resort to foraging for nuts and berries as a resul"
+      "publishedAt": "2026-10-24T18:00:11.000Z",
+      "description": "The UN investigates abuses worldwide. But when its own personnel or operations cause harm, who can deliver justice?"
     },
     {
       "id": "yJ4paYRwm6c",
@@ -170,28 +186,12 @@
       "description": "The United Arab Emirates has closed beaches and warned fishermen to avoid the Persian Gulf off one of its seven emirates after an oil spill from a tanker. The spill has impacted the beaches of the Umm Al Quwain where aut"
     },
     {
-      "id": "xikocMX1rzY",
-      "title": "Amazon's future at stake as Brazil heads into decisive run-off vote",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-24T15:08:38.000Z",
-      "description": "In Brazil's northern state of Amapa, indigenous leaders weigh the promise and peril of offshore oil ahead of the October 25th presidential run-off. "
-    },
-    {
-      "id": "YVdEap5Ma-E",
-      "title": "Starlink, Ukraine and Iran: how the US requested changes to Musk's network",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-24T12:51:30.000Z",
-      "description": "Reuters exclusive reporting reveals the US made several previous requests to Elon Musk to alter his Starlink service in Ukraine and the Middle East. The Trump administration moves to block Alaska's Senate race results ov"
-    },
-    {
-      "id": "qU09pkRutV8",
-      "title": "Huge crowds at official Paris rally as protests continue across France.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-24T15:29:37.000Z",
-      "description": ""
+      "id": "S6CbRglj2tw",
+      "title": "How France's unrest could help Marine Le Pen's presidential push",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-24T14:53:32.000Z",
+      "description": "France is bracing for another weekend of mass protests, just one week after demonstrations descended into rioting and looting. As hundreds of thousands take to the streets, far-right leader Marine Le Pen is launching her"
     }
   ]
 }
