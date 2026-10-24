@@ -1,25 +1,23 @@
-22:04:23 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-22:04:23 collecting videos…
-22:04:23   video feed BBC News: 15 in feed, 5 kept
-22:04:23   video feed Al Jazeera English: 15 in feed, 5 kept
-22:04:23   video feed DW News: 15 in feed, 5 kept
-22:04:23   video feed FRANCE 24 English: 15 in feed, 5 kept
-22:04:23   video feed Sky News: 15 in feed, 5 kept
-22:04:23   video feed Reuters: 15 in feed, 5 kept
-22:04:23   video feed Associated Press: 15 in feed, 5 kept
-22:04:23 videos: saved 24
-22:04:23 collecting feeds…
-22:04:28 801 new items
-22:04:29 647 candidate stories
-22:04:29 categories needing stories: health → reserved health
-22:04:29 writing: Melanoma vaccine reduces death or cancer recurrence by 42% (3 sources)
-22:04:30   source text: 7000 / 1717 / 0 / 0 / 0 chars
-22:04:50 image source error: The operation was aborted due to timeout
-22:05:16 image source error: The operation was aborted due to timeout
-22:05:31 image source error: The operation was aborted due to timeout
-22:05:33   ✓ published: /news/personalised-mrna-vaccine-cuts-high-risk-melanoma-recurrence/ [health] image: wikimedia via subject "scientific laboratory research"
-22:05:33 writing: Macron condemns racism after one killed in ‘terrorist’ shooting near Paris (7 sources)
-22:05:33   source text: 4771 / 2184 / 4136 chars
-22:05:39   too close to source wording — rewriting
-22:05:59   ✓ published: /news/france-reels-after-racist-drive-by-shooting-leaves-one-dead-near-paris/ [world] image: wikimedia via name "Emmanuel Macron"
-22:05:59 done — 2 stories
+00:37:32 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+00:37:32 collecting videos…
+00:37:32   video feed BBC News: 15 in feed, 5 kept
+00:37:32   video feed Al Jazeera English: 15 in feed, 5 kept
+00:37:32   video feed DW News: 15 in feed, 5 kept
+00:37:32   video feed FRANCE 24 English: 15 in feed, 5 kept
+00:37:32   video feed Sky News: 15 in feed, 5 kept
+00:37:32   video feed Reuters: 15 in feed, 5 kept
+00:37:32   video feed Associated Press: 15 in feed, 5 kept
+00:37:32 videos: saved 24
+00:37:32 collecting feeds…
+00:37:36 727 new items
+00:37:37 597 candidate stories
+00:37:37 categories needing stories: business → reserved business
+00:37:37 writing: White House lifts tariffs on some Canadian goods as midterm elections loom (1 sources)
+00:37:37   source text: 3322 chars
+00:37:41 writer returned unusable output: { "headline": "US rolls back certain Canadian trade levies ahead of congressional votes", "standfirst": "The administration is easing levies on specific Can
+00:37:41   skipped
+00:37:41 writing: Gunmen Open Fire at Church in Jordan, Killing at Least Seven (5 sources)
+00:37:42   source text: 3995 / 1387 / 2830 chars
+00:37:49   too close to source wording — rewriting
+00:37:56   skipped
+00:37:56 done — 0 stories
