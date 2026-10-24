@@ -111,6 +111,9 @@
   "publishedAt": "2026-10-24T10:51:17.115Z",
   "updatedAt": "2026-10-24T10:51:17.115Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172689618681745",
+    "sharedAt": "2026-10-24T10:54:51.152Z"
+  },
   "ogImage": "/og/historic-eagles-nest-retreat-heavily-damaged-in-major-bavarian-alps-fire.jpg"
 }
