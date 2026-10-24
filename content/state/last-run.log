@@ -1,21 +1,21 @@
-20:43:41 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-20:43:41 collecting videos…
-20:43:41   video feed BBC News: 15 in feed, 5 kept
-20:43:41   video feed Al Jazeera English: 15 in feed, 5 kept
-20:43:41   video feed DW News: 15 in feed, 5 kept
-20:43:41   video feed FRANCE 24 English: 15 in feed, 5 kept
-20:43:41   video feed Sky News: 15 in feed, 5 kept
-20:43:41   video feed Reuters: 15 in feed, 5 kept
-20:43:41   video feed Associated Press: 15 in feed, 5 kept
-20:43:41 videos: saved 24
-20:43:41 collecting feeds…
-20:43:46 627 new items
-20:43:47 487 candidate stories
-20:43:47 categories needing stories: technology, business, sports → reserved technology
-20:43:47 writing: ‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone (2 sources)
-20:43:47   source text: 7000 / 0 chars
-20:43:56   ✓ published: /news/footballers-license-ai-clones-to-monetise-digital-likenesses/ [technology] image: wikimedia via idea "Cristian Volpato football player"
-20:43:56 writing: Hundreds of thousands march in France as protests take place across Europe – as it happened (4 sources)
-20:43:56   source text: 7000 / 5356 / 6870 chars
-20:44:02   ✓ published: /news/hundreds-of-thousands-march-across-european-cities-amid-widespread/ [world] image: wikimedia via idea "protesters police Paris France"
-20:44:02 done — 2 stories
+23:07:49 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+23:07:49 collecting videos…
+23:07:49   video feed BBC News: 15 in feed, 5 kept
+23:07:49   video feed Al Jazeera English: 15 in feed, 5 kept
+23:07:49   video feed DW News: 15 in feed, 5 kept
+23:07:49   video feed FRANCE 24 English: 15 in feed, 5 kept
+23:07:49   video feed Sky News: 15 in feed, 5 kept
+23:07:49   video feed Reuters: 15 in feed, 5 kept
+23:07:49   video feed Associated Press: 15 in feed, 5 kept
+23:07:49 videos: saved 24
+23:07:49 collecting feeds…
+23:07:53 576 new items
+23:07:54 435 candidate stories
+23:07:54 categories needing stories: health, business, technology, sports → reserved health
+23:07:54 writing: Advanced age does not limit the benefits of sodium-glucose cotransporter 2 inhibitors in chronic kidney disease (1 sources)
+23:07:54   source text: 2347 chars
+23:08:09   ✓ published: /news/new-study-shows-elderly-kidney-disease-patients-benefit-from-sglt2/ [health] image: openverse via name "Hannover Medical School"
+23:08:09 writing: 2026 WNBA Finals: Game 6 venue up in the air for Dream vs. Valkyries with State Farm Arena already booked (3 sources)
+23:08:09   source text: 4651 / 3075 / 3104 chars
+23:08:15   ✓ published: /news/golden-state-valkyries-level-wnba-finals-against-atlanta-dream/ [sports] image: wikimedia via idea "Golden State Valkyries basketball"
+23:08:15 done — 2 stories
