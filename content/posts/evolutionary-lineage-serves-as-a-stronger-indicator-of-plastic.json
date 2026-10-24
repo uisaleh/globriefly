@@ -89,6 +89,9 @@
   "publishedAt": "2026-10-24T14:29:03.034Z",
   "updatedAt": "2026-10-24T14:29:03.034Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172701510681745",
+    "sharedAt": "2026-10-24T14:32:32.514Z"
+  },
   "ogImage": "/og/evolutionary-lineage-serves-as-a-stronger-indicator-of-plastic.jpg"
 }
