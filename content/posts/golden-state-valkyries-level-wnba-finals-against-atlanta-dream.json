@@ -106,6 +106,9 @@
   "publishedAt": "2026-10-24T23:08:14.973Z",
   "updatedAt": "2026-10-24T23:08:14.973Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172730424681745",
+    "sharedAt": "2026-10-24T23:11:45.126Z"
+  },
   "ogImage": "/og/golden-state-valkyries-level-wnba-finals-against-atlanta-dream.jpg"
 }
