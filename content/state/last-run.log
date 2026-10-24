@@ -1,21 +1,38 @@
-10:50:51 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-10:50:51 collecting videos…
-10:50:52   video feed BBC News: 15 in feed, 5 kept
-10:50:52   video feed Al Jazeera English: 15 in feed, 5 kept
-10:50:52   video feed DW News: 15 in feed, 5 kept
-10:50:52   video feed FRANCE 24 English: 15 in feed, 5 kept
-10:50:53   video feed Sky News: 15 in feed, 5 kept
-10:50:53   video feed Reuters: 15 in feed, 5 kept
-10:50:53   video feed Associated Press: 15 in feed, 5 kept
-10:50:53 videos: saved 24
-10:50:53 collecting feeds…
-10:50:58 490 new items
-10:50:59 386 candidate stories
-10:50:59 categories needing stories: business, sports → reserved business
-10:50:59 writing: Charity expects demand for Christmas present campaign (1 sources)
-10:50:59   source text: 988 chars
-10:51:10   ✓ published: /news/shropshire-charity-prepares-for-heavy-holiday-toy-appeal-demand/ [business] image: wikimedia via idea "Darwin shopping centre Shrewsbury"
-10:51:10 writing: Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat (6 sources)
-10:51:11   source text: 1442 / 3411 / 1778 chars
-10:51:18   ✓ published: /news/historic-eagles-nest-retreat-heavily-damaged-in-major-bavarian-alps-fire/ [world] image: wikimedia via idea "Eagle's Nest Berchtesgaden Germany"
-10:51:18 done — 2 stories
+14:28:28 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+14:28:28 collecting videos…
+14:28:28   video feed BBC News: 15 in feed, 5 kept
+14:28:28   video feed Al Jazeera English: 15 in feed, 5 kept
+14:28:28   video feed DW News: 15 in feed, 5 kept
+14:28:28   video feed FRANCE 24 English: 15 in feed, 5 kept
+14:28:28   video feed Sky News: 15 in feed, 5 kept
+14:28:28   video feed Reuters: 15 in feed, 5 kept
+14:28:28   video feed Associated Press: 15 in feed, 5 kept
+14:28:28 videos: saved 24
+14:28:28 collecting feeds…
+14:28:32 584 new items
+14:28:32 457 candidate stories
+14:28:32 categories needing stories: science, entertainment, business, sports → reserved science
+14:28:32 writing: Seabird family tree predicts which species accumulate plastic better than diet, global analysis finds (1 sources)
+14:28:33   source text: 6295 chars
+14:28:35 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+14:28:52   too close to source wording — rewriting
+14:29:03   ✓ published: /news/evolutionary-lineage-serves-as-a-stronger-indicator-of-plastic/ [science] image: wikimedia via idea "seabird flying ocean"
+14:29:03 writing: Volkanovski vs Evloev: UFC 333 start time, undercard and how to watch fights (5 sources)
+14:29:04   source text: 380 / 5944 / 3498 / 2598 chars
+14:29:04 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+14:29:22   ✓ published: /news/ultimate-fighting-championship-stages-ufc-333-title-matches-in-abu-dhabi/ [sports] image: wikimedia via idea "Etihad Arena Abu Dhabi"
+14:29:22 done — 2 stories
