@@ -1,22 +1,21 @@
-05:45:11 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-05:45:11 collecting videos…
-05:45:37   video feed BBC News failed: Status code 404
-05:46:03   video feed Al Jazeera English failed: Status code 404
-05:46:29   video feed DW News failed: Status code 404
-05:46:55   video feed FRANCE 24 English failed: Status code 404
-05:47:21   video feed Sky News failed: Status code 404
-05:47:41 videos: saved 24
-05:47:41 collecting feeds…
-05:47:45 550 new items
-05:47:46 452 candidate stories
-05:47:46 categories needing stories: business → reserved business
-05:47:46 writing: Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers (1 sources)
-05:47:46   source text: 0 chars
-05:47:46   skipped: only paywalled sources, not enough readable text
-05:47:46 writing: Trump lifts some Canada tariffs ahead of midterms (7 sources)
-05:47:47   source text: 2846 / 4399 / 2375 chars
-05:47:47   video feed Reuters failed: Status code 404
-05:47:56   ✓ published: /news/trump-lifts-specific-canadian-import-tariffs-ahead-of-close-maine/ [politics] image: wikimedia via idea "Susan Collins Washington"
-05:47:56 writing explainer for: Trump lifts some Canada tariffs ahead of midterms
-05:48:00   ✓ explainer: /news/why-did-the-us-just-lift-some-tariffs-on-canada/
-05:48:00 done — 1 stories
+10:50:51 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+10:50:51 collecting videos…
+10:50:52   video feed BBC News: 15 in feed, 5 kept
+10:50:52   video feed Al Jazeera English: 15 in feed, 5 kept
+10:50:52   video feed DW News: 15 in feed, 5 kept
+10:50:52   video feed FRANCE 24 English: 15 in feed, 5 kept
+10:50:53   video feed Sky News: 15 in feed, 5 kept
+10:50:53   video feed Reuters: 15 in feed, 5 kept
+10:50:53   video feed Associated Press: 15 in feed, 5 kept
+10:50:53 videos: saved 24
+10:50:53 collecting feeds…
+10:50:58 490 new items
+10:50:59 386 candidate stories
+10:50:59 categories needing stories: business, sports → reserved business
+10:50:59 writing: Charity expects demand for Christmas present campaign (1 sources)
+10:50:59   source text: 988 chars
+10:51:10   ✓ published: /news/shropshire-charity-prepares-for-heavy-holiday-toy-appeal-demand/ [business] image: wikimedia via idea "Darwin shopping centre Shrewsbury"
+10:51:10 writing: Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat (6 sources)
+10:51:11   source text: 1442 / 3411 / 1778 chars
+10:51:18   ✓ published: /news/historic-eagles-nest-retreat-heavily-damaged-in-major-bavarian-alps-fire/ [world] image: wikimedia via idea "Eagle's Nest Berchtesgaden Germany"
+10:51:18 done — 2 stories
