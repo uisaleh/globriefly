@@ -1,22 +1,22 @@
-09:45:44 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-09:45:44 collecting videos…
-09:45:44   video feed BBC News: 15 in feed, 5 kept
-09:45:44   video feed Al Jazeera English: 15 in feed, 5 kept
-09:45:44   video feed DW News: 15 in feed, 5 kept
-09:45:44   video feed FRANCE 24 English: 15 in feed, 5 kept
-09:45:44   video feed Sky News: 15 in feed, 5 kept
-09:45:44   video feed Reuters: 15 in feed, 5 kept
-09:45:45   video feed Associated Press: 15 in feed, 5 kept
-09:45:45 videos: saved 24
-09:45:45 collecting feeds…
-09:45:49 434 new items
-09:45:49 341 candidate stories
-09:45:49 categories needing stories: politics, technology → reserved politics
-09:45:49 writing: Burnham open to 'honest discussion' on EU free movement (2 sources)
-09:45:49   source text: 3469 / 3478 / 3478 chars
-09:45:57   ✓ published: /news/prime-minister-calls-for-open-debate-on-restoring-european-free-movement/ [politics] image: wikimedia via idea "Andy Burnham"
-09:45:57 writing: Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro (5 sources)
-09:45:57   source text: 2445 / 854 / 4223 / 1278 chars
-09:46:03   too close to source wording — rewriting
-09:46:10   ✓ published: /news/brazil-holds-decisive-presidential-runoff-election-between-lula-and/ [world] image: wikimedia via idea "Luiz Inacio Lula da Silva"
-09:46:10 done — 2 stories
+14:19:46 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+14:19:46 collecting videos…
+14:19:46   video feed BBC News: 15 in feed, 5 kept
+14:19:46   video feed Al Jazeera English: 15 in feed, 5 kept
+14:19:46   video feed DW News: 15 in feed, 5 kept
+14:19:47   video feed FRANCE 24 English: 15 in feed, 5 kept
+14:19:47   video feed Sky News: 15 in feed, 5 kept
+14:19:47   video feed Reuters: 15 in feed, 5 kept
+14:19:47   video feed Associated Press: 15 in feed, 5 kept
+14:19:47 videos: saved 24
+14:19:47 collecting feeds…
+14:19:50 526 new items
+14:19:50 382 candidate stories
+14:19:50 categories needing stories: politics, business, technology → reserved politics
+14:19:50 writing: Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail (2 sources)
+14:19:51   source text: 324 / 0 chars
+14:19:57   ✓ published: /news/barack-obama-campaigns-for-democrats-in-critical-midterm-battlegrounds/ [politics] image: wikimedia via idea "Barack Obama campaign rally"
+14:19:57 writing: Photos of the week (5 sources)
+14:19:58   source text: 1625 / 5481 / 3666 chars
+14:20:03   too close to source wording — rewriting
+14:20:12   ✓ published: /news/nfc-north-division-rivals-and-west-coast-squads-clash-in-crucial-nfl/ [sports] image: wikimedia via idea "Lambeau Field Green Bay Packers"
+14:20:12 done — 2 stories
