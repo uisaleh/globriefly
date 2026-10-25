@@ -1,37 +1,53 @@
 {
-  "updatedAt": "2026-10-25T14:19:47.048Z",
+  "updatedAt": "2026-10-25T18:22:21.627Z",
   "videos": [
     {
-      "id": "VakhYTaRhyM",
-      "title": "🐶 Dogs dressed as music icons take over Key West's annual Pet Masquerade",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-25T14:00:10.000Z",
-      "description": "Rock 'n' roll and wagging tails took over the stage in Key West on October 21, as costumed pets and their humans competed in the annual Fantasy Fest Pet Masquerade."
-    },
-    {
-      "id": "53yZK1ayt_4",
-      "title": "Murder in Malaysia's Beverly Hills",
+      "id": "LmfADHnFwEM",
+      "title": "Israeli air strike on Gaza City university kills three people",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-25T14:00:03.000Z",
-      "description": "A young Mongolian woman is abducted from an affluent neighborhood in Kuala Lumpur in 2006, driven into the jungle, shot twice, and blown up with explosives. Her murder became one of Malaysia's most notorious unsolved pol"
+      "publishedAt": "2026-10-25T18:10:48.000Z",
+      "description": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City, killing three people and injuring at least seven others, Al Jazeera’s Hani Mahmoud reports."
     },
     {
-      "id": "XqhEi80L4t4",
-      "title": "Lula votes in São Bernardo do Campo, birthplace of his political career as a union leader in the 196",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-25T13:56:03.000Z",
-      "description": "Brazilian President Luiz Inácio Lula da Silva voted Sunday at a school in São Bernardo do Campo in a presidential runoff as he seeks a fourth term leading South America’s largest country (AP Video by Marko Alvarez)\r"
-    },
-    {
-      "id": "QABHu5M-XUc",
-      "title": "Presidential runoff under way in Brazil • FRANCE 24 English",
+      "id": "0YYjfGr8M1Q",
+      "title": "France: Football fans take over Paris as NFL comes to country for the first time • FRANCE 24",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-25T13:52:42.000Z",
-      "description": "Brazil is also heading to the polls today for a run-off vote that will decide who leads the country. The race is on a knife edge between incumbent left-wing President Luiz Inácio Lula da Silva and right-wing Senator Fláv"
+      "publishedAt": "2026-10-25T18:01:40.000Z",
+      "description": "Paris's iconic Stade de France made history on Sunday, October 25, by hosting the first #NFL regular season game to ever be held in France. For this unprecedented match between the Saints and the Steelers fans flocked fr"
+    },
+    {
+      "id": "NyzzLugFl_I",
+      "title": "Who will be the next James Bond?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-25T18:00:26.000Z",
+      "description": "Callum Turner, Jack Lowden and Josh O'Connor are among the actors thought to be taking part in final auditions to play James Bond, according to reports."
+    },
+    {
+      "id": "Ds5jBn0hv2Q",
+      "title": "Lula and Flavio Bolsonaro cast their ballot in presidential runoff",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-25T17:48:13.000Z",
+      "description": "President Lula and right-wing Senator Flavio Bolsonaro cast ballots in Brazil's presidential runoff in a vote that could shift the politics of Latin America's largest nation."
+    },
+    {
+      "id": "4LgFOWcoEB8",
+      "title": "Venezuela's opposition leader Machado greets supporters on return after months in exile",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-25T17:36:41.000Z",
+      "description": "Opposition leader and Nobel laureate María Corina Machado reappeared in Venezuela Sunday for the first time since December, returning from exile at a time when doubts about the country's democratic future — and the role "
+    },
+    {
+      "id": "4k4XS_hWiYw",
+      "title": "Trump backs controversial attack ad from Republican senate candidate",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-25T16:45:03.000Z",
+      "description": "\"Attack ads can get very, very brutal in America, but this seems like a pretty low blow.\""
     },
     {
       "id": "5OU0ICw2KPY",
@@ -42,52 +58,52 @@
       "description": "Almost 1,000 Russian oil tankers traverse the world's oceans. Why do they pose an environmental threat? And why are they vital to Russia's economy?"
     },
     {
-      "id": "a7HiUHeX7lA",
-      "title": "'This is an extremist government': The Palestinians who could vote Netanyahu out",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-25T13:00:07.000Z",
-      "description": "Israel goes to the polls on Tuesday with Benjamin Netanyahu's grip on power under serious threat."
-    },
-    {
-      "id": "WIFwgEjWRq0",
-      "title": "Storm Boelo floods town centre of Largs, Scotland.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-25T12:45:23.000Z",
-      "description": ""
-    },
-    {
-      "id": "BHZ8Qc2TOho",
-      "title": "🎃 Inside one of Britain's biggest Halloween attractions",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-25T11:00:09.000Z",
-      "description": "Chainsaw-wielding farmers, zombies and post-apocalyptic \"Wastelanders\" roam a transformed farm looking for unsuspecting victims at one of Britain's biggest Halloween attractions."
-    },
-    {
-      "id": "4trJdRigrQk",
-      "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
+      "id": "9bPHTQJxIN0",
+      "title": "US and Israel elections: New leaders, same policies?",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-25T13:28:10.000Z",
-      "description": "Serbians are turning out in huge numbers to vote in a parliamentary election which could see Aleksander Vucic’s longstanding reign brought to an end. The vote follows months of student-led anti-government protests over c"
+      "publishedAt": "2026-10-25T17:44:19.000Z",
+      "description": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues. What sustains it? "
     },
     {
-      "id": "AtisrkJGb8g",
-      "title": "Polls open in Serbia in a parliamentary election that sees populist leader Vucic under threat",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-25T12:53:53.000Z",
-      "description": "Serbians are voting Sunday in a parliamentary election that is seen as a showdown between the Balkan country's populist leader Aleksandar Vucic and a movement of university students who led protests against him for almos"
-    },
-    {
-      "id": "fQkuSvnCFkE",
-      "title": "Le Pen leads polls with up to 38% six months before election • FRANCE 24 English",
+      "id": "GtzGNiZbPvM",
+      "title": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-25T13:51:13.000Z",
-      "description": "The day after the first day of the National Rally congress in Orléans, in central France, passed without any major incidents, Marine Le Pen is due to deliver her first major campaign speech on Sunday afternoon, 25 Octobe"
+      "publishedAt": "2026-10-25T17:12:48.000Z",
+      "description": "Marine Le Pen, leader of France’s far-right National Rally, addressed some 10,000 supporters on Sunday in the city of Orleans as she kicked off her presidential campaign, a day after nationwide cost-of-living protests fl"
+    },
+    {
+      "id": "lW2fXSGbdso",
+      "title": "Is the UK trying to renegotiate Brexit?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-25T17:00:27.000Z",
+      "description": "UK Prime Minister Andy Burnham has said he would welcome an \"honest discussion\" about the prospect of returning to free movement between the UK and European Union."
+    },
+    {
+      "id": "qcJ8VjCD-MY",
+      "title": "Kane, Yamal, Putellas or Pajor: Who are the top Ballon d'Or contenders?",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-25T17:47:06.000Z",
+      "description": "Harry Kane, Lamine Yamal and Kylian Mbappe could be the top men's contenders for the 70th Ballon d'Or to be held in London. Rohith Nair explains. "
+    },
+    {
+      "id": "yVfmpjb7WB8",
+      "title": "Pope Leo XIV prays for victims of attack on church in Jordan, appeals for end to fighting in Yemen",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-25T17:16:17.000Z",
+      "description": "Speaking from the window of his study at the Vatican after the Angelus prayer, Pope Leo expressed concern over what he called “the grave humanitarian situation in Yemen,” particularly in the city of Taiz, where residents"
+    },
+    {
+      "id": "yG_GDbH8i4M",
+      "title": "Budget looms: Anne McElvoy gives her verdict",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-25T16:22:23.000Z",
+      "description": "Guest presenter of Sunday Mornings With... Anne McElvoy, reflects on her interview with housing secretary Angela Rayner, as Andy Burnham's first budget as prime minister is set for Wednesday."
     },
     {
       "id": "hVl4GVNvgUI",
@@ -98,52 +114,52 @@
       "description": "Europe wants more technological independence. But when it comes to AI, it keeps turning to US companies like Jensen Huang’s Nvidia, which has just signed a big deal with the German government. At the Berlin Global Dialog"
     },
     {
-      "id": "EOUgThACHac",
-      "title": "Jenrick says Reform would cut spending by £40bn in one year",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-25T11:35:17.000Z",
-      "description": "Reform would slash £40bn of spending in one Budget, the party's treasury spokesperson Robert Jenrick says."
+      "id": "aGaOdxLmh_A",
+      "title": "Can protests in Europe bring about change?",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-25T17:31:06.000Z",
+      "description": "Another weekend - another wave of protests in many European countries."
     },
     {
-      "id": "DR-yGlMlDH8",
-      "title": "How could Brazil's presidential election impact the Amazon rainforest?",
+      "id": "fQkuSvnCFkE",
+      "title": "Le Pen leads polls with up to 38% six months before election • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-25T13:51:13.000Z",
+      "description": "The day after the first day of the National Rally congress in Orléans, in central France, passed without any major incidents, Marine Le Pen is due to deliver her first major campaign speech on Sunday afternoon, 25 Octobe"
+    },
+    {
+      "id": "tNAPrapIWqU",
+      "title": "Should you buy or rent a home?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-25T11:58:07.000Z",
+      "publishedAt": "2026-10-25T16:26:39.000Z",
       "description": ""
     },
     {
-      "id": "WEeGSY6XuL4",
-      "title": "Inside Hollywood's Fear Factory: How horror is saving the box office",
+      "id": "VX1j5XvfNxA",
+      "title": "'Hopeful' voters queue for hours to vote in Serbia's historic election",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-24T19:47:55.000Z",
-      "description": "Horror movies have long been one of the safer box-office bets for studios wringing big returns out of modest budgets. In post-pandemic times, that reliability has become a beacon. Tiana McGee explains."
+      "publishedAt": "2026-10-25T16:24:39.000Z",
+      "description": "Serbians turned out in force to vote in a snap parliamentary election as a mass student-protest movement sought to unseat longtime populist leader Aleksandar Vucic https://reut.rs/4yFlVQe"
     },
     {
-      "id": "kVONSElzRv4",
-      "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-25T12:02:39.000Z",
-      "description": "An oil slick has been filmed washing up on the UAE shoreline, prompting authorities to close beaches in Umm Al Quwain and Ras Al-Khaimah. A crude oil tanker reportedly struck an Iranian-laid naval mine near the Strait of"
-    },
-    {
-      "id": "x9fRToI9P4c",
-      "title": "Kamala Harris blasts Trump ahead of midterm elections",
+      "id": "XqhEi80L4t4",
+      "title": "Lula votes in São Bernardo do Campo, birthplace of his political career",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-25T04:51:05.000Z",
-      "description": "Former U.S. Vice President Kamala Harris acknowledged the emotional toll of losing to Donald Trump in the 2024 presidential election, telling supporters that this year’s midterm elections offered opportunity to hold Trum"
+      "publishedAt": "2026-10-25T13:56:03.000Z",
+      "description": "Brazilian President Luiz Inácio Lula da Silva voted Sunday at a school in São Bernardo do Campo in a presidential runoff as he seeks a fourth term leading South America’s largest country (AP Video by Marko Alvarez)\r"
     },
     {
-      "id": "IS56tKjnb0Y",
-      "title": "More than 400.000 protest across France • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-25T09:32:20.000Z",
-      "description": "Saturday’s demonstrations across France were largely peaceful, easing fears of a repeat of the violence seen last weekend. Hundreds of thousands took to the streets to demand action on the rising cost of living and more "
+      "id": "6h5vt9s71E4",
+      "title": "Storm Boelo batters Britain with 80mph winds and sea surges",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-25T14:27:00.000Z",
+      "description": "Scotland and northern England have been battered with 80mph winds and sea surges as Storm Boelo brings chaos and disruption."
     },
     {
       "id": "gTUwnBVW12U",
@@ -154,44 +170,28 @@
       "description": "Crowds stormed the Colosseum in Rome to protest a range of issues including the cost of living and government policies. Rallies were held in cities across Italy and echo the youth-led protests in France."
     },
     {
-      "id": "s8CWw0LlTVg",
-      "title": "Rayner says UK should have 'conversation' about future EU ties amid freedom of movement debate",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-25T10:58:22.000Z",
-      "description": "Angela Rayner has denied the government will put off big spending decisions in the Budget this week."
-    },
-    {
-      "id": "Mwrcntt8LZI",
-      "title": "Meet the grannies taking over TikTok.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-25T10:59:19.000Z",
-      "description": ""
-    },
-    {
-      "id": "x8_NJzucBPw",
-      "title": "'Token of love': Day of the Dead parades in Texas honor the deceased",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-24T19:47:52.000Z",
-      "description": "Crowds filled San Antonio, Texas's River Walk for the annual Day of the Dead celebration, with illuminated floats, mariachi music and costumed participants honoring deceased loved ones. "
-    },
-    {
-      "id": "ZXy_am2axO0",
-      "title": "US Midterms 2026 latest: Maine character energy",
+      "id": "53yZK1ayt_4",
+      "title": "Murder in Malaysia's Beverly Hills",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-25T11:43:10.000Z",
-      "description": "Republican Senator Susan Collins has held office in Maine for almost three decades. She’s now facing the toughest re-election fight of her career, from Democratic candidate Troy Jackson. Collins insists she’s the only pe"
+      "publishedAt": "2026-10-25T14:00:03.000Z",
+      "description": "A young Mongolian woman is abducted from an affluent neighborhood in Kuala Lumpur in 2006, driven into the jungle, shot twice, and blown up with explosives. Her murder became one of Malaysia's most notorious unsolved pol"
     },
     {
-      "id": "N095WEmoPB4",
-      "title": "Obama asks Democrats to help send Abdul El-Sayed to the Senate",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-25T03:08:49.000Z",
-      "description": "Former U.S. President Barack Obama rallied Democratic voters in battleground Michigan on Saturday night. (AP video: Mike Householder)\r"
+      "id": "IS56tKjnb0Y",
+      "title": "More than 400.000 protest across France • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-25T09:32:20.000Z",
+      "description": "Saturday’s demonstrations across France were largely peaceful, easing fears of a repeat of the violence seen last weekend. Hundreds of thousands took to the streets to demand action on the rising cost of living and more "
+    },
+    {
+      "id": "AJwgJSVDIIc",
+      "title": "Brazilians vote to choose next president in election run-off",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-25T15:49:20.000Z",
+      "description": "Brazilians are voting to choose their next president in a closely fought run-off election."
     }
   ]
 }

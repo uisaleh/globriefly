@@ -1,22 +1,23 @@
-14:19:46 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-14:19:46 collecting videos…
-14:19:46   video feed BBC News: 15 in feed, 5 kept
-14:19:46   video feed Al Jazeera English: 15 in feed, 5 kept
-14:19:46   video feed DW News: 15 in feed, 5 kept
-14:19:47   video feed FRANCE 24 English: 15 in feed, 5 kept
-14:19:47   video feed Sky News: 15 in feed, 5 kept
-14:19:47   video feed Reuters: 15 in feed, 5 kept
-14:19:47   video feed Associated Press: 15 in feed, 5 kept
-14:19:47 videos: saved 24
-14:19:47 collecting feeds…
-14:19:50 526 new items
-14:19:50 382 candidate stories
-14:19:50 categories needing stories: politics, business, technology → reserved politics
-14:19:50 writing: Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail (2 sources)
-14:19:51   source text: 324 / 0 chars
-14:19:57   ✓ published: /news/barack-obama-campaigns-for-democrats-in-critical-midterm-battlegrounds/ [politics] image: wikimedia via idea "Barack Obama campaign rally"
-14:19:57 writing: Photos of the week (5 sources)
-14:19:58   source text: 1625 / 5481 / 3666 chars
-14:20:03   too close to source wording — rewriting
-14:20:12   ✓ published: /news/nfc-north-division-rivals-and-west-coast-squads-clash-in-crucial-nfl/ [sports] image: wikimedia via idea "Lambeau Field Green Bay Packers"
-14:20:12 done — 2 stories
+18:22:21 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+18:22:21 collecting videos…
+18:22:21   video feed BBC News: 15 in feed, 5 kept
+18:22:21   video feed Al Jazeera English: 15 in feed, 5 kept
+18:22:21   video feed DW News: 15 in feed, 5 kept
+18:22:21   video feed FRANCE 24 English: 15 in feed, 5 kept
+18:22:21   video feed Sky News: 15 in feed, 5 kept
+18:22:21   video feed Reuters: 15 in feed, 5 kept
+18:22:21   video feed Associated Press: 15 in feed, 5 kept
+18:22:21 videos: saved 24
+18:22:21 collecting feeds…
+18:22:25 601 new items
+18:22:25 418 candidate stories
+18:22:25 categories needing stories: science, entertainment, business, technology, world → reserved science
+18:22:25 writing: How screening tools measure disadvantage may leave rural communities overlooked for public support (1 sources)
+18:22:26   source text: 6370 chars
+18:22:31   too close to source wording — rewriting
+18:22:51   ✓ published: /news/research-reveals-how-government-screening-tools-miss-rural-disadvantage/ [science] image: none
+18:22:51 writing: Venezuela opposition leader María Corina Machado returns to country (10 sources)
+18:22:52   source text: 4915 / 3592 / 5523 chars
+18:22:58   too close to source wording — rewriting
+18:23:09   ✓ published: /news/venezuelan-opposition-figure-maria-corina-machado-ends-exile-and/ [world] image: wikimedia via name "Maria Corina Machado"
+18:23:09 done — 2 stories
