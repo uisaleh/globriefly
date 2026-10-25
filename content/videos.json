@@ -1,13 +1,37 @@
 {
-  "updatedAt": "2026-10-25T18:22:21.627Z",
+  "updatedAt": "2026-10-25T21:42:50.756Z",
   "videos": [
     {
-      "id": "LmfADHnFwEM",
-      "title": "Israeli air strike on Gaza City university kills three people",
+      "id": "RzhdraSs9EY",
+      "title": "Fire forces evacuations near Oregon seafood plant",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-25T21:17:52.000Z",
+      "description": "A coastal city in Oregon issued evacuation orders after a fire erupted at a seafood wholesaler Sunday morning and there was concern the smoke contained ammonia. The City of Newport issued the order for a 1-mile (1.6-kilo"
+    },
+    {
+      "id": "k58Ha6lOXwI",
+      "title": "Why does Zelenskyy feel ‘betrayed’ by the US?",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-25T18:10:48.000Z",
-      "description": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City, killing three people and injuring at least seven others, Al Jazeera’s Hani Mahmoud reports."
+      "publishedAt": "2026-10-25T21:00:33.000Z",
+      "description": "The US will not end its support for Ukraine in its war against Russia despite Pres. Donald Trump’s ambivalence toward Kyiv, argues Anatol Lieven, director of the Eurasia Program at the Quincy Institute for Responsible St"
+    },
+    {
+      "id": "MLRwaREPe6A",
+      "title": "Sky News locates Thomas Markle Snr Philippines apartment",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-25T20:04:39.000Z",
+      "description": "Exterior and interior footage show the building in Cebu City where Thomas Markle Snr has been confirmed to have lived. "
+    },
+    {
+      "id": "VZornO9_XdU",
+      "title": "Le Pen, protests, and the future of France",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-25T19:58:10.000Z",
+      "description": "Far-right candidate Marine Le Pen gave her first campaign speech to thousands in France on Sunday, amid nationwide protests over education funding and the rising cost-of-living in recent weeks. With the French presidenti"
     },
     {
       "id": "0YYjfGr8M1Q",
@@ -34,12 +58,20 @@
       "description": "President Lula and right-wing Senator Flavio Bolsonaro cast ballots in Brazil's presidential runoff in a vote that could shift the politics of Latin America's largest nation."
     },
     {
-      "id": "4LgFOWcoEB8",
-      "title": "Venezuela's opposition leader Machado greets supporters on return after months in exile",
+      "id": "waq7qo8pnL8",
+      "title": "Through smoke and along rivers, Amazon residents make the journey to vote",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-25T17:36:41.000Z",
-      "description": "Opposition leader and Nobel laureate María Corina Machado reappeared in Venezuela Sunday for the first time since December, returning from exile at a time when doubts about the country's democratic future — and the role "
+      "publishedAt": "2026-10-25T20:52:58.000Z",
+      "description": "Residents of Brazil’s Amazon traveled by boat through wildfire smoke to vote in the presidential runoff between Luiz Inácio Lula da Silva and Flávio Bolsonaro. Meanwhile, Fire counts across the biome have tripled since t"
+    },
+    {
+      "id": "KXmGtRHO6RA",
+      "title": "Yemen's Taiz sees fragile calm as Houthi attacks worsen humanitarian crisis",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-25T19:43:02.000Z",
+      "description": "A fragile calm returns to Taiz after days of clashes between government forces and Houthis, as the army claims 730 strikes on Houthi targets and condemns a missile attack on Aden airport. Over 230 civilians have been kil"
     },
     {
       "id": "4k4XS_hWiYw",
@@ -50,28 +82,20 @@
       "description": "\"Attack ads can get very, very brutal in America, but this seems like a pretty low blow.\""
     },
     {
-      "id": "5OU0ICw2KPY",
-      "title": "Why Russia has a shadow fleet",
+      "id": "ZGCKJ6BpaBk",
+      "title": "Saudi Arabia, Houthis trade attacks after deadly strikes",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-25T13:45:31.000Z",
-      "description": "Almost 1,000 Russian oil tankers traverse the world's oceans. Why do they pose an environmental threat? And why are they vital to Russia's economy?"
+      "publishedAt": "2026-10-25T18:45:02.000Z",
+      "description": "Saudi Arabia and Yemen's Houthi rebels have traded fresh attacks over the weekend, underscoring a sharp escalation in the conflict. DW speaks to Hannah Porter, a Yemen and Houthi researcher at ARK group."
     },
     {
-      "id": "9bPHTQJxIN0",
-      "title": "US and Israel elections: New leaders, same policies?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-25T17:44:19.000Z",
-      "description": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues. What sustains it? "
-    },
-    {
-      "id": "GtzGNiZbPvM",
-      "title": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off • FRANCE 24 English",
+      "id": "IS56tKjnb0Y",
+      "title": "More than 400.000 protest across France • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-25T17:12:48.000Z",
-      "description": "Marine Le Pen, leader of France’s far-right National Rally, addressed some 10,000 supporters on Sunday in the city of Orleans as she kicked off her presidential campaign, a day after nationwide cost-of-living protests fl"
+      "publishedAt": "2026-10-25T09:32:20.000Z",
+      "description": "Saturday’s demonstrations across France were largely peaceful, easing fears of a repeat of the violence seen last weekend. Hundreds of thousands took to the streets to demand action on the rising cost of living and more "
     },
     {
       "id": "lW2fXSGbdso",
@@ -90,12 +114,20 @@
       "description": "Harry Kane, Lamine Yamal and Kylian Mbappe could be the top men's contenders for the 70th Ballon d'Or to be held in London. Rohith Nair explains. "
     },
     {
-      "id": "yVfmpjb7WB8",
-      "title": "Pope Leo XIV prays for victims of attack on church in Jordan, appeals for end to fighting in Yemen",
+      "id": "c7deUvXvXDE",
+      "title": "Large crowd cheers Machado outside Venezuelan basilica as she returns from exile",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-25T17:16:17.000Z",
-      "description": "Speaking from the window of his study at the Vatican after the Angelus prayer, Pope Leo expressed concern over what he called “the grave humanitarian situation in Yemen,” particularly in the city of Taiz, where residents"
+      "publishedAt": "2026-10-25T20:32:58.000Z",
+      "description": "Opposition leader and Nobel laureate María Corina Machado reappeared in Venezuela on Sunday for the first time since December, returning from exile as doubts grow about the country’s democratic future and the role of the"
+    },
+    {
+      "id": "Pyemx_Bp_Ak",
+      "title": "Iraqis mark seven years since Tishreen protests with reform demands",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-25T19:33:17.000Z",
+      "description": "Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests, demanding an end to corruption, justice for demonstrators killed by security forces, and government reforms. The protests led t"
     },
     {
       "id": "yG_GDbH8i4M",
@@ -106,28 +138,12 @@
       "description": "Guest presenter of Sunday Mornings With... Anne McElvoy, reflects on her interview with housing secretary Angela Rayner, as Andy Burnham's first budget as prime minister is set for Wednesday."
     },
     {
-      "id": "hVl4GVNvgUI",
-      "title": "AI without America?",
+      "id": "5OU0ICw2KPY",
+      "title": "Why Russia has a shadow fleet",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-25T13:30:04.000Z",
-      "description": "Europe wants more technological independence. But when it comes to AI, it keeps turning to US companies like Jensen Huang’s Nvidia, which has just signed a big deal with the German government. At the Berlin Global Dialog"
-    },
-    {
-      "id": "aGaOdxLmh_A",
-      "title": "Can protests in Europe bring about change?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-25T17:31:06.000Z",
-      "description": "Another weekend - another wave of protests in many European countries."
-    },
-    {
-      "id": "fQkuSvnCFkE",
-      "title": "Le Pen leads polls with up to 38% six months before election • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-25T13:51:13.000Z",
-      "description": "The day after the first day of the National Rally congress in Orléans, in central France, passed without any major incidents, Marine Le Pen is due to deliver her first major campaign speech on Sunday afternoon, 25 Octobe"
+      "publishedAt": "2026-10-25T13:45:31.000Z",
+      "description": "Almost 1,000 Russian oil tankers traverse the world's oceans. Why do they pose an environmental threat? And why are they vital to Russia's economy?"
     },
     {
       "id": "tNAPrapIWqU",
@@ -146,12 +162,20 @@
       "description": "Serbians turned out in force to vote in a snap parliamentary election as a mass student-protest movement sought to unseat longtime populist leader Aleksandar Vucic https://reut.rs/4yFlVQe"
     },
     {
-      "id": "XqhEi80L4t4",
-      "title": "Lula votes in São Bernardo do Campo, birthplace of his political career",
+      "id": "4LgFOWcoEB8",
+      "title": "Venezuela's opposition leader Machado greets supporters on return after months in exile",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-25T13:56:03.000Z",
-      "description": "Brazilian President Luiz Inácio Lula da Silva voted Sunday at a school in São Bernardo do Campo in a presidential runoff as he seeks a fourth term leading South America’s largest country (AP Video by Marko Alvarez)\r"
+      "publishedAt": "2026-10-25T17:36:41.000Z",
+      "description": "Opposition leader and Nobel laureate María Corina Machado reappeared in Venezuela Sunday for the first time since December, returning from exile at a time when doubts about the country's democratic future — and the role "
+    },
+    {
+      "id": "LmfADHnFwEM",
+      "title": "Israeli air strike on Gaza City university kills three people",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-25T18:10:48.000Z",
+      "description": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City, killing three people and injuring at least seven others, Al Jazeera’s Hani Mahmoud reports."
     },
     {
       "id": "6h5vt9s71E4",
@@ -162,36 +186,12 @@
       "description": "Scotland and northern England have been battered with 80mph winds and sea surges as Storm Boelo brings chaos and disruption."
     },
     {
-      "id": "gTUwnBVW12U",
-      "title": "Protesters storm the Colosseum in Rome",
+      "id": "hVl4GVNvgUI",
+      "title": "AI without America?",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-25T13:29:19.000Z",
-      "description": "Crowds stormed the Colosseum in Rome to protest a range of issues including the cost of living and government policies. Rallies were held in cities across Italy and echo the youth-led protests in France."
-    },
-    {
-      "id": "53yZK1ayt_4",
-      "title": "Murder in Malaysia's Beverly Hills",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-25T14:00:03.000Z",
-      "description": "A young Mongolian woman is abducted from an affluent neighborhood in Kuala Lumpur in 2006, driven into the jungle, shot twice, and blown up with explosives. Her murder became one of Malaysia's most notorious unsolved pol"
-    },
-    {
-      "id": "IS56tKjnb0Y",
-      "title": "More than 400.000 protest across France • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-25T09:32:20.000Z",
-      "description": "Saturday’s demonstrations across France were largely peaceful, easing fears of a repeat of the violence seen last weekend. Hundreds of thousands took to the streets to demand action on the rising cost of living and more "
-    },
-    {
-      "id": "AJwgJSVDIIc",
-      "title": "Brazilians vote to choose next president in election run-off",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-25T15:49:20.000Z",
-      "description": "Brazilians are voting to choose their next president in a closely fought run-off election."
+      "publishedAt": "2026-10-25T13:30:04.000Z",
+      "description": "Europe wants more technological independence. But when it comes to AI, it keeps turning to US companies like Jensen Huang’s Nvidia, which has just signed a big deal with the German government. At the Berlin Global Dialog"
     }
   ]
 }

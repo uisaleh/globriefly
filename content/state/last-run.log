@@ -1,23 +1,23 @@
-18:22:21 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-18:22:21 collecting videos…
-18:22:21   video feed BBC News: 15 in feed, 5 kept
-18:22:21   video feed Al Jazeera English: 15 in feed, 5 kept
-18:22:21   video feed DW News: 15 in feed, 5 kept
-18:22:21   video feed FRANCE 24 English: 15 in feed, 5 kept
-18:22:21   video feed Sky News: 15 in feed, 5 kept
-18:22:21   video feed Reuters: 15 in feed, 5 kept
-18:22:21   video feed Associated Press: 15 in feed, 5 kept
-18:22:21 videos: saved 24
-18:22:21 collecting feeds…
-18:22:25 601 new items
-18:22:25 418 candidate stories
-18:22:25 categories needing stories: science, entertainment, business, technology, world → reserved science
-18:22:25 writing: How screening tools measure disadvantage may leave rural communities overlooked for public support (1 sources)
-18:22:26   source text: 6370 chars
-18:22:31   too close to source wording — rewriting
-18:22:51   ✓ published: /news/research-reveals-how-government-screening-tools-miss-rural-disadvantage/ [science] image: none
-18:22:51 writing: Venezuela opposition leader María Corina Machado returns to country (10 sources)
-18:22:52   source text: 4915 / 3592 / 5523 chars
-18:22:58   too close to source wording — rewriting
-18:23:09   ✓ published: /news/venezuelan-opposition-figure-maria-corina-machado-ends-exile-and/ [world] image: wikimedia via name "Maria Corina Machado"
-18:23:09 done — 2 stories
+21:42:50 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+21:42:50 collecting videos…
+21:42:50   video feed BBC News: 15 in feed, 5 kept
+21:42:50   video feed Al Jazeera English: 15 in feed, 5 kept
+21:42:50   video feed DW News: 15 in feed, 5 kept
+21:42:50   video feed FRANCE 24 English: 15 in feed, 5 kept
+21:42:50   video feed Sky News: 15 in feed, 5 kept
+21:42:50   video feed Reuters: 15 in feed, 5 kept
+21:42:50   video feed Associated Press: 15 in feed, 5 kept
+21:42:50 videos: saved 24
+21:42:50 collecting feeds…
+21:42:55 623 new items
+21:42:56 415 candidate stories
+21:42:56 categories needing stories: technology, entertainment, business, world → reserved technology
+21:42:56 writing: Grok releases the first seven minutes of its AI-generated ‘Odyssey’ (2 sources)
+21:42:57   source text: 3066 / 1878 chars
+21:43:03   too close to source wording — rewriting
+21:43:10   ✓ published: /news/grok-unveils-initial-segment-of-artificial-intelligence-epic/ [technology] image: wikimedia via idea "Elon Musk"
+21:43:10 writing: Vucic concedes defeat in Serbia's parliamentary election (6 sources)
+21:43:11   source text: 5564 / 0 / 3962 / 5112 chars
+21:43:15   too close to source wording — rewriting
+21:43:26   ✓ published: /news/serbia-long-standing-leader-concedes-power-to-youth-protest-movement/ [world] image: wikimedia via name "Aleksandar Vucic"
+21:43:26 done — 2 stories
