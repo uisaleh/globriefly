@@ -103,6 +103,9 @@
   "publishedAt": "2026-10-25T14:19:57.196Z",
   "updatedAt": "2026-10-25T14:19:57.196Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172782606681745",
+    "sharedAt": "2026-10-25T14:23:22.595Z"
+  },
   "ogImage": "/og/barack-obama-campaigns-for-democrats-in-critical-midterm-battlegrounds.jpg"
 }

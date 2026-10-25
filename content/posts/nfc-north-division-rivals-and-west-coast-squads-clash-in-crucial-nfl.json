@@ -107,6 +107,9 @@
   "publishedAt": "2026-10-25T14:20:12.344Z",
   "updatedAt": "2026-10-25T14:20:12.344Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172782720681745",
+    "sharedAt": "2026-10-25T14:23:43.657Z"
+  },
   "ogImage": "/og/nfc-north-division-rivals-and-west-coast-squads-clash-in-crucial-nfl.jpg"
 }
