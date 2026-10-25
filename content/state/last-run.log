@@ -1,23 +1,22 @@
-04:32:54 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-04:32:54 collecting videos…
-04:33:19   video feed BBC News failed: Status code 404
-04:33:45   video feed Al Jazeera English failed: Status code 404
-04:34:10   video feed DW News failed: Status code 404
-04:34:26   video feed FRANCE 24 English: 15 in feed, 5 kept
-04:34:51   video feed Sky News failed: Status code 404
-04:35:17   video feed Reuters failed: Status code 404
-04:35:24 videos: saved 24
-04:35:24 collecting feeds…
-04:35:27 468 new items
-04:35:27 350 candidate stories
-04:35:27 categories needing stories: business, technology → reserved business
-04:35:27 writing: Six Flags to Add Seatbelts on Roller Coasters After Rider’s Death (2 sources)
-04:35:27   source text: 1747 / 0 chars
-04:35:34   ✓ published: /news/six-flags-adds-seatbelts-to-goliath-roller-coaster-following-fatal/ [business] image: wikimedia via idea "roller coaster ride track"
-04:35:34 writing: Brewers erase four-run deficit, take 2-0 World Series lead (3 sources)
-04:35:35   source text: 584 / 4904 / 5395 / 3975 chars
-04:35:40   ✓ published: /news/milwaukee-brewers-take-two-game-world-series-lead-over-tampa-bay/ [sports] image: wikimedia via idea "American Family Field baseball"
-04:35:40 writing explainer for: Brewers erase four-run deficit, take 2-0 World Series lead
-04:35:44   video feed Associated Press failed: Status code 404
-04:35:46   ✓ explainer: /news/how-did-the-milwaukee-brewers-take-a-commanding-world-series-lead/
-04:35:46 done — 2 stories
+09:45:44 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+09:45:44 collecting videos…
+09:45:44   video feed BBC News: 15 in feed, 5 kept
+09:45:44   video feed Al Jazeera English: 15 in feed, 5 kept
+09:45:44   video feed DW News: 15 in feed, 5 kept
+09:45:44   video feed FRANCE 24 English: 15 in feed, 5 kept
+09:45:44   video feed Sky News: 15 in feed, 5 kept
+09:45:44   video feed Reuters: 15 in feed, 5 kept
+09:45:45   video feed Associated Press: 15 in feed, 5 kept
+09:45:45 videos: saved 24
+09:45:45 collecting feeds…
+09:45:49 434 new items
+09:45:49 341 candidate stories
+09:45:49 categories needing stories: politics, technology → reserved politics
+09:45:49 writing: Burnham open to 'honest discussion' on EU free movement (2 sources)
+09:45:49   source text: 3469 / 3478 / 3478 chars
+09:45:57   ✓ published: /news/prime-minister-calls-for-open-debate-on-restoring-european-free-movement/ [politics] image: wikimedia via idea "Andy Burnham"
+09:45:57 writing: Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro (5 sources)
+09:45:57   source text: 2445 / 854 / 4223 / 1278 chars
+09:46:03   too close to source wording — rewriting
+09:46:10   ✓ published: /news/brazil-holds-decisive-presidential-runoff-election-between-lula-and/ [world] image: wikimedia via idea "Luiz Inacio Lula da Silva"
+09:46:10 done — 2 stories

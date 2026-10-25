@@ -1,37 +1,53 @@
 {
-  "updatedAt": "2026-10-25T04:35:24.077Z",
+  "updatedAt": "2026-10-25T09:45:45.101Z",
   "videos": [
     {
-      "id": "5CZRY6XTrTk",
-      "title": "'Chaos, cruelty, corruption': Barack Obama attacks Donald Trump's record",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-24T22:47:16.000Z",
-      "description": "Barack Obama was speaking in support of Democratic candidates at a campaign rally in Ohio ahead of the midterm elections when he targeted Donald Trump's record as US President."
+      "id": "F7MVxwPIprk",
+      "title": "France: Some clashes erupted at end of protests • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-25T09:34:04.000Z",
+      "description": "There were some clashes on Saturday, mainly in major cities and as demonstrations came to an end. French authorities say police made nearly 1,000 arrests nationwide. Here’s a report from our sister channel, France 2."
     },
     {
-      "id": "BmWmpVZGXY8",
-      "title": "Trump votes in Florida and heads to Georgia to campaign for Republican candidates",
+      "id": "AvxLCX1_Ryc",
+      "title": "Hilton and Becerra clash in California's historic governor race",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-24T22:42:03.000Z",
-      "description": "US President Donald Trump voted in Florida's midterm elections and spoke to cameras afterwards."
+      "publishedAt": "2026-10-25T09:30:10.000Z",
+      "description": "The California governor’s race could make history as a Democrat and a UK-born Republican battle for control of the state."
     },
     {
-      "id": "Ek1iymozbQM",
-      "title": "Villa Aurora’s legacy of artistic freedom",
+      "id": "Y9vn9JNBs8U",
+      "title": "Police use water cannon to disperse Paris protesters.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-25T09:30:05.000Z",
+      "description": ""
+    },
+    {
+      "id": "zEmIK-umfm8",
+      "title": "Calls for better regulation of online gambling in South Africa",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-24T22:00:32.000Z",
-      "description": "Once a refuge for German intellectuals fleeing Nazi persecution, Villa Aurora nearly went up in flames during the 2025 Los Angeles wildfires. Today, its legacy of artistic freedom is more relevant than ever."
+      "publishedAt": "2026-10-25T09:00:26.000Z",
+      "description": "One in every three gamblers in South Africa is addicted and online gambling is pushing the trend. Recovering gamblers and politicians are calling on the government to better regulate gambling but concluding new laws that"
     },
     {
-      "id": "LS357FF_a3M",
-      "title": "Clashes erupt in Paris as mass march draws to close",
+      "id": "DUm0bnZY7b4",
+      "title": "Protesters force their way into the Colosseum in Rome",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-25T07:56:07.000Z",
+      "description": "Protesters force their way into the Colosseum in Rome. They entered for several minutes to protest against the Italian government and the war in Gaza. Demonstrations were seen in several Italian cities in what were large"
+    },
+    {
+      "id": "x9fRToI9P4c",
+      "title": "Kamala Harris blasts Trump ahead of midterm elections",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-24T21:34:08.000Z",
-      "description": "Clashes erupted in Paris as over 400,000 people protested across France against school funding cuts and rising living costs, challenging President Emmanuel Macron, while police made nearly 1,000 arrests.\r"
+      "publishedAt": "2026-10-25T04:51:05.000Z",
+      "description": "Former U.S. Vice President Kamala Harris acknowledged the emotional toll of losing to Donald Trump in the 2024 presidential election, telling supporters that this year’s midterm elections offered opportunity to hold Trum"
     },
     {
       "id": "WEeGSY6XuL4",
@@ -42,52 +58,52 @@
       "description": "Horror movies have long been one of the safer box-office bets for studios wringing big returns out of modest budgets. In post-pandemic times, that reliability has become a beacon. Tiana McGee explains."
     },
     {
-      "id": "kNUedqBNAlY",
-      "title": "What happens behind the scenes when the UK prepares for economic announcements?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-24T19:00:36.000Z",
-      "description": "On Wednesday the Chancellor John Healey will deliver his first Budget."
-    },
-    {
-      "id": "cl_Utyu5xBo",
-      "title": "France: Watching the Post-Riot Protests • FRANCE 24 English",
+      "id": "IS56tKjnb0Y",
+      "title": "More than 400.000 protest across France • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-24T18:42:09.000Z",
-      "description": "After the French protests turned into riots last weekend, the curfews, and then the alleged racist mass shooting yesterday on the outskirts of Paris, there has been much anxiety, planning and preparation ahead of today's"
+      "publishedAt": "2026-10-25T09:32:20.000Z",
+      "description": "Saturday’s demonstrations across France were largely peaceful, easing fears of a repeat of the violence seen last weekend. Hundreds of thousands took to the streets to demand action on the rising cost of living and more "
     },
     {
-      "id": "vFkwthvbji4",
-      "title": "Nearly 1,000 arrested in France as tear gas and water cannons deployed",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-24T22:00:44.000Z",
-      "description": "Sky News's brand new late-night show The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
-    },
-    {
-      "id": "2OVxg149Rv8",
-      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
+      "id": "NQLAR8zphkM",
+      "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-24T21:34:17.000Z",
-      "description": "President Lula da Silva rallied in Sao Paulo and Flavio Bolsonaro in Minas Gerais, on the eve of Sunday’s runoff election. The candidates are now polling at 50% each, according to a Datafolha poll."
+      "publishedAt": "2026-10-25T09:12:32.000Z",
+      "description": "Thousands of Protestant Orange Order members have marched through Portadown, Northern Ireland, ahead of a court ruling on a ban on a separate parade through a mainly Catholic area. The marches have long fuelled sectarian"
     },
     {
-      "id": "D50loQOe82k",
-      "title": "Bumble goes private: Is this the end of dating apps?",
+      "id": "5z_rpJs3uXI",
+      "title": "We speak to Hasan Piker... Is he a liability for the dems?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-25T07:59:43.000Z",
+      "description": "Are Hasan Piker’s controversial views a help or a hindrance for the Democrats this midterms?"
+    },
+    {
+      "id": "yE58alUBv-4",
+      "title": "Climate protection at any price?",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-24T21:00:05.000Z",
-      "description": "Gen Z is already burnt out on dating app swiping — with over three-quarters reporting they are over it already. On the business side, the industry has been flagging for the last few years: consolidation by Match Group of"
+      "publishedAt": "2026-10-25T08:30:27.000Z",
+      "description": "The carbon credits market is booming; Europeans are investing in CO₂ offset projects in Africa. How are these impacting people there? "
     },
     {
-      "id": "U_H1X4lVKUw",
-      "title": "Clashes and tear gas in Rome as protesters gather under heavy security",
+      "id": "5CZRY6XTrTk",
+      "title": "'Chaos, cruelty, corruption': Barack Obama attacks Donald Trump's record",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-24T22:47:16.000Z",
+      "description": "Barack Obama was speaking in support of Democratic candidates at a campaign rally in Ohio ahead of the midterm elections when he targeted Donald Trump's record as US President."
+    },
+    {
+      "id": "N095WEmoPB4",
+      "title": "Obama asks Democrats to help send Abdul El-Sayed to the Senate",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-24T20:24:09.000Z",
-      "description": "Police in Rome deployed tear gas and water cannons against protesters on Saturday as a demonstration turned violent in the Italian capital.\r"
+      "publishedAt": "2026-10-25T03:08:49.000Z",
+      "description": "Former U.S. President Barack Obama rallied Democratic voters in battleground Michigan on Saturday night. (AP video: Mike Householder)\r"
     },
     {
       "id": "x8_NJzucBPw",
@@ -98,52 +114,52 @@
       "description": "Crowds filled San Antonio, Texas's River Walk for the annual Day of the Dead celebration, with illuminated floats, mariachi music and costumed participants honoring deceased loved ones. "
     },
     {
-      "id": "HxeICv4o02U",
-      "title": "Artists want to work with me because of Amy Winehouse song, Mark Ronson says.",
+      "id": "K6R5hoGSo9Q",
+      "title": "France’s far right gathers as Le Pen prepares her presidential campaign • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-25T09:31:01.000Z",
+      "description": "Meanwhile, France’s far-right National Rally is holding the second day of its party congress in Orléans, south of Paris. Marine Le Pen is expected to officially launch her presidential campaign in a speech later this aft"
+    },
+    {
+      "id": "6ZtIQ5iuJJQ",
+      "title": "Trump backs Netanyahu as Israel votes, but ties strained",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-25T09:00:26.000Z",
+      "description": "US President Donald Trump has backed Benjamin Netanyahu as Israel heads to the polls, but their close alliance is strained by the war on Iran, rifts over Qatar and Lebanon, and Saudi peace demands."
+    },
+    {
+      "id": "60vmdpJKcKg",
+      "title": "Obama takes a swipe at Trump's White House renovations on campaign trail.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-24T18:30:31.000Z",
+      "publishedAt": "2026-10-25T00:05:04.000Z",
       "description": ""
     },
     {
-      "id": "1TJqTBCUDEk",
-      "title": "“Witkoff should step down” says Ukraine Committee Chief • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-24T18:36:31.000Z",
-      "description": "Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted front-line operations for more than a week, Ukrainian President Volodymyr Zelenskyy sa"
-    },
-    {
-      "id": "FH6tZ3thQic",
-      "title": "Over 400,000 take part in nationwide protests, says French government",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-24T21:28:53.000Z",
-      "description": "Sky News' Alex Rossi and John Sparks have been reporting from France throughout the day."
-    },
-    {
-      "id": "0LRy-SR5zBw",
-      "title": "Train slams into crane that collapsed onto railway line in Brazil",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-24T20:58:25.000Z",
-      "description": "Video shows the moment a train collided with a crane that had fallen onto railway tracks in Brazil. After being struck by the train, the wreckage of the crane plunged into a street busy with traffic and pedestrians. The "
-    },
-    {
-      "id": "5dmM-1Own5s",
-      "title": "Spain’s pensioners join Europe-wide protests",
+      "id": "qY-TXomB_Ig",
+      "title": "Germany's education crisis: How a school is educating differently",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-24T20:58:27.000Z",
-      "description": "Tens of thousands protested in the Spanish capital, demanding state pension protection ahead of parliamentary elections in November. Spanish Prime Minister Pedro Sanchez has called an early election for November 29 that "
+      "publishedAt": "2026-10-25T08:00:23.000Z",
+      "description": "One in three German teenagers struggles with basic reading and math skills. It’s getting worse over the years. This school is trying a different approach: targeted support, individualized learning and greater student res"
     },
     {
-      "id": "tKO3hwM_S5g",
-      "title": "Police clash with protesters on streets of northern Italian city of Turin",
+      "id": "vFkwthvbji4",
+      "title": "Nearly 1,000 arrested in France as tear gas and water cannons deployed",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-24T22:00:44.000Z",
+      "description": "Sky News's brand new late-night show The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
+    },
+    {
+      "id": "LS357FF_a3M",
+      "title": "Clashes erupt in Paris as mass march draws to close",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-24T18:14:36.000Z",
-      "description": "Soldiers spread out and luxury boutiques were boarded up as thousands of protesters marched in the Italian fashion and finance capital on Saturday, one week after looting and clashes with police. Premier Giorgia Meloni a"
+      "publishedAt": "2026-10-24T21:34:08.000Z",
+      "description": "Clashes erupted in Paris as over 400,000 people protested across France against school funding cuts and rising living costs, challenging President Emmanuel Macron, while police made nearly 1,000 arrests.\r"
     },
     {
       "id": "2qtCIpJt8oI",
@@ -154,44 +170,28 @@
       "description": "Firefighters battled for hours to contain a blaze that engulfed the former Nazi guest house ‌known as 'The Eagle's Nest' in southern Germany, while police investigated the cause after detaining a man near the scene ."
     },
     {
-      "id": "W3LbjzivSb0",
-      "title": "Fire engulfs Adolf Hitler's mountaintop Eagle's Nest retreat in Bavaria, Germany.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-24T17:30:20.000Z",
-      "description": ""
-    },
-    {
-      "id": "zcr6cxYEEro",
-      "title": "Israel begins demolitions in West Bank • FRANCE 24 English",
+      "id": "1TJqTBCUDEk",
+      "title": "“Witkoff should step down” says Ukraine Committee Chief • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-24T17:13:55.000Z",
-      "description": "The Palestinian Authority has called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Fri"
+      "publishedAt": "2026-10-24T18:36:31.000Z",
+      "description": "Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted front-line operations for more than a week, Ukrainian President Volodymyr Zelenskyy sa"
     },
     {
-      "id": "jV0Ai-jAKWc",
-      "title": "'Relentless rain', as 80mph winds expected from Storm Boelo",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-24T19:26:26.000Z",
-      "description": "After Storm Austen battered parts of the South West yesterday, Storm Boelo is hitting today. "
-    },
-    {
-      "id": "EvKZdJmc2I4",
-      "title": "Protests erupt across European cities",
+      "id": "YZU3pnhcocs",
+      "title": "Indigenous communities worry Brazil’s election could hurt environment",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-24T20:57:49.000Z",
-      "description": "Cities across Europe saw large-scale protests on Saturday, fuelled by a range of grievances including the rising cost of living."
+      "publishedAt": "2026-10-25T08:49:06.000Z",
+      "description": "Brazil's indigenous communities in the Amazon tell Al Jazeera they’re concerned by how the election outcome could impact environmental protections. "
     },
     {
-      "id": "vCvyfYeBkjA",
-      "title": "Over 1,000 told to leave homes in Hebron, officials say",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-24T20:12:59.000Z",
-      "description": "Israeli forces have sealed every road in and out of Hebron while bulldozers demolish homes across the occupied West Bank city. The operation follows an attack that killed two Israeli soldiers, but rights groups say the r"
+      "id": "kNUedqBNAlY",
+      "title": "What happens behind the scenes when the UK prepares for economic announcements?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-24T19:00:36.000Z",
+      "description": "On Wednesday the Chancellor John Healey will deliver his first Budget."
     }
   ]
 }
