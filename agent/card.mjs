@@ -169,3 +169,50 @@ export async function saveOg(post, root = process.cwd()) {
     return `/og/${post.slug}.png`;
   }
 }
+
+// ===== Reel frame (1080×1920, transparent video window) =====
+// Layout keeps key text out of Facebook's Reels overlay zones (top bar, bottom caption area).
+export const REEL = { W: 1080, H: 1920, X: 40, Y: 600, VW: 1000, VH: 760 };
+export async function renderReelFrame(post) {
+  const { W: RW, H: RH, X, Y, VW, VH } = REEL;
+  const cat = categoryBySlug[post.category] || categoryBySlug.world;
+  const headline = clip(post.headline || '', 100);
+  const size = headline.length > 80 ? 54 : headline.length > 50 ? 60 : 70;
+  const pat = (w, hh) => `data:image/svg+xml;base64,${Buffer.from(patternArea(w, hh, '#FFFFFF', 0.07, 1.4)).toString('base64')}`;
+  const panel = (top, left, w, hh) => h('div', { position: 'absolute', top, left, width: w, height: hh, display: 'flex', backgroundColor: cat.color, overflow: 'hidden' }, [
+    img(pat(RW, RH), { position: 'absolute', top: -top, left: -left, width: RW, height: RH }),
+  ]);
+  const tree = h('div', { width: RW, height: RH, display: 'flex', position: 'relative', fontFamily: 'Archivo', color: '#fff' }, [
+    // Coloured panels around the transparent video window
+    panel(0, 0, RW, Y),
+    panel(Y + VH, 0, RW, RH - Y - VH),
+    panel(Y, 0, X, VH),
+    panel(Y, X + VW, RW - X - VW, VH),
+    // Frame line around the video
+    h('div', { position: 'absolute', top: Y - 8, left: X - 8, width: VW + 16, height: VH + 16, display: 'flex', border: '8px solid #FFFFFF', borderRadius: 4 }, []),
+    // Logo
+    h('div', { position: 'absolute', top: 150, left: 56, display: 'flex', gap: 6 }, [
+      h('div', { width: 84, height: 84, backgroundColor: INK, display: 'flex', alignItems: 'center', justifyContent: 'center' }, [img(mark('#FFFFFF', RED), { width: 56, height: 56 })]),
+      h('div', { height: 84, padding: '0 24px', backgroundColor: INK, display: 'flex', alignItems: 'center', fontSize: 44, fontWeight: 900, letterSpacing: '-0.045em' }, 'globriefly'),
+    ]),
+    ...(post.breaking ? [h('div', { position: 'absolute', top: 150, right: 56, height: 84, padding: '0 26px', backgroundColor: RED, display: 'flex', alignItems: 'center', fontSize: 30, fontWeight: 900, letterSpacing: '0.06em' }, 'BREAKING')] : []),
+    // Category + date
+    h('div', { position: 'absolute', top: 268, left: 56, display: 'flex', alignItems: 'center', gap: 20 }, [
+      h('div', { backgroundColor: '#FFFFFF', color: cat.color, fontSize: 26, fontWeight: 900, letterSpacing: '0.08em', padding: '8px 18px', display: 'flex' }, cat.label.toUpperCase()),
+      h('div', { fontSize: 26, fontWeight: 700, color: 'rgba(255,255,255,0.9)', display: 'flex' }, cardDate(post.publishedAt)),
+    ]),
+    // Headline
+    h('div', { position: 'absolute', top: 336, left: 56, right: 56, height: Y - 336 - 28, display: 'flex', alignItems: 'flex-start' }, [
+      h('div', { fontSize: size, fontWeight: 800, lineHeight: 1.06, letterSpacing: '-0.015em', display: 'flex' }, headline),
+    ]),
+    // Footer
+    h('div', { position: 'absolute', top: Y + VH + 34, left: 56, right: 56, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }, [
+      h('div', { fontSize: 32, fontWeight: 800, display: 'flex' }, SITE_HOST),
+      h('div', { fontSize: 24, color: 'rgba(255,255,255,0.85)', display: 'flex' }, post.videoCredit ? clip(`Video: ${latinize(post.videoCredit)}`, 44) : 'Full story on our website'),
+    ]),
+    // Brand bar
+    h('div', { position: 'absolute', left: 0, bottom: 0, width: RW, height: 14, display: 'flex' }, [h('div', { flex: 7, backgroundColor: INK, display: 'flex' }, []), h('div', { flex: 3, backgroundColor: RED, display: 'flex' }, [])]),
+  ]);
+  const svg = await satori(tree, { width: RW, height: RH, fonts });
+  return new Resvg(svg, { fitTo: { mode: 'width', value: RW }, background: 'rgba(0,0,0,0)' }).render().asPng();
+}

@@ -1,0 +1,83 @@
+name: Make reel
+
+# Actions → Make reel → Run workflow. Frames a video like the photocards (1080×1920) and can post it as a Facebook Reel.
+on:
+  workflow_dispatch:
+    inputs:
+      video:
+        description: 'Video: a direct link to the video file, or a repo path like reels-inbox/clip.mp4'
+        required: true
+      story:
+        description: 'Story slug or link (fills headline, category and link) — optional'
+        required: false
+        default: ''
+      headline:
+        description: 'Headline (only if no story, or to override it)'
+        required: false
+        default: ''
+      category:
+        description: 'Category if no story: world, politics, business, technology, science, health, sports, entertainment'
+        required: false
+        default: 'world'
+      credit:
+        description: 'Video credit shown on the frame, e.g. "Globriefly" or the owner'
+        required: false
+        default: ''
+      start:
+        description: 'Start at second (trim) — optional'
+        required: false
+        default: '0'
+      seconds:
+        description: 'Length in seconds (max 90) — optional'
+        required: false
+        default: ''
+      post:
+        description: 'Post to Facebook as a Reel?'
+        required: true
+        default: 'no'
+        type: choice
+        options: ['no', 'yes']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: make-reel
+  cancel-in-progress: false
+
+jobs:
+  reel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      SITE_URL: ${{ vars.SITE_URL }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      REEL_VIDEO: ${{ github.event.inputs.video }}
+      REEL_STORY: ${{ github.event.inputs.story }}
+      REEL_HEADLINE: ${{ github.event.inputs.headline }}
+      REEL_CATEGORY: ${{ github.event.inputs.category }}
+      REEL_CREDIT: ${{ github.event.inputs.credit }}
+      REEL_START: ${{ github.event.inputs.start }}
+      REEL_SECONDS: ${{ github.event.inputs.seconds }}
+      REEL_POST: ${{ github.event.inputs.post }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: sudo apt-get install -y -qq ffmpeg >/dev/null || true
+      - run: npm ci
+      - run: node agent/make-reel.mjs
+      - name: Save reel
+        if: always()
+        run: |
+          git config user.name "Globriefly Desk"
+          git config user.email "desk@users.noreply.github.com"
+          git add -A public/reels content/state/reel.log reels-inbox 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Reel: ${{ github.event.inputs.story || github.event.inputs.headline || 'video' }}"
+            git pull --rebase
+            git push
+          fi
