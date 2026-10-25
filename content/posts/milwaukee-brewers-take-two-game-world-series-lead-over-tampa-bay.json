@@ -119,6 +119,9 @@
   "publishedAt": "2026-10-25T04:35:40.414Z",
   "updatedAt": "2026-10-25T04:35:40.414Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172749468681745",
+    "sharedAt": "2026-10-25T04:39:21.128Z"
+  },
   "ogImage": "/og/milwaukee-brewers-take-two-game-world-series-lead-over-tampa-bay.jpg"
 }

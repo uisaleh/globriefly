@@ -107,6 +107,9 @@
   "publishedAt": "2026-10-25T04:35:45.502Z",
   "updatedAt": "2026-10-25T04:35:45.502Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172749594681745",
+    "sharedAt": "2026-10-25T04:39:45.208Z"
+  },
   "ogImage": "/og/how-did-the-milwaukee-brewers-take-a-commanding-world-series-lead.jpg"
 }
