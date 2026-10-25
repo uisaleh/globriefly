@@ -60,6 +60,7 @@ try {
   let caption = post.standfirst ? buildCaption(post, url).replace('Full story in the first comment.', `Full story: ${url}`) : `${post.headline}\n\nMore news: ${url}\n\n#Globriefly #News`;
   caption = caption.split('\n').filter((l) => !/^Photo:/.test(l)).join('\n').replace(/\n{3,}/g, '\n\n');
   if (E.REEL_CREDIT) caption = caption.replace(/(\n\n#)/, `\n\nVideo: ${E.REEL_CREDIT}$1`);
+  if (E.REEL_CAPTION) caption = E.REEL_CAPTION.replace(/\\n/g, '\n'); // exact caption, e.g. with no link
   fs.writeFileSync(out.replace(/\.mp4$/, '.txt'), caption + '\n');
   say('caption saved next to the video (.txt)');
 
