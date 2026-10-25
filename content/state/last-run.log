@@ -1,21 +1,23 @@
-23:07:49 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-23:07:49 collecting videos…
-23:07:49   video feed BBC News: 15 in feed, 5 kept
-23:07:49   video feed Al Jazeera English: 15 in feed, 5 kept
-23:07:49   video feed DW News: 15 in feed, 5 kept
-23:07:49   video feed FRANCE 24 English: 15 in feed, 5 kept
-23:07:49   video feed Sky News: 15 in feed, 5 kept
-23:07:49   video feed Reuters: 15 in feed, 5 kept
-23:07:49   video feed Associated Press: 15 in feed, 5 kept
-23:07:49 videos: saved 24
-23:07:49 collecting feeds…
-23:07:53 576 new items
-23:07:54 435 candidate stories
-23:07:54 categories needing stories: health, business, technology, sports → reserved health
-23:07:54 writing: Advanced age does not limit the benefits of sodium-glucose cotransporter 2 inhibitors in chronic kidney disease (1 sources)
-23:07:54   source text: 2347 chars
-23:08:09   ✓ published: /news/new-study-shows-elderly-kidney-disease-patients-benefit-from-sglt2/ [health] image: openverse via name "Hannover Medical School"
-23:08:09 writing: 2026 WNBA Finals: Game 6 venue up in the air for Dream vs. Valkyries with State Farm Arena already booked (3 sources)
-23:08:09   source text: 4651 / 3075 / 3104 chars
-23:08:15   ✓ published: /news/golden-state-valkyries-level-wnba-finals-against-atlanta-dream/ [sports] image: wikimedia via idea "Golden State Valkyries basketball"
-23:08:15 done — 2 stories
+04:32:54 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+04:32:54 collecting videos…
+04:33:19   video feed BBC News failed: Status code 404
+04:33:45   video feed Al Jazeera English failed: Status code 404
+04:34:10   video feed DW News failed: Status code 404
+04:34:26   video feed FRANCE 24 English: 15 in feed, 5 kept
+04:34:51   video feed Sky News failed: Status code 404
+04:35:17   video feed Reuters failed: Status code 404
+04:35:24 videos: saved 24
+04:35:24 collecting feeds…
+04:35:27 468 new items
+04:35:27 350 candidate stories
+04:35:27 categories needing stories: business, technology → reserved business
+04:35:27 writing: Six Flags to Add Seatbelts on Roller Coasters After Rider’s Death (2 sources)
+04:35:27   source text: 1747 / 0 chars
+04:35:34   ✓ published: /news/six-flags-adds-seatbelts-to-goliath-roller-coaster-following-fatal/ [business] image: wikimedia via idea "roller coaster ride track"
+04:35:34 writing: Brewers erase four-run deficit, take 2-0 World Series lead (3 sources)
+04:35:35   source text: 584 / 4904 / 5395 / 3975 chars
+04:35:40   ✓ published: /news/milwaukee-brewers-take-two-game-world-series-lead-over-tampa-bay/ [sports] image: wikimedia via idea "American Family Field baseball"
+04:35:40 writing explainer for: Brewers erase four-run deficit, take 2-0 World Series lead
+04:35:44   video feed Associated Press failed: Status code 404
+04:35:46   ✓ explainer: /news/how-did-the-milwaukee-brewers-take-a-commanding-world-series-lead/
+04:35:46 done — 2 stories

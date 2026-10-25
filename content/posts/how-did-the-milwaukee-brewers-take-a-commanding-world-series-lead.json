@@ -1,0 +1,112 @@
+{
+  "slug": "how-did-the-milwaukee-brewers-take-a-commanding-world-series-lead",
+  "status": "published",
+  "type": "explainer",
+  "category": "sports",
+  "region": "Americas",
+  "headline": "How did the Milwaukee Brewers take a commanding World Series lead?",
+  "standfirst": "The Milwaukee Brewers rallied from an early four-run deficit to defeat the Tampa Bay Rays 5-4, securing a 2-0 lead in the 2026 World Series.",
+  "keyPoints": [
+    "The Milwaukee Brewers beat the Tampa Bay Rays 5-4 in Game 2 of the 2026 World Series.",
+    "Milwaukee erased an early 4-0 first-inning deficit to take a 2-0 series lead.",
+    "Sal Frelick hit a crucial tying home run in the sixth inning.",
+    "Rookie Cooper Pratt drove in the go-ahead run in the seventh inning."
+  ],
+  "sections": [
+    {
+      "heading": "What happened in Game 2 of the World Series?",
+      "paragraphs": [
+        "The Milwaukee Brewers put on a thrilling display of resilience at American Family Field, overcoming a heavy early deficit to beat the Tampa Bay Rays 5-4. With the victory, the Brewers claimed a 2-0 lead in the best-of-seven Fall Classic as the matchup shifts venues.",
+        "Both franchises are seeking their first-ever World Series title, creating an electric atmosphere for the historic games in Milwaukee. Game 2 delivered immediate drama when the Rays stormed out of the gates in the opening frame."
+      ]
+    },
+    {
+      "heading": "How did the Tampa Bay Rays build their early lead?",
+      "paragraphs": [
+        "Facing rookie starting pitcher Logan Henderson, the Tampa Bay Rays' offense came alive right away in the top of the first inning. Key hits, including a two-run home run by Liam Hicks, helped stake the visitors to a quick 4-0 advantage.",
+        "However, the Brewers quickly began chipping away at the lead against Tampa Bay starter Drew Rasmussen. Milwaukee steadily manufactured runs through aggressive baserunning and timely hitting to stay within striking distance."
+      ]
+    },
+    {
+      "heading": "Who delivered the crucial hits for Milwaukee?",
+      "paragraphs": [
+        "The comeback gained serious momentum in the sixth inning when outfielder Sal Frelick launched a solo home run deep over the center-field fence to tie the game at 4-4. It was Frelick's first home run in months, sending the home crowd into a frenzy.",
+        "In the seventh inning, young infielder Cooper Pratt followed up by looping a sinker into short right field for a go-ahead single. The Brewers' bullpen then locked down the victory, shutting out the Rays the rest of the way to seal the 5-4 win."
+      ]
+    },
+    {
+      "heading": "What lies ahead in the series?",
+      "paragraphs": [
+        "History heavily favors teams that manage to secure a 2-0 lead in the World Series, though the job is far from finished. The series now shifts down to Florida for Game 3 at Tropicana Field.",
+        "The Tampa Bay Rays will need to regroup quickly on their home turf to avoid falling into an insurmountable 3-0 deficit against a surging Milwaukee team."
+      ]
+    }
+  ],
+  "highlight": "The Milwaukee Brewers stunned the Tampa Bay Rays 5-4 for a 2-0 World Series lead by overcoming a four-run deficit for the second time in the postseason.",
+  "timeline": [
+    {
+      "when": "October 23, 2026",
+      "what": "Milwaukee wins Game 1 by a score of 3-2."
+    },
+    {
+      "when": "October 24, 2026",
+      "what": "Milwaukee erases a 4-0 deficit to win Game 2 5-4 and take a 2-0 series lead."
+    }
+  ],
+  "tags": [
+    "Milwaukee Brewers",
+    "Tampa Bay Rays",
+    "World Series",
+    "baseball",
+    "Sal Frelick"
+  ],
+  "socialSummary": "The Milwaukee Brewers erased a four-run deficit to defeat the Tampa Bay Rays 5-4 and take a 2-0 World Series lead.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/American_Family_Field_Pitch_Clock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "alt": "American Family Field's right field seating is seen, with particular emphasis here on the pitch clock in the center of the…",
+    "credit": "Mrschimpf / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:American_Family_Field_Pitch_Clock.jpg",
+    "license": "CC BY-SA 4.0",
+    "provider": "wikimedia",
+    "query": "American Family Field baseball",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "American Family Field baseball",
+    "names": [
+      "Milwaukee Brewers",
+      "Tampa Bay Rays"
+    ],
+    "subject": "baseball stadium crowd"
+  },
+  "sources": [
+    {
+      "name": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/brewers-erase-four-run-deficit-042647620.html"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/oct/25/milwaukee-brewers-tampa-bay-rays-world-series-game-two-comeback"
+    },
+    {
+      "name": "CBS Sports",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/\n                    "
+    }
+  ],
+  "sourceTitles": [
+    "Brewers erase four-run deficit, take 2-0 World Series lead",
+    "Comeback kings Brewers down Rays to take 2-0 World Series lead",
+    "Brewers erase four-run deficit to stun Rays and take 2-0 World Series lead",
+    "Brewers take 2-0 lead, shop World Series tickets in Tampa Bay",
+    "Brewers Overcome Four-Run Deficit, Top Rays in World Series Game 2",
+    "2026 MLB playoff bracket: Schedule and scores as Brewers take 2-0 World Series lead over Rays"
+  ],
+  "sourceCount": 3,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-10-25T04:35:45.502Z",
+  "updatedAt": "2026-10-25T04:35:45.502Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/how-did-the-milwaukee-brewers-take-a-commanding-world-series-lead.jpg"
+}
