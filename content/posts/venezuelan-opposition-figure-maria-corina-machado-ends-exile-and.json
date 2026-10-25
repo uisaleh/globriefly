@@ -113,6 +113,9 @@
   "publishedAt": "2026-10-25T18:23:09.206Z",
   "updatedAt": "2026-10-25T18:23:09.206Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172794450681745",
+    "sharedAt": "2026-10-25T18:26:39.910Z"
+  },
   "ogImage": "/og/venezuelan-opposition-figure-maria-corina-machado-ends-exile-and.jpg"
 }
