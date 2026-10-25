@@ -109,6 +109,9 @@
   "publishedAt": "2026-10-25T09:46:10.228Z",
   "updatedAt": "2026-10-25T09:46:10.228Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172766736681745",
+    "sharedAt": "2026-10-25T09:49:47.208Z"
+  },
   "ogImage": "/og/brazil-holds-decisive-presidential-runoff-election-between-lula-and.jpg"
 }

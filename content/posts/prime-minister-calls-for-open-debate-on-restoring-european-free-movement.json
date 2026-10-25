@@ -100,6 +100,9 @@
   "publishedAt": "2026-10-25T09:45:55.398Z",
   "updatedAt": "2026-10-25T09:45:55.398Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172766640681745",
+    "sharedAt": "2026-10-25T09:49:22.163Z"
+  },
   "ogImage": "/og/prime-minister-calls-for-open-debate-on-restoring-european-free-movement.jpg"
 }
