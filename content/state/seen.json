@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html": 1792438070016,
-    "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/": 1792438070016,
-    "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf": 1792438084562,
-    "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister": 1792438084562,
-    "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss": 1792448317679,
-    "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout": 1792448317680,
-    "https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice": 1792448357318,
-    "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss": 1792448357318,
     "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf": 1792460756183,
     "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions": 1792460756183,
     "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss": 1792460763741,
@@ -296,13 +288,23 @@
     "https://www.engadget.com/2297175/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees/": 1793042066922,
     "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible": 1793042066922,
     "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/": 1793042066922,
-    "https://news.sky.com/story/microsoft-offers-buyouts-to-60000-staff-including-uk-workers-13604076": 1793042066922
+    "https://news.sky.com/story/microsoft-offers-buyouts-to-60000-staff-including-uk-workers-13604076": 1793042066922,
+    "https://phys.org/news/2026-10-human-composting.html": 1793058728040,
+    "https://www.engadget.com/2294307/how-homeview-apps-work-what-carplay-have-to-do-with-it/": 1793058728040,
+    "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas": 1793058734325,
+    "https://sports.yahoo.com/articles/ballon-dor-harry-kanes-crowning-233506927.html": 1793058734325,
+    "https://sports.yahoo.com/articles/kane-ends-englands-25-ballon-225507580.html": 1793058734325,
+    "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live": 1793058734325,
+    "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss": 1793058734325,
+    "https://www.channelnewsasia.com/sport/england-harry-kane-ballon-dor-win-bayern-munich-6494586": 1793058734325,
+    "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss": 1793058734325,
+    "https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor": 1793058734325,
+    "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss": 1793058734325,
+    "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf": 1793058734325,
+    "https://www.aljazeera.com/sports/liveblog/2026/10/26/ballon-dor-2026-award-ceremony-live-winners-reactions-and-latest-news?traffic_source=rss": 1793058734325,
+    "https://news.sky.com/story/harry-kane-ends-englands-25-year-wait-for-ballon-dor-13604077": 1793058734325
   },
   "fps": {
-    "109-airports-aramco-attacked-brent-claim-facilities-houthi": 1792438070016,
-    "curfews-france-issued-nice-paris-unrest": 1792438084562,
-    "215-day-fine-given-portuguese-ronaldo-suspension": 1792448317680,
-    "andy-burnham-fines-off-outlaw-outlines-parking-private": 1792448357318,
     "dead-eastern-flooding-four-least-spain": 1792460756183,
     "beat-coventry-earn-first-league-season-spurs-win": 1792460763741,
     "dream-finals-first-match-reese-stars-win-wnba": 1792481265361,
@@ -386,6 +388,8 @@
     "assault-brown-chris-gets-london-nightclub-sentence-suspended": 1793019371260,
     "arrested-attack-church-deadly-jordan-men-shootout-three": 1793019447029,
     "attacks-election-emptive-enter-phase-pre-trump": 1793042049715,
-    "000-buyouts-employees-microsoft-offers-spends": 1793042066922
+    "000-buyouts-employees-microsoft-offers-spends": 1793042066922,
+    "composting-does-how-human-what-work": 1793058728040,
+    "ballon-crown-drought-ends-england-harry-kane-putellas": 1793058734325
   }
 }

@@ -1,22 +1,23 @@
-19:13:55 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-19:13:55 collecting videos…
-19:13:55   video feed BBC News: 15 in feed, 5 kept
-19:13:55   video feed Al Jazeera English: 15 in feed, 5 kept
-19:13:55   video feed DW News: 15 in feed, 5 kept
-19:13:55   video feed FRANCE 24 English: 15 in feed, 5 kept
-19:13:55   video feed Sky News: 15 in feed, 5 kept
-19:13:55   video feed Reuters: 15 in feed, 5 kept
-19:13:55   video feed Associated Press: 15 in feed, 5 kept
-19:13:55 videos: saved 24
-19:13:55 collecting feeds…
-19:14:03 871 new items
-19:14:04 652 candidate stories
-19:14:04 categories needing stories: politics, science, sports, business, technology → reserved politics
-19:14:04 writing: Trump’s Election Attacks Enter New Pre-emptive Phase (2 sources)
-19:14:05   source text: 0 / 0 chars
-19:14:13   ✓ published: /news/justice-department-files-alaska-lawsuit-ahead-of-senate-election/ [politics] image: wikimedia via idea "Alaska state capitol building"
-19:14:13 writing: Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I. (6 sources)
-19:14:13   source text: 2815 / 1837 / 2441 chars
-19:14:20   too close to source wording — rewriting
-19:14:28   ✓ published: /news/microsoft-launches-massive-buyout-plan-for-60-000-workers-amid-ai-shift/ [technology] image: wikimedia via idea "Microsoft headquarters building sign"
-19:14:28 done — 2 stories
+23:49:15 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+23:49:15 collecting videos…
+23:49:32   video feed BBC News: 15 in feed, 5 kept
+23:49:59   video feed Al Jazeera English failed: Status code 404
+23:50:27   video feed DW News failed: Status code 404
+23:50:53   video feed FRANCE 24 English failed: Status code 404
+23:51:20   video feed Sky News failed: Status code 404
+23:51:45 videos: saved 24
+23:51:45 collecting feeds…
+23:51:48   video feed Reuters failed: Status code 404
+23:51:48   video feed Associated Press: 15 in feed, 5 kept
+23:51:53 789 new items
+23:51:54 568 candidate stories
+23:51:54 categories needing stories: science, sports, politics, business, technology, world → reserved science
+23:51:54 writing: What is 'human composting'—and how does it work? (2 sources)
+23:51:55   source text: 6828 / 3394 chars
+23:52:00   too close to source wording — rewriting
+23:52:08 writer returned unusable output: { "headline": "New South Wales legalises human composting as sustainable death alternative", "standfirst": "New South Wales has become the first Australian 
+23:52:08   skipped
+23:52:08 writing: Harry Kane ends England's 25-year Ballon d'Or drought, Putellas wins third crown (8 sources)
+23:52:09   source text: 1903 / 334 / 334 / 7000 / 3517 chars
+23:52:26   ✓ published: /news/harry-kane-and-alexia-putellas-claim-top-honours-at-2026-ballon-dor/ [sports] image: wikimedia via name "Harry Kane"
+23:52:26 done — 1 stories
