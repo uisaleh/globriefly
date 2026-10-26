@@ -113,6 +113,9 @@
   "publishedAt": "2026-10-26T06:08:35.896Z",
   "updatedAt": "2026-10-26T06:08:35.896Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172834866681745",
+    "sharedAt": "2026-10-26T06:12:15.002Z"
+  },
   "ogImage": "/og/luiz-inacio-lula-da-silva-secures-fourth-term-as-brazils-president-amid.jpg"
 }
