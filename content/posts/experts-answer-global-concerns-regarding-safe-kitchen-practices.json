@@ -89,6 +89,9 @@
   "publishedAt": "2026-10-26T00:17:27.026Z",
   "updatedAt": "2026-10-26T00:17:27.026Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172810344681745",
+    "sharedAt": "2026-10-26T00:20:50.295Z"
+  },
   "ogImage": "/og/experts-answer-global-concerns-regarding-safe-kitchen-practices.jpg"
 }
