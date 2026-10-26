@@ -1,22 +1,22 @@
-12:55:34 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-12:55:34 collecting videos…
-12:55:34   video feed BBC News: 15 in feed, 5 kept
-12:55:35   video feed Al Jazeera English: 15 in feed, 5 kept
-12:55:35   video feed DW News: 15 in feed, 5 kept
-12:55:35   video feed FRANCE 24 English: 15 in feed, 5 kept
-12:55:35   video feed Sky News: 15 in feed, 5 kept
-12:55:35   video feed Reuters: 15 in feed, 5 kept
-12:55:35   video feed Associated Press: 15 in feed, 5 kept
-12:55:35 videos: saved 24
-12:55:35 collecting feeds…
-12:55:42 631 new items
-12:55:43 481 candidate stories
-12:55:43 categories needing stories: entertainment, politics, business, technology, sports → reserved entertainment
-12:55:43 writing: Chris Brown Gets Suspended Sentence Over London Nightclub Assault (5 sources)
-12:55:44   source text: 1790 / 1322 / 2072 chars
-12:55:56   too close to source wording — rewriting
-12:56:13   ✓ published: /news/r-b-artist-chris-brown-receives-suspended-prison-term-for-london-club/ [entertainment] image: wikimedia via idea "Southwark Crown Court London"
-12:56:13 writing: Three men arrested in shootout after deadly attack on church in Jordan (6 sources)
-12:56:14   source text: 0 / 2276 / 3545 / 1794 chars
-12:57:28   ✓ published: /news/jordanian-forces-capture-three-suspects-following-deadly-church-shooting/ [world] image: wikimedia via idea "Karak Jordan church"
-12:57:28 done — 2 stories
+19:13:55 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+19:13:55 collecting videos…
+19:13:55   video feed BBC News: 15 in feed, 5 kept
+19:13:55   video feed Al Jazeera English: 15 in feed, 5 kept
+19:13:55   video feed DW News: 15 in feed, 5 kept
+19:13:55   video feed FRANCE 24 English: 15 in feed, 5 kept
+19:13:55   video feed Sky News: 15 in feed, 5 kept
+19:13:55   video feed Reuters: 15 in feed, 5 kept
+19:13:55   video feed Associated Press: 15 in feed, 5 kept
+19:13:55 videos: saved 24
+19:13:55 collecting feeds…
+19:14:03 871 new items
+19:14:04 652 candidate stories
+19:14:04 categories needing stories: politics, science, sports, business, technology → reserved politics
+19:14:04 writing: Trump’s Election Attacks Enter New Pre-emptive Phase (2 sources)
+19:14:05   source text: 0 / 0 chars
+19:14:13   ✓ published: /news/justice-department-files-alaska-lawsuit-ahead-of-senate-election/ [politics] image: wikimedia via idea "Alaska state capitol building"
+19:14:13 writing: Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I. (6 sources)
+19:14:13   source text: 2815 / 1837 / 2441 chars
+19:14:20   too close to source wording — rewriting
+19:14:28   ✓ published: /news/microsoft-launches-massive-buyout-plan-for-60-000-workers-amid-ai-shift/ [technology] image: wikimedia via idea "Microsoft headquarters building sign"
+19:14:28 done — 2 stories
