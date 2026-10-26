@@ -1,25 +1,21 @@
-00:15:33 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-00:15:33 collecting videos…
-00:15:48   video feed BBC News: 15 in feed, 5 kept
-00:15:51   video feed Al Jazeera English: 15 in feed, 5 kept
-00:16:17   video feed DW News failed: Status code 404
-00:16:42   video feed FRANCE 24 English failed: Status code 404
-00:16:42   video feed Sky News: 15 in feed, 5 kept
-00:17:08   video feed Reuters failed: Status code 404
-00:17:08   video feed Associated Press: 15 in feed, 5 kept
-00:17:08 videos: saved 24
-00:17:08 collecting feeds…
-00:17:14 595 new items
-00:17:15 410 candidate stories
-00:17:15 categories needing stories: health, entertainment, business, technology → reserved health
-00:17:15 writing: ‘What’s the safest way to defrost chicken?’ We’re answering your food safety questions (1 sources)
-00:17:15   source text: 1444 chars
-00:17:20   too close to source wording — rewriting
-00:17:28   ✓ published: /news/experts-answer-global-concerns-regarding-safe-kitchen-practices/ [health] image: wikimedia via idea "kitchen cooking utensils pans"
-00:17:28 writing: Real Madrid cut gap on Barcelona to three points with El Clasico win (3 sources)
-00:17:29   source text: 6753 / 4976 / 6703 chars
-00:17:34 writer returned unusable output: { "headline": "Real Madrid defeat Barcelona in El Clasico thriller at Camp Nou", "standfirst": "Kylian Mbappe scored twice to secure a 2-1 victory for Real 
-00:17:34   skipped
-00:17:34 writing explainer for: ‘What’s the safest way to defrost chicken?’ We’re answering your food safety questions
-00:17:40   ✓ explainer: /news/why-does-home-food-safety-matter-so-much-today/
-00:17:40 done — 1 stories
+06:05:45 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+06:05:45 collecting videos…
+06:06:11   video feed BBC News failed: Status code 404
+06:06:38   video feed Al Jazeera English failed: Status code 404
+06:06:40   video feed DW News: 15 in feed, 5 kept
+06:07:06   video feed FRANCE 24 English failed: Status code 404
+06:07:32   video feed Sky News failed: Status code 404
+06:07:58   video feed Reuters failed: Status code 404
+06:08:15 videos: saved 24
+06:08:15 collecting feeds…
+06:08:21 555 new items
+06:08:22 402 candidate stories
+06:08:22 categories needing stories: business, entertainment, technology, sports → reserved business
+06:08:22 writing: SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia (2 sources)
+06:08:22   source text: 1842 / 2560 chars
+06:08:24   video feed Associated Press failed: Status code 404
+06:08:29   ✓ published: /news/softbank-plans-massive-technology-investment-in-malaysia-to-boost-ai/ [business] image: wikimedia via idea "Kuala Lumpur skyline Malaysia"
+06:08:29 writing: Lula wins 4th term as Brazil's president, but Bolsonaro rejects results (7 sources)
+06:08:29   source text: 7000 / 3381 / 3556 chars
+06:08:36   ✓ published: /news/luiz-inacio-lula-da-silva-secures-fourth-term-as-brazils-president-amid/ [world] image: wikimedia via idea "Luiz Inacio Lula da Silva Brazil"
+06:08:36 done — 2 stories
