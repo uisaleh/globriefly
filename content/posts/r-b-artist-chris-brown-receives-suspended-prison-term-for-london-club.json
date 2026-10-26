@@ -111,6 +111,9 @@
   "publishedAt": "2026-10-26T12:56:12.656Z",
   "updatedAt": "2026-10-26T12:56:12.656Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172854768681745",
+    "sharedAt": "2026-10-26T13:00:40.563Z"
+  },
   "ogImage": "/og/r-b-artist-chris-brown-receives-suspended-prison-term-for-london-club.jpg"
 }
