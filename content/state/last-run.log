@@ -1,21 +1,22 @@
-06:05:45 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-06:05:45 collecting videos…
-06:06:11   video feed BBC News failed: Status code 404
-06:06:38   video feed Al Jazeera English failed: Status code 404
-06:06:40   video feed DW News: 15 in feed, 5 kept
-06:07:06   video feed FRANCE 24 English failed: Status code 404
-06:07:32   video feed Sky News failed: Status code 404
-06:07:58   video feed Reuters failed: Status code 404
-06:08:15 videos: saved 24
-06:08:15 collecting feeds…
-06:08:21 555 new items
-06:08:22 402 candidate stories
-06:08:22 categories needing stories: business, entertainment, technology, sports → reserved business
-06:08:22 writing: SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia (2 sources)
-06:08:22   source text: 1842 / 2560 chars
-06:08:24   video feed Associated Press failed: Status code 404
-06:08:29   ✓ published: /news/softbank-plans-massive-technology-investment-in-malaysia-to-boost-ai/ [business] image: wikimedia via idea "Kuala Lumpur skyline Malaysia"
-06:08:29 writing: Lula wins 4th term as Brazil's president, but Bolsonaro rejects results (7 sources)
-06:08:29   source text: 7000 / 3381 / 3556 chars
-06:08:36   ✓ published: /news/luiz-inacio-lula-da-silva-secures-fourth-term-as-brazils-president-amid/ [world] image: wikimedia via idea "Luiz Inacio Lula da Silva Brazil"
-06:08:36 done — 2 stories
+12:55:34 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+12:55:34 collecting videos…
+12:55:34   video feed BBC News: 15 in feed, 5 kept
+12:55:35   video feed Al Jazeera English: 15 in feed, 5 kept
+12:55:35   video feed DW News: 15 in feed, 5 kept
+12:55:35   video feed FRANCE 24 English: 15 in feed, 5 kept
+12:55:35   video feed Sky News: 15 in feed, 5 kept
+12:55:35   video feed Reuters: 15 in feed, 5 kept
+12:55:35   video feed Associated Press: 15 in feed, 5 kept
+12:55:35 videos: saved 24
+12:55:35 collecting feeds…
+12:55:42 631 new items
+12:55:43 481 candidate stories
+12:55:43 categories needing stories: entertainment, politics, business, technology, sports → reserved entertainment
+12:55:43 writing: Chris Brown Gets Suspended Sentence Over London Nightclub Assault (5 sources)
+12:55:44   source text: 1790 / 1322 / 2072 chars
+12:55:56   too close to source wording — rewriting
+12:56:13   ✓ published: /news/r-b-artist-chris-brown-receives-suspended-prison-term-for-london-club/ [entertainment] image: wikimedia via idea "Southwark Crown Court London"
+12:56:13 writing: Three men arrested in shootout after deadly attack on church in Jordan (6 sources)
+12:56:14   source text: 0 / 2276 / 3545 / 1794 chars
+12:57:28   ✓ published: /news/jordanian-forces-capture-three-suspects-following-deadly-church-shooting/ [world] image: wikimedia via idea "Karak Jordan church"
+12:57:28 done — 2 stories
