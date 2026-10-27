@@ -1,23 +1,24 @@
-23:49:15 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-23:49:15 collecting videos…
-23:49:32   video feed BBC News: 15 in feed, 5 kept
-23:49:59   video feed Al Jazeera English failed: Status code 404
-23:50:27   video feed DW News failed: Status code 404
-23:50:53   video feed FRANCE 24 English failed: Status code 404
-23:51:20   video feed Sky News failed: Status code 404
-23:51:45 videos: saved 24
-23:51:45 collecting feeds…
-23:51:48   video feed Reuters failed: Status code 404
-23:51:48   video feed Associated Press: 15 in feed, 5 kept
-23:51:53 789 new items
-23:51:54 568 candidate stories
-23:51:54 categories needing stories: science, sports, politics, business, technology, world → reserved science
-23:51:54 writing: What is 'human composting'—and how does it work? (2 sources)
-23:51:55   source text: 6828 / 3394 chars
-23:52:00   too close to source wording — rewriting
-23:52:08 writer returned unusable output: { "headline": "New South Wales legalises human composting as sustainable death alternative", "standfirst": "New South Wales has become the first Australian 
-23:52:08   skipped
-23:52:08 writing: Harry Kane ends England's 25-year Ballon d'Or drought, Putellas wins third crown (8 sources)
-23:52:09   source text: 1903 / 334 / 334 / 7000 / 3517 chars
-23:52:26   ✓ published: /news/harry-kane-and-alexia-putellas-claim-top-honours-at-2026-ballon-dor/ [sports] image: wikimedia via name "Harry Kane"
-23:52:26 done — 1 stories
+04:56:08 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+04:56:08 collecting videos…
+04:56:34   video feed BBC News failed: Status code 404
+04:57:00   video feed Al Jazeera English failed: Status code 404
+04:57:00   video feed DW News: 15 in feed, 5 kept
+04:57:25   video feed FRANCE 24 English failed: Status code 404
+04:57:51   video feed Sky News failed: Status code 404
+04:58:17   video feed Reuters failed: Status code 404
+04:58:38 videos: saved 24
+04:58:38 collecting feeds…
+04:58:42   video feed Associated Press failed: Status code 404
+04:58:45 679 new items
+04:58:46 478 candidate stories
+04:58:46 categories needing stories: science, health, politics, business, technology, sports, world → reserved science
+04:58:46 writing: Storm Boelo leaves thousands without power as Met Office issues new wind warning (1 sources)
+04:58:46   source text: 1602 chars
+04:58:54   ✓ published: /news/storm-boelo-disrupts-power-supplies-and-triggers-fresh-uk-warnings/ [science] image: wikimedia via idea "fallen tree storm damage"
+04:58:54 writing: Jay-Z to perform at Super Bowl half-time show (7 sources)
+04:58:54   source text: 1497 / 1497 / 3353 chars
+04:59:00   too close to source wording — rewriting
+04:59:07   ✓ published: /news/rapper-jay-z-to-headline-the-upcoming-super-bowl-half-time-show/ [entertainment] image: wikimedia via idea "Jay Z"
+04:59:07 writing explainer for: Jay-Z to perform at Super Bowl half-time show
+04:59:13   ✓ explainer: /news/why-is-jay-z-finally-performing-at-the-super-bowl-halftime-show/
+04:59:13 done — 2 stories

@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf": 1792460756183,
-    "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions": 1792460756183,
-    "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss": 1792460763741,
-    "https://www.theguardian.com/football/live/2026/oct/19/tottenham-v-coventry-premier-league-live": 1792460763741,
-    "https://www.theguardian.com/football/2026/oct/19/tottenham-coventry-premier-league-match-report": 1792460763741,
     "https://www.bbc.co.uk/sport/basketball/articles/cqe9lr3zr4k1o?at_medium=RSS&at_campaign=rss": 1792481265361,
     "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss": 1792481265361,
     "https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2": 1792481265361,
@@ -302,11 +297,18 @@
     "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss": 1793058734325,
     "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf": 1793058734325,
     "https://www.aljazeera.com/sports/liveblog/2026/10/26/ballon-dor-2026-award-ceremony-live-winners-reactions-and-latest-news?traffic_source=rss": 1793058734325,
-    "https://news.sky.com/story/harry-kane-ends-englands-25-year-wait-for-ballon-dor-13604077": 1793058734325
+    "https://news.sky.com/story/harry-kane-ends-englands-25-year-wait-for-ballon-dor-13604077": 1793058734325,
+    "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss": 1793077131438,
+    "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss": 1793077146888,
+    "\n                                                https://www.cbssports.com/nfl/news/2027-super-bowl-headliner-announced-jay-z-super-bowl-lxi/\n                    ": 1793077146888,
+    "\n                                                https://www.cbssports.com/nfl/news/2027-super-bowl-halftime-special-guests-jay-z/\n                    ": 1793077146888,
+    "https://www.theguardian.com/music/2026/oct/27/jay-z-to-headline-2027-super-bowl-half-time-show": 1793077146888,
+    "https://www.billboard.com/music/rb-hip-hop/jay-z-super-bowl-halftime-2027-headliner-1236368561/": 1793077146888,
+    "https://deadline.com/2026/10/jay-z-super-bowl-halftime-official-nfl-apple-1237205883/": 1793077146888,
+    "https://www.rollingstone.com/music/music-news/jay-z-headline-2027-super-bowl-halftime-show-1235648064/": 1793077146888,
+    "https://variety.com/2026/music/news/jay-z-to-perform-2027-super-bowl-halftime-show-1236876986/": 1793077146888
   },
   "fps": {
-    "dead-eastern-flooding-four-least-spain": 1792460756183,
-    "beat-coventry-earn-first-league-season-spurs-win": 1792460763741,
     "dream-finals-first-match-reese-stars-win-wnba": 1792481265361,
     "alberta-bid-canada-cbc-projects-rejects-separation": 1792481273965,
     "attacks-cities-defend-deploy-fighter-houthi-jets-saudi": 1792503138887,
@@ -390,6 +392,8 @@
     "attacks-election-emptive-enter-phase-pre-trump": 1793042049715,
     "000-buyouts-employees-microsoft-offers-spends": 1793042066922,
     "composting-does-how-human-what-work": 1793058728040,
-    "ballon-crown-drought-ends-england-harry-kane-putellas": 1793058734325
+    "ballon-crown-drought-ends-england-harry-kane-putellas": 1793058734325,
+    "boelo-issues-leaves-met-office-power-storm-thousands": 1793077131438,
+    "bowl-half-jay-perform-show-super-time": 1793077146888
   }
 }
