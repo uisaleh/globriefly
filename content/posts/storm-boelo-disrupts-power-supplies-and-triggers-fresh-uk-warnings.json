@@ -89,6 +89,9 @@
   "publishedAt": "2026-10-27T04:58:51.831Z",
   "updatedAt": "2026-10-27T04:58:51.831Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172907688681745",
+    "sharedAt": "2026-10-27T05:02:22.379Z"
+  },
   "ogImage": "/og/storm-boelo-disrupts-power-supplies-and-triggers-fresh-uk-warnings.jpg"
 }

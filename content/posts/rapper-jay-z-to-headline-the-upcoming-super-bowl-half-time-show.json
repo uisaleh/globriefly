@@ -110,6 +110,9 @@
   "publishedAt": "2026-10-27T04:59:07.230Z",
   "updatedAt": "2026-10-27T04:59:07.230Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172907808681745",
+    "sharedAt": "2026-10-27T05:02:42.670Z"
+  },
   "ogImage": "/og/rapper-jay-z-to-headline-the-upcoming-super-bowl-half-time-show.jpg"
 }
