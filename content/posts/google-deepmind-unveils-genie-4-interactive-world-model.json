@@ -1,0 +1,103 @@
+{
+  "slug": "google-deepmind-unveils-genie-4-interactive-world-model",
+  "status": "published",
+  "type": "news",
+  "category": "technology",
+  "region": "Global",
+  "headline": "Google DeepMind unveils Genie 4 interactive world model",
+  "standfirst": "Google DeepMind has introduced Genie 4, a new world model capable of generating photorealistic simulations with real-time audio and dynamic user steering.",
+  "keyPoints": [
+    "Google DeepMind released the Genie 4 world model in research preview.",
+    "The model produces photorealistic interactive scenes with synchronized audio and live prompt steering.",
+    "Genie 4 extends simulation duration up to two minutes while maintaining scene consistency.",
+    "Google is targeting applications in gaming, robot training, and film prototyping."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "Google DeepMind has officially launched its newest world model, Genie 4, making the software available in a research preview format. The system is designed to generate highly photorealistic and interactive simulated environments that respond dynamically to user instructions. Users can type prompts mid-simulation to alter the scene, adjusting parameters such as the weather, camera angles, or introducing new people and objects in real time.",
+        "Alongside visual upgrades, the updated platform introduces synchronized audio generation that matches the simulated environment. This includes background music, ambient sounds, and interactive dialogue within the generated worlds. The technology can sustain a consistent scene for up to two minutes, doubling the duration limit of its predecessor while offering improved physics and more humanlike characters.",
+        "The release follows similar developments across the technology sector, arriving shortly after competing startups launched their own playable world model projects. Google is rolling out Genie 4 to trusted testers first, with plans to expand availability to specific subscribers and early access API partners in the coming weeks. The company acknowledges that the software remains in early development, noting that object details can drift over longer simulation runs."
+      ]
+    },
+    {
+      "heading": "Evolution of interactive simulation technology",
+      "paragraphs": [
+        "The introduction of Genie 4 represents the latest step in Google's ongoing effort to develop advanced generative simulation systems. Its predecessor, Genie 3, was released as a research preview slightly over a year prior to establish baseline capabilities for text-to-world generation. The broader industry has also seen significant consolidation and investment, with various firms acquiring simulation startups or releasing competing playable models.",
+        "Under the hood, the new software integrates closely with Google's other artificial intelligence models to assist with complex tasks. Gemini acts as a director to plan steps and check frames while the visualization engine renders the scene. This tighter multimodal integration allows the system to break down tasks into sequential steps for real-time simulation across different levels of abstraction."
+      ]
+    },
+    {
+      "heading": "Commercial ambitions and industry applications",
+      "paragraphs": [
+        "Google is pitching the new model for multiple commercial use cases, including video gaming, interactive learning, and robotics testing. In robotics experiments, the system has been used to simulate complex tasks before attempting them in the physical world. Developers suggest that educators could use the technology to create interactive historical scenarios where users converse with characters inside a painting.",
+        "Trusted testers evaluating the software have also highlighted its potential for film prototyping and creative ideation. Creators could theoretically use the real-time capabilities to maintain creative flow during the storyboarding and pre-visualization phases of production. However, representatives note that turning these raw prototypes into finished creative assets will require additional multimodal tools that are still under development."
+      ]
+    },
+    {
+      "heading": "Navigating current technological boundaries",
+      "paragraphs": [
+        "Despite its advanced features, developers emphasize that Genie 4 is still in its early stages and the final product experience is not yet fully defined. Engineers point out technical limitations that occur during extended simulation sessions, such as object drift over time. Additionally, the development team continues to work on ensuring audio accuracy and legibility for any text appearing within the simulated worlds.",
+        "The competitive landscape for world models continues to expand rapidly as multiple technology giants and startups race to improve real-time physics and rendering. Companies are heavily investing in simulation capabilities to accelerate testing for autonomous vehicles and robotics systems. As these foundational models mature, the industry aims to bridge the gap between static text prompts and fully controllable virtual realities."
+      ]
+    },
+    {
+      "heading": "Upcoming rollout and availability plans",
+      "paragraphs": [
+        "Google plans to broaden access to the new technology through established subscription tiers and developer channels. In the coming weeks, the model will become available to AI Ultra subscribers within Project Genie, which generates interactive environments from text and image prompts. Early access partners utilizing the Gemini API and Google Studio will also receive the software.",
+        "As the rollout proceeds, the engineering team will gather feedback from initial users to address technical hurdles and refine the feature set. These insights will guide subsequent updates as Google works to transition the research preview into a more robust platform for developers and creators."
+      ]
+    }
+  ],
+  "highlight": "The model also generates real-time audio that matches the simulated world, including music, ambient noises, and interactive dialogue.",
+  "timeline": [],
+  "tags": [
+    "Google DeepMind",
+    "Genie 4",
+    "artificial intelligence",
+    "world models",
+    "simulation"
+  ],
+  "socialSummary": "Google DeepMind releases Genie 4, a new world model featuring real-time audio, improved physics, and live prompt steering.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg/1920px-John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "John Jumper, Google DeepMind",
+    "credit": "National Academies - Earth and Life Studies / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:John_M_Jumper_Google_DeepMind_(14_Sep_2024)_-_img_03.jpg",
+    "license": "CC BY 3.0",
+    "provider": "wikimedia",
+    "query": "Google DeepMind",
+    "matchedBy": "name"
+  },
+  "imageSearch": {
+    "query": "Google DeepMind logo",
+    "names": [
+      "Google DeepMind",
+      "Genie 4"
+    ],
+    "subject": "computer screen showing artificial intelligence simulation"
+  },
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
+    }
+  ],
+  "sourceTitles": [
+    "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "Google’s next Genie AI model generates more realistic experiences"
+  ],
+  "sourceCount": 2,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-10-27T21:16:29.912Z",
+  "updatedAt": "2026-10-27T21:16:29.912Z",
+  "readingMinutes": 3,
+  "facebook": null,
+  "ogImage": "/og/google-deepmind-unveils-genie-4-interactive-world-model.jpg"
+}
