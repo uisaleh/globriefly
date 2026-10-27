@@ -98,6 +98,9 @@
   "publishedAt": "2026-10-27T21:16:29.912Z",
   "updatedAt": "2026-10-27T21:16:29.912Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172960920681745",
+    "sharedAt": "2026-10-27T21:20:06.523Z"
+  },
   "ogImage": "/og/google-deepmind-unveils-genie-4-interactive-world-model.jpg"
 }

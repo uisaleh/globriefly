@@ -110,6 +110,9 @@
   "publishedAt": "2026-10-27T21:16:53.679Z",
   "updatedAt": "2026-10-27T21:16:53.679Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172961046681745",
+    "sharedAt": "2026-10-27T21:20:29.251Z"
+  },
   "ogImage": "/og/israel-faces-political-deadlock-as-exit-polls-show-tight-race.jpg"
 }
