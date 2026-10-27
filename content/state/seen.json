@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/sport/basketball/articles/cqe9lr3zr4k1o?at_medium=RSS&at_campaign=rss": 1792481265361,
-    "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss": 1792481265361,
-    "https://www.theguardian.com/sport/2026/oct/19/angel-reese-double-double-dream-valkyries-wnba-finals-game-2": 1792481265361,
-    "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf": 1792481273965,
-    "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": 1792481273965,
     "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html": 1792503138887,
     "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss": 1792503138887,
     "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks": 1792503138887,
@@ -308,11 +303,15 @@
     "https://www.rollingstone.com/music/music-news/jay-z-headline-2027-super-bowl-halftime-show-1235648064/": 1793077146888,
     "https://variety.com/2026/music/news/jay-z-to-perform-2027-super-bowl-halftime-show-1236876986/": 1793077146888,
     "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html": 1793083105574,
-    "https://www.scmp.com/business/companies/article/3372244/hsbc-reports-32-increase-third-quarter-pre-tax-profits-announces-us1b-share-buy-back": 1793083105574
+    "https://www.scmp.com/business/companies/article/3372244/hsbc-reports-32-increase-third-quarter-pre-tax-profits-announces-us1b-share-buy-back": 1793083105574,
+    "https://medicalxpress.com/news/2026-10-amygdala-images-memories.html": 1793096951420,
+    "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html": 1793096972832,
+    "https://abcnews.com/International/wireStory/local-ceasefire-brokered-melania-trump-starts-southern-ukraine-137590102": 1793096972832,
+    "https://www.scmp.com/news/world/europe/article/3372265/ceasefire-brokered-melania-trump-begins-russian-occupied-ukrainian-town": 1793096972832,
+    "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war": 1793096972832,
+    "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece": 1793096972832
   },
   "fps": {
-    "dream-finals-first-match-reese-stars-win-wnba": 1792481265361,
-    "alberta-bid-canada-cbc-projects-rejects-separation": 1792481273965,
     "attacks-cities-defend-deploy-fighter-houthi-jets-saudi": 1792503138887,
     "care-claim-covid-cruel-families-hancock-homes-inquiry": 1792503145276,
     "champions-league-live-liverpool-villarreal": 1792520825119,
@@ -397,6 +396,8 @@
     "ballon-crown-drought-ends-england-harry-kane-putellas": 1793058734325,
     "boelo-issues-leaves-met-office-power-storm-thousands": 1793077131438,
     "bowl-half-jay-perform-show-super-time": 1793077146888,
-    "announces-billion-buyback-estimates-hsbc-meets-profit-quarter": 1793083105574
+    "announces-billion-buyback-estimates-hsbc-meets-profit-quarter": 1793083105574,
+    "activity-amygdala-become-images-lasting-may-memories-predicts": 1793096951420,
+    "attacks-begins-brokered-ceasefire-continues-local-melania-russia": 1793096972832
   }
 }

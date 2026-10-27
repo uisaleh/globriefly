@@ -1,18 +1,22 @@
-06:35:36 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-06:35:36 collecting videos…
-06:36:02   video feed BBC News failed: Status code 404
-06:36:28   video feed Al Jazeera English failed: Status code 404
-06:36:55   video feed DW News failed: Status code 404
-06:37:21   video feed FRANCE 24 English failed: Status code 404
-06:37:47   video feed Sky News failed: Status code 404
-06:38:06 videos: saved 24
-06:38:06 collecting feeds…
-06:38:12 614 new items
-06:38:13 455 candidate stories
-06:38:13 categories needing stories: business, health, world, technology, sports → reserved business
-06:38:13 writing: HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates (2 sources)
-06:38:13   video feed Reuters failed: Status code 404
-06:38:13   source text: 2433 / 573 chars
-06:38:18   too close to source wording — rewriting
-06:38:27   ✓ published: /news/hsbc-posts-third-quarter-profit-rise-and-launches-1-billion-share/ [business] image: wikimedia via idea "HSBC headquarters building"
-06:38:27 done — 1 stories
+10:28:58 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+10:28:58 collecting videos…
+10:28:59   video feed BBC News: 15 in feed, 5 kept
+10:28:59   video feed Al Jazeera English: 15 in feed, 5 kept
+10:28:59   video feed DW News: 15 in feed, 5 kept
+10:28:59   video feed FRANCE 24 English: 15 in feed, 5 kept
+10:28:59   video feed Sky News: 15 in feed, 5 kept
+10:28:59   video feed Reuters: 15 in feed, 5 kept
+10:28:59   video feed Associated Press: 15 in feed, 5 kept
+10:28:59 videos: saved 24
+10:28:59 collecting feeds…
+10:29:05 641 new items
+10:29:06 450 candidate stories
+10:29:06 categories needing stories: health, world, business, technology, sports → reserved health
+10:29:06 writing: Amygdala activity predicts which new images may become lasting memories (1 sources)
+10:29:06   source text: 5359 chars
+10:29:12   ✓ published: /news/brain-study-reveals-how-the-amygdala-helps-shape-long-term-human-memory/ [health] image: wikimedia via idea "human brain amygdala scan"
+10:29:12 writing: Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine (5 sources)
+10:29:28   source text: 1500 / 2744 / 0 / 5178 chars
+10:29:32 writer returned unusable output: { "headline": "Limited humanitarian truce begins in southern Ukraine as national conflict persists", "standfirst": "A localized ceasefire has commenced in t
+10:29:32   skipped
+10:29:32 done — 1 stories

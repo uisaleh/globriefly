@@ -1,13 +1,125 @@
 {
-  "updatedAt": "2026-10-27T06:38:06.338Z",
+  "updatedAt": "2026-10-27T10:28:59.275Z",
   "videos": [
     {
-      "id": "0yOtcO5kZEQ",
-      "title": "Independent review announced into murder of student Henry Nowak.",
+      "id": "LNWMHgPSpeU",
+      "title": "Anthropic files for mammoth IPO as revenues and losses mount • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-27T10:21:13.000Z",
+      "description": "US artificial intelligence giant Anthropic files public regulatory paperwork as it gets set to launch on the stock market. Also in this edition: France plans a special disaster fund for businesses hit by riots and lootin"
+    },
+    {
+      "id": "s1xdTtrg8Uc",
+      "title": "1027 MB CHECKS V2",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-27T10:18:57.000Z",
+      "description": "Anthropic files for its long-awaited IPO, revealing the enormous spending, debt and expectations behind the AI boom. Oil prices remain elevated as traders watch diplomatic efforts to ease the Iran conflict. And investors"
+    },
+    {
+      "id": "9SpKUrxQYfs",
+      "title": "Harry Kane becomes first English player to win Ballon d'Or in 25 years",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-27T10:06:35.000Z",
+      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews."
+    },
+    {
+      "id": "mfq0BAw_fEk",
+      "title": "Russian missile strike hits Kyiv university and residential areas",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-27T09:55:51.000Z",
+      "description": "Russian ballistic missiles struck a university and surrounding residential areas in Kyiv, according to officials. The strike damaging buildings, a park and nearby metro infrastructure. At least one person was killed and "
+    },
+    {
+      "id": "IKGQECL7eYg",
+      "title": "What could Israel's election mean for Gaza",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-26T19:01:03.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+      "publishedAt": "2026-10-27T09:46:32.000Z",
+      "description": ""
+    },
+    {
+      "id": "R_9i3_bkDJY",
+      "title": "Heavy rains trigger massive flooding in Ecuador’s largest city",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-27T09:38:18.000Z",
+      "description": "Parts of Ecuador’s largest city are underwater after severe rains battered the coast. It’s the latest storm to hit the country amid a strengthening El Nino."
+    },
+    {
+      "id": "1C4mvYCbWgs",
+      "title": "Israelis go to polls in first elections since Oct. 7 attack that triggered war in Gaza",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-27T09:30:26.000Z",
+      "description": "Israelis began voting Tuesday in a tense national election widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership since the Hamas-led Oct. 7, 2023, attack on Israel and the subsequent wars that hav"
+    },
+    {
+      "id": "cr-ZFTGTY9g",
+      "title": "Netanyahu's political survival on the line as Israel heads to the polls • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-27T10:14:32.000Z",
+      "description": "Prime Minister Benjamin Netanyahu faces a fight for political survival in Israel's election on Tuesday (October 27), with voters weighing his leadership after the 2023 Hamas-led attacks, wars in Gaza and with Iran, and I"
+    },
+    {
+      "id": "Y0GMxOxzixo",
+      "title": "Houthis release footage said to show strikes on Saudi troops",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-27T10:14:39.000Z",
+      "description": "The Houthis released footage said to show drone strikes on Saudi troops and vehicles on the Najran, Jizan and Asir border fronts. "
+    },
+    {
+      "id": "_2Wjr8C2lMU",
+      "title": "Morning Call: Key defence figures to know before Budget",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-27T10:04:28.000Z",
+      "description": "Deborah Haynes takes a close look at the Defence Investment Plan and the key figures to look out for ahead of the Budget."
+    },
+    {
+      "id": "Wxr89fMK5O4",
+      "title": "Can anything stop a 'blue wave' against Trump?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-27T08:30:21.000Z",
+      "description": "Polling for Trump is looking bad. High prices see Americans trust Democrats on the economy more than Republicans. In Georgia, Trump’s been promising cash while bringing German Automaker Audi’s CEO on stage to campaign wi"
+    },
+    {
+      "id": "MNH7vj_AVOs",
+      "title": "Nine women paid compensation over police abuse claims",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-27T06:00:27.000Z",
+      "description": "Nine women have been paid compensation following claims a police force failed to investigate serving and former officers for domestic abuse and sexual violence."
+    },
+    {
+      "id": "KJP8__4y-Nw",
+      "title": "Deadly Ethiopia clashes force 30,000 to flee into Kenya",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-27T09:15:09.000Z",
+      "description": "At least 30,000 people have fled to Kenya after a dispute between the Oromo and Somali communities in the Ethiopian town of Moyale turned violent."
+    },
+    {
+      "id": "XCiFLMy7omA",
+      "title": "London's Oxford Street bans traffic",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-27T08:27:51.000Z",
+      "description": "London’s Oxford Street closed to cars, buses and bicycles starting Monday as authorities seek to revive the city’s main shopping street, where the proliferation of souvenir shops and candy sellers has dimmed the allure o"
+    },
+    {
+      "id": "tqiHWhKG_5A",
+      "title": "Israeli elections: voters turnout reaches '16.7%' four hours after polls open • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-27T10:08:11.000Z",
+      "description": "A deeply divided Israel headed to the polls on Tuesday (October 27) for the first time since the October 7, 2023 Hamas attack, with voters delivering their verdict on veteran Prime Minister Benjamin Netanyahu and the cou"
     },
     {
       "id": "1TzmYEiWQ5E",
@@ -18,12 +130,36 @@
       "description": "A £1 billion regeneration project east of London remains in limbo 17 years after its launch, highlighting rising UK building costs. Former housing minister Gavin Barwell said governments often fail to see the cumulative "
     },
     {
-      "id": "_eAN5fTZGoU",
-      "title": "The 'anti-Netanyahu?' Meet his main challenger Gadi Eisenkot",
+      "id": "HiQ9fzkwj1o",
+      "title": "RAF Fairford incident | Two men charged with National Security Act offences",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-27T10:04:21.000Z",
+      "description": "Two men have been charged with offences under the National Security Act following a suspected terror plot at RAF Fairford. "
+    },
+    {
+      "id": "Cto35NHbY0A",
+      "title": "Is the Trump Administration responsible for the resurgence of a deadly disease?",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-26T18:54:13.000Z",
-      "description": "Former army chief Gadi Eisenkot has emerged as Benjamin Netanyahu's strongest challenger ahead of Israel's election on October 27. It's the country's first election since the terror attacks on October 7, 2023. Who is Gad"
+      "publishedAt": "2026-10-27T07:30:16.000Z",
+      "description": "Measles is surging across the US, with cases at a 35-year high. How did falling vaccination rates and political distrust bring back a disease America had eliminated? Nicole Frölich talks to Amesh Adalja at the Johns Hopk"
+    },
+    {
+      "id": "nGEz6M1P1dY",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-27T01:45:12.000Z",
+      "description": "US federal prosecutors have taken steps to charge ex-Federal Bureau of Investigation (FBI) Director James Comey with leaking national defence information, according to a court filing."
+    },
+    {
+      "id": "0z5e4tIHj74",
+      "title": "DR Congo nurseries care for children orphaned by Ebola outbreak",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-27T09:00:22.000Z",
+      "description": "Thousands of children in the Democratic Republic of Congo are being orphaned or separated from their families by the Ebola outbreak."
     },
     {
       "id": "CHsV0sczVIE",
@@ -42,30 +178,6 @@
       "description": "FRANCE 24's Luke Shrago reports from Paris the key discussion points from an afternoon of meetings between Prime Minister Sébastien Lecornu, education ministers and students ahead of another weekend of planned demonstrat"
     },
     {
-      "id": "PkXGADqcf6Q",
-      "title": "What will Lula's fourth term mean for Brazil?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-26T18:31:56.000Z",
-      "description": "'Brazil is nobody's backyard.'"
-    },
-    {
-      "id": "L_u2E_uSS5Y",
-      "title": "Melania Trump's ceasefire could bring relief to Ukrainians in Oleshky. This Is Why",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-26T18:31:05.000Z",
-      "description": "People are surviving on plants, have no power and hardly any water in Oleshky, a Ukrainian city occupied by Russia since the first days of the 2022 full-scale invasion. "
-    },
-    {
-      "id": "4H5sZL4XEM8",
-      "title": "Police release CCTV of Chris Brown's 2023 London nightclub attack.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-26T18:25:12.000Z",
-      "description": ""
-    },
-    {
       "id": "Vr-99OLPn3E",
       "title": "'A lot at stake': US Israelis fly back to vote out Netanyahu",
       "channel": "Reuters",
@@ -74,124 +186,12 @@
       "description": "New York rabbi Josh Weinberg is among overseas Israelis flying home to vote in Tuesday's parliamentary election. 'A lot is at stake,' he says, adding that Israel's democracy is under threat from 'ultra-nationalists and e"
     },
     {
-      "id": "KQnq8LaaDOM",
-      "title": "At least 80 injured in bus crash near Barcelona",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-26T17:17:19.000Z",
-      "description": "At least 80 people have been injured after a bus plunged 20 metres down an embankment near Barcelona. Authorities are still trying to work out what caused the crash."
-    },
-    {
-      "id": "cx9jsHeb_oE",
-      "title": "Eric Bauza, the voice of Bugs Bunny, dies at 46",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-26T18:12:09.000Z",
-      "description": "Eric Bauza, the Emmy-winning voice actor who played Bugs Bunny, Daffy Duck and other beloved “Looney Tunes” characters, has died at 46.  In a statement posted to his Instagram account, his family said he died “suddenly.”"
-    },
-    {
-      "id": "md80UO95_ns",
-      "title": "French student union leaders call for 'continued mobilisation' after meeting PM • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-26T17:37:03.000Z",
-      "description": "The French government met student representatives on Monday (October 26) following weeks of unrest. Students who had been demanding a meeting for weeks hail progress. Nonetheless they are now calling for fresh demonstrat"
-    },
-    {
-      "id": "kfaQ4BCILcU",
-      "title": "How does the cost of living compare to a previous generation?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-26T18:11:30.000Z",
-      "description": "Was life in London more affordable in 1996 than it is today? From transport and coffee to rent, groceries and university fees, Al Jazeera’s Lina Serene compares the cost of everyday life in 1996 and 2026  and asks whethe"
-    },
-    {
-      "id": "9SpKUrxQYfs",
-      "title": "Mornings with Ridge and Frost",
+      "id": "L_u2E_uSS5Y",
+      "title": "Melania Trump's ceasefire could bring relief to Ukrainians in Oleshky. This Is Why",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-26T11:07:02.000Z",
-      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews."
-    },
-    {
-      "id": "yY-ufmoDNVw",
-      "title": "Bleach fans react to end of Thousand-Year Blood War anime.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-26T18:00:37.000Z",
-      "description": ""
-    },
-    {
-      "id": "I91G1xxWs2M",
-      "title": "Inside the Audi CEO backlash after joining Trump at midterm campaign rally",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-26T17:11:01.000Z",
-      "description": "Audi faces a political storm in Germany after CEO Gernot Doellner joined President Trump at a campaign rally to announce a $4 billion US factory, as German jobs hang in the balance amid plant closures and political-neutr"
-    },
-    {
-      "id": "rWSl6BLzUCE",
-      "title": "Why Machado's return to Venezuela matters",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-26T14:08:18.000Z",
-      "description": "Maria Corina Machado is back in Venezuela. Thousands of supporters flooded the streets of Caracas to welcome the Nobel Peace Prize winner home after months in exile. This could be a defining moment for Venezuela's most i"
-    },
-    {
-      "id": "GPAHTaA5k1c",
-      "title": "Suriname tribe protects the Amazon rainforest amid illegal cutting and mining",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-26T17:31:51.000Z",
-      "description": "The Saamaka people in Suriname are using modern technology to map their ancestral lands. They hope to get government recognition and protection against illegal logging and mining. Last year, Suriname pledged to protect i"
-    },
-    {
-      "id": "UcUc0BDIZl8",
-      "title": "Israel braces for national elections seen as a referendum on Netanyahu • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-26T12:35:54.000Z",
-      "description": "Israelis are preparing to head to the polls on Tuesday (October 27)  in the first elections since the October 7th attacks in 2023. Unable to vote abroad, expatriate citizens have been flying in from around the world to p"
-    },
-    {
-      "id": "oV_GyX2W76E",
-      "title": "Could the midterms change America’s military support for Israel? |",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-26T17:56:58.000Z",
-      "description": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel. Al Jazeera’s Emma Withrow explains whether these elections could give Congress the votes to block military support."
-    },
-    {
-      "id": "rZWsRuIue7E",
-      "title": "Budget: Defence to be key focus",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-26T10:30:20.000Z",
-      "description": "Will former defence secretary, now chancellor, John Healey set out a credible pathway to plugging the £4.7 billion black hole in defence spending in the budget this week?"
-    },
-    {
-      "id": "NL-tZckmw0M",
-      "title": "Why is the Michigan Senate race so tight?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-26T17:30:25.000Z",
-      "description": ""
-    },
-    {
-      "id": "WpEuR78Up2M",
-      "title": "Midterms 2026: Can Democrats flip Trump country?",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-26T12:13:09.000Z",
-      "description": "The future of Trump's presidency will be decided in the November midterm elections. Ten races, including those in Maine, Ohio, Texas and Kansas, could decide who will control the Senate. Andy Sullivan explains."
-    },
-    {
-      "id": "sTX45K4ED4w",
-      "title": "German industry for sale",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-26T14:00:12.000Z",
-      "description": "A German hidden champion changes hands. Built by a family, sold for billions and now controlled from the US. Why are more and more owners willing to sell, and what does that mean for Germanys economy?"
+      "publishedAt": "2026-10-26T18:31:05.000Z",
+      "description": "People are surviving on plants, have no power and hardly any water in Oleshky, a Ukrainian city occupied by Russia since the first days of the 2022 full-scale invasion. "
     }
   ]
 }
