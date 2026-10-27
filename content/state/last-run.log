@@ -1,22 +1,28 @@
-10:28:58 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-10:28:58 collecting videos…
-10:28:59   video feed BBC News: 15 in feed, 5 kept
-10:28:59   video feed Al Jazeera English: 15 in feed, 5 kept
-10:28:59   video feed DW News: 15 in feed, 5 kept
-10:28:59   video feed FRANCE 24 English: 15 in feed, 5 kept
-10:28:59   video feed Sky News: 15 in feed, 5 kept
-10:28:59   video feed Reuters: 15 in feed, 5 kept
-10:28:59   video feed Associated Press: 15 in feed, 5 kept
-10:28:59 videos: saved 24
-10:28:59 collecting feeds…
-10:29:05 641 new items
-10:29:06 450 candidate stories
-10:29:06 categories needing stories: health, world, business, technology, sports → reserved health
-10:29:06 writing: Amygdala activity predicts which new images may become lasting memories (1 sources)
-10:29:06   source text: 5359 chars
-10:29:12   ✓ published: /news/brain-study-reveals-how-the-amygdala-helps-shape-long-term-human-memory/ [health] image: wikimedia via idea "human brain amygdala scan"
-10:29:12 writing: Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine (5 sources)
-10:29:28   source text: 1500 / 2744 / 0 / 5178 chars
-10:29:32 writer returned unusable output: { "headline": "Limited humanitarian truce begins in southern Ukraine as national conflict persists", "standfirst": "A localized ceasefire has commenced in t
-10:29:32   skipped
-10:29:32 done — 1 stories
+16:31:43 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+16:31:43 collecting videos…
+16:31:43   video feed BBC News: 15 in feed, 5 kept
+16:31:43   video feed Al Jazeera English: 15 in feed, 5 kept
+16:31:43   video feed DW News: 15 in feed, 5 kept
+16:31:44   video feed FRANCE 24 English: 15 in feed, 5 kept
+16:31:44   video feed Sky News: 15 in feed, 5 kept
+16:31:44   video feed Reuters: 15 in feed, 5 kept
+16:31:44   video feed Associated Press: 15 in feed, 5 kept
+16:31:44 videos: saved 24
+16:31:44 collecting feeds…
+16:31:50 925 new items
+16:31:52 676 candidate stories
+16:31:52 categories needing stories: world, business, technology, sports → reserved world
+16:31:52 writing: Africa's Ebola outbreak tops 10,000 cases, mainly in DR Congo (6 sources)
+16:31:53   source text: 1769 / 4548 / 2068 chars
+16:32:18   too close to source wording — rewriting
+16:32:56 image source error: The operation was aborted due to timeout
+16:32:59   ✓ published: /news/ebola-crisis-in-central-africa-surpasses-10-000-cases/ [world] image: wikimedia via name "Democratic Republic of Congo"
+16:32:59 writing: Anthropic's IPO is risky business (4 sources)
+16:33:00   source text: 4473 / 5792 / 0 / 1045 chars
+16:33:21 image source error: The operation was aborted due to timeout
+16:33:36 image source error: The operation was aborted due to timeout
+16:33:52 image source error: The operation was aborted due to timeout
+16:34:08 image source error: The operation was aborted due to timeout
+16:34:23 image source error: The operation was aborted due to timeout
+16:34:24   ✓ published: /news/anthropic-reveals-existential-risks-and-massive-infrastructure-costs-in/ [business] image: wikimedia via subject "modern data center interior"
+16:34:24 done — 2 stories

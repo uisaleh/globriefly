@@ -1,11 +1,5 @@
 {
   "urls": {
-    "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html": 1792503138887,
-    "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss": 1792503138887,
-    "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks": 1792503138887,
-    "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss": 1792503138887,
-    "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news": 1792503145276,
-    "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss": 1792503145276,
     "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live": 1792520825119,
     "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live": 1792520825119,
     "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss": 1792520825119,
@@ -309,11 +303,19 @@
     "https://abcnews.com/International/wireStory/local-ceasefire-brokered-melania-trump-starts-southern-ukraine-137590102": 1793096972832,
     "https://www.scmp.com/news/world/europe/article/3372265/ceasefire-brokered-melania-trump-begins-russian-occupied-ukrainian-town": 1793096972832,
     "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war": 1793096972832,
-    "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece": 1793096972832
+    "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece": 1793096972832,
+    "https://www.france24.com/en/africa/20261027-africa-ebola-outbreak-tops-10-000-cases-mainly-dr-congo": 1793118761215,
+    "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss": 1793118761215,
+    "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-rdf": 1793118761215,
+    "https://www.thehindu.com/news/international/congos-ebola-outbreak-tops-10000-cases-as-authorities-race-to-slow-spread-in-african-countries/article71630756.ece": 1793118761215,
+    "https://www.channelnewsasia.com/world/congos-ebola-cases-surpass-10000-fears-grow-wider-african-spread-6495856": 1793118761215,
+    "https://medicalxpress.com/news/2026-10-congo-ebola-outbreak-tops-cases.html": 1793118761215,
+    "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html": 1793118785511,
+    "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories": 1793118785511,
+    "https://www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing": 1793118785511,
+    "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/": 1793118785511
   },
   "fps": {
-    "attacks-cities-defend-deploy-fighter-houthi-jets-saudi": 1792503138887,
-    "care-claim-covid-cruel-families-hancock-homes-inquiry": 1792503145276,
     "champions-league-live-liverpool-villarreal": 1792520825119,
     "150-abyei-around-drone-kills-market-strike-sudan": 1792520838073,
     "abuja-arriving-case-confirms-ebola-nigeria-positive-tests": 1792534572634,
@@ -398,6 +400,8 @@
     "bowl-half-jay-perform-show-super-time": 1793077146888,
     "announces-billion-buyback-estimates-hsbc-meets-profit-quarter": 1793083105574,
     "activity-amygdala-become-images-lasting-may-memories-predicts": 1793096951420,
-    "attacks-begins-brokered-ceasefire-continues-local-melania-russia": 1793096972832
+    "attacks-begins-brokered-ceasefire-continues-local-melania-russia": 1793096972832,
+    "000-africa-cases-congo-ebola-mainly-outbreak-tops": 1793118761215,
+    "anthropic-business-ipo-risky": 1793118785511
   }
 }
