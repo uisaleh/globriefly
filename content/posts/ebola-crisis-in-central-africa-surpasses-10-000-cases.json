@@ -129,6 +129,9 @@
   "publishedAt": "2026-10-27T16:32:58.305Z",
   "updatedAt": "2026-10-27T16:32:58.305Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172946694681745",
+    "sharedAt": "2026-10-27T16:37:38.242Z"
+  },
   "ogImage": "/og/ebola-crisis-in-central-africa-surpasses-10-000-cases.jpg"
 }
