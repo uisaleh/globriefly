@@ -62,6 +62,9 @@
   "publishedAt": "2026-10-27T06:32:55.000Z",
   "updatedAt": "2026-10-27T06:32:55.000Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172913634681745",
+    "sharedAt": "2026-10-27T06:41:38.575Z"
+  },
   "ogImage": "/og/targeting-yellow-journalism-not-honest-media-dr-enayetullah-abbasi-stance-clarified.jpg"
 }

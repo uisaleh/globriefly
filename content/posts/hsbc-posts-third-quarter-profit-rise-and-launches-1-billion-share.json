@@ -97,6 +97,9 @@
   "publishedAt": "2026-10-27T06:38:26.329Z",
   "updatedAt": "2026-10-27T06:38:26.329Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172913790681745",
+    "sharedAt": "2026-10-27T06:42:00.013Z"
+  },
   "ogImage": "/og/hsbc-posts-third-quarter-profit-rise-and-launches-1-billion-share.jpg"
 }
