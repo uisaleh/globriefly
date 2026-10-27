@@ -57,7 +57,7 @@ export default async function ArticlePage({ params }) {
     dateModified: post.updatedAt || post.publishedAt,
     articleSection: post.cat.label,
     keywords: (post.tags || []).join(', '),
-    author: { '@type': 'Organization', name: `${site.name} ${post.cat.label} Desk`, url: site.url },
+    author: { '@type': 'Organization', name: post.byline ? `${site.name} ${post.byline}` : `${site.name} ${post.cat.label} Desk`, url: site.url },
     publisher: { '@type': 'NewsMediaOrganization', name: site.name, logo: { '@type': 'ImageObject', url: `${site.url}/logo.png` } },
     mainEntityOfPage: url,
     isAccessibleForFree: true,
@@ -100,7 +100,7 @@ export default async function ArticlePage({ params }) {
                 <svg width="26" height="26" viewBox="0 0 32 32"><circle cx="14" cy="16" r="11" fill="none" stroke="#FFFFFF" strokeWidth="3" /><ellipse cx="14" cy="16" rx="4.5" ry="11" fill="none" stroke="#FFFFFF" strokeWidth="2" /><rect x="9" y="13.5" width="23" height="5" rx="1" fill="#E5142B" /></svg>
               </span>
               <span style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
-                <span style={{ fontWeight: 700, fontSize: 15 }}>Globriefly {post.cat.label} Desk</span>
+                <span style={{ fontWeight: 700, fontSize: 15 }}>{post.byline || `Globriefly ${post.cat.label} Desk`}</span>
                 <span className="meta">
                   Published {formatDateTime(post.publishedAt)}
                   {post.updatedAt && post.updatedAt !== post.publishedAt ? ` · Updated ${formatDateTime(post.updatedAt)}` : ''}

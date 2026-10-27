@@ -29,6 +29,15 @@ const img = (src, style) => ({ type: 'img', props: { src, style } });
 
 async function toDataUri(url) {
   if (!url) return null;
+  // Photos stored on the site itself (e.g. supplied photos in public/images/)
+  if (url.startsWith('/')) {
+    try {
+      const file = path.join(process.cwd(), 'public', url);
+      const ext = path.extname(file).toLowerCase();
+      if (!/\.(jpe?g|png)$/.test(ext)) return null;
+      return `data:image/${ext === '.png' ? 'png' : 'jpeg'};base64,${fs.readFileSync(file).toString('base64')}`;
+    } catch { return null; }
+  }
   try {
     const res = await fetchWithTimeout(url, {}, 20000);
     if (!res.ok) return null;
@@ -68,8 +77,8 @@ function latinize(str = '') {
 export async function renderCard(post) {
   const cat = categoryBySlug[post.category] || categoryBySlug.world;
   const photo = await toDataUri(post.image?.src);
-  const headline = clip(post.headline, 110);
-  const size = headline.length > 85 ? 56 : headline.length > 52 ? 62 : 78;
+  const headline = clip(post.headline, 140);
+  const size = headline.length > 110 ? 50 : headline.length > 85 ? 56 : headline.length > 52 ? 62 : 78;
   const summary = clip(post.socialSummary || post.standfirst, 120);
 
   const tree = h('div', { width: W, height: H, display: 'flex', flexDirection: 'column', position: 'relative', backgroundColor: cat.color, fontFamily: 'Archivo', color: '#fff' }, [
