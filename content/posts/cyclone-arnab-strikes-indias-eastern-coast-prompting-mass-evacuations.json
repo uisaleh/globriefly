@@ -110,6 +110,9 @@
   "publishedAt": "2026-10-28T08:22:34.726Z",
   "updatedAt": "2026-10-28T08:22:34.726Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172997460681745",
+    "sharedAt": "2026-10-28T08:25:49.183Z"
+  },
   "ogImage": "/og/cyclone-arnab-strikes-indias-eastern-coast-prompting-mass-evacuations.jpg"
 }
