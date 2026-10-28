@@ -30,6 +30,15 @@ export async function generateMetadata({ params }) {
   };
 }
 
+// Turns [text](https://…) inside story text into links.
+function withLinks(text) {
+  const parts = String(text).split(/(\[[^\]]+\]\(https?:\/\/[^)\s]+\))/g);
+  return parts.map((part, i) => {
+    const m = part.match(/^\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)$/);
+    return m ? <a key={i} href={m[2]} target="_blank" rel="noopener" style={{ textDecoration: 'underline', color: 'var(--cat)' }}>{m[1]}</a> : part;
+  });
+}
+
 function ShareIcon({ href, label, children }) {
   return <a href={href} aria-label={label} className="icon-btn" target="_blank" rel="noopener">{children}</a>;
 }
@@ -75,7 +84,7 @@ export default async function ArticlePage({ params }) {
   const renderSection = (s, i) => (
     <div key={i} style={{ display: 'contents' }}>
       {s.heading ? <h2 data-tts="">{s.heading}</h2> : null}
-      {(s.paragraphs || []).map((para, j) => <p key={j} data-tts="">{para}</p>)}
+      {(s.paragraphs || []).map((para, j) => <p key={j} data-tts="">{withLinks(para)}</p>)}
     </div>
   );
 
