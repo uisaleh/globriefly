@@ -1,23 +1,19 @@
-15:57:51 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-15:57:51 collecting videos…
-15:57:51   video feed BBC News: 15 in feed, 5 kept
-15:57:51   video feed Al Jazeera English: 15 in feed, 5 kept
-15:57:51   video feed DW News: 15 in feed, 5 kept
-15:57:51   video feed FRANCE 24 English: 15 in feed, 5 kept
-15:57:51   video feed Sky News: 15 in feed, 5 kept
-15:57:51   video feed Reuters: 15 in feed, 5 kept
-15:57:51   video feed Associated Press: 15 in feed, 5 kept
-15:57:51 videos: saved 24
-15:57:51 collecting feeds…
-15:57:58 911 new items
-15:58:00 675 candidate stories
-15:58:00 categories needing stories: science, health, entertainment, politics, technology, sports → reserved science
-15:58:00 writing: Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet (2 sources)
-15:58:00   source text: 6405 / 0 chars
-15:58:30 writer returned unusable output: { "headline": "Distant icy world spotted beyond Neptune could be a rare dwarf planet", "standfirst": "Astronomers have detected a mysterious, bright object 
-15:58:30   skipped
-15:58:30 writing: Flávio Bolsonaro lands in Miami after fleeing Brazil (10 sources)
-15:58:31   source text: 2075 / 3112 / 871 / 3527 chars
-15:58:52   too close to source wording — rewriting
-15:59:17   ✓ published: /news/defeated-brazilian-politician-arrives-in-miami-following-sudden/ [world] image: wikimedia via idea "Miami airport private jet"
-15:59:17 done — 1 stories
+18:00:23 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+18:00:23 collecting videos…
+18:00:23   video feed BBC News: 15 in feed, 5 kept
+18:00:23   video feed Al Jazeera English: 15 in feed, 5 kept
+18:00:23   video feed DW News: 15 in feed, 5 kept
+18:00:23   video feed FRANCE 24 English: 15 in feed, 5 kept
+18:00:23   video feed Sky News: 15 in feed, 5 kept
+18:00:23   video feed Reuters: 15 in feed, 5 kept
+18:00:23   video feed Associated Press: 15 in feed, 5 kept
+18:00:23 videos: saved 24
+18:00:23 collecting feeds…
+18:00:30 945 new items
+18:00:32 697 candidate stories
+18:00:32 categories needing stories: science, health, entertainment, business, technology, sports → reserved science
+18:00:32 writing: Climate change amplified 2024 European floods more than rainfall, models show (1 sources)
+18:00:32   source text: 5798 chars
+18:01:18 image source error: The operation was aborted due to timeout
+18:01:23   ✓ published: /news/climate-change-magnified-2024-european-floods-past-rainfall-levels/ [science] image: wikimedia via name "Kłodzko"
+18:01:23 done — 1 stories
