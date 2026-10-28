@@ -77,7 +77,7 @@ function latinize(str = '') {
 export async function renderCard(post) {
   const cat = categoryBySlug[post.category] || categoryBySlug.world;
   const photo = await toDataUri(post.image?.src);
-  const headline = clip(post.headline, 140);
+  const headline = clip(post.cardTitle || post.headline, 140); // cardTitle: optional shorter title just for the card
   const size = headline.length > 110 ? 50 : headline.length > 85 ? 56 : headline.length > 52 ? 62 : 78;
   const summary = clip(post.socialSummary || post.standfirst, 120);
 
