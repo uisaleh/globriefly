@@ -93,6 +93,9 @@
   "publishedAt": "2026-10-28T21:00:23.809Z",
   "updatedAt": "2026-10-28T21:00:23.809Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173041044681745",
+    "sharedAt": "2026-10-28T21:04:00.682Z"
+  },
   "ogImage": "/og/congressional-inquiry-requested-into-financial-claims-of-official.jpg"
 }
