@@ -1,22 +1,23 @@
-08:22:14 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-08:22:14 collecting videos…
-08:22:14   video feed BBC News: 15 in feed, 5 kept
-08:22:14   video feed Al Jazeera English: 15 in feed, 5 kept
-08:22:15   video feed DW News: 15 in feed, 5 kept
-08:22:15   video feed FRANCE 24 English: 15 in feed, 5 kept
-08:22:15   video feed Sky News: 15 in feed, 5 kept
-08:22:15   video feed Reuters: 15 in feed, 5 kept
-08:22:15   video feed Associated Press: 15 in feed, 5 kept
-08:22:15 videos: saved 24
-08:22:15 collecting feeds…
-08:22:20 636 new items
-08:22:21 479 candidate stories
-08:22:21 categories needing stories: science, entertainment, politics, technology, sports, world → reserved science
-08:22:21 writing: Climate health harms outpace action, prompting calls for global health emergency (2 sources)
-08:22:22   source text: 7000 / 7000 chars
-08:22:27 writer returned unusable output: { "headline": "Climate change health risks outpace global response, experts warn", "standfirst": "A major new study reveals that climate-driven health harms
-08:22:27   skipped
-08:22:27 writing: Cyclone Arnab makes landfall in India’s Andhra Pradesh (4 sources)
-08:22:28   source text: 2497 / 2615 / 1791 chars
-08:22:35   ✓ published: /news/cyclone-arnab-strikes-indias-eastern-coast-prompting-mass-evacuations/ [world] image: wikimedia via idea "Andhra Pradesh coastal flooding"
-08:22:35 done — 1 stories
+15:57:51 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+15:57:51 collecting videos…
+15:57:51   video feed BBC News: 15 in feed, 5 kept
+15:57:51   video feed Al Jazeera English: 15 in feed, 5 kept
+15:57:51   video feed DW News: 15 in feed, 5 kept
+15:57:51   video feed FRANCE 24 English: 15 in feed, 5 kept
+15:57:51   video feed Sky News: 15 in feed, 5 kept
+15:57:51   video feed Reuters: 15 in feed, 5 kept
+15:57:51   video feed Associated Press: 15 in feed, 5 kept
+15:57:51 videos: saved 24
+15:57:51 collecting feeds…
+15:57:58 911 new items
+15:58:00 675 candidate stories
+15:58:00 categories needing stories: science, health, entertainment, politics, technology, sports → reserved science
+15:58:00 writing: Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet (2 sources)
+15:58:00   source text: 6405 / 0 chars
+15:58:30 writer returned unusable output: { "headline": "Distant icy world spotted beyond Neptune could be a rare dwarf planet", "standfirst": "Astronomers have detected a mysterious, bright object 
+15:58:30   skipped
+15:58:30 writing: Flávio Bolsonaro lands in Miami after fleeing Brazil (10 sources)
+15:58:31   source text: 2075 / 3112 / 871 / 3527 chars
+15:58:52   too close to source wording — rewriting
+15:59:17   ✓ published: /news/defeated-brazilian-politician-arrives-in-miami-following-sudden/ [world] image: wikimedia via idea "Miami airport private jet"
+15:59:17 done — 1 stories

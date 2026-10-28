@@ -1,9 +1,5 @@
 {
   "urls": {
-    "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html": 1792590225465,
-    "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf": 1792590225465,
-    "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss": 1792590232858,
-    "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss": 1792590232858,
     "https://variety.com/2026/biz/news/meta-ordered-to-pay-25-billion-new-mexico-data-privacy-case-1236919060/": 1792607695490,
     "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html": 1792607695490,
     "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html": 1792607709946,
@@ -324,11 +320,22 @@
     "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh?traffic_source=rss": 1793175753975,
     "https://abcnews.com/International/wireStory/cyclone-arnab-hits-indias-andhra-pradesh-state-tens-137629755": 1793175753975,
     "https://www.euronews.com/2026/10/28/india-evacuates-tens-of-thousands-as-cyclone-arnab-makes-landfall": 1793175753975,
-    "https://www.scmp.com/news/asia/south-asia/article/3372365/100000-evacuated-india-cyclone-arnab-makes-landfall-southeast-coast": 1793175753975
+    "https://www.scmp.com/news/asia/south-asia/article/3372365/100000-evacuated-india-cyclone-arnab-makes-landfall-southeast-coast": 1793175753975,
+    "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet": 1793203110327,
+    "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html": 1793203110327,
+    "https://thehill.com/policy/international/6178060-flavio-bolsonaro-brazil-election-miami-trump-administration/": 1793203155876,
+    "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html": 1793203155876,
+    "https://www.dw.com/en/flavio-bolsonaro-lands-in-miami-after-fleeing-brazil-for-us/a-79788659?maca=en-rss-en-all-1573-rdf": 1793203155876,
+    "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss": 1793203155876,
+    "https://timesofindia.indiatimes.com/world/us/flavio-bolsonaro-lands-in-miami-after-leaving-brazil-following-election-defeat-to-lula/articleshow/135269431.cms": 1793203155876,
+    "https://www.thehindu.com/news/international/flavio-bolsonaro-flees-brazil-and-boards-a-flight-to-ecuador-after-election-loss-to-lula/article71634871.ece": 1793203155876,
+    "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/": 1793203155876,
+    "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat": 1793203155876,
+    "https://www.france24.com/en/brazil-bolsonaro-defeated-and-on-the-run": 1793203155876,
+    "https://www.euronews.com/2026/10/28/us-to-grant-flavio-bolsonaro-visa-as-he-flees-brazil-and-makes-brief-stop-in-ecuador-via-a": 1793203155876,
+    "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled": 1793203155876
   },
   "fps": {
-    "elon-musk-ordered-report-slowdown-starlink-ukraine": 1792590225465,
-    "126m-accused-arrest-authorities-fraud-man-pakistani-postage": 1792590232858,
     "billion-case-data-meta-mexico-ordered-pay-privacy": 1792607695490,
     "accountant-accuses-attorney-epstein-facilitating-lawsuit-mexico-sex": 1792607709946,
     "champions-continue-league-leipzig-madrid-perfect-real-rout": 1792621077544,
@@ -411,6 +418,8 @@
     "2026-2027-announcer-following-kent-longtime-nebraska-pavelka": 1793150323965,
     "here-latest": 1793150333836,
     "action-calls-climate-emergency-global-harms-health-outpace": 1793175747900,
-    "andhra-arnab-cyclone-india-landfall-makes-pradesh": 1793175753975
+    "andhra-arnab-cyclone-india-landfall-makes-pradesh": 1793175753975,
+    "astronomers-beyond-dwarf-found-mysterious-neptune-object-planet": 1793203110327,
+    "bolsonaro-brazil-fleeing-lands-miami-vio": 1793203155876
   }
 }
