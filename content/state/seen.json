@@ -1,9 +1,5 @@
 {
   "urls": {
-    "https://variety.com/2026/biz/news/meta-ordered-to-pay-25-billion-new-mexico-data-privacy-case-1236919060/": 1792607695490,
-    "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html": 1792607695490,
-    "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html": 1792607709946,
-    "https://www.theguardian.com/us-news/2026/oct/21/epstein-attorney-accountant-lawsuit": 1792607709946,
     "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss": 1792621077544,
     "https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o?at_medium=RSS&at_campaign=rss": 1792621077544,
     "https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live": 1792621077544,
@@ -334,11 +330,21 @@
     "https://www.france24.com/en/brazil-bolsonaro-defeated-and-on-the-run": 1793203155876,
     "https://www.euronews.com/2026/10/28/us-to-grant-flavio-bolsonaro-visa-as-he-flees-brazil-and-makes-brief-stop-in-ecuador-via-a": 1793203155876,
     "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled": 1793203155876,
-    "https://phys.org/news/2026-10-climate-amplified-european-rainfall.html": 1793210451273
+    "https://phys.org/news/2026-10-climate-amplified-european-rainfall.html": 1793210451273,
+    "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss": 1793221222995,
+    "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/": 1793221233153,
+    "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates": 1793221233153,
+    "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html": 1793221233153,
+    "https://www.france24.com/en/spain-high-speed-train-crash-kills-68-injures-over-100": 1793221233153,
+    "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo": 1793221233153,
+    "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html": 1793221233153,
+    "https://www.france24.com/en/video/20261028-at-least-64-dead-in-spain-s-high-speed-train-crash": 1793221233153,
+    "http://www.africanews.com/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash/": 1793221233153,
+    "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash": 1793221233153,
+    "https://www.channelnewsasia.com/world/spain-high-speed-train-collision-people-killed-injured-6499336": 1793221233153,
+    "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster": 1793221233154
   },
   "fps": {
-    "billion-case-data-meta-mexico-ordered-pay-privacy": 1792607695490,
-    "accountant-accuses-attorney-epstein-facilitating-lawsuit-mexico-sex": 1792607709946,
     "champions-continue-league-leipzig-madrid-perfect-real-rout": 1792621077544,
     "agrees-call-hit-kyiv-missiles-peace-resume-russia": 1792621085889,
     "cancer-further-leo-need-pope-treatment-vatican": 1792632482242,
@@ -422,6 +428,8 @@
     "andhra-arnab-cyclone-india-landfall-makes-pradesh": 1793175753975,
     "astronomers-beyond-dwarf-found-mysterious-neptune-object-planet": 1793203110327,
     "bolsonaro-brazil-fleeing-lands-miami-vio": 1793203155876,
-    "2024-amplified-change-climate-european-floods-models-rainfall": 1793210451273
+    "2024-amplified-change-climate-european-floods-models-rainfall": 1793210451273,
+    "claims-drug-government-lawmaker-probe-savings-stat-trumprx": 1793221222995,
+    "crash-dozens-high-injured-kills-least-spain-speed": 1793221233154
   }
 }

@@ -1,19 +1,23 @@
-18:00:23 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-18:00:23 collecting videos…
-18:00:23   video feed BBC News: 15 in feed, 5 kept
-18:00:23   video feed Al Jazeera English: 15 in feed, 5 kept
-18:00:23   video feed DW News: 15 in feed, 5 kept
-18:00:23   video feed FRANCE 24 English: 15 in feed, 5 kept
-18:00:23   video feed Sky News: 15 in feed, 5 kept
-18:00:23   video feed Reuters: 15 in feed, 5 kept
-18:00:23   video feed Associated Press: 15 in feed, 5 kept
-18:00:23 videos: saved 24
-18:00:23 collecting feeds…
-18:00:30 945 new items
-18:00:32 697 candidate stories
-18:00:32 categories needing stories: science, health, entertainment, business, technology, sports → reserved science
-18:00:32 writing: Climate change amplified 2024 European floods more than rainfall, models show (1 sources)
-18:00:32   source text: 5798 chars
-18:01:18 image source error: The operation was aborted due to timeout
-18:01:23   ✓ published: /news/climate-change-magnified-2024-european-floods-past-rainfall-levels/ [science] image: wikimedia via name "Kłodzko"
-18:01:23 done — 1 stories
+20:59:59 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+20:59:59 collecting videos…
+20:59:59   video feed BBC News: 15 in feed, 5 kept
+20:59:59   video feed Al Jazeera English: 15 in feed, 5 kept
+21:00:00   video feed DW News: 15 in feed, 5 kept
+21:00:00   video feed FRANCE 24 English: 15 in feed, 5 kept
+21:00:00   video feed Sky News: 15 in feed, 5 kept
+21:00:00   video feed Reuters: 15 in feed, 5 kept
+21:00:00   video feed Associated Press: 15 in feed, 5 kept
+21:00:00 videos: saved 24
+21:00:00 collecting feeds…
+21:00:07 943 new items
+21:00:09 695 candidate stories
+21:00:09 categories needing stories: health, entertainment, business, technology, sports → reserved health
+21:00:09 writing: STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings (1 sources)
+21:00:09   source text: 1356 chars
+21:00:15   too close to source wording — rewriting
+21:00:26   ✓ published: /news/congressional-inquiry-requested-into-financial-claims-of-official/ [health] image: wikimedia via idea "Capitol building Washington DC"
+21:00:26 writing: High-speed train crash in Spain kills at least 68, dozens injured (9 sources)
+21:00:27   source text: 4632 / 7000 / 322 / 2931 chars
+21:00:48 image source error: The operation was aborted due to timeout
+21:00:50   ✓ published: /news/spain-mourns-dozens-killed-in-high-speed-rail-disaster/ [world] image: wikimedia via name "Spain"
+21:00:50 done — 2 stories
