@@ -94,6 +94,9 @@
   "publishedAt": "2026-10-28T01:19:15.186Z",
   "updatedAt": "2026-10-28T01:19:15.186Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172972926681745",
+    "sharedAt": "2026-10-28T01:23:17.739Z"
+  },
   "ogImage": "/og/what-is-behind-the-new-economic-plan-and-budget-debate.jpg"
 }

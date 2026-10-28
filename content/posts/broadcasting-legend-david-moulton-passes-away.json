@@ -96,6 +96,9 @@
   "publishedAt": "2026-10-28T01:18:44.945Z",
   "updatedAt": "2026-10-28T01:18:44.945Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122172972554681745",
+    "sharedAt": "2026-10-28T01:22:26.903Z"
+  },
   "ogImage": "/og/broadcasting-legend-david-moulton-passes-away.jpg"
 }
