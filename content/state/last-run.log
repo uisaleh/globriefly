@@ -1,23 +1,24 @@
-21:15:57 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-21:15:57 collecting videos…
-21:15:58   video feed BBC News: 15 in feed, 5 kept
-21:15:58   video feed Al Jazeera English: 15 in feed, 5 kept
-21:15:58   video feed DW News: 15 in feed, 5 kept
-21:15:58   video feed FRANCE 24 English: 15 in feed, 5 kept
-21:15:58   video feed Sky News: 15 in feed, 5 kept
-21:15:58   video feed Reuters: 15 in feed, 5 kept
-21:15:58   video feed Associated Press: 15 in feed, 5 kept
-21:15:58 videos: saved 24
-21:15:58 collecting feeds…
-21:16:05 923 new items
-21:16:07 699 candidate stories
-21:16:07 categories needing stories: technology, world, politics, sports → reserved technology
-21:16:07 writing: Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering (2 sources)
-21:16:07   source text: 4501 / 1515 chars
-21:16:29 image source error: The operation was aborted due to timeout
-21:16:31   ✓ published: /news/google-deepmind-unveils-genie-4-interactive-world-model/ [technology] image: wikimedia via name "Google DeepMind"
-21:16:31 writing: Live Updates: Israeli Exit Polls Show Strength of Opposition to Netanyahu but No Clear Winner (5 sources)
-21:16:32   source text: 7000 / 2065 / 1130 chars
-21:16:52 image source error: The operation was aborted due to timeout
-21:16:54   ✓ published: /news/israel-faces-political-deadlock-as-exit-polls-show-tight-race/ [world] image: wikimedia via name "Benjamin Netanyahu"
-21:16:54 done — 2 stories
+01:15:59 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+01:16:00 collecting videos…
+01:16:26   video feed BBC News failed: Status code 404
+01:16:26   video feed Al Jazeera English: 15 in feed, 5 kept
+01:16:52   video feed DW News failed: Status code 404
+01:17:18   video feed FRANCE 24 English failed: Status code 404
+01:17:45   video feed Sky News failed: Status code 404
+01:18:11   video feed Reuters failed: Status code 404
+01:18:30 videos: saved 24
+01:18:30 collecting feeds…
+01:18:37 831 new items
+01:18:38 624 candidate stories
+01:18:38 categories needing stories: sports, politics, technology, world → reserved sports
+01:18:38 writing: Longtime Nebraska play-by-play announcer Kent Pavelka will retire following 2026-2027 season (2 sources)
+01:18:38   video feed Associated Press failed: Status code 404
+01:18:39   source text: 493 / 7000 chars
+01:18:47   ✓ published: /news/broadcasting-legend-david-moulton-passes-away/ [sports] image: wikimedia via idea "microphone broadcast booth"
+01:18:47 writing: Here’s the latest. (12 sources)
+01:18:48   source text: 5836 / 6108 / 7000 chars
+01:18:55   ✓ published: /news/chancellor-john-healey-prepares-first-uk-budget-amid-historic-borrowing/ [politics] image: wikimedia via idea "UK parliament building London"
+01:18:55 writing explainer for: Here’s the latest.
+01:19:14 image source error: The operation was aborted due to timeout
+01:19:16   ✓ explainer: /news/what-is-behind-the-new-economic-plan-and-budget-debate/
+01:19:16 done — 2 stories

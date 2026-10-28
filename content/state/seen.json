@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case": 1792534572634,
-    "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf": 1792534572634,
-    "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss": 1792534572634,
-    "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto": 1792534579157,
-    "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/": 1792534579157,
     "https://www.theguardian.com/football/2026/oct/21/manchester-city-david-kogan-independent-football-regulator": 1792546264064,
     "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss": 1792546264064,
     "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss": 1792546271203,
@@ -315,11 +310,26 @@
     "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates": 1793135797005,
     "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss": 1793135797005,
     "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack": 1793135797005,
-    "https://www.euronews.com/2026/10/27/exit-polls-suggest-no-clear-victor-in-israeli-election": 1793135797005
+    "https://www.euronews.com/2026/10/27/exit-polls-suggest-no-clear-victor-in-israeli-election": 1793135797005,
+    "https://sports.yahoo.com/articles/longtime-nebraska-play-play-announcer-010024485.html": 1793150323965,
+    "\n                                                https://www.cbssports.com/\n                    ": 1793150323965,
+    "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest": 1793150333836,
+    "https://sports.yahoo.com/articles/did-deion-sanders-really-offer-010056175.html": 1793150333836,
+    "https://sports.yahoo.com/articles/alabama-dismisses-defensive-back-reported-005527317.html": 1793150333836,
+    "https://www.rollingstone.com/music/music-news/jay-z-j-cole-lil-durk-bond-quando-rondo-king-von-1235649026/": 1793150333836,
+    "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss": 1793150333836,
+    "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge": 1793150333836,
+    "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/": 1793150333836,
+    "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html": 1793150333836,
+    "https://www.rollingstone.com/music/music-country/brad-paisley-support-for-ukraine-russian-invasion-1235648809/": 1793150333836,
+    "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur": 1793150333836,
+    "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer": 1793150333836,
+    "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-evening": 1793150333836,
+    "https://www.engadget.com/2284038/playstation-5-display-whos-speaking-party-voice-feature/": 1793150333836,
+    "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/": 1793150333836,
+    "https://www.scmp.com/news/china/diplomacy/article/3372340/german-leaders-china-visit-latest-sign-foreign-diplomacy-pivot-beyond-beijing": 1793150333836
   },
   "fps": {
-    "abuja-arriving-case-confirms-ebola-nigeria-positive-tests": 1792534572634,
-    "car-gemini-google-heading-personalized-your": 1792534579157,
     "absolute-city-football-force-has-manchester-power-regulator": 1792546264064,
     "being-considered-elon-merger-musk-spacex-tesla": 1792546271203,
     "brings-cigarette-early-error-germany-hike-news-tax": 1792567875102,
@@ -404,6 +414,8 @@
     "000-africa-cases-congo-ebola-mainly-outbreak-tops": 1793118761215,
     "anthropic-business-ipo-risky": 1793118785511,
     "adds-audio-genie-google-model-real-realistic-steering": 1793135773579,
-    "clear-exit-israeli-live-netanyahu-opposition-polls-show": 1793135797005
+    "clear-exit-israeli-live-netanyahu-opposition-polls-show": 1793135797005,
+    "2026-2027-announcer-following-kent-longtime-nebraska-pavelka": 1793150323965,
+    "here-latest": 1793150333836
   }
 }
