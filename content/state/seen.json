@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://www.theguardian.com/football/2026/oct/21/manchester-city-david-kogan-independent-football-regulator": 1792546264064,
-    "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss": 1792546264064,
-    "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss": 1792546271203,
-    "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/": 1792546271203,
-    "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees": 1792546271203,
-    "https://www.dw.com/en/germany-news-tech-error-brings-early-cigarette-tax-hike/live-79719483?maca=en-rss-en-all-1573-rdf": 1792567875102,
-    "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss": 1792567875102,
-    "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&at_campaign=rss": 1792567889781,
-    "https://www.theguardian.com/sport/2026/oct/20/nba-opening-night-2026-results-pistons-celtics-sixers-knicks-spurs-thunder": 1792567889781,
     "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html": 1792590225465,
     "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf": 1792590225465,
     "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss": 1792590232858,
@@ -327,13 +318,15 @@
     "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-evening": 1793150333836,
     "https://www.engadget.com/2284038/playstation-5-display-whos-speaking-party-voice-feature/": 1793150333836,
     "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/": 1793150333836,
-    "https://www.scmp.com/news/china/diplomacy/article/3372340/german-leaders-china-visit-latest-sign-foreign-diplomacy-pivot-beyond-beijing": 1793150333836
+    "https://www.scmp.com/news/china/diplomacy/article/3372340/german-leaders-china-visit-latest-sign-foreign-diplomacy-pivot-beyond-beijing": 1793150333836,
+    "https://phys.org/news/2026-10-climate-health-outpace-action-prompting.html": 1793175747900,
+    "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf": 1793175747900,
+    "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh?traffic_source=rss": 1793175753975,
+    "https://abcnews.com/International/wireStory/cyclone-arnab-hits-indias-andhra-pradesh-state-tens-137629755": 1793175753975,
+    "https://www.euronews.com/2026/10/28/india-evacuates-tens-of-thousands-as-cyclone-arnab-makes-landfall": 1793175753975,
+    "https://www.scmp.com/news/asia/south-asia/article/3372365/100000-evacuated-india-cyclone-arnab-makes-landfall-southeast-coast": 1793175753975
   },
   "fps": {
-    "absolute-city-football-force-has-manchester-power-regulator": 1792546264064,
-    "being-considered-elon-merger-musk-spacex-tesla": 1792546271203,
-    "brings-cigarette-early-error-germany-hike-news-tax": 1792567875102,
-    "76ers-beat-james-knicks-lebron-nba-night-opening": 1792567889781,
     "elon-musk-ordered-report-slowdown-starlink-ukraine": 1792590225465,
     "126m-accused-arrest-authorities-fraud-man-pakistani-postage": 1792590232858,
     "billion-case-data-meta-mexico-ordered-pay-privacy": 1792607695490,
@@ -416,6 +409,8 @@
     "adds-audio-genie-google-model-real-realistic-steering": 1793135773579,
     "clear-exit-israeli-live-netanyahu-opposition-polls-show": 1793135797005,
     "2026-2027-announcer-following-kent-longtime-nebraska-pavelka": 1793150323965,
-    "here-latest": 1793150333836
+    "here-latest": 1793150333836,
+    "action-calls-climate-emergency-global-harms-health-outpace": 1793175747900,
+    "andhra-arnab-cyclone-india-landfall-makes-pradesh": 1793175753975
   }
 }

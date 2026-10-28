@@ -1,37 +1,133 @@
 {
-  "updatedAt": "2026-10-28T01:18:30.043Z",
+  "updatedAt": "2026-10-28T08:22:15.990Z",
   "videos": [
     {
-      "id": "AL-rCINSMUE",
-      "title": "Forever Wars: Why can't America stop?",
+      "id": "SixklSR36dE",
+      "title": "Netanyahu: 'A man who has defied the odds yet again'",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-28T08:10:40.000Z",
+      "description": "Benjamin Netanyahu's fight for political survival is very much alive, with his bloc and its rival both claiming to have done enough to win a pivotal Israeli general election."
+    },
+    {
+      "id": "5wVZ_PRrkgM",
+      "title": "Why the US midterms matter even if you don't live in America",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-27T21:08:55.000Z",
-      "description": "The United States is once again at war in the Middle East, and most Americans say it isn't worth the cost."
+      "publishedAt": "2026-10-28T08:04:41.000Z",
+      "description": "Why the US midterms matter even if you don't live in America "
     },
     {
-      "id": "nz3zOJaRPX8",
-      "title": "Protesters storm TV channel offices in Belgrade demanding apology",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-27T20:52:23.000Z",
-      "description": "Protesters stormed the offices of Informer TV in Belgrade and demanded the editor-in-chief make a public apology for the outlet's pro-government coverage. The incident comes one day after a student-led movement called th"
+      "id": "e2c4khMyGNo",
+      "title": "Five civilians including a child injured in Russian strike on Kharkiv",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-28T08:00:39.000Z",
+      "description": "A Russian drone strike wounded five people, including a 4-year-old child, and sparked a large fire in Kharkiv overnight, Ukraine’s State Emergency Service said.\r"
     },
     {
-      "id": "MaIFGhaKF_s",
-      "title": "The UK government wants you to stockpile, but why?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-27T20:30:37.000Z",
-      "description": "Major retailers have reported a big rise in sales of tinned food, bottled water, wind up radios and batteries, after the government launched its 'be ready' campaign."
-    },
-    {
-      "id": "0z2LzuduFU8",
-      "title": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
+      "id": "e3G4U60J-C4",
+      "title": "Israel election: 'Wishful thinking' for pro- and anti-Netanyahu parties? • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-27T19:44:06.000Z",
-      "description": "Annette Young is pleased to welcome Alain Greilsammer, Professor of Political Science at Bar-Ilan University in Tel Aviv. In the wake of the October 7 attacks, regional tensions with Iran, and deepening domestic division"
+      "publishedAt": "2026-10-28T07:49:20.000Z",
+      "description": "PRESS REVIEW – Wednesday, October 28: Papers react to the ongoing elections in Israel. Next: Macklemore's Free Palestine tour is coming to Paris. Also: antidepressants don't work the way we all thought. Finally: a sneak "
+    },
+    {
+      "id": "lM3f0RFPBNU",
+      "title": "Netanyahu calls for right-wing government after deadlocked vote",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-28T07:06:19.000Z",
+      "description": "Israeli Prime Minister Benjamin Netanyahu insisted a 'right-wing' government must be formed to ensure long term security in the country, after exit polls showed Israel's wartime election appeared deadlocked with his Liku"
+    },
+    {
+      "id": "UOec8LbTwSA",
+      "title": "Berlin Briefing recommends: Call Sign Condor",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-28T06:00:05.000Z",
+      "description": "DW’s Max Hofmann speaks with DW correspondent Carolina Chimoy about her new podcast series, Call Sign Condor. Following Latin American soldiers fighting in Ukraine, the series explores the personal stories, motivations a"
+    },
+    {
+      "id": "-Eyhgu46aUo",
+      "title": "Defeated Brazilian presidential candidate Flávio Bolsonaro arrives in US.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-28T03:05:22.000Z",
+      "description": ""
+    },
+    {
+      "id": "RcTbfZXiiOE",
+      "title": "Budget day: Six charts Chancellor John Healey can’t ignore",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-28T07:54:43.000Z",
+      "description": "It took over 300 years for Britain’s debt to reach £1 trillion, but just six to go from £2 trillion to £3 trillion. "
+    },
+    {
+      "id": "OshE0eiOilY",
+      "title": "Elderly women and children survive Russian attack on Kharkiv",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-28T07:34:17.000Z",
+      "description": "A Russian drone attack in Ukraine's Kharkiv late Tuesday forced elderly women and children to evacuate their homes. Firefighters were seen leading a disabled woman to safety as houses and industrial buildings were destro"
+    },
+    {
+      "id": "wKVD14csodg",
+      "title": "Eisenkot promises 'a new era of hope' for Israelis if elected",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-28T07:30:13.000Z",
+      "description": "Eisenkot promises 'a new era of hope' for Israelis if elected\r"
+    },
+    {
+      "id": "1fRYNNiTJqI",
+      "title": "Kylian Mbappé had to apologise after Mao Zedong joke • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-28T06:17:37.000Z",
+      "description": "Several major Chinese companies have ended their partnerships with Kylian Mbappé. He has apologised, citing “a deep respect for the Chinese people and their history”."
+    },
+    {
+      "id": "0IdhdAR6_5g",
+      "title": "‘The Gilded Age’ teases shifting ties in new season",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-28T05:57:46.000Z",
+      "description": "The cast of 'The Gilded Age' teased shifting relationships, growing ambitions and a clash between generations as they gathered in New York ahead of the show’s fourth season. "
+    },
+    {
+      "id": "6HuY-3kf-T8",
+      "title": "Merz in the Indo-Pacific: One world, shared risks",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-28T04:30:07.000Z",
+      "description": "Ukraine, China, trade, defense and supply chains: Friedrich Merz says Europe and the Indo-Pacific can no longer treat their security and economic risks separately. His answer is diversification and new partnerships."
+    },
+    {
+      "id": "jEvZtCWPPGU",
+      "title": "Could a Democrat flip deep-red Texas at the Midterms?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-28T01:30:23.000Z",
+      "description": "Texas has voted for every Republican president since 1980, but polls show the traditionally Republican state could elect its first Democratic senator in over 30 years. "
+    },
+    {
+      "id": "PKnWzu5u6iA",
+      "title": "Chancellor to deliver first Budget of Burnham premiership",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-27T19:21:47.000Z",
+      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews."
+    },
+    {
+      "id": "Uw_6VWlVbZY",
+      "title": "Can economies function without central banks?",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-28T06:17:25.000Z",
+      "description": "Can economies function without central banks?"
     },
     {
       "id": "h31XMqhtqRQ",
@@ -42,12 +138,36 @@
       "description": "Polling stations in Israel will close on Tuesday evening, but it could be weeks before Benjamin Netanyahu or one of his opponents will be declared the next prime minister, which might even require another election. "
     },
     {
-      "id": "girN75bH_g8",
-      "title": "Nanotyrannus skeleton 'Jodi' sells for $47.3 million at Sotheby's",
+      "id": "0z2LzuduFU8",
+      "title": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-27T19:44:06.000Z",
+      "description": "Annette Young is pleased to welcome Alain Greilsammer, Professor of Political Science at Bar-Ilan University in Tel Aviv. In the wake of the October 7 attacks, regional tensions with Iran, and deepening domestic division"
+    },
+    {
+      "id": "mT2-6dslUCQ",
+      "title": "Lula says Flavio Bolsonaro's exit from Brazil is shameful",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-27T19:11:57.000Z",
-      "description": "A Nanotyrannus skeleton known as “Jodi” sold for $47.3 million, including fees, at Sotheby’s New York, far exceeding its estimate of $6 million to $9 million."
+      "publishedAt": "2026-10-28T05:51:39.000Z",
+      "description": "Brazilian President Luiz Inacio Lula da Silva called Senator Flavio Bolsonaro’s departure from Brazil 'shameful,' saying his presidential election rival should have stayed to prove his innocence. "
+    },
+    {
+      "id": "cpyJSZQQZu8",
+      "title": "Riots turn Bilbao streets into a battleground",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-28T01:15:04.000Z",
+      "description": "In Bilbao, 19 people were arrested after demonstrations against far-right activist Vito Quiles’ planned visit to the University of Deusto escalated into violence, leaving burned-out bins and cars, and widespread destruct"
+    },
+    {
+      "id": "5Jis_GPPIkk",
+      "title": "US says it will issue visa to Flávio Bolsonaro after Brazil election defeat",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-28T00:20:16.000Z",
+      "description": "The US state department has told the BBC it will issue visas to Flávio Bolsonaro and his family as Brazilian authorities question his whereabouts."
     },
     {
       "id": "ipIVghPrYEM",
@@ -58,36 +178,12 @@
       "description": "The King has landed in the Bahamas as his nine-day-day tour of the Caribbean begins. His visit comes amid growing calls for a formal apology and reparations regarding Britain's role in the transatlantic slave trade."
     },
     {
-      "id": "oAkIMohXTtQ",
-      "title": "US Midterms 2026: Independent voters could decide who controls Congress",
+      "id": "unLDRrKRHDU",
+      "title": "Thousands flee Ethiopia violence, seek refuge in Kenya",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-27T21:00:27.000Z",
-      "description": "Independent voters could hold the balance of power in the 2026 US midterm elections. With control of Congress at stake, Republicans and Democrats are battling for the support of America's largest political bloc."
-    },
-    {
-      "id": "MlKgTXDamPE",
-      "title": "Finland and Norway open direct talks with Putin despite criticism",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-27T18:35:52.000Z",
-      "description": "A phone call between Alexander Stubb, Jonas Gahr Store and Vladimir Putin has exposed a debate among Ukraine's European allies. Finland and Norway say direct talks are necessary to push for an end to the war and were con"
-    },
-    {
-      "id": "k3xo3ktdfyM",
-      "title": "Are all processed foods bad for you?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-27T20:00:05.000Z",
-      "description": ""
-    },
-    {
-      "id": "uXcdcL9a1H8",
-      "title": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-27T19:00:13.000Z",
-      "description": "Erin Ogunkeye is pleased to welcome Ibrahim Abu Ahmad, Author, Palestinian Israeli political and peace activist and Head of Social Media for Israel's left-wing Democrats. “Currently, the sentiment in Israel is built arou"
+      "publishedAt": "2026-10-28T06:00:39.000Z",
+      "description": "Tens of thousands have fled heavy fighting in Ethiopia into northern Kenya, where a primary school in Moyale now shelters those seeking safety."
     },
     {
       "id": "U7lm0H8yyiY",
@@ -96,102 +192,6 @@
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
       "publishedAt": "2026-10-27T18:42:06.000Z",
       "description": "A local pause in fighting started at 3 a.m. to allow an aid mission into the Russian-occupied city of Oleshky this week. Food and medical supplies are running perilously low in Oleshky, where drones and land mines restri"
-    },
-    {
-      "id": "dHqCanoCSiA",
-      "title": "North Korea's artillery antics raise concerns at DMZ",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-27T18:44:28.000Z",
-      "description": "Visitors at a South Korean observatory overlooking North Korea expressed concern after North Korean artillery units were seen positioned in the open with their barrels facing south, amid renewed tensions on the Korean Pe"
-    },
-    {
-      "id": "C69l5X6TGws",
-      "title": "Rarely seen North Korean artillery near South Korean border",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-27T16:05:03.000Z",
-      "description": "North Korean artillery with barrels pointed towards South Korea can be seen near the border as tensions between the two intensify."
-    },
-    {
-      "id": "tPHvHt0XIiA",
-      "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-27T20:37:33.000Z",
-      "description": "Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party in the final minutes before polls close, warning, ‘If you don’t go and vote, we will lose’. His appeal comes as Israel records its highes"
-    },
-    {
-      "id": "VajGRxS8v20",
-      "title": "Why Anthropic's plan to go public could be a milestone for humankind",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-27T17:54:34.000Z",
-      "description": "The firm behind the Claude chatbot wants to go public. And in a filing ahead of that, it has provided details about its structure, its mission and risks. It has warned that AI - if not controlled - could pose 'existentia"
-    },
-    {
-      "id": "lTOzNAj9fJU",
-      "title": "Record numbers of Israelis vote in crucial election",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-27T19:43:03.000Z",
-      "description": "Israel's pivotal general election has seen a very high turnout - as Benjamin Netanyahu fights to remain as the country's prime minister."
-    },
-    {
-      "id": "-rjLpZheNcE",
-      "title": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-27T18:34:18.000Z",
-      "description": "Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the f"
-    },
-    {
-      "id": "_sNaQJIYfm4",
-      "title": "Susan Saint James, 'McMillan & Wife' star, dies at 80",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-27T18:00:04.000Z",
-      "description": "Susan Saint James, who co-starred with Rock Hudson in the 1970s TV crime series “McMillan & Wife” and the sitcom “Kate & Allie” in the 1980s, has died. She was 80. \r"
-    },
-    {
-      "id": "lF3Dlq0bcRc",
-      "title": "Trump says he will respect midterm results 'if they're honest elections'",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-27T18:18:29.000Z",
-      "description": "President Trump said he would respect the results of the November midterms \"if they're honest elections,\" when asked by a reporter. "
-    },
-    {
-      "id": "mAulKcGTRgM",
-      "title": "Philippines prosecutor: Markle investigation could start in a week",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-27T16:03:03.000Z",
-      "description": "Thomas Markle is being investigated over claims that he kept child sexual abuse images at his home, according to police in the Philippines. Mr Markle has denied possessing the images, calling the accusations \"sick lies\","
-    },
-    {
-      "id": "_kX36hTQMtA",
-      "title": "Lebanese and Syrians expect no change in Israeli policy after election",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-27T20:32:50.000Z",
-      "description": "Residents in Lebanon and Syria expect little change in Israeli policy after the election, amid concerns over continued Israeli military activity and the risk of renewed conflict. "
-    },
-    {
-      "id": "fHWzSG0OQLA",
-      "title": "Brazil's re-elected president Lula faces new challenges",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-27T13:30:32.000Z",
-      "description": "Leftist president Luiz Inacio Lula da Silva surprisingly secured a narrow victory in Brazil's run-off presidential election. His right-wing rival, Flavio Bolsonaro refuses to accept the outcome. But even after winning a "
-    },
-    {
-      "id": "3hMRuvvnP3I",
-      "title": "Adam Goes For Run With The Chancellor John Healey",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-27T16:00:22.000Z",
-      "description": "Adam goes for a run with the chancellor John Healey on the day before the budget. On a very wet morning in St James’ Park they discuss how the chancellor has been preparing for the budget. Plus, will today’s announcement"
     }
   ]
 }

@@ -1,24 +1,22 @@
-01:15:59 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-01:16:00 collecting videos…
-01:16:26   video feed BBC News failed: Status code 404
-01:16:26   video feed Al Jazeera English: 15 in feed, 5 kept
-01:16:52   video feed DW News failed: Status code 404
-01:17:18   video feed FRANCE 24 English failed: Status code 404
-01:17:45   video feed Sky News failed: Status code 404
-01:18:11   video feed Reuters failed: Status code 404
-01:18:30 videos: saved 24
-01:18:30 collecting feeds…
-01:18:37 831 new items
-01:18:38 624 candidate stories
-01:18:38 categories needing stories: sports, politics, technology, world → reserved sports
-01:18:38 writing: Longtime Nebraska play-by-play announcer Kent Pavelka will retire following 2026-2027 season (2 sources)
-01:18:38   video feed Associated Press failed: Status code 404
-01:18:39   source text: 493 / 7000 chars
-01:18:47   ✓ published: /news/broadcasting-legend-david-moulton-passes-away/ [sports] image: wikimedia via idea "microphone broadcast booth"
-01:18:47 writing: Here’s the latest. (12 sources)
-01:18:48   source text: 5836 / 6108 / 7000 chars
-01:18:55   ✓ published: /news/chancellor-john-healey-prepares-first-uk-budget-amid-historic-borrowing/ [politics] image: wikimedia via idea "UK parliament building London"
-01:18:55 writing explainer for: Here’s the latest.
-01:19:14 image source error: The operation was aborted due to timeout
-01:19:16   ✓ explainer: /news/what-is-behind-the-new-economic-plan-and-budget-debate/
-01:19:16 done — 2 stories
+08:22:14 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+08:22:14 collecting videos…
+08:22:14   video feed BBC News: 15 in feed, 5 kept
+08:22:14   video feed Al Jazeera English: 15 in feed, 5 kept
+08:22:15   video feed DW News: 15 in feed, 5 kept
+08:22:15   video feed FRANCE 24 English: 15 in feed, 5 kept
+08:22:15   video feed Sky News: 15 in feed, 5 kept
+08:22:15   video feed Reuters: 15 in feed, 5 kept
+08:22:15   video feed Associated Press: 15 in feed, 5 kept
+08:22:15 videos: saved 24
+08:22:15 collecting feeds…
+08:22:20 636 new items
+08:22:21 479 candidate stories
+08:22:21 categories needing stories: science, entertainment, politics, technology, sports, world → reserved science
+08:22:21 writing: Climate health harms outpace action, prompting calls for global health emergency (2 sources)
+08:22:22   source text: 7000 / 7000 chars
+08:22:27 writer returned unusable output: { "headline": "Climate change health risks outpace global response, experts warn", "standfirst": "A major new study reveals that climate-driven health harms
+08:22:27   skipped
+08:22:27 writing: Cyclone Arnab makes landfall in India’s Andhra Pradesh (4 sources)
+08:22:28   source text: 2497 / 2615 / 1791 chars
+08:22:35   ✓ published: /news/cyclone-arnab-strikes-indias-eastern-coast-prompting-mass-evacuations/ [world] image: wikimedia via idea "Andhra Pradesh coastal flooding"
+08:22:35 done — 1 stories
