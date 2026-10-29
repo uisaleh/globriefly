@@ -1,11 +1,5 @@
 {
   "urls": {
-    "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss": 1792621077544,
-    "https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o?at_medium=RSS&at_campaign=rss": 1792621077544,
-    "https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live": 1792621077544,
-    "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss": 1792621085889,
-    "https://www.france24.com/en/putin-agrees-to-resume-three-way-talks-with-kyiv-and-washington": 1792621085889,
-    "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss": 1792621085889,
     "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-rdf": 1792632482242,
     "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss": 1792632482242,
     "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer": 1792632482242,
@@ -342,11 +336,19 @@
     "http://www.africanews.com/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash/": 1793221233153,
     "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash": 1793221233153,
     "https://www.channelnewsasia.com/world/spain-high-speed-train-collision-people-killed-injured-6499336": 1793221233153,
-    "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster": 1793221233154
+    "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster": 1793221233154,
+    "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/": 1793235216593,
+    "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced": 1793235216593,
+    "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/": 1793235216593,
+    "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/": 1793235216593,
+    "https://www.engadget.com/2299925/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/": 1793235216593,
+    "https://thehill.com/newsletters/business-economy/6179798-fed-hits-pause-on-interest-rates/": 1793235239696,
+    "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms": 1793235239696,
+    "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss": 1793235239696,
+    "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece": 1793235239696,
+    "https://www.scmp.com/news/world/united-states-canada/article/3372489/us-fed-holds-interest-rates-steady-despite-surging-inflation": 1793235239696
   },
   "fps": {
-    "champions-continue-league-leipzig-madrid-perfect-real-rout": 1792621077544,
-    "agrees-call-hit-kyiv-missiles-peace-resume-russia": 1792621085889,
     "cancer-further-leo-need-pope-treatment-vatican": 1792632482242,
     "champions-league-leipzig-madrid-mbappe-real-scores-thrash": 1792632496346,
     "across-border-broadcasts-korea-north-propaganda-resume-south": 1792654217294,
@@ -430,6 +432,8 @@
     "bolsonaro-brazil-fleeing-lands-miami-vio": 1793203155876,
     "2024-amplified-change-climate-european-floods-models-rainfall": 1793210451273,
     "claims-drug-government-lawmaker-probe-savings-stat-trumprx": 1793221222995,
-    "crash-dozens-high-injured-kills-least-spain-speed": 1793221233154
+    "crash-dozens-high-injured-kills-least-spain-speed": 1793221233154,
+    "apple-extreme-laptop-macbook-pricing-pro-pushes-touchscreen": 1793235216593,
+    "fed-hits-interest-pause-rates": 1793235239696
   }
 }

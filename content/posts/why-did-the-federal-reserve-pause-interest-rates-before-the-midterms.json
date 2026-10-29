@@ -1,0 +1,107 @@
+{
+  "slug": "why-did-the-federal-reserve-pause-interest-rates-before-the-midterms",
+  "status": "published",
+  "type": "explainer",
+  "category": "business",
+  "region": "Americas",
+  "headline": "Why did the Federal Reserve pause interest rates before the midterms?",
+  "standfirst": "The US central bank kept interest rates steady at 3.75 to 4 percent, opting for a wait-and-see approach as inflation concerns persist.",
+  "keyPoints": [
+    "The Federal Open Market Committee voted 10-2 to keep interest rates steady at 3.75 to 4 percent.",
+    "The decision comes in the final meeting before the US midterm elections, though officials insisted politics played no role.",
+    "Annual inflation rose to 3.7 percent in September, driven heavily by surging energy and oil prices.",
+    "Two committee members dissented from the pause, preferring an immediate quarter-point rate increase."
+  ],
+  "sections": [
+    {
+      "heading": "What did the Federal Reserve decide?",
+      "paragraphs": [
+        "The United States Federal Reserve voted to hold benchmark interest rates steady, keeping them in a target range of 3.75 to 4 percent. The decision by the central bank's Federal Open Market Committee came after a 10-2 vote, matching widespread expectations ahead of the announcement.",
+        "This move arrives during the final monetary policy meeting before the US midterm elections. While economic activity continues to expand at a strong pace, the central bank is grappling with stubborn inflation that has remained above its long-term two percent target for years."
+      ]
+    },
+    {
+      "heading": "Why are interest rates such a hot topic right now?",
+      "paragraphs": [
+        "Interest rates dictate the borrowing costs for everyday financial products like mortgages, credit cards, and auto loans. When inflation climbs, central banks typically raise rates to cool down the economy and slow price increases.",
+        "However, recent inflation pressures have been heavily influenced by supply shocks and soaring energy costs, particularly tied to conflicts in the Middle East affecting global oil supplies. Economists note that raising interest rates is less effective against supply-driven inflation, making every policy decision a delicate balancing act."
+      ]
+    },
+    {
+      "heading": "Did politics influence the central bank's pause?",
+      "paragraphs": [
+        "With the midterm elections just days away, the timing of the Fed's decision naturally drew intense scrutiny. Critics and political figures have frequently clashed over the direction of monetary policy, with President Donald Trump openly demanding much lower interest rates.",
+        "Despite the political backdrop, Fed Chair Kevin Warsh and other central bank officials strongly maintained that politics played no part in their deliberations. Officials emphasized that their focus remains entirely on price stability and waiting for richer economic data before making their next move."
+      ]
+    },
+    {
+      "heading": "What happens next for the economy?",
+      "paragraphs": [
+        "The central bank has signaled a wait-and-see approach, noting that incoming data will guide future policy meetings. Analysts are already looking ahead to the final meeting of the year, where further rate adjustments could be considered depending on how inflation and consumer spending evolve.",
+        "For everyday consumers and voters heading to the polls, the cost of living remains a top concern. As the Fed weighs its dual mandate of supporting employment and controlling prices, the broader economy continues to navigate a complex mix of resilient growth and persistent financial pressures."
+      ]
+    }
+  ],
+  "highlight": "While uncertainty remains elevated owing, in part, to geopolitical developments, domestic spending has been resilient.",
+  "timeline": [],
+  "tags": [
+    "Federal Reserve",
+    "interest rates",
+    "inflation",
+    "economy",
+    "US politics"
+  ],
+  "socialSummary": "The Federal Reserve held interest rates steady at 3.75-4 percent ahead of the US midterm elections.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-02-10_12-05-42.jpg/1920px-2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-02-10_12-05-42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Ongoing construction at the Marriner S. Eccles Federal Reserve headquarters building. This 2.5 billion dollar renovation…",
+    "credit": "G. Edward Johnson / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-02-10_12-05-42.jpg",
+    "license": "CC BY 4.0",
+    "provider": "wikimedia",
+    "query": "Federal Reserve building Washington DC",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "Federal Reserve building Washington DC",
+    "names": [
+      "Federal Reserve",
+      "Kevin Warsh",
+      "Donald Trump"
+    ],
+    "subject": "central bank exterior building"
+  },
+  "sources": [
+    {
+      "name": "The Hill",
+      "url": "https://thehill.com/newsletters/business-economy/6179798-fed-hits-pause-on-interest-rates/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss"
+    },
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
+    }
+  ],
+  "sourceTitles": [
+    "Fed hits pause on interest rates",
+    "Fed holds interest rates steady in last decision before midterms",
+    "Fed leaves interest rates unchanged despite inflation in the US",
+    "U.S. Fed holds interest rates steady despite surging inflation",
+    "US Fed holds interest rates steady despite surging inflation"
+  ],
+  "sourceCount": 5,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-10-29T00:54:05.211Z",
+  "updatedAt": "2026-10-29T00:54:05.211Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-did-the-federal-reserve-pause-interest-rates-before-the-midterms.jpg"
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "us-central-bank-pauses-interest-rate-hikes-ahead-of-midterm-vote",
+  "status": "published",
+  "type": "news",
+  "category": "business",
+  "region": "Americas",
+  "headline": "US central bank pauses interest rate hikes ahead of midterm vote",
+  "standfirst": "The Federal Reserve left borrowing costs unchanged amid stubborn inflation and just days before crucial congressional elections.",
+  "keyPoints": [
+    "The Federal Open Market Committee voted 10-2 to maintain the target range at 3.75 to 4.00 percent.",
+    "Inflation climbed to 3.7 percent in September, remaining well above the central bank's two percent target.",
+    "Fed Chair Kevin Warsh stated that electoral politics played no role in the unanimous consensus.",
+    "The central bank plans to reduce its annual rate-setting meeting schedule starting in late 2027."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "American monetary authorities opted to leave benchmark borrowing costs steady on Wednesday during their final policy gathering before upcoming legislative elections. Members of the Federal Open Market Committee voted by a margin of ten to two to keep the federal funds rate parked between 3.75 and 4.00 percent. This decision matches widespread market expectations, even as consumer price increases have persisted above the central bank's long-term objectives.",
+        "Recent economic data highlighted a pickup in annual inflation, which ticked upward to 3.7 percent in September following a reading of 3.4 percent the month prior. Energy expenses largely drove the latest monthly acceleration, compounding financial strains for households and enterprises alike. Despite these persistent price pressures, policymakers chose a cautious stance instead of implementing immediate tightening measures.",
+        "Two dissenting officials, Governor Lisa Cook and Cleveland Fed leader Beth Hammack, favoured a quarter-point increase to combat ongoing inflation. Meanwhile, the central bank noted that broader domestic economic activity continues to expand at a robust pace. Officials will review incoming reports before charting their monetary path at the final scheduled meeting of the year in December."
+      ]
+    },
+    {
+      "heading": "Economic background and political backdrop",
+      "paragraphs": [
+        "The decision arrived against a backdrop of heightened political tension and broader global economic shocks. Domestic price growth has been severely impacted by surging energy markets stemming from conflict in the Middle East and the temporary restriction of vital maritime trade corridors. Additionally, extensive tariff measures and heavy capital investments in artificial intelligence infrastructure have added further upward pressure on consumer prices throughout the country.",
+        "These economic difficulties hold immense significance for the upcoming congressional contests, where control of both legislative chambers remains fiercely contested. Voters across the nation have consistently identified the high cost of living as their primary concern. This pre-election rate pause leaves borrowing costs at one of the loftiest thresholds observed in over twenty years, directly influencing mortgages, credit cards, and consumer loans."
+      ]
+    },
+    {
+      "heading": "Perspectives from leadership and analysts",
+      "paragraphs": [
+        "Addressing reporters after the announcement, Fed Chair Kevin Warsh firmly rejected the notion that the electoral calendar influenced the committee's deliberations. \"Politics played no role in the decision,\" he told the assembled press. While the administration of President Donald Trump has repeatedly exerted pressure for aggressive rate cuts, Warsh maintained that the board remains entirely committed to achieving price stability through incoming data.",
+        "External experts offered mixed interpretations regarding the wisdom of a pause while inflation remains elevated. Some economists questioned the logic of halting hikes when the labour market stays resilient, whereas others argued that raising borrowing costs cannot effectively cure supply-driven price shocks. Furthermore, the central bank has faced unprecedented institutional pressure from the executive branch, including prior attempts to remove board members and demands for much looser monetary policy."
+      ]
+    },
+    {
+      "heading": "Broader implications for financial markets",
+      "paragraphs": [
+        "The choice to hold rates steady reflects a delicate balancing act between cooling persistent inflation and avoiding unnecessary damage to the broader economy. Because monetary tightening primarily addresses excess demand rather than supply chain disruptions, overly aggressive actions could prematurely stifle growth. Financial markets will closely monitor subsequent inflation gauges to determine whether further tightening becomes necessary before the conclusion of the year.",
+        "Looking further ahead, Warsh unveiled structural alterations to the institution's operational calendar. Beginning in the autumn of 2027, the central bank will reduce its annual rate-setting sessions to seven, dropping further to six meetings by 2028. The remaining gatherings will be dedicated exclusively to broad monetary policy discussions, marking a significant shift in how the organization manages its regulatory duties."
+      ]
+    },
+    {
+      "heading": "Upcoming milestones and future outlook",
+      "paragraphs": [
+        "Attention now turns immediately to the impending release of key consumer expenditure reports that officials use to gauge underlying inflationary trends. These upcoming statistics will provide vital clues about whether price pressures are finally beginning to cool across major sectors. The committee will rely heavily on these metrics to shape its strategy heading into the final policy gathering in December.",
+        "Beyond the immediate financial calendar, the outcome of next week's legislative elections will fundamentally alter the political landscape surrounding economic governance. With executive friction expected to persist, the central bank's institutional independence remains a central focus for financial observers. Maintaining stability amid these complex crosscurrents will dictate the institution's priorities for the foreseeable future."
+      ]
+    }
+  ],
+  "highlight": "The decision arrives against a backdrop of heightened political tension and broader global economic shocks.",
+  "timeline": [],
+  "tags": [
+    "Federal Reserve",
+    "interest rates",
+    "inflation",
+    "economy",
+    "midterm elections"
+  ],
+  "socialSummary": "The US Federal Reserve left interest rates unchanged at 3.75-4% ahead of the midterm elections.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-02-10_12-05-42.jpg/1920px-2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-02-10_12-05-42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Ongoing construction at the Marriner S. Eccles Federal Reserve headquarters building. This 2.5 billion dollar renovation…",
+    "credit": "G. Edward Johnson / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-02-10_12-05-42.jpg",
+    "license": "CC BY 4.0",
+    "provider": "wikimedia",
+    "query": "Federal Reserve building Washington",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "Federal Reserve building Washington",
+    "names": [
+      "Federal Reserve",
+      "Kevin Warsh",
+      "Donald Trump"
+    ],
+    "subject": "central bank exterior"
+  },
+  "sources": [
+    {
+      "name": "The Hill",
+      "url": "https://thehill.com/newsletters/business-economy/6179798-fed-hits-pause-on-interest-rates/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss"
+    },
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
+    }
+  ],
+  "sourceTitles": [
+    "Fed hits pause on interest rates",
+    "Fed holds interest rates steady in last decision before midterms",
+    "Fed leaves interest rates unchanged despite inflation in the US",
+    "U.S. Fed holds interest rates steady despite surging inflation",
+    "US Fed holds interest rates steady despite surging inflation"
+  ],
+  "sourceCount": 5,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-10-29T00:54:00.603Z",
+  "updatedAt": "2026-10-29T00:54:00.603Z",
+  "readingMinutes": 3,
+  "facebook": null,
+  "ogImage": "/og/us-central-bank-pauses-interest-rate-hikes-ahead-of-midterm-vote.jpg"
+}

@@ -1,23 +1,24 @@
-20:59:59 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-20:59:59 collecting videos…
-20:59:59   video feed BBC News: 15 in feed, 5 kept
-20:59:59   video feed Al Jazeera English: 15 in feed, 5 kept
-21:00:00   video feed DW News: 15 in feed, 5 kept
-21:00:00   video feed FRANCE 24 English: 15 in feed, 5 kept
-21:00:00   video feed Sky News: 15 in feed, 5 kept
-21:00:00   video feed Reuters: 15 in feed, 5 kept
-21:00:00   video feed Associated Press: 15 in feed, 5 kept
-21:00:00 videos: saved 24
-21:00:00 collecting feeds…
-21:00:07 943 new items
-21:00:09 695 candidate stories
-21:00:09 categories needing stories: health, entertainment, business, technology, sports → reserved health
-21:00:09 writing: STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings (1 sources)
-21:00:09   source text: 1356 chars
-21:00:15   too close to source wording — rewriting
-21:00:26   ✓ published: /news/congressional-inquiry-requested-into-financial-claims-of-official/ [health] image: wikimedia via idea "Capitol building Washington DC"
-21:00:26 writing: High-speed train crash in Spain kills at least 68, dozens injured (9 sources)
-21:00:27   source text: 4632 / 7000 / 322 / 2931 chars
-21:00:48 image source error: The operation was aborted due to timeout
-21:00:50   ✓ published: /news/spain-mourns-dozens-killed-in-high-speed-rail-disaster/ [world] image: wikimedia via name "Spain"
-21:00:50 done — 2 stories
+00:51:36 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+00:51:36 collecting videos…
+00:52:02   video feed BBC News failed: Status code 404
+00:52:27   video feed Al Jazeera English failed: Status code 404
+00:52:27   video feed DW News: 15 in feed, 5 kept
+00:52:53   video feed FRANCE 24 English failed: Status code 404
+00:52:56   video feed Sky News: 15 in feed, 5 kept
+00:53:21   video feed Reuters failed: Status code 404
+00:53:24   video feed Associated Press: 15 in feed, 5 kept
+00:53:24 videos: saved 24
+00:53:24 collecting feeds…
+00:53:29 861 new items
+00:53:31 645 candidate stories
+00:53:31 categories needing stories: technology, entertainment, business, sports → reserved technology
+00:53:31 writing: Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme (4 sources)
+00:53:32   source text: 1515 / 1760 / 2719 chars
+00:53:47   ✓ published: /news/apple-introduces-touchscreen-macbook-pro-with-prices-reaching-up-to-14/ [technology] image: wikimedia via name "MacBook Pro"
+00:53:47 writing: Fed hits pause on interest rates (5 sources)
+00:53:47   source text: 0 / 4099 / 2879 / 4555 chars
+00:53:53   too close to source wording — rewriting
+00:54:01   ✓ published: /news/us-central-bank-pauses-interest-rate-hikes-ahead-of-midterm-vote/ [business] image: wikimedia via idea "Federal Reserve building Washington"
+00:54:01 writing explainer for: Fed hits pause on interest rates
+00:54:05   ✓ explainer: /news/why-did-the-federal-reserve-pause-interest-rates-before-the-midterms/
+00:54:05 done — 2 stories
