@@ -114,6 +114,9 @@
   "publishedAt": "2026-10-29T07:00:44.495Z",
   "updatedAt": "2026-10-29T07:00:44.495Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173073090681745",
+    "sharedAt": "2026-10-29T07:03:58.110Z"
+  },
   "ogImage": "/og/north-korea-launches-missile-barrage-into-eastern-waters-amid-border.jpg"
 }
