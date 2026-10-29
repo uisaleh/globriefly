@@ -1,62 +1,24 @@
-14:12:10 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-14:12:10 collecting videos…
-14:12:10   video feed BBC News: 15 in feed, 5 kept
-14:12:10   video feed Al Jazeera English: 15 in feed, 5 kept
-14:12:10   video feed DW News: 15 in feed, 5 kept
-14:12:10   video feed FRANCE 24 English: 15 in feed, 5 kept
-14:12:10   video feed Sky News: 15 in feed, 5 kept
-14:12:10   video feed Reuters: 15 in feed, 5 kept
-14:12:10   video feed Associated Press: 15 in feed, 5 kept
-14:12:10 videos: saved 24
-14:12:10 collecting feeds…
-14:12:14 815 new items
-14:12:15 604 candidate stories
-14:12:15 categories needing stories: sports, entertainment, politics, technology → reserved sports
-14:12:15 writing: Brewers defeat Rays in 5 games to win first World Series in franchise history (3 sources)
-14:12:16   source text: 5015 / 7000 / 1779 chars
-14:12:32 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-14:12:39 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-14:12:58 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-14:13:18 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-14:13:24   skipped
-14:13:24 writing: Christine Lagarde to Step Down as President of European Central Bank (7 sources)
-14:13:25   source text: 6254 / 0 / 0 / 2561 / 2158 chars
-14:13:31 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-14:14:15   too close to source wording — rewriting
-14:14:33   ✓ published: /news/christine-lagarde-to-depart-european-central-bank-ahead-of-schedule/ [world] image: wikimedia via idea "Christine Lagarde European Central Bank"
-14:14:33 done — 1 stories
+20:14:49 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+20:14:49 collecting videos…
+20:14:50   video feed BBC News: 15 in feed, 5 kept
+20:14:50   video feed Al Jazeera English: 15 in feed, 5 kept
+20:14:50   video feed DW News: 15 in feed, 5 kept
+20:14:50   video feed FRANCE 24 English: 15 in feed, 5 kept
+20:14:50   video feed Sky News: 15 in feed, 5 kept
+20:14:50   video feed Reuters: 15 in feed, 5 kept
+20:14:50   video feed Associated Press: 15 in feed, 5 kept
+20:14:50 videos: saved 24
+20:14:50 collecting feeds…
+20:14:55 950 new items
+20:14:57 762 candidate stories
+20:14:57 categories needing stories: politics, science, sports, entertainment, technology → reserved politics
+20:14:57 writing: Economy, healthcare, Iran war top voters' concerns ahead of midterms: Gallup (2 sources)
+20:15:12   source text: 0 / 0 chars
+20:15:33 image source error: The operation was aborted due to timeout
+20:15:34   ✓ published: /news/voters-prioritise-economy-healthcare-and-iran-war-in-upcoming-us/ [politics] image: wikimedia via name "Iran war"
+20:15:34 writing: 7 Memorable Patrick Stewart Performances (9 sources)
+20:15:35   source text: 1467 / 2906 / 1461 chars
+20:15:39   too close to source wording — rewriting
+20:16:03 image source error: The operation was aborted due to timeout
+20:16:05   ✓ published: /news/renowned-stage-and-screen-icon-patrick-stewart-passes-away-at-86/ [entertainment] image: wikimedia via name "Patrick Stewart"
+20:16:05 done — 2 stories

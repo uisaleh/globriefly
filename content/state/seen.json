@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/news/videos/cr1ex39ywyn6o?at_medium=RSS&at_campaign=rss": 1792693796359,
-    "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france": 1792693816969,
-    "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss": 1792693816969,
-    "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf": 1792693816969,
-    "https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk": 1792693816969,
     "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html": 1792707384523,
     "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/": 1792707384523,
     "https://www.aljazeera.com/news/2026/10/22/trump-ordered-to-sit-for-deposition-in-bbc-defamation-lawsuit?traffic_source=rss": 1792707390707,
@@ -342,11 +337,21 @@
     "https://www.thehindu.com/news/international/european-central-bank-president-christine-lagarde-will-resign-february-7-nine-months-early/article71640231.ece": 1793283270712,
     "https://www.channelnewsasia.com/world/european-central-bank-president-christine-lagarde-resign-6503246": 1793283270712,
     "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early": 1793283270713,
-    "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf": 1793283270713
+    "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf": 1793283270713,
+    "https://thehill.com/homenews/campaign/6181594-voters-prioritize-economy-healthcare-iran/": 1793304917601,
+    "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender": 1793304917601,
+    "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html": 1793304946924,
+    "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death": 1793304946924,
+    "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html": 1793304946924,
+    "https://www.rnz.co.nz/life/people/celebrity/legendary-english-actor-patrick-stewart-has-died-aged-86": 1793304946924,
+    "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead": 1793304946924,
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/patrick-stewart-star-trek-actor-dead-1235141000/": 1793304946924,
+    "https://variety.com/2026/tv/news/patrick-stewart-dead-star-trek-picardx-men-xavier-1236934412/": 1793304946924,
+    "https://deadline.com/2026/10/patrick-stewart-dead-1237208580/": 1793304946924,
+    "https://news.sky.com/story/star-trek-and-x-men-actor-sir-patrick-stewart-dies-13605543": 1793304946924,
+    "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/": 1793304946924
   },
   "fps": {
-    "can-cause-daily-dressed-getting-meltdowns-people-some": 1792693796359,
-    "detected-first-france-human-shamonda-time-virus": 1792693816969,
     "billion-elon-invests-musk-skydance": 1792707384523,
     "bbc-defamation-deposition-lawsuit-ordered-sit-trump": 1792707390707,
     "bill-billionaire-california-deal-foot-help-him-meta": 1792718821661,
@@ -421,6 +426,8 @@
     "brewers-complete-maiden-series-story-title-underdog-world": 1793257233148,
     "barrage-fires-korea-missile-north-rise-sea-south": 1793257243872,
     "brewers-defeat-first-franchise-games-history-rays-series": 1793283204468,
-    "bank-central-christine-down-european-lagarde-president-step": 1793283270713
+    "bank-central-christine-down-european-lagarde-president-step": 1793283270713,
+    "ahead-concerns-economy-gallup-healthcare-iran-midterms-top": 1793304917601,
+    "memorable-patrick-performances-stewart": 1793304946924
   }
 }
