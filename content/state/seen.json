@@ -1,21 +1,5 @@
 {
   "urls": {
-    "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": 1792654217294,
-    "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss": 1792654217294,
-    "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea": 1792654217294,
-    "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html": 1792654232249,
-    "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss": 1792654232249,
-    "https://www.bbc.co.uk/news/videos/c39wzvxxjejxo?at_medium=RSS&at_campaign=rss": 1792657554667,
-    "https://variety.com/2026/film/global/sebastian-koch-oscar-gabriele-salvatores-1236918664/": 1792657562164,
-    "https://www.bbc.co.uk/news/articles/c623d18dl3v0o?at_medium=RSS&at_campaign=rss": 1792657583478,
-    "https://variety.com/2026/theater/news/the-history-boys-london-west-end-20-years-1236919388/": 1792657590587,
-    "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/": 1792657830085,
-    "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/": 1792657843861,
-    "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/": 1792657859344,
-    "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/": 1792676668397,
-    "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates": 1792676720907,
-    "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss": 1792676720907,
-    "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump": 1792676720907,
     "https://www.bbc.co.uk/news/videos/cr1ex39ywyn6o?at_medium=RSS&at_campaign=rss": 1792693796359,
     "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france": 1792693816969,
     "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss": 1792693816969,
@@ -348,20 +332,19 @@
     "https://abcnews.com/International/wireStory/north-korea-fires-missile-barrage-sea-tensions-south-137662901": 1793257243872,
     "https://www.thehindu.com/news/international/north-korea-fires-missile-barrage-toward-sea-as-tensions-with-south-rise/article71639190.ece": 1793257243872,
     "https://www.scmp.com/news/asia/east-asia/article/3372537/north-korea-fires-missile-barrage-days-after-rejecting-souths-border-talks": 1793257243872,
-    "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf": 1793257243872
+    "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf": 1793257243872,
+    "https://sports.yahoo.com/articles/brewers-defeat-rays-5-games-032558161.html": 1793283204468,
+    "\n                                                https://www.cbssports.com/mlb/news/brewers-win-franchises-first-world-series-marquee-afc-clash-headlines-week-8-nfl-picks/\n                    ": 1793283204468,
+    "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss": 1793283204468,
+    "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html": 1793283270712,
+    "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html": 1793283270712,
+    "https://news.sky.com/story/lagarde-quits-european-central-bank-ahead-of-french-election-13605291": 1793283270712,
+    "https://www.thehindu.com/news/international/european-central-bank-president-christine-lagarde-will-resign-february-7-nine-months-early/article71640231.ece": 1793283270712,
+    "https://www.channelnewsasia.com/world/european-central-bank-president-christine-lagarde-resign-6503246": 1793283270712,
+    "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early": 1793283270713,
+    "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf": 1793283270713
   },
   "fps": {
-    "across-border-broadcasts-korea-north-propaganda-resume-south": 1792654217294,
-    "back-elon-feud-fires-james-musk-race-senate": 1792654232249,
-    "decision-energy-jackdaw-outwith-scotland-taken": 1792657554667,
-    "chess-exclusive-gabriele-koch-neburg-noir-oscar-salvatores": 1792657562164,
-    "2030-committee-energy-goals-missing-risks-stormont": 1792657583478,
-    "alan-back-bennett-boys-directing-end-history-hytner": 1792657590587,
-    "2026-6435-apod-first-green-j1330-october-star": 1792657830085,
-    "char-fires-guinea": 1792657843861,
-    "community-faster-letter-science": 1792657859344,
-    "33m-listens-nirva-only-pendant-raises-you": 1792676668397,
-    "acts-ban-condemns-europe-left-live-macron-protests": 1792676720907,
     "can-cause-daily-dressed-getting-meltdowns-people-some": 1792693796359,
     "detected-first-france-human-shamonda-time-virus": 1792693816969,
     "billion-elon-invests-musk-skydance": 1792707384523,
@@ -436,6 +419,8 @@
     "apple-extreme-laptop-macbook-pricing-pro-pushes-touchscreen": 1793235216593,
     "fed-hits-interest-pause-rates": 1793235239696,
     "brewers-complete-maiden-series-story-title-underdog-world": 1793257233148,
-    "barrage-fires-korea-missile-north-rise-sea-south": 1793257243872
+    "barrage-fires-korea-missile-north-rise-sea-south": 1793257243872,
+    "brewers-defeat-first-franchise-games-history-rays-series": 1793283204468,
+    "bank-central-christine-down-european-lagarde-president-step": 1793283270713
   }
 }

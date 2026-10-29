@@ -1,22 +1,62 @@
-07:00:14 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-07:00:14 collecting videos…
-07:00:14   video feed BBC News: 15 in feed, 5 kept
-07:00:14   video feed Al Jazeera English: 15 in feed, 5 kept
-07:00:14   video feed DW News: 15 in feed, 5 kept
-07:00:15   video feed FRANCE 24 English: 15 in feed, 5 kept
-07:00:15   video feed Sky News: 15 in feed, 5 kept
-07:00:15   video feed Reuters: 15 in feed, 5 kept
-07:00:15   video feed Associated Press: 15 in feed, 5 kept
-07:00:15 videos: saved 24
-07:00:15 collecting feeds…
-07:00:22 682 new items
-07:00:23 511 candidate stories
-07:00:23 categories needing stories: sports, entertainment, politics, technology → reserved sports
-07:00:23 writing: Brewers complete underdog story with maiden World Series title (4 sources)
-07:00:24   source text: 2420 / 4359 / 2020 chars
-07:00:33 writer returned unusable output: { "headline": "Milwaukee Brewers claim historic first World Series title against Tampa Bay Rays", "standfirst": "The Milwaukee Brewers secured their maiden 
-07:00:33   skipped
-07:00:33 writing: North Korea fires missile barrage toward the sea as tensions with South rise (4 sources)
-07:00:34   source text: 3384 / 2627 / 3001 chars
-07:00:45   ✓ published: /news/north-korea-launches-missile-barrage-into-eastern-waters-amid-border/ [world] image: wikimedia via idea "Wonsan North Korea coast"
-07:00:45 done — 1 stories
+14:12:10 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+14:12:10 collecting videos…
+14:12:10   video feed BBC News: 15 in feed, 5 kept
+14:12:10   video feed Al Jazeera English: 15 in feed, 5 kept
+14:12:10   video feed DW News: 15 in feed, 5 kept
+14:12:10   video feed FRANCE 24 English: 15 in feed, 5 kept
+14:12:10   video feed Sky News: 15 in feed, 5 kept
+14:12:10   video feed Reuters: 15 in feed, 5 kept
+14:12:10   video feed Associated Press: 15 in feed, 5 kept
+14:12:10 videos: saved 24
+14:12:10 collecting feeds…
+14:12:14 815 new items
+14:12:15 604 candidate stories
+14:12:15 categories needing stories: sports, entertainment, politics, technology → reserved sports
+14:12:15 writing: Brewers defeat Rays in 5 games to win first World Series in franchise history (3 sources)
+14:12:16   source text: 5015 / 7000 / 1779 chars
+14:12:32 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+14:12:39 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+14:12:58 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+14:13:18 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+14:13:24   skipped
+14:13:24 writing: Christine Lagarde to Step Down as President of European Central Bank (7 sources)
+14:13:25   source text: 6254 / 0 / 0 / 2561 / 2158 chars
+14:13:31 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+14:14:15   too close to source wording — rewriting
+14:14:33   ✓ published: /news/christine-lagarde-to-depart-european-central-bank-ahead-of-schedule/ [world] image: wikimedia via idea "Christine Lagarde European Central Bank"
+14:14:33 done — 1 stories
