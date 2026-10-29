@@ -117,6 +117,9 @@
   "publishedAt": "2026-10-29T14:14:31.569Z",
   "updatedAt": "2026-10-29T14:14:31.569Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173101836681745",
+    "sharedAt": "2026-10-29T14:17:43.971Z"
+  },
   "ogImage": "/og/christine-lagarde-to-depart-european-central-bank-ahead-of-schedule.jpg"
 }
