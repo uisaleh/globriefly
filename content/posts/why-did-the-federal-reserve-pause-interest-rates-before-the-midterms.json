@@ -102,6 +102,9 @@
   "publishedAt": "2026-10-29T00:54:05.211Z",
   "updatedAt": "2026-10-29T00:54:05.211Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173052354681745",
+    "sharedAt": "2026-10-29T00:58:01.989Z"
+  },
   "ogImage": "/og/why-did-the-federal-reserve-pause-interest-rates-before-the-midterms.jpg"
 }
