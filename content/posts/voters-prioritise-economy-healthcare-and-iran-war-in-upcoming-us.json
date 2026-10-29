@@ -95,6 +95,9 @@
   "publishedAt": "2026-10-29T20:15:33.935Z",
   "updatedAt": "2026-10-29T20:15:33.935Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173122596681745",
+    "sharedAt": "2026-10-29T20:19:16.653Z"
+  },
   "ogImage": "/og/voters-prioritise-economy-healthcare-and-iran-war-in-upcoming-us.jpg"
 }
