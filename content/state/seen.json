@@ -1,12 +1,5 @@
 {
   "urls": {
-    "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-rdf": 1792632482242,
-    "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss": 1792632482242,
-    "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer": 1792632482242,
-    "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss": 1792632482242,
-    "https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win": 1792632496346,
-    "https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord": 1792632496346,
-    "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss": 1792632496346,
     "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": 1792654217294,
     "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss": 1792654217294,
     "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea": 1792654217294,
@@ -346,11 +339,18 @@
     "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms": 1793235239696,
     "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss": 1793235239696,
     "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece": 1793235239696,
-    "https://www.scmp.com/news/world/united-states-canada/article/3372489/us-fed-holds-interest-rates-steady-despite-surging-inflation": 1793235239696
+    "https://www.scmp.com/news/world/united-states-canada/article/3372489/us-fed-holds-interest-rates-steady-despite-surging-inflation": 1793235239696,
+    "https://www.abc.net.au/news/2026-10-29/milwaukee-brewers-world-series-victory/107324300": 1793257233148,
+    "\n                                                https://www.cbssports.com/mlb/news/jacob-misiorowski-brewers-2026-world-series/\n                    ": 1793257233148,
+    "\n                                                https://www.cbssports.com/mlb/news/william-contreras-world-series-mvp-brewers-catcher-2026-title/\n                    ": 1793257233148,
+    "https://www.japantimes.co.jp/sports/2026/10/29/baseball/milwaukee-brewers-wins-world-series/": 1793257233148,
+    "https://www.theguardian.com/sport/2026/oct/28/milwaukee-brewers-tampa-bay-rays-world-series-game-5-first-title": 1793257233148,
+    "https://abcnews.com/International/wireStory/north-korea-fires-missile-barrage-sea-tensions-south-137662901": 1793257243872,
+    "https://www.thehindu.com/news/international/north-korea-fires-missile-barrage-toward-sea-as-tensions-with-south-rise/article71639190.ece": 1793257243872,
+    "https://www.scmp.com/news/asia/east-asia/article/3372537/north-korea-fires-missile-barrage-days-after-rejecting-souths-border-talks": 1793257243872,
+    "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf": 1793257243872
   },
   "fps": {
-    "cancer-further-leo-need-pope-treatment-vatican": 1792632482242,
-    "champions-league-leipzig-madrid-mbappe-real-scores-thrash": 1792632496346,
     "across-border-broadcasts-korea-north-propaganda-resume-south": 1792654217294,
     "back-elon-feud-fires-james-musk-race-senate": 1792654232249,
     "decision-energy-jackdaw-outwith-scotland-taken": 1792657554667,
@@ -434,6 +434,8 @@
     "claims-drug-government-lawmaker-probe-savings-stat-trumprx": 1793221222995,
     "crash-dozens-high-injured-kills-least-spain-speed": 1793221233154,
     "apple-extreme-laptop-macbook-pricing-pro-pushes-touchscreen": 1793235216593,
-    "fed-hits-interest-pause-rates": 1793235239696
+    "fed-hits-interest-pause-rates": 1793235239696,
+    "brewers-complete-maiden-series-story-title-underdog-world": 1793257233148,
+    "barrage-fires-korea-missile-north-rise-sea-south": 1793257243872
   }
 }
