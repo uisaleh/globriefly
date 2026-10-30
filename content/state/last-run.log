@@ -1,24 +1,25 @@
-20:14:49 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-20:14:49 collecting videos…
-20:14:50   video feed BBC News: 15 in feed, 5 kept
-20:14:50   video feed Al Jazeera English: 15 in feed, 5 kept
-20:14:50   video feed DW News: 15 in feed, 5 kept
-20:14:50   video feed FRANCE 24 English: 15 in feed, 5 kept
-20:14:50   video feed Sky News: 15 in feed, 5 kept
-20:14:50   video feed Reuters: 15 in feed, 5 kept
-20:14:50   video feed Associated Press: 15 in feed, 5 kept
-20:14:50 videos: saved 24
-20:14:50 collecting feeds…
-20:14:55 950 new items
-20:14:57 762 candidate stories
-20:14:57 categories needing stories: politics, science, sports, entertainment, technology → reserved politics
-20:14:57 writing: Economy, healthcare, Iran war top voters' concerns ahead of midterms: Gallup (2 sources)
-20:15:12   source text: 0 / 0 chars
-20:15:33 image source error: The operation was aborted due to timeout
-20:15:34   ✓ published: /news/voters-prioritise-economy-healthcare-and-iran-war-in-upcoming-us/ [politics] image: wikimedia via name "Iran war"
-20:15:34 writing: 7 Memorable Patrick Stewart Performances (9 sources)
-20:15:35   source text: 1467 / 2906 / 1461 chars
-20:15:39   too close to source wording — rewriting
-20:16:03 image source error: The operation was aborted due to timeout
-20:16:05   ✓ published: /news/renowned-stage-and-screen-icon-patrick-stewart-passes-away-at-86/ [entertainment] image: wikimedia via name "Patrick Stewart"
-20:16:05 done — 2 stories
+00:53:25 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+00:53:25 collecting videos…
+00:53:51   video feed BBC News failed: Status code 404
+00:54:17   video feed Al Jazeera English failed: Status code 404
+00:54:43   video feed DW News failed: Status code 404
+00:55:09   video feed FRANCE 24 English failed: Status code 404
+00:55:35   video feed Sky News failed: Status code 404
+00:55:55 videos: saved 24
+00:55:55 collecting feeds…
+00:55:58 843 new items
+00:56:00 663 candidate stories
+00:56:00 categories needing stories: business, technology, science, health, sports, politics, world → reserved business
+00:56:00 writing: Google value plunges by $500bn as AI fears rattle Wall Street (3 sources)
+00:56:00   source text: 4258 / 4258 / 3605 chars
+00:56:01   video feed Reuters failed: Status code 404
+00:56:07   ✓ published: /news/tech-giants-suffer-massive-market-losses-as-heavy-artificial/ [business] image: wikimedia via idea "Wall Street stock exchange building"
+00:56:07 writing: Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case (4 sources)
+00:56:08   source text: 4308 / 2634 / 0 / 581 chars
+00:56:14   too close to source wording — rewriting
+00:56:22 writer returned unusable output: { "headline": "Australian court dismisses Erin Patterson appeal and increases sentence to life without parole", "standfirst": "Erin Patterson has lost her a
+00:56:22   skipped
+00:56:22 writing explainer for: Google value plunges by $500bn as AI fears rattle Wall Street
+00:56:27   video feed Associated Press failed: Status code 404
+00:56:41   ✓ explainer: /news/why-did-wall-street-panic-over-big-techs-massive-ai-spending/
+00:56:41 done — 1 stories

@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html": 1792707384523,
-    "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/": 1792707384523,
-    "https://www.aljazeera.com/news/2026/10/22/trump-ordered-to-sit-for-deposition-in-bbc-defamation-lawsuit?traffic_source=rss": 1792707390707,
-    "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery": 1792707390707,
-    "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss": 1792707390707,
     "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss": 1792718821661,
     "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax": 1792718821661,
     "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss": 1792718837340,
@@ -349,11 +344,16 @@
     "https://variety.com/2026/tv/news/patrick-stewart-dead-star-trek-picardx-men-xavier-1236934412/": 1793304946924,
     "https://deadline.com/2026/10/patrick-stewart-dead-1237208580/": 1793304946924,
     "https://news.sky.com/story/star-trek-and-x-men-actor-sir-patrick-stewart-dies-13605543": 1793304946924,
-    "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/": 1793304946924
+    "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/": 1793304946924,
+    "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss": 1793321765890,
+    "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report": 1793321765890,
+    "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428": 1793321765890,
+    "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html": 1793321782071,
+    "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb": 1793321782071,
+    "https://www.scmp.com/news/asia/australasia/article/3372648/australian-mushroom-killer-erin-patterson-likely-die-jail-after-failed-appeal": 1793321782071,
+    "https://www.channelnewsasia.com/world/australian-mushroom-killer-erin-patterson-loses-appeal-6504811": 1793321782071
   },
   "fps": {
-    "billion-elon-invests-musk-skydance": 1792707384523,
-    "bbc-defamation-deposition-lawsuit-ordered-sit-trump": 1792707390707,
     "bill-billionaire-california-deal-foot-help-him-meta": 1792718821661,
     "earthquake-magnitude-rocked-tibet": 1792718837340,
     "african-approach-hamilton-humility": 1792740299078,
@@ -428,6 +428,8 @@
     "brewers-defeat-first-franchise-games-history-rays-series": 1793283204468,
     "bank-central-christine-down-european-lagarde-president-step": 1793283270713,
     "ahead-concerns-economy-gallup-healthcare-iran-midterms-top": 1793304917601,
-    "memorable-patrick-performances-stewart": 1793304946924
+    "memorable-patrick-performances-stewart": 1793304946924,
+    "500bn-fears-google-plunges-rattle-street-value-wall": 1793321765890,
+    "appeal-case-court-erin-murders-mushroom-patterson-rejects": 1793321782071
   }
 }

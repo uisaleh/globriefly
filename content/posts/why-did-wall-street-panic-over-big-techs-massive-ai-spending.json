@@ -1,0 +1,97 @@
+{
+  "slug": "why-did-wall-street-panic-over-big-techs-massive-ai-spending",
+  "status": "published",
+  "type": "explainer",
+  "category": "business",
+  "region": "Americas",
+  "headline": "Why did Wall Street panic over big tech's massive AI spending?",
+  "standfirst": "Tech giants like Google and Amazon saw their stock values drop after reporting huge spending on artificial intelligence that outpaced profits.",
+  "keyPoints": [
+    "Alphabet's stock value fell by $500 billion following disappointing profit margins.",
+    "Google's search engine advertising took a hit as AI summaries changed user queries.",
+    "Amazon reported negative free cash flow of $42 billion due to infrastructure investments.",
+    "Microsoft maintained steady investor confidence with strong cloud and AI tool growth."
+  ],
+  "sections": [
+    {
+      "heading": "What happened to tech stocks on Wall Street?",
+      "paragraphs": [
+        "Major technology companies are pouring hundreds of billions of dollars into artificial intelligence, building massive data centers, and designing custom computer chips. While these investments show long-term ambition, they are currently eating deeply into short-term profits and cash reserves. Recently, Wall Street investors reacted sharply when leading firms reported quarterly earnings that highlighted just how expensive the race for artificial intelligence dominance has become.",
+        "Alphabet, the parent company of Google, experienced its worst day on the stock market yet. Its overall market value plunged by roughly $500 billion in a single session after profits fell by 25 percent. At the same time, retail and cloud giant Amazon also saw its shares slide in after-hours trading after revealing a staggering negative cash flow figure as it ramps up spending on developer platforms and hardware."
+      ]
+    },
+    {
+      "heading": "Why are Google and Amazon spending so much money?",
+      "paragraphs": [
+        "Both Google and Amazon argue that their heavy spending is a necessary, once-in-a-generation investment. For Google, integrating generative artificial intelligence directly into its search engine has changed how users find information. However, these built-in summaries have temporarily disrupted the traditional online advertising model that forms the core of Alphabet's immense revenue.",
+        "Amazon executives defended their spending by pointing to future growth areas, such as selling proprietary computer chips and expanding the Bedrock artificial intelligence developer platform. Leadership at both companies insists that building out this digital infrastructure now is the only way to secure a dominant market position in the coming decades, even if it means burning through cash reserves in the near term."
+      ]
+    },
+    {
+      "heading": "How are other tech giants handling the AI boom?",
+      "paragraphs": [
+        "Not all major players received the same negative reaction from investors. Microsoft, which maintains a close partnership with OpenAI, saw its shares dip only slightly by comparison. The company reined in some of its capital expenditures compared to its rivals, executed workforce reductions to trim operating costs, and reported strong enterprise demand for its cloud computing and Copilot productivity tools.",
+        "Analysts note that while corporate demand for artificial intelligence remains high, Wall Street is growing increasingly impatient. Investors are demanding clearer evidence of where and when these massive investments will eventually turn into sustainable profits rather than just mounting expenses."
+      ]
+    }
+  ],
+  "highlight": "Wall Street is trying to look farther into the future when it comes to which businesses will truly make good on their big promises around AI.",
+  "timeline": [],
+  "tags": [
+    "Alphabet",
+    "Google",
+    "Amazon",
+    "Microsoft",
+    "Wall Street",
+    "Artificial Intelligence"
+  ],
+  "socialSummary": "Tech stocks tumble as massive spending on artificial intelligence cuts into quarterly profits and rattles Wall Street investors.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/New_York_City_%28New_York%2C_USA%29%2C_Wall_Street_--_2012_--_6614.jpg/1920px-New_York_City_%28New_York%2C_USA%29%2C_Wall_Street_--_2012_--_6614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "New York Stock Exchange in New York City, New York, USA",
+    "credit": "Dietmar Rabich / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Wall_Street_--_2012_--_6614.jpg",
+    "license": "CC BY-SA 4.0",
+    "provider": "wikimedia",
+    "query": "Wall Street",
+    "matchedBy": "name"
+  },
+  "imageSearch": {
+    "query": "Wall Street stock market screen",
+    "names": [
+      "Alphabet",
+      "Google",
+      "Amazon"
+    ],
+    "subject": "stock market screen"
+  },
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report"
+    },
+    {
+      "name": "Sky News",
+      "url": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428"
+    }
+  ],
+  "sourceTitles": [
+    "Google value plunges by $500bn as AI fears rattle Wall Street",
+    "Google value plunges by $500bn as AI fears rattle Wall Street",
+    "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
+    "Google owner Alphabet suffers its worst-ever day on stock market - as value plunges $500bn",
+    "Google owner Alphabet suffers its worst-ever day on stock market - as value plunges $500bn"
+  ],
+  "sourceCount": 3,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-10-30T00:56:40.970Z",
+  "updatedAt": "2026-10-30T00:56:40.970Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-did-wall-street-panic-over-big-techs-massive-ai-spending.jpg"
+}
