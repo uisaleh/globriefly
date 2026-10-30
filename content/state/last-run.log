@@ -1,23 +1,22 @@
-19:18:31 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-19:18:31 collecting videos…
-19:18:31   video feed BBC News: 15 in feed, 5 kept
-19:18:31   video feed Al Jazeera English: 15 in feed, 5 kept
-19:18:31   video feed DW News: 15 in feed, 5 kept
-19:18:31   video feed FRANCE 24 English: 15 in feed, 5 kept
-19:18:31   video feed Sky News: 15 in feed, 5 kept
-19:18:31   video feed Reuters: 15 in feed, 5 kept
-19:18:31   video feed Associated Press: 15 in feed, 5 kept
-19:18:31 videos: saved 24
-19:18:31 collecting feeds…
-19:18:34 910 new items
-19:18:36 707 candidate stories
-19:18:36 categories needing stories: science, health, sports, politics, technology, world → reserved science
-19:18:36 writing: UTe₂ reveals two flavors of superconductivity under extreme pressure (1 sources)
-19:18:36   source text: 6758 chars
-19:18:43 writer returned unusable output: { "headline": "Uranium ditelluride exhibits simultaneous superconducting flavors under pressure", "standfirst": "Researchers have demonstrated that uranium 
-19:18:43   skipped
-19:18:43 writing: Return of the Mac (5 sources)
-19:18:43   source text: 6063 / 2298 / 3948 chars
-19:18:50   too close to source wording — rewriting
-19:18:58   ✓ published: /news/baltimore-ravens-quarterback-lamar-jackson-set-to-return-against/ [sports] image: wikimedia via idea "Lamar Jackson Baltimore Ravens"
-19:18:58 done — 1 stories
+23:41:58 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+23:41:58 collecting videos…
+23:42:00   video feed BBC News: 15 in feed, 5 kept
+23:42:00   video feed Al Jazeera English: 15 in feed, 5 kept
+23:42:00   video feed DW News: 15 in feed, 5 kept
+23:42:01   video feed FRANCE 24 English: 15 in feed, 5 kept
+23:42:01   video feed Sky News: 15 in feed, 5 kept
+23:42:01   video feed Reuters: 15 in feed, 5 kept
+23:42:01   video feed Associated Press: 15 in feed, 5 kept
+23:42:01 videos: saved 24
+23:42:01 collecting feeds…
+23:42:03 783 new items
+23:42:05 617 candidate stories
+23:42:05 categories needing stories: politics, science, health, entertainment, technology, sports, world → reserved politics
+23:42:05 writing: Trump’s Plane Flyover Is a Halloween Trick for Startled D.C. Residents (2 sources)
+23:42:05   source text: 2824 / 0 chars
+23:42:11 writer returned unusable output: { "headline": "Low-altitude Air Force One Halloween flyover startles Washington residents", "standfirst": "A surprise low-altitude flyover by Air Force One 
+23:42:11   skipped
+23:42:11 writing: Pope Leo makes history with US midterm vote (6 sources)
+23:42:12   source text: 2465 / 3232 / 2848 chars
+23:42:23   ✓ published: /news/pope-leo-xiv-marks-historic-first-by-voting-in-us-midterm-elections/ [world] image: wikimedia via idea "Pope Leo XIV Vatican City"
+23:42:23 done — 1 stories

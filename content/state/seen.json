@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://medicalxpress.com/news/2026-10-melanoma-vaccine-death-cancer-recurrence.html": 1792793075053,
-    "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss": 1792793075053,
-    "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html": 1792793075053,
-    "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris": 1792793146765,
-    "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html": 1792793146765,
-    "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss": 1792793146765,
-    "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris": 1792793146765,
-    "https://www.channelnewsasia.com/world/paris-gun-shooting-kills-one-five-injured-trappes-6487371": 1792793146765,
-    "http://www.africanews.com/2026/10/23/one-person-killed-in-deadly-shooting-in-paris-suburbs/": 1792793146765,
-    "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf": 1792793146765,
     "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss": 1792802261669,
     "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html": 1792802276936,
     "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss": 1792802276936,
@@ -333,11 +323,17 @@
     "https://www.cricinfo.com/ci/content/story/1560774.html?ex_cid=OTC-RSS": 1793387936748,
     "http://www.africanews.com/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest/": 1793387936748,
     "https://www.euronews.com/video/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest": 1793387936748,
-    "http://www.africanews.com/2026/10/29/cameroon-families-demand-return-of-relatives-from-ukraine/": 1793387936748
+    "http://www.africanews.com/2026/10/29/cameroon-families-demand-return-of-relatives-from-ukraine/": 1793387936748,
+    "https://www.nytimes.com/2026/10/30/us/politics/air-force-flyover.html": 1793403731805,
+    "https://timesofindia.indiatimes.com/world/us/trumps-halloween-surprise-sparks-panic-in-washington-residents-call-911-fearing-plane-crash-as-air-force-one-showed-low-altitude-flyover/articleshow/135377172.cms": 1793403731805,
+    "https://www.channelnewsasia.com/world/pope-leo-makes-history-us-midterm-vote-6508626": 1793403737638,
+    "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/": 1793403737638,
+    "https://www.dw.com/en/us-midterms-pope-leo-xiv-casts-vote-by-mail/a-79810339?maca=en-rss-en-all-1573-rdf": 1793403737638,
+    "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss": 1793403737638,
+    "https://www.scmp.com/news/world/united-states-canada/article/3372784/pope-leo-becomes-first-pope-ever-vote-us-election-submits-mail-ballot": 1793403737638,
+    "https://abcnews.com/International/wireStory/pope-leo-xiv-become-pope-history-vote-us-137704157": 1793403737638
   },
   "fps": {
-    "cancer-death-melanoma-recurrence-reduces-vaccine": 1792793075053,
-    "condemns-killed-macron-near-one-paris-racism-shooting": 1792793146765,
     "canadian-elections-goods-house-lifts-loom-midterm-some": 1792802261669,
     "church-fire-gunmen-jordan-killing-least-open-seven": 1792802276936,
     "ahead-canada-lifts-midterms-some-tariffs-trump": 1792820872430,
@@ -404,6 +400,8 @@
     "binance-blamed-breach-hackers-korean-north-record-stealing": 1793369065719,
     "fire-report-tai": 1793369137723,
     "extreme-flavors-pressure-reveals-superconductivity-two-under-ute": 1793387923255,
-    "mac-return": 1793387936748
+    "mac-return": 1793387936748,
+    "flyover-halloween-plane-residents-startled-trick-trump": 1793403731805,
+    "history-leo-makes-midterm-pope-vote": 1793403737638
   }
 }
