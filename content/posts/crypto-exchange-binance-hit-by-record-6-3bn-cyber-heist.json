@@ -91,6 +91,9 @@
   "publishedAt": "2026-10-30T14:05:13.869Z",
   "updatedAt": "2026-10-30T14:05:13.869Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173189604681745",
+    "sharedAt": "2026-10-30T14:08:48.565Z"
+  },
   "ogImage": "/og/crypto-exchange-binance-hit-by-record-6-3bn-cyber-heist.jpg"
 }
