@@ -1,11 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss": 1792718821661,
-    "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax": 1792718821661,
-    "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss": 1792718837340,
-    "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf": 1792718837340,
-    "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss": 1792718837340,
-    "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven": 1792718837340,
     "https://www.bbc.co.uk/sport/formula1/articles/c6vgxd2xyv7do?at_medium=RSS&at_campaign=rss": 1792740299078,
     "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix": 1792740299078,
     "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf": 1792740307475,
@@ -351,11 +345,17 @@
     "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html": 1793321782071,
     "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb": 1793321782071,
     "https://www.scmp.com/news/asia/australasia/article/3372648/australian-mushroom-killer-erin-patterson-likely-die-jail-after-failed-appeal": 1793321782071,
-    "https://www.channelnewsasia.com/world/australian-mushroom-killer-erin-patterson-loses-appeal-6504811": 1793321782071
+    "https://www.channelnewsasia.com/world/australian-mushroom-killer-erin-patterson-loses-appeal-6504811": 1793321782071,
+    "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/": 1793343808294,
+    "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/": 1793343808294,
+    "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/": 1793343815798,
+    "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html": 1793343815798,
+    "https://thehill.com/policy/technology/6183131-binance-hack-crypto-firms-freeze-assets/": 1793343815798,
+    "https://www.japantimes.co.jp/business/2026/10/30/markets/binance-suspected-hack/": 1793343815798,
+    "https://www.channelnewsasia.com/world/cryptocurrency-binance-freezes-assets-security-breach-north-korea-6505586": 1793343815798,
+    "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss": 1793343815798
   },
   "fps": {
-    "bill-billionaire-california-deal-foot-help-him-meta": 1792718821661,
-    "earthquake-magnitude-rocked-tibet": 1792718837340,
     "african-approach-hamilton-humility": 1792740299078,
     "approaches-braces-champi-island-nino-supercharged-taiwan-typhoon": 1792740307475,
     "800m-businesses-chancellor-cut-paperwork-pointless-save": 1792743011667,
@@ -430,6 +430,8 @@
     "ahead-concerns-economy-gallup-healthcare-iran-midterms-top": 1793304917601,
     "memorable-patrick-performances-stewart": 1793304946924,
     "500bn-fears-google-plunges-rattle-street-value-wall": 1793321765890,
-    "appeal-case-court-erin-murders-mushroom-patterson-rejects": 1793321782071
+    "appeal-case-court-erin-murders-mushroom-patterson-rejects": 1793321782071,
+    "ceo-experience-logged-moving-only-reddit": 1793343808294,
+    "biggest-billion-binance-crypto-far-hack-heist-history": 1793343815798
   }
 }
