@@ -115,6 +115,9 @@
   "publishedAt": "2026-10-30T19:18:57.250Z",
   "updatedAt": "2026-10-30T19:18:57.250Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173204466681745",
+    "sharedAt": "2026-10-30T19:22:08.796Z"
+  },
   "ogImage": "/og/baltimore-ravens-quarterback-lamar-jackson-set-to-return-against.jpg"
 }
