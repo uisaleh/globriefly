@@ -1,25 +1,23 @@
-14:04:08 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-14:04:08 collecting videos…
-14:04:08   video feed BBC News: 15 in feed, 5 kept
-14:04:08   video feed Al Jazeera English: 15 in feed, 5 kept
-14:04:08   video feed DW News: 15 in feed, 5 kept
-14:04:08   video feed FRANCE 24 English: 15 in feed, 5 kept
-14:04:08   video feed Sky News: 15 in feed, 5 kept
-14:04:08   video feed Reuters: 15 in feed, 5 kept
-14:04:08   video feed Associated Press: 15 in feed, 5 kept
-14:04:08 videos: saved 24
-14:04:08 collecting feeds…
-14:04:14 813 new items
-14:04:15 645 candidate stories
-14:04:15 categories needing stories: technology, science, health, sports, politics, world → reserved technology
-14:04:15 writing: North Korean hackers blamed for stealing record $6.3B in Binance breach (2 sources)
-14:04:16   source text: 4321 / 6092 / 6092 chars
-14:04:41 image source error: The operation was aborted due to timeout
-14:04:57 image source error: The operation was aborted due to timeout
-14:05:13 image source error: The operation was aborted due to timeout
-14:05:15   ✓ published: /news/crypto-exchange-binance-hit-by-record-6-3bn-cyber-heist/ [technology] image: none
-14:05:15 writing: Tai Po fire report (4 sources)
-14:05:16   source text: 7000 / 4644 / 3078 chars
-14:05:26   too close to source wording — rewriting
-14:05:39   ✓ published: /news/toxic-smoke-from-indonesian-wildfires-claims-thousands-of-lives-in/ [world] image: wikimedia via idea "Indonesian wildfire smoke"
-14:05:39 done — 2 stories
+19:18:31 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+19:18:31 collecting videos…
+19:18:31   video feed BBC News: 15 in feed, 5 kept
+19:18:31   video feed Al Jazeera English: 15 in feed, 5 kept
+19:18:31   video feed DW News: 15 in feed, 5 kept
+19:18:31   video feed FRANCE 24 English: 15 in feed, 5 kept
+19:18:31   video feed Sky News: 15 in feed, 5 kept
+19:18:31   video feed Reuters: 15 in feed, 5 kept
+19:18:31   video feed Associated Press: 15 in feed, 5 kept
+19:18:31 videos: saved 24
+19:18:31 collecting feeds…
+19:18:34 910 new items
+19:18:36 707 candidate stories
+19:18:36 categories needing stories: science, health, sports, politics, technology, world → reserved science
+19:18:36 writing: UTe₂ reveals two flavors of superconductivity under extreme pressure (1 sources)
+19:18:36   source text: 6758 chars
+19:18:43 writer returned unusable output: { "headline": "Uranium ditelluride exhibits simultaneous superconducting flavors under pressure", "standfirst": "Researchers have demonstrated that uranium 
+19:18:43   skipped
+19:18:43 writing: Return of the Mac (5 sources)
+19:18:43   source text: 6063 / 2298 / 3948 chars
+19:18:50   too close to source wording — rewriting
+19:18:58   ✓ published: /news/baltimore-ravens-quarterback-lamar-jackson-set-to-return-against/ [sports] image: wikimedia via idea "Lamar Jackson Baltimore Ravens"
+19:18:58 done — 1 stories

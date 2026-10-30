@@ -1,21 +1,5 @@
 {
   "urls": {
-    "https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/": 1792771967292,
-    "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page": 1792771967292,
-    "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates": 1792771976511,
-    "https://www.thehindu.com/news/international/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump-white-house-says/article71616736.ece": 1792771976511,
-    "https://fortune.com/2026/10/23/melania-trump-russia-ukraine-localized-ceasefire/": 1792771976511,
-    "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss": 1792771976511,
-    "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html": 1792771988210,
-    "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates": 1792771988210,
-    "https://thehill.com/homenews/campaign/6168331-justice-department-sues-to-block-alaska-results-if-sullivan-loses/": 1792771988210,
-    "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast": 1792779376365,
-    "https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/": 1792779376365,
-    "\n                                                https://www.cbssports.com/soccer/news/vincent-kompany-collapse-bayern-munich/\n                    ": 1792779389800,
-    "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss": 1792779389800,
-    "https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791": 1792779389800,
-    "https://www.theguardian.com/football/2026/oct/23/vincent-kompany-hospital-collapsing-bayern-munich-training": 1792779389800,
-    "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss": 1792779389800,
     "https://medicalxpress.com/news/2026-10-melanoma-vaccine-death-cancer-recurrence.html": 1792793075053,
     "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss": 1792793075053,
     "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html": 1792793075053,
@@ -340,14 +324,18 @@
     "https://phys.org/news/2026-10-pollution-people-indonesia-september.html": 1793369137723,
     "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/science-health/indonesia-wildfire-toll/": 1793369137723,
     "https://www.scmp.com/news/hong-kong/society/article/3372622/why-did-it-take-11-months-apology-too-late-some-tai-po-fire-survivors": 1793369137723,
-    "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights": 1793369137723
+    "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights": 1793369137723,
+    "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html": 1793387923255,
+    "https://sports.yahoo.com/articles/return-mac-190300162.html": 1793387936748,
+    "\n                                                https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-update-bills/\n                    ": 1793387936748,
+    "\n                                                https://www.cbssports.com/betting/news/nfl-longshot-parlay-picks-best-bets-player-props-week-8-2026/\n                    ": 1793387936748,
+    "\n                                                https://www.cbssports.com/betting/news/college-football-parlay-picks-predictions-bets-week-9-2026/\n                    ": 1793387936748,
+    "https://www.cricinfo.com/ci/content/story/1560774.html?ex_cid=OTC-RSS": 1793387936748,
+    "http://www.africanews.com/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest/": 1793387936748,
+    "https://www.euronews.com/video/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest": 1793387936748,
+    "http://www.africanews.com/2026/10/29/cameroon-families-demand-return-of-relatives-from-ukraine/": 1793387936748
   },
   "fps": {
-    "25th-anniversary-apple-easter-egg-fun-has-ipod": 1792771967292,
-    "broker-ceasefire-europe-has-helped-house-live-melania": 1792771976511,
-    "alaska-block-certifying-doj-loses-narrowly-race-republican": 1792771988210,
-    "duo-have-ipad-iphone-should": 1792779376365,
-    "bayern-collapsing-ground-hospitalized-kompany-munich-training-vincent": 1792779389800,
     "cancer-death-melanoma-recurrence-reduces-vaccine": 1792793075053,
     "condemns-killed-macron-near-one-paris-racism-shooting": 1792793146765,
     "canadian-elections-goods-house-lifts-loom-midterm-some": 1792802261669,
@@ -414,6 +402,8 @@
     "ceo-experience-logged-moving-only-reddit": 1793343808294,
     "biggest-billion-binance-crypto-far-hack-heist-history": 1793343815798,
     "binance-blamed-breach-hackers-korean-north-record-stealing": 1793369065719,
-    "fire-report-tai": 1793369137723
+    "fire-report-tai": 1793369137723,
+    "extreme-flavors-pressure-reveals-superconductivity-two-under-ute": 1793387923255,
+    "mac-return": 1793387936748
   }
 }

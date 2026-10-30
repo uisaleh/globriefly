@@ -1,45 +1,141 @@
 {
-  "updatedAt": "2026-10-30T14:04:08.704Z",
+  "updatedAt": "2026-10-30T19:18:31.942Z",
   "videos": [
     {
-      "id": "yKbvaqJ_96I",
-      "title": "Palestinian child survives Israeli gunshot to the head",
+      "id": "55uiP4iMQmk",
+      "title": "France’s 'yellow vest' protesters gather and plan to join nationwide demonstrations",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-30T13:52:32.000Z",
-      "description": "Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers, tells Al Jazeera what happened that day."
+      "publishedAt": "2026-10-30T18:20:48.000Z",
+      "description": "Yellow vest protesters gathered outside Paris’s appeal court on Friday in support of a man accused of inciting students to burn the Elysee Palace. The gathering came as members of the movement planned to join nationwide "
     },
     {
-      "id": "bflt5hW6t18",
-      "title": "Difficult negotiations ahead in Israel after Netanyahu's bloc loses parliamentary majority",
+      "id": "ZURdopmoQkE",
+      "title": "Here is how to read the AP Election Maps",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-30T13:51:59.000Z",
-      "description": "Benjamin Netanyahu remains in charge, but coalition talks are expected to be challenging. The president will assign someone to form a government next week. If no one can do so, a new election could be held early next yea"
+      "publishedAt": "2026-10-30T18:18:59.000Z",
+      "description": "Election maps aren't always easy to understand. AP's Humera Lodhi breaks down how to use and interpret results maps ahead of the 2026 midterms."
     },
     {
-      "id": "lPKgTZGvGXo",
-      "title": "Georgia's European dream left in limbo • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-30T13:35:57.000Z",
-      "description": "Two years ago in Georgia, tens of thousands of pro-European protesters rallied against the disputed results of the October 2024 parliamentary election, which was officially won by the ruling Georgian Dream party. A few w"
-    },
-    {
-      "id": "zaab-5v466E",
-      "title": "$6.3bn of crypto stolen in what is thought to be the biggest hack ever.",
+      "id": "S4p4-7_aRB4",
+      "title": "What can you do if you're a Binance customer caught up in this massive hack?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-30T13:30:33.000Z",
+      "publishedAt": "2026-10-30T18:15:20.000Z",
       "description": ""
     },
     {
-      "id": "3tmPCylnuKE",
-      "title": "Cryptocurrency giant Binance hit by $6.3 billion hack",
+      "id": "CKeOdB87SDU",
+      "title": "How an engineer's laptop may have led to $6.3bn crypto heist",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-30T18:00:36.000Z",
+      "description": "$6.3bn has been stolen from a major trading platform in what's been described as the biggest bank heist in history. "
+    },
+    {
+      "id": "PDCfB6JQnbg",
+      "title": "This Ebola center celebrates",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-30T13:15:17.000Z",
-      "description": "The world's biggest cryptocurrency exchange Binance says it was hit by a cyberattack affecting an estimated $6.3 billion in digital assets, the largest cryptocurrency theft to date. One analysis attributed the incident t"
+      "publishedAt": "2026-10-30T17:52:42.000Z",
+      "description": "As Ebola continues to spread in the Democratic Republic of Congo, these healthcare workers from Doctors Without Borders celebrate the last patients leaving their Ebola treatment facility after months of fighting the dead"
+    },
+    {
+      "id": "S0MGKEEVuV0",
+      "title": "Smoke rises above Russian oil refinery",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-30T17:26:37.000Z",
+      "description": "Plumes of black smoke were seen rising over Russia's Novokuybyshevsk oil refinery following a reported Ukrainian drone attack in the Samara region."
+    },
+    {
+      "id": "vFT67ttotR0",
+      "title": "Oleshky: No access to basic needs, ceasefire offers limited opportunity for humanitarian assistance",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-30T17:11:52.000Z",
+      "description": "Catherine Viette is pleased to welcome Jens Schumacher, Field Coordinator in Mykolaiv and Kherson with Solidarity International. Just a few kilometers separate the Ukrainian-controlled city of Kherson from Russian-occupi"
+    },
+    {
+      "id": "0YSjeNiT9PM",
+      "title": "Kim Jong Un calls for North Korea's drone technology superiority",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-30T18:03:10.000Z",
+      "description": "North Korean leader Kim Jong Un visits a drone exhibition showcasing the country's latest military technology, calling for “absolute superiority” in drone capabilities and for measures to boost unmanned aircraft developm"
+    },
+    {
+      "id": "iP0diDRdcUw",
+      "title": "Israel demolishes two homes in Hebron after deadly attack",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-30T18:13:01.000Z",
+      "description": "Israeli forces demolished two homes in response to the killing of Israeli soldiers in the occupied West Bank city of Hebron on Friday. Israeli soldiers were seen preparing for the demolition while people from far watched"
+    },
+    {
+      "id": "KjIpQJi10zA",
+      "title": "Are we all going to be worse off? The UK's money troubles in four charts",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-30T18:00:19.000Z",
+      "description": "Economics editor Faisal Islam and Newscast's Adam Fleming unpack the UK's finances in four key charts. This week the Institute for Fiscal Studies delivered it's verdict on John Healey's budget. They warned that the curre"
+    },
+    {
+      "id": "EhNRnMDH9t8",
+      "title": "Why your council tax band is outdated",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-30T16:55:30.000Z",
+      "description": "Why is your council tax band outdated?⁠"
+    },
+    {
+      "id": "RBo55Dh5uq0",
+      "title": "Rare ceasefire: Ukraine and Russia evacuate civilians from Oleshky",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-30T17:45:01.000Z",
+      "description": "In a rare moment of cooperation, Russian and Ukrainian officials are working together in the occupied town of Oleshky to evacuate civilians and deliver aid. After months of negotiations, a localized ceasefire is allowing"
+    },
+    {
+      "id": "CMIZ8FTTAMs",
+      "title": "Oil refinery in Russia's Samara hit in reported drone attack",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-10-30T16:49:56.000Z",
+      "description": "Plumes of black smoke were seen rising over Russia's Novokuybyshevsk oil refinery following a reported Ukrainian drone attack on the Samara region."
+    },
+    {
+      "id": "XkehRG77itY",
+      "title": "MAGA: Why Trump's movement is fracturing? • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-10-30T17:00:06.000Z",
+      "description": "As the 2026 midterm elections approach, divisions within the MAGA camp are becoming increasingly visible. From the war in Iran and rising fuel prices to the Epstein files, several of Trump’s decisions are fuelling divisi"
+    },
+    {
+      "id": "0QyYINUkJVE",
+      "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-30T17:30:36.000Z",
+      "description": "The votes are counted in Israel's general elections. "
+    },
+    {
+      "id": "uHS2XCJ24qw",
+      "title": "Middle East reacts to Israel's election results",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-30T17:10:57.000Z",
+      "description": "Residents of Iran, Lebanon, Gaza and the West Bank reacted Friday after Israel’s final election results showed Prime Minister Benjamin Netanyahu’s bloc falling short of a parliamentary majority. Netanyahu’s bloc secured "
+    },
+    {
+      "id": "40ns-ftRjQQ",
+      "title": "How did this happen again? Inside Spain's second rail disaster in a year",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-30T17:30:05.000Z",
+      "description": "Two trains crashed on the route from Madrid to Seville with devastating consequences. At least 69 people have died and scores were more injured after the second rail disaster on the same line in a year."
     },
     {
       "id": "NsDoZJXj_Kc",
@@ -50,148 +146,52 @@
       "description": "A report has warned the social media 'manosphere' should be treated similarly to tobacco. The report's co-author speaks to Sky's Anna Jones."
     },
     {
-      "id": "WLhfLTIUxJg",
-      "title": "Trump's tariffs: Are they helping or hurting?",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-30T13:09:05.000Z",
-      "description": "More than three quarters of Americans think Trump’s policies have raised the cost of living. White House correspondent Bo Erickson checks in with Autos correspondent Kalea Hall in Michigan, where a pending increase in US"
-    },
-    {
-      "id": "s04qxxU3ymk",
-      "title": "Why US sports owners spend millions on politics",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-30T13:00:36.000Z",
-      "description": "US sports team owners include some of the wealthiest people in the world, and many spend millions of dollars on US politics. But why? Ahead of the US midterm elections, Al Jazeera’s Samantha Johnson follows the money to "
-    },
-    {
-      "id": "ILyAN4IQvJY",
-      "title": "Spain's prime minister says country needs to restore 'broken trust' in high-speed train system",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-30T12:48:27.000Z",
-      "description": "Spain's Prime Minster says there is a \"broken trust\" in the country's high speed system following the deadly crash that killed at least 69 people. \r"
-    },
-    {
-      "id": "6-ysbUBs1fo",
-      "title": "Texas Republicans accused of changing electoral rules ahead of midterms • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-30T13:07:48.000Z",
-      "description": "With the US midterm elections approaching, Republicans in Texas are being accused of changing electoral rules in their favour. In Tarrant County, near Dallas, they've cut the number of election-day polling places by near"
-    },
-    {
-      "id": "gOvJViScCMo",
-      "title": "Jacksepticeye on becoming a Hitman target and GTA 6 hype",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-30T13:16:16.000Z",
-      "description": "The world's changed a lot since Seán McLoughlin, better known to 31 million subscribers as Jacksepticeye, began making YouTube videos."
-    },
-    {
-      "id": "2hyKG6Tw1pk",
-      "title": "Protesters outside Eisenkot's home call on him to work with Arab parties",
+      "id": "1sVSoQdswtE",
+      "title": "Netanyahu accuses Israel's Arab parties of 'stealing the vote'",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-30T12:28:34.000Z",
-      "description": "Demonstrators outside Gadi Eisenkot's home in Israel called on the opposition leader to work with Arab parties to form a government. No bloc — Eisenkot's opposition group or Netanyahu's right-wing coalition — garnered th"
+      "publishedAt": "2026-10-30T16:30:46.000Z",
+      "description": "With the Israeli election results in, Benjamin Netanyahu’s Likud party and those aligned with him lost their parliamentary majority.  Arab-led parties doubled their share of seats in the latest vote.  Now Benjamin Netany"
     },
     {
-      "id": "VaHJ2ZJAE6U",
-      "title": "Police investigating Andrew's Balmoral stays with Jeffrey Epstein and Ghislaine Maxwell",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-30T13:10:09.000Z",
-      "description": "Police are investigating Andrew Mountbatten-Windsor's stays with Jeffrey Epstein and Ghislaine Maxwell at the Royal Family's private estate in Scotland."
-    },
-    {
-      "id": "qN56-WbIVNs",
-      "title": "⭐ The B-52s get Hollywood star",
+      "id": "mt2eedP85SQ",
+      "title": "🤵 ‘The Gilded Age’ teases shifting ties, modern parallels in latest season",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-30T13:00:39.000Z",
-      "description": "Wacky pop rock band The B-52s received a star on the Hollywood Walk of Fame, 50 years after the group formed in Athens, Georgia."
+      "publishedAt": "2026-10-30T16:00:36.000Z",
+      "description": "The cast of “The Gilded Age” teased shifting relationships, growing ambitions and a clash between generations as they gathered in New York ahead of the show’s fourth season."
     },
     {
-      "id": "Y2GyZ5k32Jw",
-      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-30T12:55:26.000Z",
-      "description": "‘Their plan is insane.’ Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran after the November midterms, warning the proposal is devastating and shatters the US commitment to rule of la"
-    },
-    {
-      "id": "bupQbJW51YY",
-      "title": "Worst measles outbreak in decades hits Pennsylvania Amish country",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-30T12:00:12.000Z",
-      "description": "Pennsylvania Amish Country is the epicenter of the nation's worst measles outbreak in 35 years. Lower vaccination rates among Amish and the wider population have added to virus’ resurgence, prompting renewed openness to "
-    },
-    {
-      "id": "WNY0fFWpfJI",
-      "title": "Russia recruits Africans to fight in Ukraine, families seek answers • FRANCE 24 English",
+      "id": "fzf2J2hZUzM",
+      "title": "Russia’s Novaya Gazeta to cease publication amid Kremlin crackdown • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-30T11:06:53.000Z",
-      "description": "While African leaders and Russian officials gather to discuss security, trade and political cooperation at the Africa-Russia summit, one sensitive issue is notably absent from the agenda: the recruitment of Africans to f"
+      "publishedAt": "2026-10-30T16:58:49.000Z",
+      "description": "Russia’s most renowned independent newspaper, Novaya Gazeta, announced on Friday that it was ceasing publication after more than three decades. Known for its courageous investigative journalism, the flagship newspaper sa"
     },
     {
-      "id": "DQitil-SLgc",
-      "title": "Sir Patrick Stewart remembered as 'most beloved actor of his generation'",
+      "id": "4_dUKeK3YfM",
+      "title": "US Midterms 2026 Latest: Trump backtracks on rallies",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-10-30T16:57:46.000Z",
+      "description": "Four days to go until election day and the president has surprised the nation yet again. The White House has confirmed to Al Jazeera that Donald Trump will campaign in two major battleground states this weekend - after i"
+    },
+    {
+      "id": "bflt5hW6t18",
+      "title": "Difficult negotiations ahead in Israel after Netanyahu's bloc loses parliamentary majority",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-30T13:51:59.000Z",
+      "description": "Benjamin Netanyahu remains in charge, but coalition talks are expected to be challenging. The president will assign someone to form a government next week. If no one can do so, a new election could be held early next yea"
+    },
+    {
+      "id": "6TyuMcOuG5k",
+      "title": "Christa Pike releases first statement since botched execution.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-30T12:30:09.000Z",
-      "description": "Sir Ian McKellen has led tributes to Sir Patrick Stewart following his death at the age of 86, calling him \"the most respected and beloved actor of his generation\"."
-    },
-    {
-      "id": "od97xWpy_jQ",
-      "title": "Why young voters are turning against Trump",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-30T12:00:37.000Z",
-      "description": "For more news go to: http://www.dw.com/en/"
-    },
-    {
-      "id": "uUlaGqAOmIc",
-      "title": "Sunday Morning with... Fraser Nelson",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-30T11:55:27.000Z",
-      "description": "Fraser dives deep into the top political stories, looking beyond Westminster - to the issues and ideas shaping life across the UK. "
-    },
-    {
-      "id": "YHhXsfF8jIE",
-      "title": "Market Talk: The oil market 'has got savvy to the ebbs and flows of this war'",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-30T12:17:08.000Z",
-      "description": "Oil prices are on track to rise for a fourth straight month, amid fears the US could resume attacks on Iran. Kpler oil analyst Naveen Das told Reuters traders are taking long-term positions, anticipating further supply s"
-    },
-    {
-      "id": "Onm4gBClKSA",
-      "title": "Sudan RSF commander defects from Hemedti’s forces",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-30T12:54:26.000Z",
-      "description": "Senior Rapid Support Forces commander Siddiq Ander says he has defected, in an exclusive video obtained by Al Jazeera. Ander is the latest in a line of RSF commanders to break from the group."
-    },
-    {
-      "id": "5uDzHKi-C2w",
-      "title": "Peltola denies knowing Alaska spoiler candidate as Justice Department expands probe",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-30T06:00:04.000Z",
-      "description": "Democratic Senate candidate Mary Peltola denied Thursday that she knew anything about an effort to put another candidate on the Alaska ballot with the same name as the Republican incumbent.\r"
-    },
-    {
-      "id": "srVuDA9DJpw",
-      "title": "Tennis: Alexander Zverev guaranteed to become world No. 1 • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-30T06:23:13.000Z",
-      "description": "Alexander Zverev secured his place as the next world No. 1 by beating Tallon Griekspoor (6-4, 7-5) at the ATP 500 tournament in Vienna. The 29-year-old German will top the ATP rankings on Monday, November 2, replacing Ja"
+      "publishedAt": "2026-10-30T16:45:37.000Z",
+      "description": ""
     }
   ]
 }
