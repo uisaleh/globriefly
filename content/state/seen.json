@@ -1,26 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/sport/formula1/articles/c6vgxd2xyv7do?at_medium=RSS&at_campaign=rss": 1792740299078,
-    "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix": 1792740299078,
-    "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf": 1792740307475,
-    "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches": 1792740307475,
-    "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss": 1792743011667,
-    "https://phys.org/news/2026-10-europe-killer-summer-climate-blamed.html": 1792758416412,
-    "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths": 1792758416412,
-    "https://www.thehindu.com/news/international/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election/article71615850.ece": 1792758464111,
-    "https://www.france24.com/en/video/20261023-netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election": 1792758464111,
-    "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank": 1792758464111,
-    "https://timesofindia.indiatimes.com/world/middle-east/israel-orders-hebron-lockdown-prepares-to-shut-entire-west-bank-after-shooting-from-friday/articleshow/135141135.cms": 1792758464111,
-    "https://www.channelnewsasia.com/world/netanyahu-orders-west-bank-closure-attack-wounds-israelis-election-6485546": 1792758464111,
-    "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack": 1792758464111,
-    "https://www.scmp.com/news/world/middle-east/article/3371912/netanyahu-orders-west-bank-closure-after-deadly-checkpoint-shoot-out": 1792758464111,
-    "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf": 1792758464111,
-    "https://www.billboard.com/music/rock/ryan-gosling-revives-spooky-rock-band-dead-mans-bones-1236367075/": 1792761686589,
-    "https://www.hollywoodreporter.com/music/music-news/ryan-gosling-band-dead-mans-bones-comeback-new-music-1236738826/": 1792761686589,
-    "https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15/": 1792761710153,
-    "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss": 1792761710153,
-    "https://www.thehindu.com/news/international/greece-passes-social-media-ban-for-children-under-15/article71614919.ece": 1792761710153,
-    "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf": 1792761710153,
     "https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/": 1792771967292,
     "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page": 1792771967292,
     "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates": 1792771976511,
@@ -353,16 +332,17 @@
     "https://thehill.com/policy/technology/6183131-binance-hack-crypto-firms-freeze-assets/": 1793343815798,
     "https://www.japantimes.co.jp/business/2026/10/30/markets/binance-suspected-hack/": 1793343815798,
     "https://www.channelnewsasia.com/world/cryptocurrency-binance-freezes-assets-security-breach-north-korea-6505586": 1793343815798,
-    "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss": 1793343815798
+    "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss": 1793343815798,
+    "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/": 1793369065719,
+    "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack": 1793369065719,
+    "https://www.scmp.com/news/hong-kong/series/3372759/tai-po-fire-report": 1793369137723,
+    "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/": 1793369137723,
+    "https://phys.org/news/2026-10-pollution-people-indonesia-september.html": 1793369137723,
+    "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/science-health/indonesia-wildfire-toll/": 1793369137723,
+    "https://www.scmp.com/news/hong-kong/society/article/3372622/why-did-it-take-11-months-apology-too-late-some-tai-po-fire-survivors": 1793369137723,
+    "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights": 1793369137723
   },
   "fps": {
-    "african-approach-hamilton-humility": 1792740299078,
-    "approaches-braces-champi-island-nino-supercharged-taiwan-typhoon": 1792740307475,
-    "800m-businesses-chancellor-cut-paperwork-pointless-save": 1792743011667,
-    "000-blamed-change-claims-climate-deaths-europe-heat": 1792758416412,
-    "attack-bank-before-closure-election-israelis-netanyahu-orders": 1792758464111,
-    "band-bones-dead-gosling-halloween-just-man-reviving": 1792761686589,
-    "ban-enacts-greece-kids-media-social-under": 1792761710153,
     "25th-anniversary-apple-easter-egg-fun-has-ipod": 1792771967292,
     "broker-ceasefire-europe-has-helped-house-live-melania": 1792771976511,
     "alaska-block-certifying-doj-loses-narrowly-race-republican": 1792771988210,
@@ -432,6 +412,8 @@
     "500bn-fears-google-plunges-rattle-street-value-wall": 1793321765890,
     "appeal-case-court-erin-murders-mushroom-patterson-rejects": 1793321782071,
     "ceo-experience-logged-moving-only-reddit": 1793343808294,
-    "biggest-billion-binance-crypto-far-hack-heist-history": 1793343815798
+    "biggest-billion-binance-crypto-far-hack-heist-history": 1793343815798,
+    "binance-blamed-breach-hackers-korean-north-record-stealing": 1793369065719,
+    "fire-report-tai": 1793369137723
   }
 }
