@@ -107,6 +107,9 @@
   "publishedAt": "2026-10-30T00:56:06.655Z",
   "updatedAt": "2026-10-30T00:56:06.655Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173137584681745",
+    "sharedAt": "2026-10-30T00:59:54.276Z"
+  },
   "ogImage": "/og/tech-giants-suffer-massive-market-losses-as-heavy-artificial.jpg"
 }
