@@ -125,6 +125,9 @@
   "publishedAt": "2026-10-31T17:42:46.564Z",
   "updatedAt": "2026-10-31T17:42:46.564Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173269302681745",
+    "sharedAt": "2026-10-31T17:46:20.293Z"
+  },
   "ogImage": "/og/iran-warns-us-and-israel-against-renewed-strikes-as-regional-tensions.jpg"
 }
