@@ -1,21 +1,5 @@
 {
   "urls": {
-    "https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-1236739530/": 1792865120101,
-    "https://variety.com/2026/film/box-office/box-office-clayface-you-can-see-everything-wildwood-wicker-1236930256/": 1792865120101,
-    "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/": 1792865120101,
-    "https://www.thehindu.com/news/international/ukraine-says-starlink-back-to-normal-after-week-of-throttling/article71619764.ece": 1792865136751,
-    "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions": 1792865136751,
-    "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss": 1792865136751,
-    "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1792865136751,
-    "https://www.japantimes.co.jp/news/2026/10/24/world/starlink-access-alterations/": 1792865136751,
-    "https://www.theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone": 1792874633108,
-    "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest": 1792874633108,
-    "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news": 1792874641695,
-    "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots": 1792874641695,
-    "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing": 1792874641695,
-    "https://abcnews.com/International/wireStory/hundreds-soldiers-milan-protests-planned-europe-137534380": 1792874641695,
-    "https://www.france24.com/en/fresh-protests-across-france": 1792874641695,
-    "https://www.nytimes.com/article/france-student-protests-why.html": 1792874641695,
     "https://medicalxpress.com/news/2026-10-advanced-age-limit-benefits-sodium.html": 1792883279895,
     "\n                                                https://www.cbssports.com/wnba/news/2026-wnba-finals-game-6-venue-state-farm-arena-dream-valkyries/\n                    ": 1792883294356,
     "https://www.abc.net.au/news/2026-10-25/valkyries-shut-down-dream-in-game-4-to-square-wnba-finals/107305956": 1792883294356,
@@ -324,13 +308,14 @@
     "https://thehill.com/policy/international/6186134-khamenei-warns-iran-strikes/": 1793468550680,
     "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war": 1793468550680,
     "https://www.thehindu.com/news/international/irans-supreme-leader-warns-us-israel-against-new-attacks/article71649244.ece": 1793468550680,
-    "https://www.channelnewsasia.com/world/iran-supreme-leader-warn-us-israel-new-attacks-6509621": 1793468550680
+    "https://www.channelnewsasia.com/world/iran-supreme-leader-warn-us-israel-new-attacks-6509621": 1793468550680,
+    "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html": 1793482086533,
+    "https://sports.yahoo.com/articles/josh-jacobs-allegations-explained-packers-212143101.html": 1793482100743,
+    "https://sports.yahoo.com/articles/nfl-review-allegations-against-packers-210631231.html": 1793482100743,
+    "https://www.theguardian.com/sport/2026/oct/31/josh-jacobs-green-bay-packers-abuse-allegations-police-records": 1793482100743,
+    "\n                                                https://www.cbssports.com/nfl/news/three-other-women-accused-packers-josh-jacobs-of-abuse-after-arrest/\n                    ": 1793482100743
   },
   "fps": {
-    "20m-box-can-clayface-everything-eyes-leads-office": 1792865120101,
-    "connection-govt-has-stable-starlink-ukraine": 1792865136751,
-    "clone-cristian-footballer-latest-license-socceroo-synthetic-twin": 1792874633108,
-    "across-europe-france-happened-hundreds-march-place-protests": 1792874641695,
     "advanced-age-benefits-chronic-cotransporter-disease-does-glucose": 1792883279895,
     "2026-air-already-arena-booked-dream-farm-finals": 1792883294356,
     "add-coasters-death-flags-rider-roller-seatbelts-six": 1792902932919,
@@ -394,6 +379,8 @@
     "billion-elections-have-megadonors-midterm-spent-these-total": 1793449012746,
     "florida-football-free-game-georgia-how-livestream-online": 1793449020465,
     "how-instagram-purpose-reposting-what-you": 1793468481539,
-    "attacks-iran-israel-leader-supreme-warns": 1793468550680
+    "attacks-iran-israel-leader-supreme-warns": 1793468550680,
+    "channel-complex-evolution-gene-giant-illuminates-potassium-protein": 1793482086533,
+    "abuse-accused-additional-allegations-arrest-explained-jacobs-josh": 1793482100744
   }
 }

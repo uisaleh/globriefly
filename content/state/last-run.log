@@ -1,26 +1,23 @@
-17:40:49 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-17:40:49 collecting videos…
-17:40:49   video feed BBC News: 15 in feed, 5 kept
-17:40:49   video feed Al Jazeera English: 15 in feed, 5 kept
-17:40:49   video feed DW News: 15 in feed, 5 kept
-17:40:49   video feed FRANCE 24 English: 15 in feed, 5 kept
-17:40:49   video feed Sky News: 15 in feed, 5 kept
-17:40:49   video feed Reuters: 15 in feed, 5 kept
-17:40:49   video feed Associated Press: 15 in feed, 5 kept
-17:40:49 videos: saved 24
-17:40:49 collecting feeds…
-17:40:53 592 new items
-17:40:54 486 candidate stories
-17:40:54 categories needing stories: technology, science, health, entertainment, politics, business → reserved technology
-17:40:54 writing: What is the purpose of reposting on Instagram and how do you do it? (2 sources)
-17:41:09   source text: 3706 / 0 chars
-17:41:37 image source error: The operation was aborted due to timeout
-17:41:52 image source error: The operation was aborted due to timeout
-17:42:08 image source error: The operation was aborted due to timeout
-17:42:24 image source error: The operation was aborted due to timeout
-17:42:24   ✓ published: /news/instagram-introduces-new-reposting-feature-for-feeds-and-reels/ [technology] image: none
-17:42:24 writing: Iran's supreme leader warns U.S., Israel against new attacks (6 sources)
-17:42:25   source text: 7000 / 5019 / 0 / 2102 chars
-17:42:46 image source error: The operation was aborted due to timeout
-17:42:47   ✓ published: /news/iran-warns-us-and-israel-against-renewed-strikes-as-regional-tensions/ [world] image: wikimedia via name "Mojtaba Khamenei"
-17:42:47 done — 2 stories
+21:27:47 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+21:27:47 collecting videos…
+21:27:47   video feed BBC News: 15 in feed, 5 kept
+21:27:47   video feed Al Jazeera English: 15 in feed, 5 kept
+21:27:47   video feed DW News: 15 in feed, 5 kept
+21:27:47   video feed FRANCE 24 English: 15 in feed, 5 kept
+21:27:47   video feed Sky News: 15 in feed, 5 kept
+21:27:47   video feed Reuters: 15 in feed, 5 kept
+21:27:47   video feed Associated Press: 15 in feed, 5 kept
+21:27:47 videos: saved 24
+21:27:47 collecting feeds…
+21:27:53 569 new items
+21:27:54 461 candidate stories
+21:27:54 categories needing stories: science, health, entertainment, politics, business, technology, sports → reserved science
+21:27:54 writing: Giant virus yields potassium channel gene that illuminates complex protein evolution (1 sources)
+21:27:54   source text: 3684 chars
+21:28:00   too close to source wording — rewriting
+21:28:06   skipped
+21:28:06 writing: Josh Jacobs allegations, explained: Packers RB accused of abuse by 3 additional women in wake of May arrest (3 sources)
+21:28:07   source text: 5575 / 6049 / 5397 chars
+21:28:15   too close to source wording — rewriting
+21:28:20   skipped
+21:28:20 done — 0 stories
