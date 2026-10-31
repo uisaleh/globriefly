@@ -114,6 +114,9 @@
   "publishedAt": "2026-10-31T05:32:25.936Z",
   "updatedAt": "2026-10-31T05:32:25.936Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173236446681745",
+    "sharedAt": "2026-10-31T05:36:24.187Z"
+  },
   "ogImage": "/og/why-is-the-us-selling-patriot-missiles-to-ukraine.jpg"
 }

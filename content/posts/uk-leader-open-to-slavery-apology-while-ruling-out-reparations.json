@@ -104,6 +104,9 @@
   "publishedAt": "2026-10-31T05:32:09.894Z",
   "updatedAt": "2026-10-31T05:32:09.894Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173236116681745",
+    "sharedAt": "2026-10-31T05:35:37.316Z"
+  },
   "ogImage": "/og/uk-leader-open-to-slavery-apology-while-ruling-out-reparations.jpg"
 }
