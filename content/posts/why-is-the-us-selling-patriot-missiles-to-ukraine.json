@@ -1,0 +1,119 @@
+{
+  "slug": "why-is-the-us-selling-patriot-missiles-to-ukraine",
+  "status": "published",
+  "type": "explainer",
+  "category": "world",
+  "region": "Europe",
+  "headline": "Why is the US selling Patriot missiles to Ukraine?",
+  "standfirst": "The US has approved a $2.1bn sale of Patriot missiles to Ukraine, but delivery is delayed until the next decade.",
+  "keyPoints": [
+    "The US State Department approved a potential $2.1bn sale of 500 Patriot PAC-3 interceptor missiles to Ukraine.",
+    "The package is funded through international donations and European Union loans, with Lockheed Martin as the main contractor.",
+    "Ukrainian President Volodymyr Zelenskyy welcomed the deal but warned that deliveries may not arrive until the 2030s.",
+    "Kyiv urgently needs air defences right now to counter daily Russian attacks on energy and civilian infrastructure."
+  ],
+  "sections": [
+    {
+      "heading": "What is the new US-Ukraine missile deal?",
+      "paragraphs": [
+        "The United States has given formal approval for a major military sale to Ukraine, clearing the way for 500 Patriot PAC-3 interceptor missiles along with related parts and support. Estimated at $2.1bn, the package represents one of the most significant defensive weapons agreements since the second administration of US President Donald Trump began in January 2025.",
+        "Rather than relying on direct US funding, the purchase is being financed through a collaborative effort. Contributions from Canada, Germany, and Norway routed through the US JUMPSTART program, alongside funds from the European Union’s Ukraine Support Loan, will cover the total cost. The primary manufacturer tasked with building the interceptors is American defense giant Lockheed Martin."
+      ]
+    },
+    {
+      "heading": "Why does Ukraine need Patriot missiles?",
+      "paragraphs": [
+        "The Patriot system is widely regarded as the most effective defense weapon available for countering fast-moving ballistic missiles. Ukraine has faced relentless aerial bombardments, with Russian forces targeting power grids, civilian areas, and critical infrastructure on a daily basis.",
+        "Just recently, deadly strikes across several Ukrainian cities, including a tragic drone attack on a crowded rail platform in Dnipro, underscored the human toll of the ongoing conflict. Kyiv has repeatedly stressed that it urgently needs advanced interceptors to shield its population and protect its crippled energy grid from further destruction."
+      ]
+    },
+    {
+      "heading": "What is the catch with the delivery timeline?",
+      "paragraphs": [
+        "Despite the positive announcement, Ukrainian leadership has pointed out a major hurdle: the weapons have not been manufactured yet. Industry insiders and officials familiar with the decision indicate that production backlogs mean the missiles are unlikely to reach the front lines until a couple of years into the 2030s.",
+        "President Volodymyr Zelenskyy praised the diplomatic approval on social media but urged Washington and European allies to find an immediate workaround. Because current stockpiles in the US and Europe are substantial, Kyiv is pushing partners to hand over existing missiles right away and backfill their own inventories later."
+      ]
+    },
+    {
+      "heading": "How does this fit into broader geopolitical tensions?",
+      "paragraphs": [
+        "The weapons agreement comes at a complex time for international diplomacy and bilateral relations between Kyiv and Washington. Tensions had recently flared following a US decision to ease certain sanctions on Russia as part of a separate diesel deal, alongside public friction over Ukrainian military tactics.",
+        "Meanwhile, broader diplomatic friction remains on display on the global stage. European diplomats recently voiced strong opposition at a G20 foreign ministers' meeting in Atlanta by refusing to take part in an official photograph alongside Russia's foreign minister, signaling that Western resolve against the invasion remains firm even as supply logistics get complicated."
+      ]
+    }
+  ],
+  "highlight": "The Patriot system is the most effective weapon to counter fast-moving ballistic missiles.",
+  "timeline": [
+    {
+      "when": "February 2022",
+      "what": "Russia launches a full-scale invasion of Ukraine."
+    },
+    {
+      "when": "January 2025",
+      "what": "Donald Trump begins his second term as US president."
+    },
+    {
+      "when": "October 2026",
+      "what": "The US State Department approves a $2.1bn sale of Patriot missiles to Ukraine."
+    }
+  ],
+  "tags": [
+    "Ukraine",
+    "United States",
+    "Russia",
+    "Patriot missiles",
+    "Lockheed Martin"
+  ],
+  "socialSummary": "The US approved a $2.1bn Patriot missile sale to Ukraine, but delivery could take years.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/210519-A-SO154-750_-_Patriot_Missile_System_operates_in_Croatia.jpg/1920px-210519-A-SO154-750_-_Patriot_Missile_System_operates_in_Croatia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "The 5th Battalion, 7th Air Defense Artillery’s U.S. Army Patriot Missile Systems arrived in Croatia May 17, 2021 to…",
+    "credit": "Sgt. Alexandra Shea / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:210519-A-SO154-750_-_Patriot_Missile_System_operates_in_Croatia.jpg",
+    "license": "Public domain",
+    "provider": "wikimedia",
+    "query": "Patriot missile system",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "Patriot missile system",
+    "names": [
+      "Lockheed Martin",
+      "Volodymyr Zelenskyy",
+      "Donald Trump"
+    ],
+    "subject": "military missile battery"
+  },
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "name": "The Hill",
+      "url": "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/"
+    }
+  ],
+  "sourceTitles": [
+    "US greenlights $2.1bn Patriot missile sale to Ukraine",
+    "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
+    "US approves sale of 500 Patriot missiles to Ukraine",
+    "Ukraine gets approval for Patriot missile sale"
+  ],
+  "sourceCount": 4,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-10-31T05:32:25.936Z",
+  "updatedAt": "2026-10-31T05:32:25.936Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-is-the-us-selling-patriot-missiles-to-ukraine.jpg"
+}

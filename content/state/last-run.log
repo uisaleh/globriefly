@@ -1,22 +1,23 @@
-23:41:58 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-23:41:58 collecting videos…
-23:42:00   video feed BBC News: 15 in feed, 5 kept
-23:42:00   video feed Al Jazeera English: 15 in feed, 5 kept
-23:42:00   video feed DW News: 15 in feed, 5 kept
-23:42:01   video feed FRANCE 24 English: 15 in feed, 5 kept
-23:42:01   video feed Sky News: 15 in feed, 5 kept
-23:42:01   video feed Reuters: 15 in feed, 5 kept
-23:42:01   video feed Associated Press: 15 in feed, 5 kept
-23:42:01 videos: saved 24
-23:42:01 collecting feeds…
-23:42:03 783 new items
-23:42:05 617 candidate stories
-23:42:05 categories needing stories: politics, science, health, entertainment, technology, sports, world → reserved politics
-23:42:05 writing: Trump’s Plane Flyover Is a Halloween Trick for Startled D.C. Residents (2 sources)
-23:42:05   source text: 2824 / 0 chars
-23:42:11 writer returned unusable output: { "headline": "Low-altitude Air Force One Halloween flyover startles Washington residents", "standfirst": "A surprise low-altitude flyover by Air Force One 
-23:42:11   skipped
-23:42:11 writing: Pope Leo makes history with US midterm vote (6 sources)
-23:42:12   source text: 2465 / 3232 / 2848 chars
-23:42:23   ✓ published: /news/pope-leo-xiv-marks-historic-first-by-voting-in-us-midterm-elections/ [world] image: wikimedia via idea "Pope Leo XIV Vatican City"
-23:42:23 done — 1 stories
+05:29:16 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+05:29:16 collecting videos…
+05:29:43   video feed BBC News failed: Status code 404
+05:30:10   video feed Al Jazeera English failed: Status code 404
+05:30:39   video feed DW News failed: Status code 404
+05:31:06   video feed FRANCE 24 English failed: Status code 404
+05:31:34   video feed Sky News failed: Status code 404
+05:31:46 videos: saved 24
+05:31:46 collecting feeds…
+05:31:51 565 new items
+05:31:51 471 candidate stories
+05:31:51 categories needing stories: politics, business, science, health, entertainment, technology, sports → reserved politics
+05:31:51 writing: Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery (3 sources)
+05:31:52   source text: 2789 / 7000 / 0 chars
+05:32:02   video feed Reuters failed: Status code 404
+05:32:02   too close to source wording — rewriting
+05:32:11   ✓ published: /news/uk-leader-open-to-slavery-apology-while-ruling-out-reparations/ [politics] image: wikimedia via idea "Andy Burnham"
+05:32:11 writing: US greenlights $2.1bn Patriot missile sale to Ukraine (4 sources)
+05:32:11   source text: 3071 / 3296 / 1584 chars
+05:32:20   ✓ published: /news/united-states-approves-major-patriot-missile-package-for-ukraine/ [world] image: wikimedia via idea "Patriot missile launcher system"
+05:32:20 writing explainer for: US greenlights $2.1bn Patriot missile sale to Ukraine
+05:32:26   ✓ explainer: /news/why-is-the-us-selling-patriot-missiles-to-ukraine/
+05:32:26 done — 2 stories

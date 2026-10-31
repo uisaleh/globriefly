@@ -1,11 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss": 1792802261669,
-    "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html": 1792802276936,
-    "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss": 1792802276936,
-    "https://www.thehindu.com/news/international/gunmen-open-fire-inside-a-church-in-jordan-causing-deaths-and-injuries/article71616413.ece": 1792802276936,
-    "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/": 1792802276936,
-    "https://abcnews.com/International/wireStory/gunmen-open-fire-inside-church-jordan-causing-deaths-137507163": 1792802276936,
     "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html": 1792820866634,
     "https://www.thehindu.com/news/international/trump-lifts-some-canada-tariffs-ahead-of-midterms/article71618930.ece": 1792820872430,
     "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada": 1792820872430,
@@ -331,11 +325,16 @@
     "https://www.dw.com/en/us-midterms-pope-leo-xiv-casts-vote-by-mail/a-79810339?maca=en-rss-en-all-1573-rdf": 1793403737638,
     "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss": 1793403737638,
     "https://www.scmp.com/news/world/united-states-canada/article/3372784/pope-leo-becomes-first-pope-ever-vote-us-election-submits-mail-ballot": 1793403737638,
-    "https://abcnews.com/International/wireStory/pope-leo-xiv-become-pope-history-vote-us-137704157": 1793403737638
+    "https://abcnews.com/International/wireStory/pope-leo-xiv-become-pope-history-vote-us-137704157": 1793403737638,
+    "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html": 1793424729126,
+    "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss": 1793424729126,
+    "https://www.theguardian.com/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade": 1793424729126,
+    "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss": 1793424739426,
+    "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years": 1793424739426,
+    "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss": 1793424739426,
+    "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/": 1793424739426
   },
   "fps": {
-    "canadian-elections-goods-house-lifts-loom-midterm-some": 1792802261669,
-    "church-fire-gunmen-jordan-killing-least-open-seven": 1792802276936,
     "ahead-canada-lifts-midterms-some-tariffs-trump": 1792820872430,
     "campaign-charity-christmas-demand-expects-present": 1792839065708,
     "arrest-eagle-fire-hitler-made-mountaintop-nest-retreat": 1792839076291,
@@ -402,6 +401,8 @@
     "extreme-flavors-pressure-reveals-superconductivity-two-under-ute": 1793387923255,
     "mac-return": 1793387936748,
     "flyover-halloween-plane-residents-startled-trick-trump": 1793403731805,
-    "history-leo-makes-midterm-pope-vote": 1793403737638
+    "history-leo-makes-midterm-pope-vote": 1793403737638,
+    "apology-britain-formal-minister-open-prime-slavery": 1793424729126,
+    "1bn-greenlights-missile-patriot-sale-ukraine": 1793424739427
   }
 }
