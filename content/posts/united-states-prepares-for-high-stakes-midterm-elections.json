@@ -102,6 +102,9 @@
   "publishedAt": "2026-10-31T12:16:53.425Z",
   "updatedAt": "2026-10-31T12:16:53.425Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173255508681745",
+    "sharedAt": "2026-10-31T12:20:13.872Z"
+  },
   "ogImage": "/og/united-states-prepares-for-high-stakes-midterm-elections.jpg"
 }
