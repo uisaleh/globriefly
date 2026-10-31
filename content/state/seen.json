@@ -1,20 +1,5 @@
 {
   "urls": {
-    "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html": 1792820866634,
-    "https://www.thehindu.com/news/international/trump-lifts-some-canada-tariffs-ahead-of-midterms/article71618930.ece": 1792820872430,
-    "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada": 1792820872430,
-    "https://www.channelnewsasia.com/world/trump-canada-tariffs-midterms-6488081": 1792820872430,
-    "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html": 1792820872430,
-    "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf": 1792820872430,
-    "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html": 1792820872430,
-    "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid": 1792820872430,
-    "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss": 1792839065708,
-    "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss": 1792839076291,
-    "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria": 1792839076291,
-    "https://abcnews.com/International/wireStory/fire-breaks-eagles-nest-retreat-built-hitler-germany-137533542": 1792839076291,
-    "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/": 1792839076291,
-    "https://news.sky.com/story/suspect-arrested-after-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938": 1792839076291,
-    "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf": 1792839076291,
     "https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html": 1792852142444,
     "https://sports.yahoo.com/articles/ufc-333-volkanovski-vs-evloev-121939292.html": 1792852161353,
     "\n                                                https://www.cbssports.com/betting/news/ufc-333-odds-predictions-fight-card-time-alexander-volkanovski-movsar-evloev-picks/\n                    ": 1792852161353,
@@ -332,12 +317,14 @@
     "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss": 1793424739426,
     "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years": 1793424739426,
     "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss": 1793424739426,
-    "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/": 1793424739426
+    "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/": 1793424739426,
+    "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories": 1793449012746,
+    "https://www.thehindu.com/news/international/what-are-united-states-midterm-elections-2026-democrats-vs-republicans-donald-trump-what-it-means-for-india/article71643628.ece": 1793449012746,
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/stream-florida-georgia-football-game-online-free-2026-1235649565/": 1793449020465,
+    "https://sports.yahoo.com/articles/watch-tcu-football-vs-kansas-120128337.html": 1793449020465,
+    "https://www.billboard.com/culture/product-recommendations/florida-vs-georgia-watch-college-football-live-online-free-1236370601/": 1793449020465
   },
   "fps": {
-    "ahead-canada-lifts-midterms-some-tariffs-trump": 1792820872430,
-    "campaign-charity-christmas-demand-expects-present": 1792839065708,
-    "arrest-eagle-fire-hitler-made-mountaintop-nest-retreat": 1792839076291,
     "accumulate-analysis-better-diet-family-finds-global-plastic": 1792852142444,
     "333-evloev-fights-how-start-time-ufc-undercard": 1792852161353,
     "20m-box-can-clayface-everything-eyes-leads-office": 1792865120101,
@@ -403,6 +390,8 @@
     "flyover-halloween-plane-residents-startled-trick-trump": 1793403731805,
     "history-leo-makes-midterm-pope-vote": 1793403737638,
     "apology-britain-formal-minister-open-prime-slavery": 1793424729126,
-    "1bn-greenlights-missile-patriot-sale-ukraine": 1793424739427
+    "1bn-greenlights-missile-patriot-sale-ukraine": 1793424739427,
+    "billion-elections-have-megadonors-midterm-spent-these-total": 1793449012746,
+    "florida-football-free-game-georgia-how-livestream-online": 1793449020465
   }
 }

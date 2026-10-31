@@ -1,23 +1,21 @@
-05:29:16 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-05:29:16 collecting videos…
-05:29:43   video feed BBC News failed: Status code 404
-05:30:10   video feed Al Jazeera English failed: Status code 404
-05:30:39   video feed DW News failed: Status code 404
-05:31:06   video feed FRANCE 24 English failed: Status code 404
-05:31:34   video feed Sky News failed: Status code 404
-05:31:46 videos: saved 24
-05:31:46 collecting feeds…
-05:31:51 565 new items
-05:31:51 471 candidate stories
-05:31:51 categories needing stories: politics, business, science, health, entertainment, technology, sports → reserved politics
-05:31:51 writing: Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery (3 sources)
-05:31:52   source text: 2789 / 7000 / 0 chars
-05:32:02   video feed Reuters failed: Status code 404
-05:32:02   too close to source wording — rewriting
-05:32:11   ✓ published: /news/uk-leader-open-to-slavery-apology-while-ruling-out-reparations/ [politics] image: wikimedia via idea "Andy Burnham"
-05:32:11 writing: US greenlights $2.1bn Patriot missile sale to Ukraine (4 sources)
-05:32:11   source text: 3071 / 3296 / 1584 chars
-05:32:20   ✓ published: /news/united-states-approves-major-patriot-missile-package-for-ukraine/ [world] image: wikimedia via idea "Patriot missile launcher system"
-05:32:20 writing explainer for: US greenlights $2.1bn Patriot missile sale to Ukraine
-05:32:26   ✓ explainer: /news/why-is-the-us-selling-patriot-missiles-to-ukraine/
-05:32:26 done — 2 stories
+12:16:41 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+12:16:41 collecting videos…
+12:16:41   video feed BBC News: 15 in feed, 5 kept
+12:16:41   video feed Al Jazeera English: 15 in feed, 5 kept
+12:16:42   video feed DW News: 15 in feed, 5 kept
+12:16:42   video feed FRANCE 24 English: 15 in feed, 5 kept
+12:16:42   video feed Sky News: 15 in feed, 5 kept
+12:16:42   video feed Reuters: 15 in feed, 5 kept
+12:16:42   video feed Associated Press: 15 in feed, 5 kept
+12:16:42 videos: saved 24
+12:16:42 collecting feeds…
+12:16:45 469 new items
+12:16:46 397 candidate stories
+12:16:46 categories needing stories: business, science, health, entertainment, politics, technology, sports → reserved business
+12:16:46 writing: These 10 megadonors have spent a total of $1 billion on the midterm elections (2 sources)
+12:16:46   source text: 5700 / 0 chars
+12:16:54   ✓ published: /news/united-states-prepares-for-high-stakes-midterm-elections/ [business] image: wikimedia via idea "US Capitol building Washington"
+12:16:54 writing: Florida vs. Georgia Livestream: How to Watch the Rivalry Football Game Online Free (3 sources)
+12:16:55   source text: 537 / 2734 / 4576 chars
+12:17:01   ✓ published: /news/florida-and-georgia-face-off-in-historic-atlanta-college-football-clash/ [sports] image: wikimedia via idea "Mercedes Benz Stadium Atlanta"
+12:17:01 done — 2 stories
