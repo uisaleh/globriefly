@@ -1,0 +1,94 @@
+{
+  "slug": "instagram-introduces-new-reposting-feature-for-feeds-and-reels",
+  "status": "published",
+  "type": "news",
+  "category": "technology",
+  "region": "Global",
+  "headline": "Instagram introduces new reposting feature for feeds and reels",
+  "standfirst": "Meta has added a dedicated reposting tool to Instagram, allowing users to share public posts and reels directly to their profiles.",
+  "keyPoints": [
+    "Instagram now features a dedicated repost button located next to likes and comments.",
+    "Reposted content appears in a separate tab on user profiles and remains visible indefinitely.",
+    "Original creators retain full credit and attribution for all shared posts and reels.",
+    "Users can control permissions and easily delete accidental reposts through multiple methods."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "Instagram users now have access to a streamlined built-in tool for sharing content directly to their own profiles. Located beneath posts and reels right after the familiar heart and comment buttons, a new icon featuring two curved arrows handles the action. This addition provides a straightforward method to distribute interesting media without relying on temporary Stories or direct messages.",
+        "The newly introduced functionality allows individuals to curate collections of public material onto their personal feeds. When someone shares an item, it populates a specific tab on their profile page for followers to explore. Unlike ephemeral sharing methods that vanish after a day, these additions remain accessible indefinitely for ongoing viewing.",
+        "Creators benefit directly from the system because every shared item maintains a direct connection back to the original source. This ensures proper attribution while potentially expanding the reach of the material to broader audiences. People browsing through profiles can easily distinguish between original creations and amplified content."
+      ]
+    },
+    {
+      "heading": "Understanding the mechanics of social curation",
+      "paragraphs": [
+        "The emergence of native sharing tools on major platforms reflects a growing demand for digital curation. Users increasingly want to personalise their online spaces by collecting material that aligns with their personal tastes and interests. This approach mirrors older web habits where individuals gathered external links on personal blogs or bulletin boards.",
+        "Platform developers carefully design these features to balance user expression with content creator rights. By tying every shared piece firmly to its origin, networks aim to prevent plagiarism while encouraging collaborative community engagement. Creators maintain authority over their work through granular permission settings that dictate whether others can amplify their output."
+      ]
+    },
+    {
+      "heading": "Privacy settings and creator controls",
+      "paragraphs": [
+        "Account holders retain full control over how their material circulates across the network. By navigating to the sharing and reuse menu within profile settings, individuals can toggle permissions on or off. This ensures that creators who prefer to limit the distribution of their photos and videos can easily restrict the sharing tool.",
+        "Because the sharing icon sits prominently near other engagement buttons, accidental activations can happen during normal browsing. To address this, the platform provides several straightforward ways to reverse the action. Users can tap the button a second time, use a long-press menu, or manage bulk deletions through their activity logs."
+      ]
+    },
+    {
+      "heading": "Broader implications for digital platforms",
+      "paragraphs": [
+        "The standardisation of native sharing mechanisms changes how information travels across modern social networks. As platforms compete for daily user attention, offering seamless ways to highlight external material helps maintain high engagement levels. Communities benefit from richer shared spaces where individual timelines reflect collective cultural interests.",
+        "At the same time, these tools raise important questions about content visibility algorithms and digital footprint management. When users curate large volumes of external material, their profiles transform into complex collages of shared media. Industry observers continuously monitor how these curation habits influence user behavior and online identity expression."
+      ]
+    },
+    {
+      "heading": "Future updates and user adaptation",
+      "paragraphs": [
+        "As communities adapt to the new sharing capabilities, platform operators will likely observe usage patterns to refine the interface. Feedback from creators and general users often drives subsequent interface adjustments, particularly regarding accidental activations and privacy controls. Future iterations might introduce even more refined ways to categorise and filter shared material.",
+        "Ultimately, the success of these digital tools depends on how well they balance convenience with creator protection. Maintaining clear lines of attribution ensures that the digital ecosystem remains fair for independent artists and everyday participants alike. Observers expect native content amplification to remain a standard feature across modern social applications."
+      ]
+    }
+  ],
+  "highlight": "This addition provides a straightforward method to distribute interesting media without relying on temporary Stories or direct messages.",
+  "timeline": [],
+  "tags": [
+    "Instagram",
+    "Meta",
+    "social media",
+    "technology",
+    "content sharing"
+  ],
+  "socialSummary": "Instagram introduces a native repost feature allowing users to share public posts and reels directly to a dedicated profile tab.",
+  "image": null,
+  "imageSearch": {
+    "query": "Instagram app interface mobile phone",
+    "names": [
+      "Instagram",
+      "Meta"
+    ],
+    "subject": "smartphone screen showing social media"
+  },
+  "sources": [
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/"
+    },
+    {
+      "name": "NPR",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it"
+    }
+  ],
+  "sourceTitles": [
+    "What is the purpose of reposting on Instagram and how do you do it?",
+    "Do you have seasonal affective disorder? How to tell — and what to do about it"
+  ],
+  "sourceCount": 2,
+  "importance": 5,
+  "breaking": false,
+  "publishedAt": "2026-10-31T17:42:24.198Z",
+  "updatedAt": "2026-10-31T17:42:24.198Z",
+  "readingMinutes": 3,
+  "facebook": null,
+  "ogImage": "/og/instagram-introduces-new-reposting-feature-for-feeds-and-reels.jpg"
+}

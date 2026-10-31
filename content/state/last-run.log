@@ -1,21 +1,26 @@
-12:16:41 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-12:16:41 collecting videos…
-12:16:41   video feed BBC News: 15 in feed, 5 kept
-12:16:41   video feed Al Jazeera English: 15 in feed, 5 kept
-12:16:42   video feed DW News: 15 in feed, 5 kept
-12:16:42   video feed FRANCE 24 English: 15 in feed, 5 kept
-12:16:42   video feed Sky News: 15 in feed, 5 kept
-12:16:42   video feed Reuters: 15 in feed, 5 kept
-12:16:42   video feed Associated Press: 15 in feed, 5 kept
-12:16:42 videos: saved 24
-12:16:42 collecting feeds…
-12:16:45 469 new items
-12:16:46 397 candidate stories
-12:16:46 categories needing stories: business, science, health, entertainment, politics, technology, sports → reserved business
-12:16:46 writing: These 10 megadonors have spent a total of $1 billion on the midterm elections (2 sources)
-12:16:46   source text: 5700 / 0 chars
-12:16:54   ✓ published: /news/united-states-prepares-for-high-stakes-midterm-elections/ [business] image: wikimedia via idea "US Capitol building Washington"
-12:16:54 writing: Florida vs. Georgia Livestream: How to Watch the Rivalry Football Game Online Free (3 sources)
-12:16:55   source text: 537 / 2734 / 4576 chars
-12:17:01   ✓ published: /news/florida-and-georgia-face-off-in-historic-atlanta-college-football-clash/ [sports] image: wikimedia via idea "Mercedes Benz Stadium Atlanta"
-12:17:01 done — 2 stories
+17:40:49 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+17:40:49 collecting videos…
+17:40:49   video feed BBC News: 15 in feed, 5 kept
+17:40:49   video feed Al Jazeera English: 15 in feed, 5 kept
+17:40:49   video feed DW News: 15 in feed, 5 kept
+17:40:49   video feed FRANCE 24 English: 15 in feed, 5 kept
+17:40:49   video feed Sky News: 15 in feed, 5 kept
+17:40:49   video feed Reuters: 15 in feed, 5 kept
+17:40:49   video feed Associated Press: 15 in feed, 5 kept
+17:40:49 videos: saved 24
+17:40:49 collecting feeds…
+17:40:53 592 new items
+17:40:54 486 candidate stories
+17:40:54 categories needing stories: technology, science, health, entertainment, politics, business → reserved technology
+17:40:54 writing: What is the purpose of reposting on Instagram and how do you do it? (2 sources)
+17:41:09   source text: 3706 / 0 chars
+17:41:37 image source error: The operation was aborted due to timeout
+17:41:52 image source error: The operation was aborted due to timeout
+17:42:08 image source error: The operation was aborted due to timeout
+17:42:24 image source error: The operation was aborted due to timeout
+17:42:24   ✓ published: /news/instagram-introduces-new-reposting-feature-for-feeds-and-reels/ [technology] image: none
+17:42:24 writing: Iran's supreme leader warns U.S., Israel against new attacks (6 sources)
+17:42:25   source text: 7000 / 5019 / 0 / 2102 chars
+17:42:46 image source error: The operation was aborted due to timeout
+17:42:47   ✓ published: /news/iran-warns-us-and-israel-against-renewed-strikes-as-regional-tensions/ [world] image: wikimedia via name "Mojtaba Khamenei"
+17:42:47 done — 2 stories
