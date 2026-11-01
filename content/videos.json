@@ -1,37 +1,53 @@
 {
-  "updatedAt": "2026-11-01T19:35:57.315Z",
+  "updatedAt": "2026-11-01T23:32:26.245Z",
   "videos": [
     {
-      "id": "sqrPHd2vN4A",
-      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
+      "id": "s7oFDZViy8A",
+      "title": "Nine people dead after Learjet crashes in Florida",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T19:15:39.000Z",
-      "description": "Al Jazeera is marking 30 years to the day since it was launched in 1996."
+      "publishedAt": "2026-11-01T23:25:59.000Z",
+      "description": "A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida. All nine people on board were killed. "
     },
     {
-      "id": "RzJFiu-mBrg",
-      "title": "The wedding can wait. The AP Top 25 can't.",
+      "id": "O390tDvjSoY",
+      "title": "The Wrap with Barbara Serra",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-01T23:03:54.000Z",
+      "description": "The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
+    },
+    {
+      "id": "zKZGnpniYb4",
+      "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T19:12:31.000Z",
-      "description": "AP's Maura Carey should be on her way to her wedding, but she's locked in on the AP's Top 25! College football is so here!"
+      "publishedAt": "2026-11-01T22:56:10.000Z",
+      "description": "Michigan Democrat Haley Stevens, who lost the U.S. Senate primary to Abdul El-Sayed, endorsed Republican Senate nominee Mike Rogers on Sunday, two days before Election Day.\r"
     },
     {
-      "id": "9eSho5hTbKM",
-      "title": "Thousands march to Indian Supreme Court to demand election chief resign.",
+      "id": "oKe81VFrc-k",
+      "title": "Are ICE raids in Miami turning Latinos against Republicans?| BBC News",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-01T19:00:28.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+      "publishedAt": "2026-11-01T21:30:19.000Z",
+      "description": "In Florida, immigration enforcement operations have sent shockwaves through the Miami’s large Latino community."
     },
     {
-      "id": "45L4wQzhy3Y",
-      "title": "What the Democrats aren't talking about",
+      "id": "JkA6tYvmjus",
+      "title": "The states that may decide Trump's final two years",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T19:00:26.000Z",
-      "description": "The Democrats are being hush hush about the climate on their midterm campaign trail. What’s behind this strategy? "
+      "publishedAt": "2026-11-01T20:39:28.000Z",
+      "description": "More than 52 million Americans have already cast ballots as the race for control of Congress enters its final days. While closely watched contests in states including Alaska, Michigan and Iowa remain in focus, many voter"
+    },
+    {
+      "id": "IwZ173R0NVY",
+      "title": "Michigan ‘Betrayal’ & Mid Term Manouvres • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-01T19:32:13.000Z",
+      "description": "France 24’s Spotlight Presenter Gavin Lee assesses the last minute campaign dramas and takes an US election overview on the ‘must watch states’ alongside Professor Donald Green, Professor of Political Science at Columbia"
     },
     {
       "id": "sHB1gDLq6cM",
@@ -42,52 +58,52 @@
       "description": "California voters will decide whether to approve a first-of-its-kind state tax on billionaires, testing public support for a measure aimed at raising revenue from the state's wealthiest residents."
     },
     {
+      "id": "d-3oHiIM96M",
+      "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-01T21:28:12.000Z",
+      "description": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers in the US Senate contest against her party’s candidate Abdul El-Sayed. Stevens lost to El-Sayed in the Democratic"
+    },
+    {
+      "id": "nR_y6YCP0vU",
+      "title": "Footage shows moments before and after Florida plane crash",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-01T23:03:44.000Z",
+      "description": "A plane crash in Florida has been caught on a car's dashcam. Nine people died when the jet burst into a huge fireball."
+    },
+    {
+      "id": "TSlVCKbQp0Q",
+      "title": "Business jet carrying 9 people crashed in a Florida neighborhood, erupting in a massive fireball",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-01T21:54:14.000Z",
+      "description": "A business jet carrying nine people nose-dived into a South Florida neighborhood Sunday and erupted into a giant fireball that appeared to just miss homes before crashing near a busy roadway, creating a giant fiery crate"
+    },
+    {
+      "id": "9eSho5hTbKM",
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-01T19:00:28.000Z",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+    },
+    {
+      "id": "aDzYCGeNXEQ",
+      "title": "Sadness and hope at anniversary of Serbia train station collapse",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-01T20:20:53.000Z",
+      "description": "Thousands of Serbian students and their supporters marked the two-year anniversary of a disaster that sparked protests, a political movement, and the fall of the right-wing government.  Mourners laid wreaths at the site "
+    },
+    {
       "id": "42zzCCbn1ZE",
       "title": "France: Route du Rhum yacht race sets off • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
       "publishedAt": "2026-11-01T17:46:03.000Z",
       "description": "The 115 sailors competing in the Route du Rhum set sail from Saint-Malo on Sunday in mild weather, embarking on a solo transatlantic crossing. The race began at 12:02 GMT, with boats heading along the Brittany coast in l"
-    },
-    {
-      "id": "Hp8aaebi8j0",
-      "title": "The school that started a movement",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-01T17:37:31.000Z",
-      "description": "France has seen weeks of protests, violent clashes with police and thousands of arrests across the country. "
-    },
-    {
-      "id": "ofjmBAobl9Q",
-      "title": "Michigan trick-or-treaters spooked by US midterms, Senate race",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T18:30:24.000Z",
-      "description": "The annual Halloween celebrations across the United States have offered a brief respite from the relentless campaigning ahead of the midterm elections. "
-    },
-    {
-      "id": "JXfUUC5_t2A",
-      "title": "India’s opposition parties renew calls for the resignation of the country’s election chief",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T16:44:08.000Z",
-      "description": "India’s opposition parties renew calls for the resignation of the country’s election chief\r"
-    },
-    {
-      "id": "odu797q0d3c",
-      "title": "Why is the UK Prime Minister saying he's open to a slavery apology?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-01T18:00:15.000Z",
-      "description": "Before King Charles's Caribbean tour, Buckingham Palace said the he would not shy away from the impact of the slave trade but, in line with the UK government position, would not apologise for Britain's role in the slave "
-    },
-    {
-      "id": "adrJ4_w8cW0",
-      "title": "Garment workers clash with riot police in Dhaka wage protest",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T18:04:55.000Z",
-      "description": "Thousands of workers in Bangladesh's garment industry have clashed with police in the capital, demanding an increase in their minimum wage. The protests have disrupted key industrial hubs in and around Dhaka. Labor leade"
     },
     {
       "id": "nx79xUFDvnY",
@@ -98,52 +114,52 @@
       "description": "An ambitious Indian production may prove that the next global blockbuster could come from one of India's oldest epics."
     },
     {
+      "id": "rZ-0zbbGnLo",
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-01T21:27:30.000Z",
+      "description": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the occupied West Bank. The operation began on Friday, October 23, after two Palestinians shot two Israeli soldiers "
+    },
+    {
+      "id": "CY8bozJtJp4",
+      "title": "Commonwealth is a 'busted organisation', says ex-govt adviser, as slavery debate continues",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-01T22:29:34.000Z",
+      "description": "Former government adviser Ben Judah has told Sky News that there is \"something wrong\" with the Commonwealth, and that its secretariat is \"not fit for purpose\"."
+    },
+    {
+      "id": "RzJFiu-mBrg",
+      "title": "The wedding can wait. The AP Top 25 can't.",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-01T19:12:31.000Z",
+      "description": "AP's Maura Carey should be on her way to her wedding, but she's locked in on the AP's Top 25! College football is so here!"
+    },
+    {
+      "id": "odu797q0d3c",
+      "title": "Why is the UK Prime Minister saying he's open to a slavery apology?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-01T18:00:15.000Z",
+      "description": "Before King Charles's Caribbean tour, Buckingham Palace said the he would not shy away from the impact of the slave trade but, in line with the UK government position, would not apologise for Britain's role in the slave "
+    },
+    {
+      "id": "45L4wQzhy3Y",
+      "title": "What the Democrats aren't talking about",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-01T19:00:26.000Z",
+      "description": "The Democrats are being hush hush about the climate on their midterm campaign trail. What’s behind this strategy? "
+    },
+    {
       "id": "cf1RgDtACHM",
       "title": "Thousands join Indian opposition protest • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
       "publishedAt": "2026-11-01T17:45:19.000Z",
       "description": "India’s opposition parties staged major protests in New Delhi on Sunday against Prime Minister Narendra Modi’s government and a nationwide voter list review that has fuelled demonstrations since the summer, led by the yo"
-    },
-    {
-      "id": "D2zWi6ZNvjI",
-      "title": "The Cathy Newman Show",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-01T16:00:18.000Z",
-      "description": "Watch The Cathy Newman Show from 7pm for politics, investigations, interviews and exclusives – on Sky News TV, YouTube and the Sky News app."
-    },
-    {
-      "id": "NaAopBaBhNU",
-      "title": "Israel's lockdown on Hebron cripples economy, displaces Palestinians",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T18:00:03.000Z",
-      "description": "Israel's lockdown on Hebron is crushing the occupied West Bank's economic hub — 15 businesses demolished, 537 families displaced, over $4m lost a day. "
-    },
-    {
-      "id": "j8QVdClwiBc",
-      "title": "Riot police forcibly remove housing protesters camping in a Lisbon square",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T16:05:37.000Z",
-      "description": "Riot police removed protesters by force camping at Rossio square in Lisbon on Sunday following the ongoing protests for affordable housing. During the intervention police cleared the square, removing tents and pushing pe"
-    },
-    {
-      "id": "lYkCsv8WK9M",
-      "title": "Is North Carolina about to send a Democrat back to Washington?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-01T18:00:10.000Z",
-      "description": ""
-    },
-    {
-      "id": "ymikbun6Da4",
-      "title": "Protesters accuse India's government of rigging the voter rolls",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T17:59:43.000Z",
-      "description": "India's opposition has turned a dispute over voter lists into a nationwide political battle. Protesters accuse authorities of unfairly removing more than 130 million names during a voter-roll revision, an allegation deni"
     },
     {
       "id": "VFs12pvRlS4",
@@ -154,44 +170,28 @@
       "description": "London put medieval fanfare on display, with two armor-clad knights jousting in front of hundreds of revelers. There was one modern twist: They traded noble steeds for e-bikes."
     },
     {
-      "id": "xIroitR1BXI",
-      "title": "Oleshky: Evacuations during first humanitarian truce of war end • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-01T17:44:50.000Z",
-      "description": "A successful evacuation. Residents of the city of Oleshky who had requested to be evacuated were reunited with their loved ones in Ukraine on Saturday, October 31. The city, located on the front line and under Russian oc"
-    },
-    {
-      "id": "MiOo0Sx_N0A",
-      "title": "The UK Tonight with Sarah-Jane Mee",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-01T15:54:03.000Z",
-      "description": "The UK Tonight with Sarah-Jane Mee will dig into the issues people across the country are talking about and explain and analyse the news stories they need to know in a dynamic hour of domestic news."
-    },
-    {
-      "id": "pu8UWH3UW1E",
-      "title": "Water crisis top issue for Arizona voters ahead of 2026 midterms",
+      "id": "213bKz52lzc",
+      "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T17:45:07.000Z",
-      "description": "Al Jazeera's John Hendren looks into Arizona's shrinking water supplies and how that issue is of great concern to many of Arizona's fast growing voting base.  "
+      "publishedAt": "2026-11-01T20:46:54.000Z",
+      "description": "Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir Sheikh Tamim bin Hamad Al Thani. Director General Sheikh Nasser bin Faisal Al Thani called for renewal, t"
     },
     {
-      "id": "HVlRA1V42G4",
-      "title": "AP Top Stories November 1",
+      "id": "Hp8aaebi8j0",
+      "title": "The school that started a movement",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-01T17:37:31.000Z",
+      "description": "France has seen weeks of protests, violent clashes with police and thousands of arrests across the country. "
+    },
+    {
+      "id": "JXfUUC5_t2A",
+      "title": "India’s opposition parties renew calls for the resignation of the country’s election chief",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T14:41:05.000Z",
-      "description": "AP Top Stories November 1\r"
-    },
-    {
-      "id": "ZhbVBNdhSl0",
-      "title": "Did adult entertainment sites invent monetising attention?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-01T16:30:03.000Z",
-      "description": "With the advent of OnlyFans, pornographic content has become a fixture of mainstream social media. But the influence of the adult entertainment industry on internet culture arguably began decades ago. On this episode, Ma"
+      "publishedAt": "2026-11-01T16:44:08.000Z",
+      "description": "India’s opposition parties renew calls for the resignation of the country’s election chief\r"
     }
   ]
 }

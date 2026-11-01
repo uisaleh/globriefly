@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/": 1792964588990,
-    "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/": 1792964588990,
-    "https://www.cbsnews.com/news/serbia-election-aleksandar-vucic-concedes-defeat/": 1792964602881,
-    "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss": 1792964602881,
-    "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout": 1792964602881,
-    "https://www.politico.eu/article/serbia-aleksandar-vucic-concedes-defeat-after-tense-parliamentary-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1792964602881,
-    "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf": 1792964602881,
-    "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election": 1792964602881,
     "https://www.theguardian.com/thefilter-us/live/2026/oct/25/food-safety-conversation": 1792973846449,
     "https://sports.yahoo.com/articles/real-madrid-cut-gap-barcelona-000328788.html": 1792973854179,
     "\n                                                https://www.cbssports.com/soccer/news/real-madrid-show-their-potential-jose-mourinho-el-clasico/\n                    ": 1792973854179,
@@ -281,11 +273,15 @@
     "https://www.aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections?traffic_source=rss": 1793561767383,
     "https://www.nytimes.com/2026/11/01/movies/michael-mann-shooting.html": 1793561820794,
     "https://www.hollywoodreporter.com/news/general-news/michael-mann-accidentally-shoots-himself-l-a-gun-range-1236744347/": 1793561820794,
-    "https://www.rollingstone.com/tv-movies/tv-movie-news/director-michael-mann-accidentally-shoots-himself-leg-1235651009/": 1793561820794
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/director-michael-mann-accidentally-shoots-himself-leg-1235651009/": 1793561820794,
+    "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html": 1793575960277,
+    "https://www.channelnewsasia.com/world/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces-6511556": 1793575982653,
+    "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss": 1793575982653,
+    "https://www.scmp.com/news/world/europe/article/3372907/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces": 1793575982653,
+    "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police": 1793575982653,
+    "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf": 1793575982653
   },
   "fps": {
-    "first-generated-grok-minutes-odyssey-releases-seven": 1792964588990,
-    "concedes-defeat-election-parliamentary-serbia-vucic": 1792964602881,
     "answering-chicken-defrost-food-questions-safest-safety-way": 1792973846449,
     "barcelona-clasico-cut-gap-madrid-points-real-three": 1792973854179,
     "aspiring-billion-investment-malaysia-nation-plans-reportedly-softbank": 1792994907547,
@@ -346,6 +342,8 @@
     "3bn-attack-behind-binance-covered-fbi-hack-korea": 1793518137353,
     "almanac-november": 1793545303944,
     "abdul-democrat-endorses-haley-mike-republican-rival-rogers": 1793561767383,
-    "accidentally-angeles-gun-himself-los-mann-michael-range": 1793561820794
+    "accidentally-angeles-gun-himself-los-mann-michael-range": 1793561820794,
+    "bond-changed-everything-month-oil-past-trades": 1793575960277,
+    "attacks-attempted-bomb-forces-france-murder-opens-petrol": 1793575982653
   }
 }

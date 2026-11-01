@@ -1,25 +1,22 @@
-19:35:57 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-19:35:57 collecting videos…
-19:35:57   video feed BBC News: 15 in feed, 5 kept
-19:35:57   video feed Al Jazeera English: 15 in feed, 5 kept
-19:35:57   video feed DW News: 15 in feed, 5 kept
-19:35:57   video feed FRANCE 24 English: 15 in feed, 5 kept
-19:35:57   video feed Sky News: 15 in feed, 5 kept
-19:35:57   video feed Reuters: 15 in feed, 5 kept
-19:35:57   video feed Associated Press: 15 in feed, 5 kept
-19:35:57 videos: saved 24
-19:35:57 collecting feeds…
-19:36:00 626 new items
-19:36:01 483 candidate stories
-19:36:01 categories needing stories: world, business, health, sports, politics, technology → reserved world
-19:36:01 writing: Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers (4 sources)
-19:36:02   source text: 4536 / 1427 / 0 / 0 / 571 chars
-19:36:23 image source error: The operation was aborted due to timeout
-19:36:38 image source error: The operation was aborted due to timeout
-19:36:54 image source error: The operation was aborted due to timeout
-19:36:55   ✓ published: /news/democrat-haley-stevens-endorses-republican-mike-rogers-in-michigan/ [world] image: wikimedia via name "Mike Rogers"
-19:36:55 writing: Michael Mann Accidentally Shoots Himself at Los Angeles Gun Range (3 sources)
-19:36:55   source text: 0 / 1677 / 1610 chars
-19:37:16 image source error: The operation was aborted due to timeout
-19:37:18   ✓ published: /news/film-director-michael-mann-recovers-after-accidental-shooting-at-l-a/ [entertainment] image: wikimedia via name "Michael Mann"
-19:37:18 done — 2 stories
+23:32:26 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+23:32:26 collecting videos…
+23:32:26   video feed BBC News: 15 in feed, 5 kept
+23:32:26   video feed Al Jazeera English: 15 in feed, 5 kept
+23:32:26   video feed DW News: 15 in feed, 5 kept
+23:32:26   video feed FRANCE 24 English: 15 in feed, 5 kept
+23:32:26   video feed Sky News: 15 in feed, 5 kept
+23:32:26   video feed Reuters: 15 in feed, 5 kept
+23:32:26   video feed Associated Press: 15 in feed, 5 kept
+23:32:26 videos: saved 24
+23:32:26 collecting feeds…
+23:32:29 596 new items
+23:32:29 456 candidate stories
+23:32:29 categories needing stories: business, health, sports, world, politics, technology → reserved business
+23:32:29 writing: Everything changed for the oil, AI and bond trades over the past month (1 sources)
+23:32:30   source text: 7000 chars
+23:32:42   ✓ published: /news/market-shifts-reveal-ai-sector-risk-outweighs-geopolitical-concerns-for/ [business] image: wikimedia via idea "Wall Street stock exchange building"
+23:32:42 writing: France opens 'attempted murder' probe over petrol bomb attacks on security forces (5 sources)
+23:32:42   source text: 4259 / 3164 / 5904 chars
+23:32:52   too close to source wording — rewriting
+23:33:04   ✓ published: /news/french-prosecutors-launch-attempted-murder-inquiry-after-petrol-bombs/ [world] image: wikimedia via idea "French riot police Paris"
+23:33:04 done — 2 stories
