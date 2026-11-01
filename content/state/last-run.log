@@ -1,22 +1,25 @@
-15:01:28 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-15:01:28 collecting videos…
-15:01:28   video feed BBC News: 15 in feed, 5 kept
-15:01:28   video feed Al Jazeera English: 15 in feed, 5 kept
-15:01:29   video feed DW News: 15 in feed, 5 kept
-15:01:29   video feed FRANCE 24 English: 15 in feed, 5 kept
-15:01:29   video feed Sky News: 15 in feed, 5 kept
-15:01:29   video feed Reuters: 15 in feed, 5 kept
-15:01:29   video feed Associated Press: 15 in feed, 5 kept
-15:01:29 videos: saved 24
-15:01:29 collecting feeds…
-15:01:34 561 new items
-15:01:35 439 candidate stories
-15:01:35 categories needing stories: business, health, sports, entertainment, world, politics → reserved business
-15:01:35 writing: This is the biggest threat to the AI-powered bull market (1 sources)
-15:01:35   source text: 0 chars
-15:01:35   skipped: only paywalled sources, not enough readable text
-15:01:35 writing: Almanac: November 1 (8 sources)
-15:01:35   source text: 1611 / 7000 / 7000 chars
-15:02:00 image source error: The operation was aborted due to timeout
-15:02:02   ✓ published: /news/entertainment-outlook-explores-streaming-releases-and-licensed/ [entertainment] image: wikimedia via name "Netflix"
-15:02:02 done — 1 stories
+19:35:57 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+19:35:57 collecting videos…
+19:35:57   video feed BBC News: 15 in feed, 5 kept
+19:35:57   video feed Al Jazeera English: 15 in feed, 5 kept
+19:35:57   video feed DW News: 15 in feed, 5 kept
+19:35:57   video feed FRANCE 24 English: 15 in feed, 5 kept
+19:35:57   video feed Sky News: 15 in feed, 5 kept
+19:35:57   video feed Reuters: 15 in feed, 5 kept
+19:35:57   video feed Associated Press: 15 in feed, 5 kept
+19:35:57 videos: saved 24
+19:35:57 collecting feeds…
+19:36:00 626 new items
+19:36:01 483 candidate stories
+19:36:01 categories needing stories: world, business, health, sports, politics, technology → reserved world
+19:36:01 writing: Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers (4 sources)
+19:36:02   source text: 4536 / 1427 / 0 / 0 / 571 chars
+19:36:23 image source error: The operation was aborted due to timeout
+19:36:38 image source error: The operation was aborted due to timeout
+19:36:54 image source error: The operation was aborted due to timeout
+19:36:55   ✓ published: /news/democrat-haley-stevens-endorses-republican-mike-rogers-in-michigan/ [world] image: wikimedia via name "Mike Rogers"
+19:36:55 writing: Michael Mann Accidentally Shoots Himself at Los Angeles Gun Range (3 sources)
+19:36:55   source text: 0 / 1677 / 1610 chars
+19:37:16 image source error: The operation was aborted due to timeout
+19:37:18   ✓ published: /news/film-director-michael-mann-recovers-after-accidental-shooting-at-l-a/ [entertainment] image: wikimedia via name "Michael Mann"
+19:37:18 done — 2 stories

@@ -1,13 +1,181 @@
 {
-  "updatedAt": "2026-11-01T15:01:29.765Z",
+  "updatedAt": "2026-11-01T19:35:57.315Z",
   "videos": [
     {
-      "id": "FJzEuz7L1Lc",
-      "title": "Trump says US in no hurry for Iran deal",
+      "id": "sqrPHd2vN4A",
+      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-01T19:15:39.000Z",
+      "description": "Al Jazeera is marking 30 years to the day since it was launched in 1996."
+    },
+    {
+      "id": "RzJFiu-mBrg",
+      "title": "The wedding can wait. The AP Top 25 can't.",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-01T19:12:31.000Z",
+      "description": "AP's Maura Carey should be on her way to her wedding, but she's locked in on the AP's Top 25! College football is so here!"
+    },
+    {
+      "id": "9eSho5hTbKM",
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-01T19:00:28.000Z",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+    },
+    {
+      "id": "45L4wQzhy3Y",
+      "title": "What the Democrats aren't talking about",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-01T19:00:26.000Z",
+      "description": "The Democrats are being hush hush about the climate on their midterm campaign trail. What’s behind this strategy? "
+    },
+    {
+      "id": "sHB1gDLq6cM",
+      "title": "Prop 40 explained: California votes on taxing billionaires",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-01T14:51:54.000Z",
-      "description": "Donald Trump said Washington was in no hurry to strike a deal with Iran and declined to say whether he expected the US to go back to war with Tehran after the midterm elections."
+      "publishedAt": "2026-11-01T18:26:05.000Z",
+      "description": "California voters will decide whether to approve a first-of-its-kind state tax on billionaires, testing public support for a measure aimed at raising revenue from the state's wealthiest residents."
+    },
+    {
+      "id": "42zzCCbn1ZE",
+      "title": "France: Route du Rhum yacht race sets off • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-01T17:46:03.000Z",
+      "description": "The 115 sailors competing in the Route du Rhum set sail from Saint-Malo on Sunday in mild weather, embarking on a solo transatlantic crossing. The race began at 12:02 GMT, with boats heading along the Brittany coast in l"
+    },
+    {
+      "id": "Hp8aaebi8j0",
+      "title": "The school that started a movement",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-01T17:37:31.000Z",
+      "description": "France has seen weeks of protests, violent clashes with police and thousands of arrests across the country. "
+    },
+    {
+      "id": "ofjmBAobl9Q",
+      "title": "Michigan trick-or-treaters spooked by US midterms, Senate race",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-01T18:30:24.000Z",
+      "description": "The annual Halloween celebrations across the United States have offered a brief respite from the relentless campaigning ahead of the midterm elections. "
+    },
+    {
+      "id": "JXfUUC5_t2A",
+      "title": "India’s opposition parties renew calls for the resignation of the country’s election chief",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-01T16:44:08.000Z",
+      "description": "India’s opposition parties renew calls for the resignation of the country’s election chief\r"
+    },
+    {
+      "id": "odu797q0d3c",
+      "title": "Why is the UK Prime Minister saying he's open to a slavery apology?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-01T18:00:15.000Z",
+      "description": "Before King Charles's Caribbean tour, Buckingham Palace said the he would not shy away from the impact of the slave trade but, in line with the UK government position, would not apologise for Britain's role in the slave "
+    },
+    {
+      "id": "adrJ4_w8cW0",
+      "title": "Garment workers clash with riot police in Dhaka wage protest",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-01T18:04:55.000Z",
+      "description": "Thousands of workers in Bangladesh's garment industry have clashed with police in the capital, demanding an increase in their minimum wage. The protests have disrupted key industrial hubs in and around Dhaka. Labor leade"
+    },
+    {
+      "id": "nx79xUFDvnY",
+      "title": "🎥 'Ramayana' producer hopes ancient epic can 'bring the world together'",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-01T17:00:30.000Z",
+      "description": "An ambitious Indian production may prove that the next global blockbuster could come from one of India's oldest epics."
+    },
+    {
+      "id": "cf1RgDtACHM",
+      "title": "Thousands join Indian opposition protest • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-01T17:45:19.000Z",
+      "description": "India’s opposition parties staged major protests in New Delhi on Sunday against Prime Minister Narendra Modi’s government and a nationwide voter list review that has fuelled demonstrations since the summer, led by the yo"
+    },
+    {
+      "id": "D2zWi6ZNvjI",
+      "title": "The Cathy Newman Show",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-01T16:00:18.000Z",
+      "description": "Watch The Cathy Newman Show from 7pm for politics, investigations, interviews and exclusives – on Sky News TV, YouTube and the Sky News app."
+    },
+    {
+      "id": "NaAopBaBhNU",
+      "title": "Israel's lockdown on Hebron cripples economy, displaces Palestinians",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-01T18:00:03.000Z",
+      "description": "Israel's lockdown on Hebron is crushing the occupied West Bank's economic hub — 15 businesses demolished, 537 families displaced, over $4m lost a day. "
+    },
+    {
+      "id": "j8QVdClwiBc",
+      "title": "Riot police forcibly remove housing protesters camping in a Lisbon square",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-01T16:05:37.000Z",
+      "description": "Riot police removed protesters by force camping at Rossio square in Lisbon on Sunday following the ongoing protests for affordable housing. During the intervention police cleared the square, removing tents and pushing pe"
+    },
+    {
+      "id": "lYkCsv8WK9M",
+      "title": "Is North Carolina about to send a Democrat back to Washington?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-01T18:00:10.000Z",
+      "description": ""
+    },
+    {
+      "id": "ymikbun6Da4",
+      "title": "Protesters accuse India's government of rigging the voter rolls",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-01T17:59:43.000Z",
+      "description": "India's opposition has turned a dispute over voter lists into a nationwide political battle. Protesters accuse authorities of unfairly removing more than 130 million names during a voter-roll revision, an allegation deni"
+    },
+    {
+      "id": "VFs12pvRlS4",
+      "title": "Horses become e-bikes as London puts modern twist on medieval joust",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-01T16:31:28.000Z",
+      "description": "London put medieval fanfare on display, with two armor-clad knights jousting in front of hundreds of revelers. There was one modern twist: They traded noble steeds for e-bikes."
+    },
+    {
+      "id": "xIroitR1BXI",
+      "title": "Oleshky: Evacuations during first humanitarian truce of war end • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-01T17:44:50.000Z",
+      "description": "A successful evacuation. Residents of the city of Oleshky who had requested to be evacuated were reunited with their loved ones in Ukraine on Saturday, October 31. The city, located on the front line and under Russian oc"
+    },
+    {
+      "id": "MiOo0Sx_N0A",
+      "title": "The UK Tonight with Sarah-Jane Mee",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-01T15:54:03.000Z",
+      "description": "The UK Tonight with Sarah-Jane Mee will dig into the issues people across the country are talking about and explain and analyse the news stories they need to know in a dynamic hour of domestic news."
+    },
+    {
+      "id": "pu8UWH3UW1E",
+      "title": "Water crisis top issue for Arizona voters ahead of 2026 midterms",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-01T17:45:07.000Z",
+      "description": "Al Jazeera's John Hendren looks into Arizona's shrinking water supplies and how that issue is of great concern to many of Arizona's fast growing voting base.  "
     },
     {
       "id": "HVlRA1V42G4",
@@ -18,180 +186,12 @@
       "description": "AP Top Stories November 1\r"
     },
     {
-      "id": "Pyrrdc-nb2o",
-      "title": "Badenoch not quite 'sincere' or 'correct' over slavery apology claim, says royal commentator",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-01T14:36:14.000Z",
-      "description": "Royal commentator Jennie Bond has dismissed the idea that Andy Burnham is putting \"pressure\" on the King over the issue of whether Britain should apologise over its role in the slave trade."
-    },
-    {
-      "id": "gy8ykA1gI0I",
-      "title": "Ukraine today, Taiwan tomorrow?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T14:30:10.000Z",
-      "description": "What does Ukraine have to do with Taiwan? According to DW's Nina Haase, quite a lot. In this episode of Berlin Briefing, we discuss why many Indo-Pacific countries see Europe's security and their own as increasingly conn"
-    },
-    {
-      "id": "lFxyD15CWik",
-      "title": "Hundreds of thousands protest across France over living costs",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T14:30:07.000Z",
-      "description": "Hundreds of thousands of people have protested across France for a third consecutive weekend over living costs and education."
-    },
-    {
-      "id": "muAbR8IPTzA",
-      "title": "King Charles to address slavery during Commonwealth speech in Antigua",
+      "id": "ZhbVBNdhSl0",
+      "title": "Did adult entertainment sites invent monetising attention?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-01T14:00:11.000Z",
-      "description": "King Charles III is to speak with \"unflinching honesty\" and \"sincere sorrow\" on the lasting pain of the transatlantic slave trade, during the final leg of his Caribbean tour in Antigua, Buckingham Palace has said."
-    },
-    {
-      "id": "nnY5g7DRjG8",
-      "title": "US Midterms: Democrats face leftward surge • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-01T13:56:17.000Z",
-      "description": "As Democrats seek to regain control of Congress, divisions within the party are emerging over its future direction. A new wave of progressive candidates is pushing to shift priorities further to the left, challenging cor"
-    },
-    {
-      "id": "MV1Y5CCtCBA",
-      "title": "'The Gilded Age' season 4 in one word",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-01T14:00:34.000Z",
-      "description": "Shifting relationships, growing ambitions and a battle between old and new define Season 4 of \"The Gilded Age,\" according to the cast, who gathered in New York ahead of the HBO drama's November 1 premiere. Here's how the"
-    },
-    {
-      "id": "UXzQURqxDQg",
-      "title": "'Largest bank robbery in human history': Crypto expert on $6.3 billion Binance hack",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T12:30:22.000Z",
-      "description": "Binance, the world’s biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. Blockchain firms have pointed to the attack comi"
-    },
-    {
-      "id": "ZTk-L2xnRzk",
-      "title": "'House prices terrify us': Protesters take to Europe's streets on Halloween",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-01T13:55:54.000Z",
-      "description": "For these protesters, it's the cost of housing that’s truly terrifying. Thousands joined demonstrations taking place across Albania and Portugal on Halloween."
-    },
-    {
-      "id": "n5HnA8atyU0",
-      "title": "Riots and looting overshadow nationwide protests in Germany",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T12:37:37.000Z",
-      "description": "Youth-led protests across Germany have been overshadowed by riots, looting and violent clashes with police. In Frankfurt, shops were ransacked and police attacked with Molotov cocktails, while disturbances also erupted i"
-    },
-    {
-      "id": "2vj4TdzAOpk",
-      "title": "Israeli attacks on Gaza kill at least nine people",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T14:05:57.000Z",
-      "description": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday."
-    },
-    {
-      "id": "WyT2Td9aR2k",
-      "title": "More young adults borrowing to pay for essentials, a survey says.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-01T13:30:09.000Z",
-      "description": ""
-    },
-    {
-      "id": "jguF1d0nivg",
-      "title": "Poland rocked by Constitutional showdown • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-01T13:41:39.000Z",
-      "description": "Poland’s constitutional crisis deepened on Saturday as the European Commission urged President Karol Nawrocki to recognise new judges appointed by Prime Minister Donald Tusk. The standoff comes ahead of next year’s parli"
-    },
-    {
-      "id": "_w2LIJptnQ4",
-      "title": "Thousands join Indian opposition protest demanding election chief resign",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-01T13:50:32.000Z",
-      "description": "Thousands protested in Delhi on Sunday to demand the resignation of India's election chief over a revision of voter lists, the latest in more than a ‌month of opposition demonstrations challenging Prime Minister Narendra"
-    },
-    {
-      "id": "qmApxNrErn4",
-      "title": "WATCH: Heidi Klum reveals her 2026 Halloween party costume",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T05:30:33.000Z",
-      "description": "Heidi Klum underwent a bloody transformation to become a giant, gruesome severed hand at the 25th anniversary of her iconic Halloween party Saturday. Klum, accompanied by an ensemble of helpers in blood-stained hazmat su"
-    },
-    {
-      "id": "YJTi7VnQXIs",
-      "title": "PMQs",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-01T13:13:22.000Z",
-      "description": "Andy Burnham faces questions from Conservative leader Kemi Badenoch and MPs across the House of Commons, for this week's session of Prime Minister's Questions."
-    },
-    {
-      "id": "q0qXr_-g8Nc",
-      "title": "Fact check: Misleading France protest videos go viral",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T12:00:27.000Z",
-      "description": "Weeks of student protests across France have fueled a wave of viral content online. But some of the most-shared videos and images are misleading. DW Fact check examines three viral claims."
-    },
-    {
-      "id": "u0enMYpJeGk",
-      "title": "Ultra-Orthodox Jews clash with Israeli police over army draft",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T13:53:27.000Z",
-      "description": "In Israel, a group of ultra-Orthodox Jews, known as Haredi, have been disrupting traffic near a military conscription office, east of Tel Aviv."
-    },
-    {
-      "id": "_tfljn3Om6I",
-      "title": "“Socialist? Don’t matter to me, lower my cost of living\"",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-01T12:30:39.000Z",
-      "description": "The BBC’s North America Editor Sarah Smith explores the friction in the Democratic party with candidates choosing different strategic paths hoping to win: progressive or centrist. "
-    },
-    {
-      "id": "crtWDT2IsoY",
-      "title": "France: Route du Rhum fleet ready to depart • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-01T13:12:43.000Z",
-      "description": "The Route du Rhum, billed as the world’s biggest solo transatlantic race, is set to depart from Saint-Malo in Brittany. Skippers will sail alone to Guadeloupe, with professionals and amateur sailors competing in the race"
-    },
-    {
-      "id": "Vyi98mB5z4w",
-      "title": "Abuse survivors to seek accountability during pope's South America trip",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-31T17:32:49.000Z",
-      "description": "As Pope Leo prepares to return to South America, Peruvian abuse survivor Pedro Salinas sees reason for both hope and unease in the pope’s record confronting clerical abuse."
-    },
-    {
-      "id": "t6NhUUCY7cs",
-      "title": "Thousands of people protest to demand affordable housing in Portugal capital Lisbon",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T04:44:40.000Z",
-      "description": "Thousands of people took to the streets in Portugal once again to demand more affordable housing. The streets of Lisbon's historic center filled with protesters holding signs criticizing the government of Prime Minister "
-    },
-    {
-      "id": "dNUIxtrXQ68",
-      "title": "'An apology opens the path': Caribbean leaders push for reparations as King visits Antigua",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-31T23:30:23.000Z",
-      "description": "The prime minister has given the strongest signal yet the UK could make a historic apology for the slave trade."
+      "publishedAt": "2026-11-01T16:30:03.000Z",
+      "description": "With the advent of OnlyFans, pornographic content has become a fixture of mainstream social media. But the influence of the adult entertainment industry on internet culture arguably began decades ago. On this episode, Ma"
     }
   ]
 }
