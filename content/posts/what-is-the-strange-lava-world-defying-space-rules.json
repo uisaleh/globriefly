@@ -1,0 +1,93 @@
+{
+  "slug": "what-is-the-strange-lava-world-defying-space-rules",
+  "status": "published",
+  "type": "explainer",
+  "category": "science",
+  "region": "Global",
+  "headline": "What is the strange lava world defying space rules?",
+  "standfirst": "Astronomers using the James Webb Space Telescope have discovered an unexpected, highly reflective atmosphere on a rocky lava world that should have been stripped bare by its star.",
+  "keyPoints": [
+    "TOI-561 b is an ultra-short-period super-Earth exoplanet orbiting its star in just 10.5 hours.",
+    "Due to intense stellar radiation, scientists expected the planet to have no atmosphere at all.",
+    "New JWST phase-curve observations reveal a thick, highly reflective atmosphere with possible clouds.",
+    "This discovery challenges current theories about how rocky planets evolve and lose their gases."
+  ],
+  "sections": [
+    {
+      "heading": "What is an ultra-short-period exoplanet?",
+      "paragraphs": [
+        "In the vast expanse of the cosmos, astronomers have discovered thousands of planets orbiting distant stars, known as exoplanets. Among the most unusual are ultra-short-period planets, or USPs. These worlds zip around their host stars in less than 24 hours, meaning their years are shorter than a single day on Earth.",
+        "Because they orbit so close to their suns, USPs are battered by intense radiation and heat. Standard astronomical theories suggest that any rocky planet sitting this close to a star should have its atmosphere completely stripped away by stellar winds, leaving behind a bare, lifeless rock."
+      ]
+    },
+    {
+      "heading": "Why is TOI-561 b baffling astronomers?",
+      "paragraphs": [
+        "Enter TOI-561 b, a super-Earth exoplanet that orbits a sun-like star roughly every ten and a half hours. Given its extreme proximity to its host star, scientists fully expected it to be a barren lava world devoid of any gaseous envelope.",
+        "However, recent observations using the powerful James Webb Space Telescope have turned those expectations upside down. Researchers analyzing the planet's light patterns discovered that it not only possesses a significant atmosphere, but it is also remarkably reflective, bouncing a vast amount of starlight back into space."
+      ]
+    },
+    {
+      "heading": "How does the planet keep an atmosphere?",
+      "paragraphs": [
+        "Solving this cosmic mystery required looking at how heat moves across the planet. By measuring the changes in brightness as the exoplanet completed multiple orbits, scientists found that its dayside was surprisingly cool and its nightside lacked the expected heat buildup.",
+        "Simulations suggest the planet is shrouded in reflective clouds or hazes—potentially made of materials like silicon dioxide—acting much like a planetary sunscreen. Because the planet likely features a molten magma ocean, gases from the interior may continuously supply and replenish the atmosphere, defying old models of planetary evolution."
+      ]
+    }
+  ],
+  "highlight": "Our discovery challenges current theories, as we would expect a heavily irradiated rocky planet like TOI-561 b to have lost its atmosphere billions of years ago.",
+  "timeline": [
+    {
+      "when": "2020",
+      "what": "The exoplanet TOI-561 b is first detected orbiting a sun-like star."
+    },
+    {
+      "when": "2025",
+      "what": "Early JWST observations hint at an unexpected volatile-rich atmosphere."
+    },
+    {
+      "when": "2026",
+      "what": "Detailed phase-curve observations confirm a highly reflective atmosphere and cloud cover."
+    }
+  ],
+  "tags": [
+    "astronomy",
+    "exoplanets",
+    "JWST",
+    "space",
+    "science"
+  ],
+  "socialSummary": "A strange rocky exoplanet defies space rules by holding onto a thick, reflective atmosphere despite blistering stellar heat.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/James_Webb_Space_Telescope_Mirror37.jpg/1920px-James_Webb_Space_Telescope_Mirror37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Caption: During cryogenic testing, the mirrors will be subjected to temperatures dipping to 24 Kelvins, permitting…",
+    "credit": "NASA/MSFC/David Higginbotham/Emmett Given / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg",
+    "license": "Public domain",
+    "provider": "wikimedia",
+    "query": "James Webb Space Telescope",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "James Webb Space Telescope",
+    "names": [],
+    "subject": "exoplanet lava world space"
+  },
+  "sources": [
+    {
+      "name": "Phys.org",
+      "url": "https://phys.org/news/2026-10-oddball-lava-world.html"
+    }
+  ],
+  "sourceTitles": [
+    "This oddball reflective lava world is challenging to understand"
+  ],
+  "sourceCount": 1,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-11-01T01:05:20.722Z",
+  "updatedAt": "2026-11-01T01:05:20.722Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/what-is-the-strange-lava-world-defying-space-rules.jpg"
+}

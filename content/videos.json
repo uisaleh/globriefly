@@ -1,13 +1,37 @@
 {
-  "updatedAt": "2026-10-31T21:27:47.924Z",
+  "updatedAt": "2026-11-01T01:04:35.270Z",
   "videos": [
     {
-      "id": "gG1ZBqW9cjA",
-      "title": "Fiery confrontations between protestors and police in Albania",
+      "id": "RT5Ub6Qv-uo",
+      "title": "Anti-riot measures taken by police in Barcelona",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-01T00:34:30.000Z",
+      "description": "Police carried out anti-rioting measures in Barcelona on Saturday, to prevent violent riots and looting similar to those that took place on Oct. 24. 1,000 young people were searched and one person was detained on Saturda"
+    },
+    {
+      "id": "JEtwVvp6paY",
+      "title": "Gen Z-led protests in Germany turn violent",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-31T21:11:48.000Z",
-      "description": "Protesters hurled petrol bombs and paving stones at police in Albania on Saturday. Police have been accused of responding with excessive force. The clashes are the latest in weeks of violent protests led by students dema"
+      "publishedAt": "2026-11-01T00:23:04.000Z",
+      "description": "Protesters clashed with police as thousands took to the streets across 34 cities in Germany demanding better education, lower living costs and an end to compulsory military service amid rising military spending.     "
+    },
+    {
+      "id": "IzOy8qxOlWs",
+      "title": "Can Lula play both sides?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-01T00:00:29.000Z",
+      "description": "Will Lula's reelection mean more Xi Jinping and less Donald Trump in Latin America? Lula wants to boost Brazil's global standing by avoiding sides in the US-China rivalry. But with China Brazil's top trading partner and "
+    },
+    {
+      "id": "nfC9RvZXWxU",
+      "title": "Could the King apologise for slavery?",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-31T23:31:13.000Z",
+      "description": "Andy Burnham says he is \"open\" to the possibility of the UK formally apologising for its role in the transatlantic slave trade, as the King tours the Caribbean."
     },
     {
       "id": "YrJoUofv2P8",
@@ -18,36 +42,12 @@
       "description": ""
     },
     {
-      "id": "VtlR5QoPpww",
-      "title": "What would a slavery apology mean to black Britons?",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-31T20:31:12.000Z",
-      "description": "Prime Minister Andy Burnham says he is \"open\" to the possibility of a formal apology for the UK's role in the transatlantic slave trade, but has ruled out financial reparations."
-    },
-    {
-      "id": "Cecw4Orrt5w",
-      "title": "Lavrov sets conditions for talks with Zelenskyy at G20 meeting",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-31T20:24:43.000Z",
-      "description": "Deep disagreements over Iran and Ukraine overshadowed the G20 meeting in Atlanta. US Secretary of State Marco Rubio said President Donald Trump has not decided on any new military action against Iran, while Russian Forei"
-    },
-    {
       "id": "Vyi98mB5z4w",
       "title": "Abuse survivors to seek accountability during pope's South America trip",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
       "publishedAt": "2026-10-31T17:32:49.000Z",
       "description": "As Pope Leo prepares to return to South America, Peruvian abuse survivor Pedro Salinas sees reason for both hope and unease in the pope’s record confronting clerical abuse."
-    },
-    {
-      "id": "SgYx3gfrhGU",
-      "title": "Ukrainian President Zelenskyy arrives in Istanbul to meet with Erdogan on regional issues",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-31T14:27:06.000Z",
-      "description": "Ukrainian President Volodymyr Zelenskyy arrived in Istanbul on Saturday to meet with Turkish leader Recep Tayyip Erdogan, with security issues around the Black Sea likely to be the focus of discussions.\r"
     },
     {
       "id": "xVlJvYdueMo",
@@ -58,12 +58,36 @@
       "description": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from use"
     },
     {
-      "id": "72avjqDX76c",
-      "title": "Jamaal Bowman: “If I had kept my mouth shut, I'd be in Congress”",
+      "id": "_MrlO_G7xjg",
+      "title": "Protesters set bins on fire and set off flares in Tirana, Albania",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-01T00:03:30.000Z",
+      "description": "Albanian protesters set bins alight and set off flares in Tirana \r"
+    },
+    {
+      "id": "ZBmtOS1w3R4",
+      "title": "Binance says hackers stole more than $6bn in 20 minutes; deposits and withdrawals on hold",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-31T20:45:13.000Z",
-      "description": "As the United States approaches the midterm elections, a new wave of progressive candidates is challenging the Democratic establishment, campaigning on affordability, medicare for all, and opposition to big money in poli"
+      "publishedAt": "2026-10-31T23:52:31.000Z",
+      "description": "It took about 20 minutes to steal more than $6 billion in one of the biggest cryptocurrency thefts in history from Binance, the world’s largest exchange."
+    },
+    {
+      "id": "TtfTMXpbbZk",
+      "title": "Evacuees from Russian-occupied Oleshky arrive in Ukraine",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-31T22:00:33.000Z",
+      "description": "Evacuees from Oleshky, a city in Russian-occupied Ukraine, have crossed into Ukrainian-controlled territory. They told DW about the dire conditions in the city, including having to eat grass and dogs to survive. Their re"
+    },
+    {
+      "id": "dNUIxtrXQ68",
+      "title": "'An apology opens the path': Caribbean leaders push for reparations as King visits Antigua",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-31T23:30:23.000Z",
+      "description": "The prime minister has given the strongest signal yet the UK could make a historic apology for the slave trade."
     },
     {
       "id": "Q6KUXi8GiSQ",
@@ -74,36 +98,12 @@
       "description": ""
     },
     {
-      "id": "n9fI7Q78T50",
-      "title": "Hundreds escape Russian-occupied city after months without food and water",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-31T18:41:45.000Z",
-      "description": "Sky's Stuart Ramsay is at the Ukrainian border with Belarus, where he has witnessed the safe return of hundreds of residents from Russian-occupied Oleshky to Ukraine."
-    },
-    {
-      "id": "sIYaFh2qnPY",
-      "title": "How serious are Iran's new threats of retaliation?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-31T19:20:05.000Z",
-      "description": "A new exchange of threats is raising fears of further escalation in the Iran war. German Chancellor Friedrich Merz says the conflict has already cost Europe more than €100 billion in higher energy prices and insists it c"
-    },
-    {
       "id": "LdJLRX0nrKc",
       "title": "Polish president pushes into top court, accuses PM Tusk of takeover",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
       "publishedAt": "2026-10-31T17:17:08.000Z",
       "description": "Video showed Polish President Karol Nawrocki forcing his way into the country's Constitutional Court after a dispute erupted over the suspension of the court's president."
-    },
-    {
-      "id": "r0hzf7UGW78",
-      "title": "Statement by Iran's Supreme Leader Mojtaba Khamenei delivers a warning to U.S.",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-31T14:12:50.000Z",
-      "description": "Iran’s supreme Leader Ayatollah Mojtaba Khamenei urged stern transregional military reaction to possible U.S. and Israel strikes, state media reported on Saturday.\r"
     },
     {
       "id": "BQtadqzPu0M",
@@ -114,36 +114,44 @@
       "description": "France is bracing for a third consecutive weekend of protests, with around 70,000 security personnel deployed to prevent a repeat of the violence seen on October 17. Shops have boarded up their premises as authorities wa"
     },
     {
-      "id": "rGNMOpdRiGc",
-      "title": "Israel’s allegations of Qatari election interference rejected",
+      "id": "-mDeR99dGKI",
+      "title": "320,000 people protest nationwide, according to the French government",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-31T23:48:30.000Z",
+      "description": "Protesters take to the streets across France for a third consecutive weekend of demonstrations over the rising cost of living, with 320,000 people joining rallies nationwide, according to government estimates.\r"
+    },
+    {
+      "id": "rCAS90G3SJ0",
+      "title": "ICE agent’s violent shove propels woman through the air",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-31T20:22:48.000Z",
-      "description": "Allegations of Qatari interference in Israel’s election ignited an impassioned debate on Al Jazeera’s Inside Story. Qatar has rejected the allegations calling them a disinformation campaign."
+      "publishedAt": "2026-10-31T23:41:42.000Z",
+      "description": "A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car at an ICE processing centre in Chicago. Civil rights activists are demanding the agent be investigated for excessive force"
     },
     {
-      "id": "wpreqAa0deQ",
-      "title": "Molotov cocktails thrown at police as more protests break out in Albania.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-31T19:00:29.000Z",
-      "description": ""
-    },
-    {
-      "id": "qL0wnGz_-wg",
-      "title": "Unrest sweeps across European cities as protests intensify",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-31T17:28:48.000Z",
-      "description": "French protesters are once again on the streets of Paris, marching against high living costs, rising fuel prices, public spending cuts and poor school conditions and teacher shortages"
-    },
-    {
-      "id": "lee-zht1Y3k",
-      "title": "Who wins and who votes? Two questions shaping the US midterms",
+      "id": "lwHsDFi6HFY",
+      "title": "Ukrainians recount life inside occupied Oleshky",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-10-31T18:06:10.000Z",
-      "description": "Americans head to the polls on Tuesday with control of Congress at stake and early voting already at record levels. We speak to DW Chief Political editor Michaela Küfner about Donald Trump's final campaign push and the r"
+      "publishedAt": "2026-10-31T22:00:10.000Z",
+      "description": "After years cut off behind Russian lines, residents from Oleshky are finally back in Ukrainian-held territory. Evacuees tell DW they struggled to find food, lived under regular shelling and watched supplies disappear. DW"
+    },
+    {
+      "id": "IaTPxNqfzUk",
+      "title": "Sky News witnesses tear gassing and police hit by fire at Paris protest",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-10-31T23:04:07.000Z",
+      "description": "Hundreds of thousands of people took to the streets of Paris and other French towns and cities in ongoing anti-government protests."
+    },
+    {
+      "id": "s-JKw87NNZQ",
+      "title": "What are the US midterms?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-10-31T20:00:17.000Z",
+      "description": ""
     },
     {
       "id": "2Krqu-RD9RY",
@@ -154,14 +162,6 @@
       "description": "Bella Poarch became one of the internet’s biggest stars through TikTok, but says she’s no longer thinking about whether the music she makes will go viral. In the latest Culture Current, she speaks to Reuters about her de"
     },
     {
-      "id": "mmg2FR6Txvs",
-      "title": "Civilians from Russian-occupied Oleshky arrive in Belarus on their way to Ukraine",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-10-31T14:00:50.000Z",
-      "description": "Evacuees from Russian-occupied Oleshky in Ukraine have arrived in Belarus Saturday on their way to Ukraine, as part of a major rescue operation. The estimated 2,000 remaining residents were offered the choice of travelin"
-    },
-    {
       "id": "Jock9aqwQvQ",
       "title": "Novaya Gazeta: Another Voice Silenced in Russia • FRANCE 24 English",
       "channel": "FRANCE 24 English",
@@ -170,28 +170,28 @@
       "description": "A final chapter for one of Russia's most fearless newspapers, as Novaya Gazeta announces it is shutting down after more than three decades of challenging the Kremlin. Its journalists have paid the ultimate price for spea"
     },
     {
-      "id": "KNTf7S8qWho",
-      "title": "Youth Protests Sweep Germany as Clashes Erupt in Cologne",
+      "id": "rdFrHUQqUV0",
+      "title": "German police use water cannon at youth-led protest in Cologne",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-10-31T23:21:02.000Z",
+      "description": "Police in the western German city of Cologne canceled a protest march after demonstrators set off pyrotechnics and covered their faces, prompting police intervention. (AP video by Daniel Niemann)\r"
+    },
+    {
+      "id": "gG1ZBqW9cjA",
+      "title": "Fiery confrontations between protestors and police in Albania",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-10-31T20:11:29.000Z",
-      "description": "More than 100,000 young people rallied across Cologne, Hamburg and over 30 German cities, demanding more investment in education and voicing anger over new military conscription plans. "
+      "publishedAt": "2026-10-31T21:11:48.000Z",
+      "description": "Protesters hurled petrol bombs and paving stones at police in Albania on Saturday. Police have been accused of responding with excessive force. The clashes are the latest in weeks of violent protests led by students dema"
     },
     {
-      "id": "BU_PvwJkI3c",
-      "title": "Are Donald Trump’s Republicans facing a meltdown at these midterm elections?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-31T15:30:59.000Z",
-      "description": "If the polls are to be believed, voters are feeling sore about rising grocery prices, the cost of gas and diesel and the unfinished military action against Iran. "
-    },
-    {
-      "id": "l-z5wPukE48",
-      "title": "Marco Rubio faces questions after G20 summit",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-31T17:06:31.000Z",
-      "description": "US Secretary of State Marco Rubio holds a news conference at the end of a two-day meeting of G20 foreign ministers in Atlanta, Georgia."
+      "id": "Cecw4Orrt5w",
+      "title": "Lavrov sets conditions for talks with Zelenskyy at G20 meeting",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-10-31T20:24:43.000Z",
+      "description": "Deep disagreements over Iran and Ukraine overshadowed the G20 meeting in Atlanta. US Secretary of State Marco Rubio said President Donald Trump has not decided on any new military action against Iran, while Russian Forei"
     }
   ]
 }

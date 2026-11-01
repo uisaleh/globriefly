@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://medicalxpress.com/news/2026-10-advanced-age-limit-benefits-sodium.html": 1792883279895,
-    "\n                                                https://www.cbssports.com/wnba/news/2026-wnba-finals-game-6-venue-state-farm-arena-dream-valkyries/\n                    ": 1792883294356,
-    "https://www.abc.net.au/news/2026-10-25/valkyries-shut-down-dream-in-game-4-to-square-wnba-finals/107305956": 1792883294356,
-    "\n                                                https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/\n                    ": 1792883294356,
-    "https://www.theguardian.com/sport/2026/oct/24/golden-state-valkyries-atlanta-dream-game-four-wnba-finals": 1792883294356,
     "https://www.nytimes.com/2026/10/24/business/six-flags-death-roller-coaster-seat-belt.html": 1792902932919,
     "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts": 1792902932919,
     "https://sports.yahoo.com/articles/brewers-erase-four-run-deficit-042647620.html": 1792902939899,
@@ -313,11 +308,17 @@
     "https://sports.yahoo.com/articles/josh-jacobs-allegations-explained-packers-212143101.html": 1793482100743,
     "https://sports.yahoo.com/articles/nfl-review-allegations-against-packers-210631231.html": 1793482100743,
     "https://www.theguardian.com/sport/2026/oct/31/josh-jacobs-green-bay-packers-abuse-allegations-police-records": 1793482100743,
-    "\n                                                https://www.cbssports.com/nfl/news/three-other-women-accused-packers-josh-jacobs-of-abuse-after-arrest/\n                    ": 1793482100743
+    "\n                                                https://www.cbssports.com/nfl/news/three-other-women-accused-packers-josh-jacobs-of-abuse-after-arrest/\n                    ": 1793482100743,
+    "https://phys.org/news/2026-10-oddball-lava-world.html": 1793495085258,
+    "https://www.rnz.co.nz/news/world/2282547/judge-throws-out-trump-suit-over-epstein-letter": 1793495115445,
+    "https://www.hollywoodreporter.com/news/politics-news/trump-lawsuit-wall-street-journal-epstein-dismissed-1236744244/": 1793495115445,
+    "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html": 1793495115445,
+    "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423/": 1793495115445,
+    "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html": 1793495115445,
+    "https://www.scmp.com/news/world/united-states-canada/article/3372857/judge-throws-out-trump-lawsuit-against-wall-street-journal-over-epstein-birthday-letter": 1793495115445,
+    "https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665/": 1793495115445
   },
   "fps": {
-    "advanced-age-benefits-chronic-cotransporter-disease-does-glucose": 1792883279895,
-    "2026-air-already-arena-booked-dream-farm-finals": 1792883294356,
     "add-coasters-death-flags-rider-roller-seatbelts-six": 1792902932919,
     "brewers-deficit-erase-four-lead-run-series-take": 1792902939899,
     "burnham-discussion-free-honest-movement-open": 1792921555024,
@@ -381,6 +382,8 @@
     "how-instagram-purpose-reposting-what-you": 1793468481539,
     "attacks-iran-israel-leader-supreme-warns": 1793468550680,
     "channel-complex-evolution-gene-giant-illuminates-potassium-protein": 1793482086533,
-    "abuse-accused-additional-allegations-arrest-explained-jacobs-josh": 1793482100744
+    "abuse-accused-additional-allegations-arrest-explained-jacobs-josh": 1793482100744,
+    "challenging-lava-oddball-reflective-understand-world": 1793495085258,
+    "epstein-judge-letter-suit-throws-trump": 1793495115445
   }
 }

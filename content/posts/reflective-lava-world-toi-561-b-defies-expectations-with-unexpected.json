@@ -1,0 +1,98 @@
+{
+  "slug": "reflective-lava-world-toi-561-b-defies-expectations-with-unexpected",
+  "status": "published",
+  "type": "news",
+  "category": "science",
+  "region": "Global",
+  "headline": "Reflective lava world TOI-561 b defies expectations with unexpected atmosphere",
+  "standfirst": "New space telescope observations reveal that a rocky exoplanet orbiting very close to its host star possesses a surprising atmosphere and high reflectivity.",
+  "keyPoints": [
+    "TOI-561 b is an ultra-short-period super-Earth exoplanet orbiting a sun-like star.",
+    "Researchers used the James Webb Space Telescope to observe the planet for 37 hours across multiple orbits.",
+    "Data showed the planet's dayside is much cooler than expected because about three-quarters of light is reflected into space.",
+    "Simulations indicate the presence of high-albedo clouds or haze, such as silicon dioxide, functioning like a planetary sunscreen."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "Astronomers studying distant star systems have uncovered new details about an unusual rocky world known as TOI-561 b. This exoplanet is classified as a super-Earth and follows an exceptionally fast orbit around a sun-like star. Because it sits extremely close to its host star, scientists originally predicted that the planet would possess no atmosphere whatsoever. Intense stellar radiation should have stripped away any volatile gases billions of years ago. However, recent observations gathered by advanced space telescope instruments have proven this long-held assumption entirely incorrect.",
+        "The celestial body completes a full revolution around its star in roughly 10.5 hours, categorising it among ultra-short-period planets. Researchers recently directed the James Webb Space Telescope toward the target for a continuous duration of 37 hours. This extended monitoring window allowed scientists to capture more than three complete orbital cycles of data. By tracking how the planet's brightness and thermal emissions shifted throughout its journey, the team obtained a comprehensive view of global atmospheric conditions. These findings build upon earlier, more limited glimpses that had previously hinted at the existence of volatile gases.",
+        "The surprising results show that TOI-561 b maintains a significant atmosphere despite enduring extreme stellar conditions. Measurements of the planet's dayside revealed that temperatures were notably lower than what would be expected for a bare rock exposed to such searing heat. Researchers considered whether atmospheric winds transported thermal energy to the nightside, but further calculations ruled out redistribution alone as the cause. Instead, the data demonstrated that the exoplanet reflects a substantial fraction of incoming starlight back into the cosmos. This high reflectivity points directly to the presence of reflective clouds or hazes acting as a thermal shield."
+      ]
+    },
+    {
+      "heading": "Understanding ultra-short-period planets",
+      "paragraphs": [
+        "Ultra-short-period planets represent a fascinating puzzle for modern astrophysicists studying planetary formation and evolution. These bodies race around their host stars in less than twenty-four hours, experiencing radiation environments far harsher than anything found in our local solar system. Conventional atmospheric escape theories dictate that such heavily irradiated rocky worlds should be completely stripped of volatile envelopes. Finding a substantial atmosphere on TOI-561 b challenges established models of how rocky super-Earths survive extreme stellar proximity over astronomical timescales.",
+        "Investigating whether small rocky exoplanets can sustain atmospheres provides vital clues about deeper planetary processes. Scientists explain that when planets feature molten magma oceans on their sunlit hemispheres, these interior reservoirs can maintain a continuous chemical exchange with the overlying gas envelope. This dynamic interaction can fuel secondary atmospheres long after primordial gases have dissipated into space. Consequently, observing these extreme worlds offers a unique window into the hidden geological and volcanic mechanisms operating beneath alien surfaces."
+      ]
+    },
+    {
+      "heading": "Investigating the reflective mystery",
+      "paragraphs": [
+        "To decode the unusual thermal readings, the research team utilised a sophisticated general circulation model to simulate planetary conditions. By comparing computer predictions against actual telescope observations, scientists determined that simple heat redistribution could not account for the observed dayside emission curves. The simulations strongly suggested a high albedo source, meaning the planet possesses highly reflective properties capable of bouncing away massive amounts of light. Researchers identified specific cloud species, including magnesium silicates and silicon dioxide, that could successfully form under such scorching conditions.",
+        "The presence of silicon dioxide clouds in particular could explain the extreme reflectivity required by the computer simulations. Team members describe these clouds as a natural sunscreen protecting the molten world from total thermal overload. Lisa Dang from the University of Waterloo, who served as project lead, noted that the phase curve technique successfully unveiled the planet's reflective nature. Researchers remain amazed that a rocky body orbiting an intermediate-type star retains such a resilient gaseous covering when similar planets elsewhere appear completely desiccated."
+      ]
+    },
+    {
+      "heading": "Broader implications for planetary science",
+      "paragraphs": [
+        "The discovery carries significant weight for the broader scientific quest to understand planetary habitability and evolution across the galaxy. Most rocky exoplanets studied thoroughly by modern telescopes orbit smaller M dwarf stars rather than sun-like stars. Because red dwarf stars emit different radiation profiles, finding a resilient atmosphere around a planet orbiting a G or K type dwarf reshapes comparative exoplanet demographics. It forces researchers to rethink the prevalence and longevity of secondary atmospheres on worlds previously written off as sterile, bare rocks.",
+        "Unravelling the mysteries of TOI-561 b helps refine the tools and techniques used to analyse distant atmospheres through transit and phase curve observations. As space telescope technology continues to advance, astronomers gain unprecedented clarity regarding the complex interplay between stellar radiation, planetary interiors, and atmospheric retention. Each anomalous world discovered in interstellar space serves as a crucial testing ground for refining the fundamental laws governing planetary systems."
+      ]
+    },
+    {
+      "heading": "Next steps in exoplanet research",
+      "paragraphs": [
+        "Following these breakthrough observations, the research team plans to conduct further analyses to better understand the chemical composition of the clouds. Detailed spectroscopic investigations will aim to confirm the exact proportions of volatile substances and silicate vapours swirling within the atmosphere. Expanding the observational sample to include other ultra-short-period planets will also help determine whether TOI-561 b is a rare anomaly or part of a wider population of reflective lava worlds.",
+        "As ongoing telescope surveys continue to scan the cosmos, astronomers anticipate uncovering more unusual worlds that defy standard theoretical classifications. The collaborative international effort behind the study highlights the rapid pace of discovery in modern exoplanet science. Researchers will keep pushing the boundaries of remote observation to decode the diverse climatic and geological histories preserved in distant planetary atmospheres."
+      ]
+    }
+  ],
+  "highlight": "The discovery challenges current theories, as researchers would expect a heavily irradiated rocky planet like TOI-561 b to have lost its atmosphere billions of years ago.",
+  "timeline": [],
+  "tags": [
+    "astronomy",
+    "exoplanets",
+    "JWST",
+    "TOI-561 b",
+    "space science"
+  ],
+  "socialSummary": "JWST observations reveal that ultra-short-period exoplanet TOI-561 b possesses a surprising, highly reflective atmosphere.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Super-Earth_Exoplanet_TOI-561_b_%28NIRSpec_Emission_Spectrum%29_%28TOI-561b%29.jpg/1920px-Super-Earth_Exoplanet_TOI-561_b_%28NIRSpec_Emission_Spectrum%29_%28TOI-561b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "An emission spectrum captured by NIRSpec (the Near-Infrared Spectrograph) on the NASA/ESA/CSA James Webb Space Telescope in…",
+    "credit": "Illustration: NASA, ESA, CSA, Ralf Crawford (STScI), Science: J. Teske (Carnegie / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Super-Earth_Exoplanet_TOI-561_b_(NIRSpec_Emission_Spectrum)_(TOI-561b).jpg",
+    "license": "CC BY 4.0",
+    "provider": "wikimedia",
+    "query": "TOI-561 b",
+    "matchedBy": "name"
+  },
+  "imageSearch": {
+    "query": "JWST space telescope exoplanet TOI-561 b illustration",
+    "names": [
+      "TOI-561 b",
+      "JWST"
+    ],
+    "subject": "exoplanet lava world"
+  },
+  "sources": [
+    {
+      "name": "Phys.org",
+      "url": "https://phys.org/news/2026-10-oddball-lava-world.html"
+    }
+  ],
+  "sourceTitles": [
+    "This oddball reflective lava world is challenging to understand"
+  ],
+  "sourceCount": 1,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-11-01T01:05:01.440Z",
+  "updatedAt": "2026-11-01T01:05:01.440Z",
+  "readingMinutes": 4,
+  "facebook": null,
+  "ogImage": "/og/reflective-lava-world-toi-561-b-defies-expectations-with-unexpected.jpg"
+}

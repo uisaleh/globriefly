@@ -1,23 +1,26 @@
-21:27:47 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-21:27:47 collecting videos…
-21:27:47   video feed BBC News: 15 in feed, 5 kept
-21:27:47   video feed Al Jazeera English: 15 in feed, 5 kept
-21:27:47   video feed DW News: 15 in feed, 5 kept
-21:27:47   video feed FRANCE 24 English: 15 in feed, 5 kept
-21:27:47   video feed Sky News: 15 in feed, 5 kept
-21:27:47   video feed Reuters: 15 in feed, 5 kept
-21:27:47   video feed Associated Press: 15 in feed, 5 kept
-21:27:47 videos: saved 24
-21:27:47 collecting feeds…
-21:27:53 569 new items
-21:27:54 461 candidate stories
-21:27:54 categories needing stories: science, health, entertainment, politics, business, technology, sports → reserved science
-21:27:54 writing: Giant virus yields potassium channel gene that illuminates complex protein evolution (1 sources)
-21:27:54   source text: 3684 chars
-21:28:00   too close to source wording — rewriting
-21:28:06   skipped
-21:28:06 writing: Josh Jacobs allegations, explained: Packers RB accused of abuse by 3 additional women in wake of May arrest (3 sources)
-21:28:07   source text: 5575 / 6049 / 5397 chars
-21:28:15   too close to source wording — rewriting
-21:28:20   skipped
-21:28:20 done — 0 stories
+01:04:09 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+01:04:09 collecting videos…
+01:04:09   video feed BBC News: 15 in feed, 5 kept
+01:04:09   video feed Al Jazeera English: 15 in feed, 5 kept
+01:04:09   video feed DW News: 15 in feed, 5 kept
+01:04:34   video feed FRANCE 24 English failed: Status code 404
+01:04:34   video feed Sky News: 15 in feed, 5 kept
+01:04:35   video feed Reuters: 15 in feed, 5 kept
+01:04:35   video feed Associated Press: 15 in feed, 5 kept
+01:04:35 videos: saved 24
+01:04:35 collecting feeds…
+01:04:38 546 new items
+01:04:38 414 candidate stories
+01:04:38 categories needing stories: science, health, entertainment, politics, business, technology, sports → reserved science
+01:04:38 writing: This oddball reflective lava world is challenging to understand (1 sources)
+01:04:38   source text: 7000 chars
+01:05:00 image source error: The operation was aborted due to timeout
+01:05:02   ✓ published: /news/reflective-lava-world-toi-561-b-defies-expectations-with-unexpected/ [science] image: wikimedia via name "TOI-561 b"
+01:05:02 writing: Judge throws out Trump suit over Epstein letter (7 sources)
+01:05:02   source text: 3172 / 4915 / 1576 chars
+01:05:07   too close to source wording — rewriting
+01:05:15 writer returned unusable output: { "headline": "Federal judge permanently ends presidential defamation case concerning Epstein note", "standfirst": "A US magistrate has definitively rejecte
+01:05:15   skipped
+01:05:15 writing explainer for: This oddball reflective lava world is challenging to understand
+01:05:21   ✓ explainer: /news/what-is-the-strange-lava-world-defying-space-rules/
+01:05:21 done — 1 stories
