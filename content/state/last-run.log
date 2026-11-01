@@ -1,22 +1,22 @@
-07:28:39 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-07:28:39 collecting videos…
-07:28:39   video feed BBC News: 15 in feed, 5 kept
-07:28:39   video feed Al Jazeera English: 15 in feed, 5 kept
-07:28:39   video feed DW News: 15 in feed, 5 kept
-07:28:39   video feed FRANCE 24 English: 15 in feed, 5 kept
-07:28:39   video feed Sky News: 15 in feed, 5 kept
-07:28:39   video feed Reuters: 15 in feed, 5 kept
-07:28:39   video feed Associated Press: 15 in feed, 5 kept
-07:28:39 videos: saved 24
-07:28:39 collecting feeds…
-07:28:43 442 new items
-07:28:43 341 candidate stories
-07:28:43 categories needing stories: politics, health, entertainment, world, business, technology, sports → reserved politics
-07:28:43 writing: Security Sunday: Wie real ist die Kriegsgefahr? – mit General Alexander Sollfrank (1 sources)
-07:28:43   source text: 2037 chars
-07:28:52   ✓ published: /news/german-military-commander-discusses-modern-defense-strategies/ [politics] image: wikimedia via idea "Alexander Sollfrank"
-07:28:52 writing: Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack (7 sources)
-07:28:52   source text: 2981 / 2540 / 2488 chars
-07:29:12 image source error: The operation was aborted due to timeout
-07:29:14   ✓ published: /news/cryptocurrency-exchange-binance-replaces-most-of-stolen-funds-following/ [technology] image: wikimedia via name "North Korea"
-07:29:14 done — 2 stories
+15:01:28 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+15:01:28 collecting videos…
+15:01:28   video feed BBC News: 15 in feed, 5 kept
+15:01:28   video feed Al Jazeera English: 15 in feed, 5 kept
+15:01:29   video feed DW News: 15 in feed, 5 kept
+15:01:29   video feed FRANCE 24 English: 15 in feed, 5 kept
+15:01:29   video feed Sky News: 15 in feed, 5 kept
+15:01:29   video feed Reuters: 15 in feed, 5 kept
+15:01:29   video feed Associated Press: 15 in feed, 5 kept
+15:01:29 videos: saved 24
+15:01:29 collecting feeds…
+15:01:34 561 new items
+15:01:35 439 candidate stories
+15:01:35 categories needing stories: business, health, sports, entertainment, world, politics → reserved business
+15:01:35 writing: This is the biggest threat to the AI-powered bull market (1 sources)
+15:01:35   source text: 0 chars
+15:01:35   skipped: only paywalled sources, not enough readable text
+15:01:35 writing: Almanac: November 1 (8 sources)
+15:01:35   source text: 1611 / 7000 / 7000 chars
+15:02:00 image source error: The operation was aborted due to timeout
+15:02:02   ✓ published: /news/entertainment-outlook-explores-streaming-releases-and-licensed/ [entertainment] image: wikimedia via name "Netflix"
+15:02:02 done — 1 stories

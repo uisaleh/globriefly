@@ -1,21 +1,125 @@
 {
-  "updatedAt": "2026-11-01T07:28:39.512Z",
+  "updatedAt": "2026-11-01T15:01:29.765Z",
   "videos": [
     {
-      "id": "HExZwTjzHKU",
-      "title": "Qatar counts down to a historic Basketball World Cup",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T07:01:27.000Z",
-      "description": "Qatar is counting down to the 2027 FIBA Basketball World Cup, with 32 teams set to compete in Doha. Can the tournament help grow the game across the region?"
+      "id": "FJzEuz7L1Lc",
+      "title": "Trump says US in no hurry for Iran deal",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-01T14:51:54.000Z",
+      "description": "Donald Trump said Washington was in no hurry to strike a deal with Iran and declined to say whether he expected the US to go back to war with Tehran after the midterm elections."
     },
     {
-      "id": "YCqKWCRixPM",
-      "title": "Birdwatching is booming: Gen Z ditches screens for binoculars",
+      "id": "HVlRA1V42G4",
+      "title": "AP Top Stories November 1",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-01T14:41:05.000Z",
+      "description": "AP Top Stories November 1\r"
+    },
+    {
+      "id": "Pyrrdc-nb2o",
+      "title": "Badenoch not quite 'sincere' or 'correct' over slavery apology claim, says royal commentator",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-01T14:36:14.000Z",
+      "description": "Royal commentator Jennie Bond has dismissed the idea that Andy Burnham is putting \"pressure\" on the King over the issue of whether Britain should apologise over its role in the slave trade."
+    },
+    {
+      "id": "gy8ykA1gI0I",
+      "title": "Ukraine today, Taiwan tomorrow?",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T07:00:32.000Z",
-      "description": "Birdwatching is one of the world's fastest-growing hobbies – and Gen Z is leading the charge. As screens give way to binoculars and a booming industry takes flight, we explore how birds are truly benefiting in real life."
+      "publishedAt": "2026-11-01T14:30:10.000Z",
+      "description": "What does Ukraine have to do with Taiwan? According to DW's Nina Haase, quite a lot. In this episode of Berlin Briefing, we discuss why many Indo-Pacific countries see Europe's security and their own as increasingly conn"
+    },
+    {
+      "id": "lFxyD15CWik",
+      "title": "Hundreds of thousands protest across France over living costs",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-01T14:30:07.000Z",
+      "description": "Hundreds of thousands of people have protested across France for a third consecutive weekend over living costs and education."
+    },
+    {
+      "id": "muAbR8IPTzA",
+      "title": "King Charles to address slavery during Commonwealth speech in Antigua",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-01T14:00:11.000Z",
+      "description": "King Charles III is to speak with \"unflinching honesty\" and \"sincere sorrow\" on the lasting pain of the transatlantic slave trade, during the final leg of his Caribbean tour in Antigua, Buckingham Palace has said."
+    },
+    {
+      "id": "nnY5g7DRjG8",
+      "title": "US Midterms: Democrats face leftward surge • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-01T13:56:17.000Z",
+      "description": "As Democrats seek to regain control of Congress, divisions within the party are emerging over its future direction. A new wave of progressive candidates is pushing to shift priorities further to the left, challenging cor"
+    },
+    {
+      "id": "MV1Y5CCtCBA",
+      "title": "'The Gilded Age' season 4 in one word",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-01T14:00:34.000Z",
+      "description": "Shifting relationships, growing ambitions and a battle between old and new define Season 4 of \"The Gilded Age,\" according to the cast, who gathered in New York ahead of the HBO drama's November 1 premiere. Here's how the"
+    },
+    {
+      "id": "UXzQURqxDQg",
+      "title": "'Largest bank robbery in human history': Crypto expert on $6.3 billion Binance hack",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-01T12:30:22.000Z",
+      "description": "Binance, the world’s biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. Blockchain firms have pointed to the attack comi"
+    },
+    {
+      "id": "ZTk-L2xnRzk",
+      "title": "'House prices terrify us': Protesters take to Europe's streets on Halloween",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-01T13:55:54.000Z",
+      "description": "For these protesters, it's the cost of housing that’s truly terrifying. Thousands joined demonstrations taking place across Albania and Portugal on Halloween."
+    },
+    {
+      "id": "n5HnA8atyU0",
+      "title": "Riots and looting overshadow nationwide protests in Germany",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-01T12:37:37.000Z",
+      "description": "Youth-led protests across Germany have been overshadowed by riots, looting and violent clashes with police. In Frankfurt, shops were ransacked and police attacked with Molotov cocktails, while disturbances also erupted i"
+    },
+    {
+      "id": "2vj4TdzAOpk",
+      "title": "Israeli attacks on Gaza kill at least nine people",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-01T14:05:57.000Z",
+      "description": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday."
+    },
+    {
+      "id": "WyT2Td9aR2k",
+      "title": "More young adults borrowing to pay for essentials, a survey says.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-01T13:30:09.000Z",
+      "description": ""
+    },
+    {
+      "id": "jguF1d0nivg",
+      "title": "Poland rocked by Constitutional showdown • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-01T13:41:39.000Z",
+      "description": "Poland’s constitutional crisis deepened on Saturday as the European Commission urged President Karol Nawrocki to recognise new judges appointed by Prime Minister Donald Tusk. The standoff comes ahead of next year’s parli"
+    },
+    {
+      "id": "_w2LIJptnQ4",
+      "title": "Thousands join Indian opposition protest demanding election chief resign",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-01T13:50:32.000Z",
+      "description": "Thousands protested in Delhi on Sunday to demand the resignation of India's election chief over a revision of voter lists, the latest in more than a ‌month of opposition demonstrations challenging Prime Minister Narendra"
     },
     {
       "id": "qmApxNrErn4",
@@ -26,28 +130,44 @@
       "description": "Heidi Klum underwent a bloody transformation to become a giant, gruesome severed hand at the 25th anniversary of her iconic Halloween party Saturday. Klum, accompanied by an ensemble of helpers in blood-stained hazmat su"
     },
     {
-      "id": "hvt7F7YBENc",
-      "title": "Testimonies from Oleshky • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-10-31T23:53:50.000Z",
-      "description": "American Filmmaker Zarina Zabrisky has lived and reported across the Dnipro River in Ukrainian controlled Kherson for the past three years. She’s been speaking to France 24’s Gavin Lee about the events of the past 24 hou"
-    },
-    {
-      "id": "nfC9RvZXWxU",
-      "title": "Could the King apologise for slavery?",
+      "id": "YJTi7VnQXIs",
+      "title": "PMQs",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-31T23:31:13.000Z",
-      "description": "Andy Burnham says he is \"open\" to the possibility of the UK formally apologising for its role in the transatlantic slave trade, as the King tours the Caribbean."
+      "publishedAt": "2026-11-01T13:13:22.000Z",
+      "description": "Andy Burnham faces questions from Conservative leader Kemi Badenoch and MPs across the House of Commons, for this week's session of Prime Minister's Questions."
     },
     {
-      "id": "YrJoUofv2P8",
-      "title": "How this Scottish village inspired the latest Silent Hill game.",
+      "id": "q0qXr_-g8Nc",
+      "title": "Fact check: Misleading France protest videos go viral",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-01T12:00:27.000Z",
+      "description": "Weeks of student protests across France have fueled a wave of viral content online. But some of the most-shared videos and images are misleading. DW Fact check examines three viral claims."
+    },
+    {
+      "id": "u0enMYpJeGk",
+      "title": "Ultra-Orthodox Jews clash with Israeli police over army draft",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-01T13:53:27.000Z",
+      "description": "In Israel, a group of ultra-Orthodox Jews, known as Haredi, have been disrupting traffic near a military conscription office, east of Tel Aviv."
+    },
+    {
+      "id": "_tfljn3Om6I",
+      "title": "“Socialist? Don’t matter to me, lower my cost of living\"",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-31T21:00:21.000Z",
-      "description": ""
+      "publishedAt": "2026-11-01T12:30:39.000Z",
+      "description": "The BBC’s North America Editor Sarah Smith explores the friction in the Democratic party with candidates choosing different strategic paths hoping to win: progressive or centrist. "
+    },
+    {
+      "id": "crtWDT2IsoY",
+      "title": "France: Route du Rhum fleet ready to depart • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-01T13:12:43.000Z",
+      "description": "The Route du Rhum, billed as the world’s biggest solo transatlantic race, is set to depart from Saint-Malo in Brittany. Skippers will sail alone to Guadeloupe, with professionals and amateur sailors competing in the race"
     },
     {
       "id": "Vyi98mB5z4w",
@@ -56,22 +176,6 @@
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
       "publishedAt": "2026-10-31T17:32:49.000Z",
       "description": "As Pope Leo prepares to return to South America, Peruvian abuse survivor Pedro Salinas sees reason for both hope and unease in the pope’s record confronting clerical abuse."
-    },
-    {
-      "id": "nbzeF574IrE",
-      "title": "China’s immersive disaster centres",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T06:51:10.000Z",
-      "description": "China’s immersive disaster centres simulate earthquakes and flash floods to teach survival skills — but can disaster also become entertainment? . Al Jazeera's  Katrina Yu reports"
-    },
-    {
-      "id": "WHYAXgG-BUU",
-      "title": "Why thousands of children in Denmark can't cope with regular classes",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T05:30:25.000Z",
-      "description": "A growing number of Danish families are withdrawing children from mainstream schools. Parents argue that the education system is too rigid and lacks the resources to support children with special needs. "
     },
     {
       "id": "t6NhUUCY7cs",
@@ -88,110 +192,6 @@
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
       "publishedAt": "2026-10-31T23:30:23.000Z",
       "description": "The prime minister has given the strongest signal yet the UK could make a historic apology for the slave trade."
-    },
-    {
-      "id": "Q6KUXi8GiSQ",
-      "title": "Hundreds of Oleshky residents evacuated due to Melania Trump deal.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-31T20:30:11.000Z",
-      "description": ""
-    },
-    {
-      "id": "LdJLRX0nrKc",
-      "title": "Polish president pushes into top court, accuses PM Tusk of takeover",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-31T17:17:08.000Z",
-      "description": "Video showed Polish President Karol Nawrocki forcing his way into the country's Constitutional Court after a dispute erupted over the suspension of the court's president."
-    },
-    {
-      "id": "HYjpmFxYhwM",
-      "title": "Roger’s cynical gift basket for El-Sayed on his birthday",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T05:23:30.000Z",
-      "description": "Republican Michigan Senate candidate Mike Rogers mocked Democratic rival Abdul El-Sayed with a sarcastic birthday gift basket featuring fireworks, Dubai chocolates and a child-sized T-shirt, taking aim at his remarks and"
-    },
-    {
-      "id": "DwwUsl6Ebcs",
-      "title": "US warns Russia of possible mass-casualty attack in Moscow",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T02:15:26.000Z",
-      "description": "The United States has warned Russia of a credible threat of a mass-casualty attack at Moscow's Tsaritsyno Museum Reserve. Why is Washington sharing sensitive intelligence with Moscow despite tensions over Ukraine, and ho"
-    },
-    {
-      "id": "pyQo5mOWjhQ",
-      "title": "Thousands in Tel Aviv call for a Arab-Jewish coalition in new Israel government",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T04:35:42.000Z",
-      "description": "Thousands rallied in Tel Aviv on Saturday, calling for an Arab-Jewish coalition in Israel’s next government after the final election results showed Israeli Prime Minister Benjamin Netanyahu's bloc falling short of a majo"
-    },
-    {
-      "id": "IaTPxNqfzUk",
-      "title": "Sky News witnesses tear gassing and police hit by fire at Paris protest",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-10-31T23:04:07.000Z",
-      "description": "Hundreds of thousands of people took to the streets of Paris and other French towns and cities in ongoing anti-government protests."
-    },
-    {
-      "id": "s-JKw87NNZQ",
-      "title": "What are the US midterms?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-31T20:00:17.000Z",
-      "description": ""
-    },
-    {
-      "id": "2Krqu-RD9RY",
-      "title": "🎶 Bella Poarch on why she doesn't make music for the algorithm",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-10-31T17:00:11.000Z",
-      "description": "Bella Poarch became one of the internet’s biggest stars through TikTok, but says she’s no longer thinking about whether the music she makes will go viral. In the latest Culture Current, she speaks to Reuters about her de"
-    },
-    {
-      "id": "KnVUhpVyUUI",
-      "title": "France protests enter third week as police fire tear gas",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T04:29:39.000Z",
-      "description": "Police used tear gas to disperse protesters as demonstrations entered a third week ahead in cities and towns across France ahead of an expected general strike. The mainly youth-led protests are against the cost-of-living"
-    },
-    {
-      "id": "IzOy8qxOlWs",
-      "title": "Can Lula play both sides?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T00:00:29.000Z",
-      "description": "Will Lula's reelection mean more Xi Jinping and less Donald Trump in Latin America? Lula wants to boost Brazil's global standing by avoiding sides in the US-China rivalry. But with China Brazil's top trading partner and "
-    },
-    {
-      "id": "RT5Ub6Qv-uo",
-      "title": "Anti-riot measures taken by police in Barcelona",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T00:34:30.000Z",
-      "description": "Police carried out anti-rioting measures in Barcelona on Saturday, to prevent violent riots and looting similar to those that took place on Oct. 24. 1,000 young people were searched and one person was detained on Saturda"
-    },
-    {
-      "id": "wpreqAa0deQ",
-      "title": "Molotov cocktails thrown at police as more protests break out in Albania.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-10-31T19:00:29.000Z",
-      "description": ""
-    },
-    {
-      "id": "JEtwVvp6paY",
-      "title": "Gen Z-led protests in Germany turn violent",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T00:23:04.000Z",
-      "description": "Protesters clashed with police as thousands took to the streets across 34 cities in Germany demanding better education, lower living costs and an end to compulsory military service amid rising military spending.     "
     }
   ]
 }
