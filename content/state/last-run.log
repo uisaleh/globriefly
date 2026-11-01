@@ -1,26 +1,22 @@
-01:04:09 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-01:04:09 collecting videos…
-01:04:09   video feed BBC News: 15 in feed, 5 kept
-01:04:09   video feed Al Jazeera English: 15 in feed, 5 kept
-01:04:09   video feed DW News: 15 in feed, 5 kept
-01:04:34   video feed FRANCE 24 English failed: Status code 404
-01:04:34   video feed Sky News: 15 in feed, 5 kept
-01:04:35   video feed Reuters: 15 in feed, 5 kept
-01:04:35   video feed Associated Press: 15 in feed, 5 kept
-01:04:35 videos: saved 24
-01:04:35 collecting feeds…
-01:04:38 546 new items
-01:04:38 414 candidate stories
-01:04:38 categories needing stories: science, health, entertainment, politics, business, technology, sports → reserved science
-01:04:38 writing: This oddball reflective lava world is challenging to understand (1 sources)
-01:04:38   source text: 7000 chars
-01:05:00 image source error: The operation was aborted due to timeout
-01:05:02   ✓ published: /news/reflective-lava-world-toi-561-b-defies-expectations-with-unexpected/ [science] image: wikimedia via name "TOI-561 b"
-01:05:02 writing: Judge throws out Trump suit over Epstein letter (7 sources)
-01:05:02   source text: 3172 / 4915 / 1576 chars
-01:05:07   too close to source wording — rewriting
-01:05:15 writer returned unusable output: { "headline": "Federal judge permanently ends presidential defamation case concerning Epstein note", "standfirst": "A US magistrate has definitively rejecte
-01:05:15   skipped
-01:05:15 writing explainer for: This oddball reflective lava world is challenging to understand
-01:05:21   ✓ explainer: /news/what-is-the-strange-lava-world-defying-space-rules/
-01:05:21 done — 1 stories
+07:28:39 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+07:28:39 collecting videos…
+07:28:39   video feed BBC News: 15 in feed, 5 kept
+07:28:39   video feed Al Jazeera English: 15 in feed, 5 kept
+07:28:39   video feed DW News: 15 in feed, 5 kept
+07:28:39   video feed FRANCE 24 English: 15 in feed, 5 kept
+07:28:39   video feed Sky News: 15 in feed, 5 kept
+07:28:39   video feed Reuters: 15 in feed, 5 kept
+07:28:39   video feed Associated Press: 15 in feed, 5 kept
+07:28:39 videos: saved 24
+07:28:39 collecting feeds…
+07:28:43 442 new items
+07:28:43 341 candidate stories
+07:28:43 categories needing stories: politics, health, entertainment, world, business, technology, sports → reserved politics
+07:28:43 writing: Security Sunday: Wie real ist die Kriegsgefahr? – mit General Alexander Sollfrank (1 sources)
+07:28:43   source text: 2037 chars
+07:28:52   ✓ published: /news/german-military-commander-discusses-modern-defense-strategies/ [politics] image: wikimedia via idea "Alexander Sollfrank"
+07:28:52 writing: Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack (7 sources)
+07:28:52   source text: 2981 / 2540 / 2488 chars
+07:29:12 image source error: The operation was aborted due to timeout
+07:29:14   ✓ published: /news/cryptocurrency-exchange-binance-replaces-most-of-stolen-funds-following/ [technology] image: wikimedia via name "North Korea"
+07:29:14 done — 2 stories

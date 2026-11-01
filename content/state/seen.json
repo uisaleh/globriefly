@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.nytimes.com/2026/10/24/business/six-flags-death-roller-coaster-seat-belt.html": 1792902932919,
-    "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts": 1792902932919,
-    "https://sports.yahoo.com/articles/brewers-erase-four-run-deficit-042647620.html": 1792902939899,
-    "https://sports.yahoo.com/articles/comeback-kings-brewers-down-rays-040911362.html": 1792902939899,
-    "https://www.theguardian.com/sport/2026/oct/25/milwaukee-brewers-tampa-bay-rays-world-series-game-two-comeback": 1792902939899,
-    "https://sports.yahoo.com/articles/brewers-2-0-lead-shop-040457066.html": 1792902939899,
-    "https://sports.yahoo.com/articles/brewers-overcome-four-run-deficit-040125197.html": 1792902939899,
-    "\n                                                https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/\n                    ": 1792902939899,
     "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss": 1792921555024,
     "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu": 1792921555024,
     "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf": 1792921569789,
@@ -316,11 +308,17 @@
     "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423/": 1793495115445,
     "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html": 1793495115445,
     "https://www.scmp.com/news/world/united-states-canada/article/3372857/judge-throws-out-trump-lawsuit-against-wall-street-journal-over-epstein-birthday-letter": 1793495115445,
-    "https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665/": 1793495115445
+    "https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665/": 1793495115445,
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-wie-real-ist-die-kriegsgefahr-mit-general-alexander-sollfrank/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1793518129073,
+    "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency": 1793518137353,
+    "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss": 1793518137353,
+    "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf": 1793518137353,
+    "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history": 1793518137353,
+    "https://www.japantimes.co.jp/business/2026/11/01/tech/binance-hack-fbi-north-korea/": 1793518137353,
+    "https://www.cbsnews.com/news/binance-hack-north-korea/": 1793518137353,
+    "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss": 1793518137353
   },
   "fps": {
-    "add-coasters-death-flags-rider-roller-seatbelts-six": 1792902932919,
-    "brewers-deficit-erase-four-lead-run-series-take": 1792902939899,
     "burnham-discussion-free-honest-movement-open": 1792921555024,
     "between-bolsonaro-brazil-flavio-leftist-lula-right-runoff": 1792921569789,
     "attacks-campaign-issues-obama-ramaswamy-return-searing-trail": 1792937996865,
@@ -384,6 +382,8 @@
     "channel-complex-evolution-gene-giant-illuminates-potassium-protein": 1793482086533,
     "abuse-accused-additional-allegations-arrest-explained-jacobs-josh": 1793482100744,
     "challenging-lava-oddball-reflective-understand-world": 1793495085258,
-    "epstein-judge-letter-suit-throws-trump": 1793495115445
+    "epstein-judge-letter-suit-throws-trump": 1793495115445,
+    "alexander-die-general-ist-kriegsgefahr-mit-real-security": 1793518129073,
+    "3bn-attack-behind-binance-covered-fbi-hack-korea": 1793518137353
   }
 }
