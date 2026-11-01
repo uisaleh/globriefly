@@ -93,6 +93,9 @@
   "publishedAt": "2026-11-01T01:05:01.440Z",
   "updatedAt": "2026-11-01T01:05:01.440Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173288136681745",
+    "sharedAt": "2026-11-01T01:08:29.404Z"
+  },
   "ogImage": "/og/reflective-lava-world-toi-561-b-defies-expectations-with-unexpected.jpg"
 }
