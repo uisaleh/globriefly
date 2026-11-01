@@ -110,6 +110,9 @@
   "publishedAt": "2026-11-01T15:02:01.150Z",
   "updatedAt": "2026-11-01T15:02:01.150Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173340246681745",
+    "sharedAt": "2026-11-01T15:05:13.905Z"
+  },
   "ogImage": "/og/entertainment-outlook-explores-streaming-releases-and-licensed.jpg"
 }
