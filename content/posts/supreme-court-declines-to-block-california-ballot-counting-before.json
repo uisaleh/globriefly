@@ -1,0 +1,116 @@
+{
+  "slug": "supreme-court-declines-to-block-california-ballot-counting-before",
+  "status": "published",
+  "type": "news",
+  "category": "politics",
+  "region": "Americas",
+  "headline": "Supreme Court declines to block California ballot counting before midterms",
+  "standfirst": "The United States Supreme Court has dismissed a last-minute DOJ request to stop California from counting thousands of disputed mail-in ballots.",
+  "keyPoints": [
+    "The Supreme Court rejected the DOJ application in an unsigned order without explanation.",
+    "The federal government sought to sequester mail-in ballots from about 20,000 individuals alleged to be non-citizens.",
+    "Lower federal courts and the Ninth Circuit previously ruled against the administration's request.",
+    "State officials and analysts defended California voter rolls, citing potential errors in the federal list."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "The United States Supreme Court on Monday evening denied a last-minute emergency request from the Department of Justice to temporarily halt the counting of certain mail-in ballots in California. The legal challenge targeted roughly 20,000 voters whom federal authorities suggested might not hold United States citizenship. Delivered on the eve of the national midterm elections, the high court order provided no reasoning and noted no registered dissents from the justices.",
+        "The decision marks the culmination of a rapid sequence of legal battles that unfolded across multiple federal courts in recent weeks. Earlier on Monday, Solicitor General D. John Sauer filed the application for an emergency injunction after lower tribunals repeatedly rejected the administration's arguments. The application had initially reached Associate Justice Elena Kagan before she referred the matter to the full bench for the swift determination.",
+        "The ongoing dispute stems from a Department of Justice lawsuit filed in mid-October within a federal district court in Los Angeles. Federal officials previously delivered a thumb drive containing names to county election workers, demanding that those specific ballots be set aside pending citizenship verification. State authorities and local election officials refused those directives, prompting the administration to seek judicial intervention to prevent the commingling of challenged votes with lawful ones."
+      ]
+    },
+    {
+      "heading": "Legal background and lower court rulings",
+      "paragraphs": [
+        "The Supreme Court action follows a series of rejections from federal judges who concluded that the executive branch lacked the authority to disrupt established state voting procedures. U.S. District Judge David Carter previously ruled against the administration, writing that the federal government was attempting to coerce local authorities to abandon constitutional election practices. A subsequent appeal to the U.S. Court of Appeals for the 9th Circuit resulted in a two-to-one panel decision that upheld the lower court view and warned of widespread voter disenfranchisement.",
+        "Independent analyses of the federal government's compiled list revealed significant flaws, with immigrant rights groups and university watchdogs finding that numerous naturalised citizens had been incorrectly flagged. Legal experts and election clerks testified that the methodology behind the Department of Justice records remained unverified and opaque. Furthermore, separate federal judges in California and Alaska also blocked related executive efforts to interfere with election certification and penalize local poll workers."
+      ]
+    },
+    {
+      "heading": "Positions of the involved parties",
+      "paragraphs": [
+        "Representatives for the federal administration argued that the executive branch suffered a direct injury to its sovereignty through the potential violation of federal laws governing non-citizen voting. Solicitor General Sauer maintained that once disputed ballots were mixed into the general pool of votes, retrieving them would become impossible. The Department of Justice also pursued criminal investigations and issued threats of prosecution against election workers who processed the contested ballots.",
+        "Conversely, California state leaders fiercely defended their election integrity and criticized the federal intervention as an unprecedented political maneuver. California Governor Gavin Newsom deployed legal experts and established voter helplines to protect the electoral process from outside intimidation. Local election officials echoed these concerns, emphasizing that the eleventh-hour demands threatened to undermine public trust in democratic institutions right before polling stations opened."
+      ]
+    },
+    {
+      "heading": "Broader implications for the midterm elections",
+      "paragraphs": [
+        "The high court ruling carries substantial weight as voters head to the polls to decide control of both the House of Representatives and the Senate. Analysts across the political spectrum view the midterms as a crucial referendum on executive policies and the broader administration agenda. Legal scholars noted that the federal government's aggressive posture represented a notable expansion of federal involvement in traditionally state-run election administration.",
+        "Although data and independent investigations consistently show that non-citizen voting remains exceedingly rare, the issue has emerged as a central focus for the administration's election strategy. Similar segregation demands were deployed in other jurisdictions, including Washington state, alongside separate criminal charges filed against green card holders. The collective courtroom defeats underscore the legal limits of executive authority when attempting to alter state voting rules immediately before an election."
+      ]
+    },
+    {
+      "heading": "Next steps and ongoing legal fights",
+      "paragraphs": [
+        "With the Supreme Court declining to issue an injunction, California election officials will proceed with tabulating all validly cast mail-in ballots according to normal state procedures. The underlying lawsuits filed by the federal government in district courts will likely continue to wind through the judicial system despite the conclusion of the immediate voting window. Legal observers anticipate further motions regarding the accuracy of voter lists and the scope of federal oversight in future election cycles.",
+        "Meanwhile, state authorities remain vigilant as votes are counted and certified across the most populous state in the nation. Local election boards continue to process ballots while maintaining security protocols designed to resist outside interference. The final outcomes of these lingering legal disputes could establish important precedents regarding the balance of power between federal agencies and state election administrators."
+      ]
+    }
+  ],
+  "highlight": "The decision marks the culmination of a rapid sequence of legal battles that unfolded across multiple federal courts in recent weeks.",
+  "timeline": [],
+  "tags": [
+    "Supreme Court",
+    "California",
+    "Department of Justice",
+    "midterm elections",
+    "voting rights"
+  ],
+  "socialSummary": "The US Supreme Court rejected a DOJ bid to block California from counting 20,000 disputed ballots on the eve of the midterms.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/US_Supreme_Court.JPG/1920px-US_Supreme_Court.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "The Supreme Court of the United States. Washington, D.C.",
+    "credit": "Photo by Mr. Kjetil Ree. / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:US_Supreme_Court.JPG",
+    "license": "CC BY-SA 3.0",
+    "provider": "wikimedia",
+    "query": "Supreme Court building Washington DC",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "Supreme Court building Washington DC",
+    "names": [
+      "Supreme Court",
+      "California",
+      "Department of Justice"
+    ],
+    "subject": "courthouse building exterior"
+  },
+  "sources": [
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html"
+    },
+    {
+      "name": "DW",
+      "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots"
+    },
+    {
+      "name": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/"
+    }
+  ],
+  "sourceTitles": [
+    "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+    "Supreme Court rejects Trump bid to block 20,000 California ballots",
+    "Supreme court rules against Trump over bid to force California to set aside ballots",
+    "Supreme Court rejects Trump administration's bid to set aside 20K California ballots",
+    "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+    "Trump administration asks Supreme Court to set aside 20,000 disputed California ballots"
+  ],
+  "sourceCount": 7,
+  "importance": 9,
+  "breaking": true,
+  "publishedAt": "2026-11-02T23:28:11.289Z",
+  "updatedAt": "2026-11-02T23:28:11.289Z",
+  "readingMinutes": 3,
+  "facebook": null,
+  "ogImage": "/og/supreme-court-declines-to-block-california-ballot-counting-before.jpg"
+}

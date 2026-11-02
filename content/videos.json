@@ -1,13 +1,117 @@
 {
-  "updatedAt": "2026-11-02T15:39:43.503Z",
+  "updatedAt": "2026-11-02T23:27:41.627Z",
   "videos": [
     {
-      "id": "loSSGrAMl7M",
-      "title": "Nine dead in small plane crash near Trump's Florida home • FRANCE 24 English",
+      "id": "yiFJ7SpGfpY",
+      "title": "Iowa voters cast ballots at drive-thru sites ahead of midterms",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-02T23:15:17.000Z",
+      "description": "It may have been a product of the global pandemic, but drive-through voting in Iowa is here to stay. At the Health & Human Parking Ramp in Iowa City, voters posted their ballots without leaving their cars. "
+    },
+    {
+      "id": "PWzj1ytRDiQ",
+      "title": "Democrat civil war in Michigan",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-02T23:00:24.000Z",
+      "description": "A Democrat in Michigan has unexpectedly endorsed the Republican candidate, in the state’s crucial US senate contest. Will this stop the Democrats taking back the Senate?"
+    },
+    {
+      "id": "HyROtQySlLM",
+      "title": "Home Secretary U-turns over migrant care worker plan",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-02T23:00:11.000Z",
+      "description": "Sky News's brand new late-night show The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
+    },
+    {
+      "id": "WlU9dt5FJKc",
+      "title": "Powerful storm tears through beach resort on Italy’s southern coast",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-02T22:59:37.000Z",
+      "description": "Surveillance footage captured the moment a tornado ripped through a beach resort restaurant in Castellaneta Marina, southern Italy, tearing off metal roofing and flattening a restaurant. Emergency teams secured the area "
+    },
+    {
+      "id": "RGBgWpeuikE",
+      "title": "Video is said to show strikes on a port in Hodeida, Yemen",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-02T22:29:42.000Z",
+      "description": "Yemen’s Iran-backed Houthi rebels accused Saudi Arabia of striking the port of Ras Isa in the western province of Hodeida, along Yemen’s Red Sea coast, and setting fire to ships and commercial freight trucks.\r"
+    },
+    {
+      "id": "NmJUGqcxrjg",
+      "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says • FRANCE 24",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-02T15:33:37.000Z",
-      "description": "Nine people were killed Sunday when the Learjet they were travelling in plummeted into a neighbourhood in southern Florida, just miles from US President Donald Trump's resort home of Mar-a-Lago, officials said."
+      "publishedAt": "2026-11-02T22:28:34.000Z",
+      "description": "Emergency alert systems in Russia and Ukraine were hit in cyber attacks overnight, with fake warnings of possible nuclear strikes broadcast to users in both countries. The systems have since been brought back under contr"
+    },
+    {
+      "id": "ToLA6bjteBw",
+      "title": "Will Trump double down on attacks on Iran if Republicans lose?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-02T22:00:28.000Z",
+      "description": "Trump and his Republican party are on course for huge losses in the midterm elections. Control of Congress is at stake. We asked geopolitical analyst Ian Bremmer if he thinks that a defeat would weaken Trump or instead c"
+    },
+    {
+      "id": "3fTk_2bxrzk",
+      "title": "Clancy attorneys seek dismissal of murder charges",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-02T21:19:45.000Z",
+      "description": "Lindsay Clancy's lawyers urged a judge to dismiss murder charges against her and expressed frustration that prosecutors have yet to make clear their plans to retry her for killing her three young children at her Massachu"
+    },
+    {
+      "id": "b-bSmfwfG-U",
+      "title": "Trump delivers final speech ahead of midterms.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-02T22:39:56.000Z",
+      "description": ""
+    },
+    {
+      "id": "v3_BvQex9pA",
+      "title": "'This is about Reform': Diane Abbott on Mahmood's migration reforms",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-02T22:45:20.000Z",
+      "description": "\"This is about Reform\": Diane Abbott on Shabana Mahmood's changes to migration rules"
+    },
+    {
+      "id": "LM5cN7R3yVs",
+      "title": "Explosions reported on Iran's Qeshm Island amid fears of renewed war",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-02T22:50:47.000Z",
+      "description": "Five explosions have been reported on Iran's Qeshm Island, with residents also saying they saw two aircraft flying overhead. Iranian authorities have not yet commented on the reports. Further explosions have also been re"
+    },
+    {
+      "id": "7kasH_kmT4k",
+      "title": "This 65-year-old shares why he's voting for the first time ever",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-02T21:37:22.000Z",
+      "description": "The stakes in Tuesday’s midterm elections are so high that Pennsylvania resident Shane Dunn voted for the first time in his life, at age 65."
+    },
+    {
+      "id": "UhMutp5hFJU",
+      "title": "Uganda withdrawing troops from peacekeeping mission in Somalia • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-02T21:24:55.000Z",
+      "description": "In tonight's edition,  Uganda starts drawing down troops just days after the UN ends its political mission in Somalia. Also, upcoming municipal elections in South Africa risk solidifying growing political fragmentation. "
+    },
+    {
+      "id": "J7QMWBcn6cE",
+      "title": "Germany grapples with fallout from protest violence",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-02T21:00:22.000Z",
+      "description": "The organizers of Germany's Gen Z protests wanted to focus attention on education, living costs and government spending priorities. Instead, violence and looting in cities including Frankfurt dominated headlines after th"
     },
     {
       "id": "QhWrrU6OD58",
@@ -18,6 +122,14 @@
       "description": "Morning Bid podcast host Mike Dolan explains last week's heist on Binance, as customers yanked $3.64 billion from the world's largest crypto exchange after it was partially reopened."
     },
     {
+      "id": "h1rYHE3vS4g",
+      "title": "Everything you need to know about the US midterms and what they'll mean for America",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-02T22:15:25.000Z",
+      "description": "The US midterm elections are set to take place on Tuesday, in a vote that could have a major impact on Donald Trump’s presidency. "
+    },
+    {
       "id": "WDlKa3yTDvY",
       "title": "Abdul El-Sayed speaks at rally in Michigan",
       "channel": "Sky News",
@@ -26,44 +138,36 @@
       "description": "Watch live from Ypsilanti, Michigan as Democratic candidate for the U.S. Senate in Michigan Abdul El-Sayed and Democratic Massachusetts Sen. Elizabeth Warren participate in a campaign event. "
     },
     {
-      "id": "I-Uoo_kUbjY",
-      "title": "Karl Bushby completes 28-year journey from Chile to Hull",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-02T15:20:09.000Z",
-      "description": "British adventurer Karl Bushby has completed his 31,000-mile (50,000 km) journey from South America to Hull in the UK, reuniting with his mother at the family home 28 years after setting off."
-    },
-    {
-      "id": "9vWgaAIdepk",
-      "title": "Iran says two tankers hit mines in Strait of Hormuz",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-02T15:15:32.000Z",
-      "description": "Iran's Revolutionary Guard says two oil tankers caught fire after hitting naval mines in the Strait of Hormuz. The IRGC said both vessels were using an \"unauthorized\" route. "
-    },
-    {
-      "id": "ur1oPZAZ00Q",
-      "title": "Xi urges diplomacy on Iran as Oman’s sultan makes historic visit to China",
+      "id": "zIWXaGgZW34",
+      "title": "US midterms 2026 latest: Knives out in Michigan",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-02T15:00:05.000Z",
-      "description": "Chinese President Xi Jinping says the Middle East should not become a “battleground for great-power rivalry”. "
+      "publishedAt": "2026-11-02T22:04:56.000Z",
+      "description": "Donald Trump and the Republicans are scrambling to lock up votes ahead of election day. But the Democrats are counting on a wave of public resentment over rising prices to push them over the finish line, giving them the "
     },
     {
-      "id": "UiJAJKKBO2I",
-      "title": "Mexico bans cellphones in schools, despite opposition from parents worried about violence",
+      "id": "WNpIEBht6zk",
+      "title": "NASA telescope is predicted to come crashing down after failed rescue mission",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-02T14:30:32.000Z",
-      "description": "Mexico is preparing to ban cellphone use in elementary and secondary schools starting Tuesday, as parents in violence-stricken regions warn that the restrictions could leave their children unable to communicate during em"
+      "publishedAt": "2026-11-02T20:23:09.000Z",
+      "description": "A NASA telescope is barely clinging to space after a failed rescue effort left it tottering lower and lower. The U.S. Space Force predicts the Swift Observatory will come crashing down any day. "
     },
     {
-      "id": "Erq97-oKq2o",
-      "title": "Inflation, war and corruption: Will anger at Trump see Republicans punished at midterms?",
+      "id": "qQ0u3Fh96Ew",
+      "title": "The Long Hull: Karl Bushby reflects on perseverance & 'best of humanity' on his 28-year journey home",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-02T15:30:58.000Z",
-      "description": "Donald Trump and his Republican Party will make last-gasp pitches to US midterm voters Monday to hold back a predicted Democrat wave that could take over Congress and impose tight political constraints on the president f"
+      "publishedAt": "2026-11-02T20:51:20.000Z",
+      "description": "“They say it takes a village. In this case, it took a world.” After 28 years and some 50,000 kilometres, British explorer and adventurer Karl Bushby has returned to his hometown of Hull, completing an extraordinary life "
+    },
+    {
+      "id": "9IGrYaQrgP8",
+      "title": "Freezer cyber attack leaves supermarket shelves empty across Europe",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-02T20:03:11.000Z",
+      "description": "An unprecedented wave of cyberattacks has paralyzed the cooling and freezing systems of hundreds of supermarkets across Europe. Hackers remotely exploited vulnerabilities in interconnected refrigeration controllers, forc"
     },
     {
       "id": "OYoANBlmR04",
@@ -74,124 +178,20 @@
       "description": "With renewed Middle East talks lowering oil prices, Amanda Rastovic from Expana explains how geopolitical risks may keep a premium in place despite easing supply fears."
     },
     {
+      "id": "caIJY3kmzJY",
+      "title": "Strait of Hormuz could reopen within two days if the US agrees to demands, Iran says",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-02T21:30:05.000Z",
+      "description": "Iran says it's ready to reopen the Strait of Hormuz within two days if the US first fulfils its conditions, such as sanctions relief, on the first day of the process. "
+    },
+    {
       "id": "PCHnuinUA8g",
       "title": "Morning Call: It's 'a tale of two rivers' in Ukraine",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
       "publishedAt": "2026-11-02T14:46:39.000Z",
       "description": "It's 'a tale of two rivers' in Ukraine, says Sky's Military analyst on Morning Call."
-    },
-    {
-      "id": "_MuxJmqTXMs",
-      "title": "Martha Stewart says she 'really screwed up' with homeless Halloween costume.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-02T15:00:09.000Z",
-      "description": ""
-    },
-    {
-      "id": "2Ts3d6kgwGM",
-      "title": "Ukraine's air-alert app hit by false attack warnings",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-02T14:54:29.000Z",
-      "description": "People across Ukraine received warnings about a chemical attack, radiation hazards and street fighting in Kyiv. Authorities said the alerts were false and that the country’s air-alert app had likely been hacked. Hours la"
-    },
-    {
-      "id": "QetOVhWYVlY",
-      "title": "After Israel’s election: What’s next?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-02T14:00:02.000Z",
-      "description": "The success of Palestinian-led parties – who won 15% of the vote in Israel’s elections – has created a conundrum for Israel’s leadership: partner with non-Zionists or accept political gridlock."
-    },
-    {
-      "id": "Cz31ojCC2p0",
-      "title": "Students block access to Paris high school as protests resume and violence eases",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-02T12:30:27.000Z",
-      "description": "About two dozen students used bins to block access to Lycée Hélène Boucher school in eastern Paris on Monday, as they resumed protests after a two-week school break. (AP Video by Nicolas Garriga.)\r"
-    },
-    {
-      "id": "ZUFrreo72JE",
-      "title": "Heading into the midterms, 'no US president in recent times has been as unpopular as Donald Trump'",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-02T15:25:19.000Z",
-      "description": "Erin Ogunkeye is pleased to welcome Richard Johnson, Senior Lecturer in US Politics at Queen Mary University of London. He says that \"Donald Trump is damaged goods at this point in his presidency.\" With this uncompromisi"
-    },
-    {
-      "id": "zWISMlhZuIo",
-      "title": "Three rallies in three days: Inside Trump's midterm blitz",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-02T14:18:35.000Z",
-      "description": "Is this President Donald Trump’s last campaign? White House Correspondent Bo Erickson talks with supporters as Republicans fight to keep control of Congress."
-    },
-    {
-      "id": "TdN2wDdRyYY",
-      "title": "Lindsay Clancy in court for crucial motion hearing",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-02T09:59:40.000Z",
-      "description": "Lindsay Clancy returns to court for a critical motion hearing. Her legal team is fighting to have all three first-degree murder charges completely dismissed."
-    },
-    {
-      "id": "FbLc-Dgf5CA",
-      "title": "Ukraine and Russia say emergency apps hacked.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-02T14:15:09.000Z",
-      "description": ""
-    },
-    {
-      "id": "58L0jJr_qTQ",
-      "title": "The price of de-risking from China",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-02T13:57:25.000Z",
-      "description": "As countries try to reduce dependence on China and the United States, new trade partnerships are emerging. But DW’s Steven Beardsley explains why that might end up raising prices. Watch the full Berlin Briefing episode h"
-    },
-    {
-      "id": "Aqw6uCSUUdM",
-      "title": "Police arrive at German university pro-Palestine protest",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-02T13:32:39.000Z",
-      "description": "Dozens of Pro-Palestine students protested at the University of Hamburg in Germany, blocking building entrances and chanting slogans. Riot police formed a security cordon and arrested students."
-    },
-    {
-      "id": "jq0dmFcWOcw",
-      "title": "Alaska Senate Showdown: Trump’s Ballot Controversy Adds Drama to Closely Watched Race",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-02T05:33:27.000Z",
-      "description": "As AP's Haven Daley reports, Alaska’s closely watched Senate race between Democratic challenger Mary Peltola and Republican incumbent Dan Sullivan has drawn national attention following President Trump’s call to prosecut"
-    },
-    {
-      "id": "IwZ173R0NVY",
-      "title": "Michigan ‘Betrayal’ & Mid Term Manouvres • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-01T19:32:13.000Z",
-      "description": "France 24’s Spotlight Presenter Gavin Lee assesses the last minute campaign dramas and takes an US election overview on the ‘must watch states’ alongside Professor Donald Green, Professor of Political Science at Columbia"
-    },
-    {
-      "id": "sHB1gDLq6cM",
-      "title": "Prop 40 explained: California votes on taxing billionaires",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-01T18:26:05.000Z",
-      "description": "California voters will decide whether to approve a first-of-its-kind state tax on billionaires, testing public support for a measure aimed at raising revenue from the state's wealthiest residents."
-    },
-    {
-      "id": "O390tDvjSoY",
-      "title": "The Wrap with Barbara Serra",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-01T23:03:54.000Z",
-      "description": "The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
     }
   ]
 }

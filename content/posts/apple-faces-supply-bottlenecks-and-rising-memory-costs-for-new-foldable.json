@@ -1,0 +1,105 @@
+{
+  "slug": "apple-faces-supply-bottlenecks-and-rising-memory-costs-for-new-foldable",
+  "status": "published",
+  "type": "news",
+  "category": "technology",
+  "region": "Global",
+  "headline": "Apple faces supply bottlenecks and rising memory costs for new foldable phone",
+  "standfirst": "Apple is struggling to meet high demand for its new iPhone Duo amid surging memory chip costs driven by the artificial intelligence sector.",
+  "keyPoints": [
+    "Apple cannot predict when supply and demand for the new iPhone Duo will balance.",
+    "Chief Executive John Ternus cited unprecedented memory pricing driven by the AI sector.",
+    "The company reported record fourth-quarter iPhone revenue despite ongoing hardware constraints.",
+    "Apple has reluctantly increased prices across several products to offset component costs."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "Technology giant Apple addressed persistent shipping delays regarding its newly launched foldable device during its latest fiscal fourth-quarter earnings call. Chief Operating Officer Sabih Khan informed investors that the corporation is striving to deliver the hardware to consumers quickly, though a timeline for resolving shortages remains unclear. Customers who missed immediate preorder windows or physical store stock are now facing delivery dates stretching into the following year.",
+        "The flagship device, introduced last month at a starting price of nineteen hundred and ninety-nine dollars, features both an external and an internal display. Preorders exhausted available inventory within hours of release, prompting some telecommunication partners to issue apology gestures such as gift cards to frustrated buyers. Apple leadership has characterised consumer interest as extraordinary, contrasting sharply with traditional inventory management capabilities.",
+        "Executives noted that the enterprise is confronting broader component pressures that affect hardware manufacturers across the entire sector. Surging requirements for memory chips from artificial intelligence developers have drastically inflated component expenses globally. These macroeconomic pressures threaten to push retail prices for consumer electronics even higher in the near future."
+      ]
+    },
+    {
+      "heading": "Industry context and component pressures",
+      "paragraphs": [
+        "The technology sector has experienced severe supply chain friction for months, heavily influenced by intense competition for specialized semiconductor components. Artificial intelligence infrastructure projects consume vast quantities of memory chips, leaving consumer device makers competing for shrinking manufacturing capacity. This dynamic has forced prominent hardware producers to adjust their pricing strategies to maintain profit margins.",
+        "Apple has historically maintained a reputation for operating highly optimized and efficient supply chains capable of scaling output rapidly. However, the unique manufacturing requirements of foldable screens and advanced processors have introduced distinct logistical hurdles. To help mitigate these bottlenecks, the firm is strengthening its collaboration with titanium suppliers to secure essential raw materials for the folding apparatus."
+      ]
+    },
+    {
+      "heading": "Leadership commentary and corporate strategy",
+      "paragraphs": [
+        "Chief Executive John Ternus addressed financial analysts during the conference call to explain the rationale behind recent price adjustments across the product catalog. Ternus described the current market for memory components as unprecedented and warned that component expenses are expected to climb further during the upcoming December quarter. Despite these financial headwinds, the organization reported record-breaking quarterly iPhone revenue totaling over fifty-seven billion dollars.",
+        "In addition to supply constraints, leadership responded to early reports concerning hardware durability following consumer complaints about damaged screens. Ternus clarified that only a minute fraction of devices had been returned due to screen defects and confirmed that the organization is actively replacing those units. Meanwhile, executives emphasized their commitment to scaling production capacity as fast as physically feasible."
+      ]
+    },
+    {
+      "heading": "Broader implications for the technology market",
+      "paragraphs": [
+        "The challenges facing major hardware developers highlight the far-reaching influence of the artificial intelligence boom on consumer electronics. As data center expansion continues to prioritize advanced silicon, everyday gadgets face tighter margins and potential retail cost increases. Consumers may find themselves paying more for upgrades or enduring longer wait times for cutting-edge releases.",
+        "Industry observers are closely monitoring how hardware makers adapt their supply networks to insulate themselves from single-sector dependencies. Organizations that successfully diversify their material sourcing and partner relationships will likely navigate the current component scarcity more effectively. For now, prominent brands must balance aggressive product launches with the stark realities of constrained manufacturing ecosystems."
+      ]
+    },
+    {
+      "heading": "Future outlook and operational next steps",
+      "paragraphs": [
+        "As the holiday shopping season approaches, corporate leadership has offered no guarantees regarding when inventory levels will stabilize. Retailers and carriers will need to manage customer expectations carefully as shipping windows extend deep into the upcoming calendar period. Apple intends to continue optimizing its manufacturing partnerships to accelerate output rates steadily.",
+        "Investors and market analysts will evaluate the long-term impact of elevated component costs during the next fiscal reporting cycle. The ability to absorb rising material expenses without dampening consumer enthusiasm remains a critical test for premium hardware brands. Management plans to monitor market conditions closely while adjusting pricing and production metrics as necessary."
+      ]
+    }
+  ],
+  "highlight": "Surging requirements for memory chips from artificial intelligence developers have drastically inflated component expenses globally.",
+  "timeline": [],
+  "tags": [
+    "Apple",
+    "iPhone Duo",
+    "John Ternus",
+    "Sabih Khan",
+    "supply chain",
+    "artificial intelligence"
+  ],
+  "socialSummary": "Apple cannot predict when iPhone Duo supply will meet demand amid unprecedented memory chip costs driven by the AI sector.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/IPhone_Duo_fold.jpg/1920px-IPhone_Duo_fold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "A modern foldable smartphone displayed on a clean surface in a bright room.",
+    "credit": "茅野ふたば / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:IPhone_Duo_fold.jpg",
+    "license": "CC BY-SA 4.0",
+    "provider": "wikimedia",
+    "query": "iPhone Duo foldable smartphone",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "iPhone Duo foldable smartphone",
+    "names": [
+      "Apple",
+      "John Ternus",
+      "Sabih Khan"
+    ],
+    "subject": "modern smartphone device"
+  },
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"
+    }
+  ],
+  "sourceTitles": [
+    "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+    "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around"
+  ],
+  "sourceCount": 2,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-11-02T23:28:01.851Z",
+  "updatedAt": "2026-11-02T23:28:01.851Z",
+  "readingMinutes": 3,
+  "facebook": null,
+  "ogImage": "/og/apple-faces-supply-bottlenecks-and-rising-memory-costs-for-new-foldable.jpg"
+}

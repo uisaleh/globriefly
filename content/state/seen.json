@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html": 1793042049715,
-    "https://www.politico.com/video/2026/10/26/the-epstein-election-2211771": 1793042049715,
-    "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html": 1793042066922,
-    "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html": 1793042066922,
-    "https://www.engadget.com/2297175/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees/": 1793042066922,
-    "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible": 1793042066922,
-    "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/": 1793042066922,
-    "https://news.sky.com/story/microsoft-offers-buyouts-to-60000-staff-including-uk-workers-13604076": 1793042066922,
     "https://phys.org/news/2026-10-human-composting.html": 1793058728040,
     "https://www.engadget.com/2294307/how-homeview-apps-work-what-carplay-have-to-do-with-it/": 1793058728040,
     "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas": 1793058734325,
@@ -269,11 +261,18 @@
     "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break?traffic_source=rss": 1793634000858,
     "https://www.scmp.com/news/world/europe/article/3373008/french-school-protests-resume-smaller-scale-holidays-end": 1793634000858,
     "https://www.france24.com/en/france/20261102-french-school-protests-resume-smaller-scale-after-holiday-break": 1793634000858,
-    "https://www.channelnewsasia.com/world/france-school-holidays-end-protests-resume-6512656": 1793634000858
+    "https://www.channelnewsasia.com/world/france-school-holidays-end-protests-resume-6512656": 1793634000858,
+    "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/": 1793662080352,
+    "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints": 1793662080352,
+    "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html": 1793662090652,
+    "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf": 1793662090652,
+    "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots": 1793662090652,
+    "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/": 1793662090652,
+    "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss": 1793662090652,
+    "https://www.scmp.com/news/world/united-states-canada/article/3373041/trump-administration-asks-supreme-court-set-aside-20000-disputed-california-ballots": 1793662090652,
+    "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump": 1793662090652
   },
   "fps": {
-    "attacks-election-emptive-enter-phase-pre-trump": 1793042049715,
-    "000-buyouts-employees-microsoft-offers-spends": 1793042066922,
     "composting-does-how-human-what-work": 1793058728040,
     "ballon-crown-drought-ends-england-harry-kane-putellas": 1793058734325,
     "boelo-issues-leaves-met-office-power-storm-thousands": 1793077131438,
@@ -332,6 +331,8 @@
     "being-communal-global-health-knowledge-matters-pleasure-sexual": 1793598962116,
     "antonelli-champion-history-kimi-makes-youngest": 1793598972501,
     "alaska-blue-ddhq-flip-maine-map-races-senate": 1793633993352,
-    "autumn-break-french-protests-resume-scale-school-smaller": 1793634000858
+    "autumn-break-french-protests-resume-scale-school-smaller": 1793634000858,
+    "apple-constraints-duo-hard-improve-iphone-predict-when": 1793662080352,
+    "ballots-bid-block-california-counting-court-disputed-doj": 1793662090652
   }
 }

@@ -1,23 +1,22 @@
-15:39:43 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-15:39:43 collecting videos…
-15:39:43   video feed BBC News: 15 in feed, 5 kept
-15:39:43   video feed Al Jazeera English: 15 in feed, 5 kept
-15:39:43   video feed DW News: 15 in feed, 5 kept
-15:39:43   video feed FRANCE 24 English: 15 in feed, 5 kept
-15:39:43   video feed Sky News: 15 in feed, 5 kept
-15:39:43   video feed Reuters: 15 in feed, 5 kept
-15:39:43   video feed Associated Press: 15 in feed, 5 kept
-15:39:43 videos: saved 24
-15:39:43 collecting feeds…
-15:39:46 788 new items
-15:39:47 650 candidate stories
-15:39:47 categories needing stories: politics, technology, health, business, sports, world → reserved politics
-15:39:47 writing: Texas, Alaska, Maine Senate races flip blue on DDHQ map (2 sources)
-15:39:48   source text: 0 / 0 chars
-15:39:55   ✓ published: /news/election-forecasters-predict-surprising-democratic-senate-gains-in/ [politics] image: wikimedia via idea "Texas state capitol building"
-15:39:55 writing: French school protests resume on smaller scale after autumn break (4 sources)
-15:39:56   source text: 310 / 2604 / 2823 / 2313 chars
-15:40:02   ✓ published: /news/french-student-protests-return-on-minor-scale-following-school-break/ [world] image: wikimedia via idea "French high school blockade Paris"
-15:40:02 writing explainer for: French school protests resume on smaller scale after autumn break
-15:40:08   ✓ explainer: /news/why-are-french-students-still-protesting/
-15:40:08 done — 2 stories
+23:27:40 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+23:27:40 collecting videos…
+23:27:40   video feed BBC News: 15 in feed, 5 kept
+23:27:41   video feed Al Jazeera English: 15 in feed, 5 kept
+23:27:41   video feed DW News: 15 in feed, 5 kept
+23:27:41   video feed FRANCE 24 English: 15 in feed, 5 kept
+23:27:41   video feed Sky News: 15 in feed, 5 kept
+23:27:41   video feed Reuters: 15 in feed, 5 kept
+23:27:41   video feed Associated Press: 15 in feed, 5 kept
+23:27:41 videos: saved 24
+23:27:41 collecting feeds…
+23:27:46 823 new items
+23:27:48 660 candidate stories
+23:27:48 categories needing stories: technology, health, entertainment, politics, business, sports → reserved technology
+23:27:48 writing: Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve (2 sources)
+23:27:48   source text: 2591 / 2005 chars
+23:27:54   too close to source wording — rewriting
+23:28:03   ✓ published: /news/apple-faces-supply-bottlenecks-and-rising-memory-costs-for-new-foldable/ [technology] image: wikimedia via idea "iPhone Duo foldable smartphone"
+23:28:03 writing: Supreme Court rejects DOJ's bid to block California from counting disputed ballots (7 sources)
+23:28:04   source text: 4438 / 3736 / 3262 chars
+23:28:12   ✓ published: /news/supreme-court-declines-to-block-california-ballot-counting-before/ [politics] image: wikimedia via idea "Supreme Court building Washington DC"
+23:28:12 done — 2 stories
