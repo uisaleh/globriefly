@@ -1,22 +1,24 @@
-23:32:26 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-23:32:26 collecting videos…
-23:32:26   video feed BBC News: 15 in feed, 5 kept
-23:32:26   video feed Al Jazeera English: 15 in feed, 5 kept
-23:32:26   video feed DW News: 15 in feed, 5 kept
-23:32:26   video feed FRANCE 24 English: 15 in feed, 5 kept
-23:32:26   video feed Sky News: 15 in feed, 5 kept
-23:32:26   video feed Reuters: 15 in feed, 5 kept
-23:32:26   video feed Associated Press: 15 in feed, 5 kept
-23:32:26 videos: saved 24
-23:32:26 collecting feeds…
-23:32:29 596 new items
-23:32:29 456 candidate stories
-23:32:29 categories needing stories: business, health, sports, world, politics, technology → reserved business
-23:32:29 writing: Everything changed for the oil, AI and bond trades over the past month (1 sources)
-23:32:30   source text: 7000 chars
-23:32:42   ✓ published: /news/market-shifts-reveal-ai-sector-risk-outweighs-geopolitical-concerns-for/ [business] image: wikimedia via idea "Wall Street stock exchange building"
-23:32:42 writing: France opens 'attempted murder' probe over petrol bomb attacks on security forces (5 sources)
-23:32:42   source text: 4259 / 3164 / 5904 chars
-23:32:52   too close to source wording — rewriting
-23:33:04   ✓ published: /news/french-prosecutors-launch-attempted-murder-inquiry-after-petrol-bombs/ [world] image: wikimedia via idea "French riot police Paris"
-23:33:04 done — 2 stories
+05:54:16 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+05:54:16 collecting videos…
+05:54:42   video feed BBC News failed: Status code 404
+05:54:50   video feed Al Jazeera English: 15 in feed, 5 kept
+05:54:50   video feed DW News: 15 in feed, 5 kept
+05:54:50   video feed FRANCE 24 English: 15 in feed, 5 kept
+05:55:16   video feed Sky News failed: Status code 404
+05:55:42   video feed Reuters failed: Status code 404
+05:55:42   video feed Associated Press: 15 in feed, 5 kept
+05:55:42 videos: saved 24
+05:55:42 collecting feeds…
+05:55:47 506 new items
+05:55:47 391 candidate stories
+05:55:47 categories needing stories: science, health, sports, politics, business, technology, world → reserved science
+05:55:47 writing: Global sexual health: Why communal knowledge about pleasure and well-being matters (1 sources)
+05:55:47   source text: 7000 chars
+05:55:53   too close to source wording — rewriting
+05:56:06   ✓ published: /news/rethinking-international-sexual-health-frameworks/ [science] image: wikimedia via idea "global health research meeting"
+05:56:06 writing: Kimi Antonelli makes history as youngest F1 champion (6 sources)
+05:56:07   source text: 2188 / 2449 / 4471 chars
+05:56:13   ✓ published: /news/kimi-antonelli-makes-history-as-youngest-formula-one-champion-in-mexico/ [sports] image: wikimedia via idea "Kimi Antonelli Formula One"
+05:56:13 writing explainer for: Kimi Antonelli makes history as youngest F1 champion
+05:56:18 writer returned unusable output: { "headline": "How did Kimi Antonelli become Formula One's youngest world champion?", "standfirst": "At just 20 years old, Mercedes driver Kimi Antonelli ma
+05:56:18 done — 2 stories

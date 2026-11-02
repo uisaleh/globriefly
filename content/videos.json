@@ -1,13 +1,29 @@
 {
-  "updatedAt": "2026-11-01T23:32:26.245Z",
+  "updatedAt": "2026-11-02T05:55:42.831Z",
   "videos": [
     {
-      "id": "s7oFDZViy8A",
-      "title": "Nine people dead after Learjet crashes in Florida",
+      "id": "jq0dmFcWOcw",
+      "title": "Alaska Senate Showdown: Trump’s Ballot Controversy Adds Drama to Closely Watched Race",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-02T05:33:27.000Z",
+      "description": "As AP's Haven Daley reports, Alaska’s closely watched Senate race between Democratic challenger Mary Peltola and Republican incumbent Dan Sullivan has drawn national attention following President Trump’s call to prosecut"
+    },
+    {
+      "id": "nvDRYqeRuk4",
+      "title": "Bulgaria has its first elected female president",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T23:25:59.000Z",
-      "description": "A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida. All nine people on board were killed. "
+      "publishedAt": "2026-11-02T04:23:27.000Z",
+      "description": "Iliana Iotova has won Bulgaria’s presidential runoff, becoming the country’s first elected female president. Her victory reinforces Prime Minister Rumen Radev’s political direction, including calls for dialogue with Mosc"
+    },
+    {
+      "id": "_yhexOWXs8w",
+      "title": "Binance resumes withdrawals after the largest crypto heist on record",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-02T03:30:24.000Z",
+      "description": "Binance says customer funds are safe and that it has replenished roughly 95% of the assets stolen in a $6.3 billion hack. The exchange has resumed withdrawals and is publishing a new proof-of-reserves report as scrutiny "
     },
     {
       "id": "O390tDvjSoY",
@@ -18,28 +34,12 @@
       "description": "The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
     },
     {
-      "id": "zKZGnpniYb4",
-      "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T22:56:10.000Z",
-      "description": "Michigan Democrat Haley Stevens, who lost the U.S. Senate primary to Abdul El-Sayed, endorsed Republican Senate nominee Mike Rogers on Sunday, two days before Election Day.\r"
-    },
-    {
       "id": "oKe81VFrc-k",
       "title": "Are ICE raids in Miami turning Latinos against Republicans?| BBC News",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
       "publishedAt": "2026-11-01T21:30:19.000Z",
       "description": "In Florida, immigration enforcement operations have sent shockwaves through the Miami’s large Latino community."
-    },
-    {
-      "id": "JkA6tYvmjus",
-      "title": "The states that may decide Trump's final two years",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T20:39:28.000Z",
-      "description": "More than 52 million Americans have already cast ballots as the race for control of Congress enters its final days. While closely watched contests in states including Alaska, Michigan and Iowa remain in focus, many voter"
     },
     {
       "id": "IwZ173R0NVY",
@@ -58,12 +58,28 @@
       "description": "California voters will decide whether to approve a first-of-its-kind state tax on billionaires, testing public support for a measure aimed at raising revenue from the state's wealthiest residents."
     },
     {
-      "id": "d-3oHiIM96M",
-      "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+      "id": "ekIMl7zcN0Q",
+      "title": "Argentina’s Milei pitches a regulation-free AI haven at the end of the world",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-02T05:32:26.000Z",
+      "description": "Data centers have become one of the world's most polarizing issues, but Argentina's president wants to attract as many as possible. As residents and policymakers in the United States and Europe push back against the faci"
+    },
+    {
+      "id": "9BaTYCGVvu0",
+      "title": "Muhammad Ali’s daughter and grandson endorse El-Sayed",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T21:28:12.000Z",
-      "description": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers in the US Senate contest against her party’s candidate Abdul El-Sayed. Stevens lost to El-Sayed in the Democratic"
+      "publishedAt": "2026-11-02T03:16:31.000Z",
+      "description": "The daughter of the late champion boxer Muhammad Ali, and her son, have endorsed Abdul El-Sayed’s runs for the US Senate at church service in Detroit. Khalilah Ali and her son, Jacob Ali-Wertheimer said El-Sayed is part "
+    },
+    {
+      "id": "hExPp4fUMpQ",
+      "title": "How costly could war be for China?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-02T01:30:19.000Z",
+      "description": "Beijing is spending heavily on its military, in particular in areas that would be required for war with Taiwan. But analysts warn that it would actually be China that could suffer some of the steepest economic losses. Me"
     },
     {
       "id": "nR_y6YCP0vU",
@@ -74,28 +90,12 @@
       "description": "A plane crash in Florida has been caught on a car's dashcam. Nine people died when the jet burst into a huge fireball."
     },
     {
-      "id": "TSlVCKbQp0Q",
-      "title": "Business jet carrying 9 people crashed in a Florida neighborhood, erupting in a massive fireball",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T21:54:14.000Z",
-      "description": "A business jet carrying nine people nose-dived into a South Florida neighborhood Sunday and erupted into a giant fireball that appeared to just miss homes before crashing near a busy roadway, creating a giant fiery crate"
-    },
-    {
       "id": "9eSho5hTbKM",
       "title": "Thousands march to Indian Supreme Court to demand election chief resign.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
       "publishedAt": "2026-11-01T19:00:28.000Z",
       "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
-    },
-    {
-      "id": "aDzYCGeNXEQ",
-      "title": "Sadness and hope at anniversary of Serbia train station collapse",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T20:20:53.000Z",
-      "description": "Thousands of Serbian students and their supporters marked the two-year anniversary of a disaster that sparked protests, a political movement, and the fall of the right-wing government.  Mourners laid wreaths at the site "
     },
     {
       "id": "42zzCCbn1ZE",
@@ -114,12 +114,28 @@
       "description": "An ambitious Indian production may prove that the next global blockbuster could come from one of India's oldest epics."
     },
     {
-      "id": "rZ-0zbbGnLo",
-      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "id": "jF-75ehPzTU",
+      "title": "King Charles and Queen Camilla get caught in heavy rain at Antigua and Barbuda parade",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-02T03:35:25.000Z",
+      "description": "King Charles III and Queen Camilla got caught up in heavy rain as they attended an Independence Day parade in Antigua and Barbuda on Sunday. The country marked 45 years of independence from Britain.\r"
+    },
+    {
+      "id": "AFCynz4icr4",
+      "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T21:27:30.000Z",
-      "description": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the occupied West Bank. The operation began on Friday, October 23, after two Palestinians shot two Israeli soldiers "
+      "publishedAt": "2026-11-02T02:42:32.000Z",
+      "description": "In a dramatic development ahead of the US midterm elections, Democratic Congresswoman Haley Stevens has endorsed Republican Mike Rogers in Michigan's closely contested Senate race, rejecting her party's nominee, Abdul El"
+    },
+    {
+      "id": "pjZpyfXlf2Y",
+      "title": "Jet crashes in Florida neighorbood",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-02T00:10:39.000Z",
+      "description": "A business jet with nine people aboard plunged into a South Florida neighborhood, bursting into flames near a busy road. The crash left a large, fiery crater in the pavement and narrowly missed nearby homes. #dwnews #Flo"
     },
     {
       "id": "CY8bozJtJp4",
@@ -130,28 +146,12 @@
       "description": "Former government adviser Ben Judah has told Sky News that there is \"something wrong\" with the Commonwealth, and that its secretariat is \"not fit for purpose\"."
     },
     {
-      "id": "RzJFiu-mBrg",
-      "title": "The wedding can wait. The AP Top 25 can't.",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T19:12:31.000Z",
-      "description": "AP's Maura Carey should be on her way to her wedding, but she's locked in on the AP's Top 25! College football is so here!"
-    },
-    {
       "id": "odu797q0d3c",
       "title": "Why is the UK Prime Minister saying he's open to a slavery apology?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
       "publishedAt": "2026-11-01T18:00:15.000Z",
       "description": "Before King Charles's Caribbean tour, Buckingham Palace said the he would not shy away from the impact of the slave trade but, in line with the UK government position, would not apologise for Britain's role in the slave "
-    },
-    {
-      "id": "45L4wQzhy3Y",
-      "title": "What the Democrats aren't talking about",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-01T19:00:26.000Z",
-      "description": "The Democrats are being hush hush about the climate on their midterm campaign trail. What’s behind this strategy? "
     },
     {
       "id": "cf1RgDtACHM",
@@ -170,28 +170,28 @@
       "description": "London put medieval fanfare on display, with two armor-clad knights jousting in front of hundreds of revelers. There was one modern twist: They traded noble steeds for e-bikes."
     },
     {
-      "id": "213bKz52lzc",
-      "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-01T20:46:54.000Z",
-      "description": "Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir Sheikh Tamim bin Hamad Al Thani. Director General Sheikh Nasser bin Faisal Al Thani called for renewal, t"
-    },
-    {
-      "id": "Hp8aaebi8j0",
-      "title": "The school that started a movement",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-01T17:37:31.000Z",
-      "description": "France has seen weeks of protests, violent clashes with police and thousands of arrests across the country. "
-    },
-    {
-      "id": "JXfUUC5_t2A",
-      "title": "India’s opposition parties renew calls for the resignation of the country’s election chief",
+      "id": "vruhXdirOGs",
+      "title": "How did a 20-year-old become F1’s youngest world champion?",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-01T16:44:08.000Z",
-      "description": "India’s opposition parties renew calls for the resignation of the country’s election chief\r"
+      "publishedAt": "2026-11-02T01:27:01.000Z",
+      "description": "Kimi Antonelli went from a rookie facing questions about his readiness for Formula 1 to becoming the sport’s youngest world champion at 20. So what changed — and how did he pull it off?"
+    },
+    {
+      "id": "d-3oHiIM96M",
+      "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-01T21:28:12.000Z",
+      "description": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers in the US Senate contest against her party’s candidate Abdul El-Sayed. Stevens lost to El-Sayed in the Democratic"
+    },
+    {
+      "id": "JkA6tYvmjus",
+      "title": "The states that may decide Trump's final two years",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-01T20:39:28.000Z",
+      "description": "More than 52 million Americans have already cast ballots as the race for control of Congress enters its final days. While closely watched contests in states including Alaska, Michigan and Iowa remain in focus, many voter"
     }
   ]
 }
