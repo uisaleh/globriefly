@@ -100,6 +100,9 @@
   "publishedAt": "2026-11-02T23:28:01.851Z",
   "updatedAt": "2026-11-02T23:28:01.851Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173433564681745",
+    "sharedAt": "2026-11-02T23:31:26.111Z"
+  },
   "ogImage": "/og/apple-faces-supply-bottlenecks-and-rising-memory-costs-for-new-foldable.jpg"
 }
