@@ -1,0 +1,123 @@
+{
+  "slug": "why-are-french-students-still-protesting",
+  "status": "published",
+  "type": "explainer",
+  "category": "world",
+  "region": "Europe",
+  "headline": "Why are French students still protesting?",
+  "standfirst": "French high school students have resumed school blockades and protests, arguing that recent government concessions on education and the cost of living do not go far enough.",
+  "keyPoints": [
+    "High school students in France have resumed blockades following a two-week holiday break.",
+    "The Education Ministry reported that roughly 41 schools, or one percent of the national total, were blockaded.",
+    "Students are demanding better school facilities, more teachers, and changes to the university admissions system.",
+    "The government recently pledged billions for school renovations and capped class sizes, but student unions say it is insufficient."
+  ],
+  "sections": [
+    {
+      "heading": "What is happening in French schools?",
+      "paragraphs": [
+        "High school students across France have returned from their two-week autumn holiday break to resume nationwide protests and school blockades. While hundreds of schools were disrupted in the weeks leading up to the holiday, the renewed demonstrations have started on a much smaller scale.",
+        "According to the French Ministry of Education, approximately 41 high schools—roughly one percent of the country's total—faced blockades on Monday. Students attempted to block access using items like garbage bins in cities including Paris, Marseille, and Rennes, though authorities noted that the overall turnout was currently marginal compared to previous weeks."
+      ]
+    },
+    {
+      "heading": "Why did the protests begin?",
+      "paragraphs": [
+        "The student movement originally started in the Paris suburbs back in September, driven by deep-seated frustrations over learning conditions. Teenagers called for the renovation of ageing school buildings, the hiring of more teachers, and an end to a university admissions system that many view as socially unfair.",
+        "As the weeks went on, the grievances quickly expanded beyond the classroom. Amid broader economic pressures and the rising cost of living, trade unionists and activists joined the rallies. In October, some of these demonstrations escalated into violent clashes with police and property damage in several major cities, posing a significant challenge to President Emmanuel Macron's minority government."
+      ]
+    },
+    {
+      "heading": "How has the government responded?",
+      "paragraphs": [
+        "In an effort to defuse the growing crisis, the French government announced a series of major concessions during the school break. Officials promised to phase out the controversial Parcoursup university admissions platform by 2028, cancel planned job cuts in the education sector, and create thousands of new higher education places.",
+        "Additionally, the administration pledged four billion euros to renovate dilapidated schools and placed a cap of 28 pupils per class in the first year of high school. Education Minister Edouard Geffray urged students to return to their classrooms, warning that continued disruptions jeopardize the academic futures of hundreds of thousands of young people."
+      ]
+    },
+    {
+      "heading": "What happens next?",
+      "paragraphs": [
+        "Despite the costly package of reforms, student representatives and youth unions have dismissed the government's offers as insufficient. Prominent student organizations have already called for further blockades and disruptions throughout the week, signaling that the standoff is far from over.",
+        "With France facing severe economic constraints and mounting public debt, the government has limited financial room to maneuver. As student groups press forward with their demands, the coming days will test whether the authorities can restore calm to the country's education system or face a renewed wave of nationwide unrest."
+      ]
+    }
+  ],
+  "highlight": "The protests began in the Paris suburbs in September and spread across France.",
+  "timeline": [
+    {
+      "when": "September 2026",
+      "what": "High school students launch nationwide demonstrations over learning conditions in the Paris suburbs."
+    },
+    {
+      "when": "October 2026",
+      "what": "Protests expand to include cost-of-living issues, drawing in trade unions and occasionally turning violent."
+    },
+    {
+      "when": "Late October 2026",
+      "what": "The government announces billions in school funding and university admissions reforms during the holiday break."
+    },
+    {
+      "when": "November 2026",
+      "what": "Students return from holidays and resume blockades on a smaller scale, rejecting government offers."
+    }
+  ],
+  "tags": [
+    "France",
+    "protests",
+    "education",
+    "students",
+    "Emmanuel Macron"
+  ],
+  "socialSummary": "French students resume school blockades after a holiday break, demanding more government action on education and living costs.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2026_high_school_student_movement_and_blockades_at_Jules_Ferry_High_School_in_Paris_%E2%80%94_24.jpg/1920px-2026_high_school_student_movement_and_blockades_at_Jules_Ferry_High_School_in_Paris_%E2%80%94_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "2026 high school student movement and blockades at Jules Ferry High School in Paris",
+    "credit": "Wyslijp16 / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:2026_high_school_student_movement_and_blockades_at_Jules_Ferry_High_School_in_Paris_%E2%80%94_24.jpg",
+    "license": "CC BY 4.0",
+    "provider": "wikimedia",
+    "query": "French high school protest",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "French high school protest",
+    "names": [
+      "Emmanuel Macron",
+      "Edouard Geffray"
+    ],
+    "subject": "high school students protesting"
+  },
+  "sources": [
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/video/20261102-french-school-protests-resume-on-smaller-scale-after-autumn-break"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break?traffic_source=rss"
+    },
+    {
+      "name": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/europe/article/3373008/french-school-protests-resume-smaller-scale-holidays-end"
+    },
+    {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/world/france-school-holidays-end-protests-resume-6512656"
+    }
+  ],
+  "sourceTitles": [
+    "French school protests resume on smaller scale after autumn break",
+    "French school protests resume on small scale as students return from break",
+    "French school protests resume on smaller scale as holidays end",
+    "French school protests resume on smaller scale after holiday break",
+    "Limited French school protests resume as holidays end"
+  ],
+  "sourceCount": 4,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-11-02T15:40:08.080Z",
+  "updatedAt": "2026-11-02T15:40:08.080Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-are-french-students-still-protesting.jpg"
+}

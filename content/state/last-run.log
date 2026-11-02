@@ -1,24 +1,23 @@
-05:54:16 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-05:54:16 collecting videos…
-05:54:42   video feed BBC News failed: Status code 404
-05:54:50   video feed Al Jazeera English: 15 in feed, 5 kept
-05:54:50   video feed DW News: 15 in feed, 5 kept
-05:54:50   video feed FRANCE 24 English: 15 in feed, 5 kept
-05:55:16   video feed Sky News failed: Status code 404
-05:55:42   video feed Reuters failed: Status code 404
-05:55:42   video feed Associated Press: 15 in feed, 5 kept
-05:55:42 videos: saved 24
-05:55:42 collecting feeds…
-05:55:47 506 new items
-05:55:47 391 candidate stories
-05:55:47 categories needing stories: science, health, sports, politics, business, technology, world → reserved science
-05:55:47 writing: Global sexual health: Why communal knowledge about pleasure and well-being matters (1 sources)
-05:55:47   source text: 7000 chars
-05:55:53   too close to source wording — rewriting
-05:56:06   ✓ published: /news/rethinking-international-sexual-health-frameworks/ [science] image: wikimedia via idea "global health research meeting"
-05:56:06 writing: Kimi Antonelli makes history as youngest F1 champion (6 sources)
-05:56:07   source text: 2188 / 2449 / 4471 chars
-05:56:13   ✓ published: /news/kimi-antonelli-makes-history-as-youngest-formula-one-champion-in-mexico/ [sports] image: wikimedia via idea "Kimi Antonelli Formula One"
-05:56:13 writing explainer for: Kimi Antonelli makes history as youngest F1 champion
-05:56:18 writer returned unusable output: { "headline": "How did Kimi Antonelli become Formula One's youngest world champion?", "standfirst": "At just 20 years old, Mercedes driver Kimi Antonelli ma
-05:56:18 done — 2 stories
+15:39:43 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+15:39:43 collecting videos…
+15:39:43   video feed BBC News: 15 in feed, 5 kept
+15:39:43   video feed Al Jazeera English: 15 in feed, 5 kept
+15:39:43   video feed DW News: 15 in feed, 5 kept
+15:39:43   video feed FRANCE 24 English: 15 in feed, 5 kept
+15:39:43   video feed Sky News: 15 in feed, 5 kept
+15:39:43   video feed Reuters: 15 in feed, 5 kept
+15:39:43   video feed Associated Press: 15 in feed, 5 kept
+15:39:43 videos: saved 24
+15:39:43 collecting feeds…
+15:39:46 788 new items
+15:39:47 650 candidate stories
+15:39:47 categories needing stories: politics, technology, health, business, sports, world → reserved politics
+15:39:47 writing: Texas, Alaska, Maine Senate races flip blue on DDHQ map (2 sources)
+15:39:48   source text: 0 / 0 chars
+15:39:55   ✓ published: /news/election-forecasters-predict-surprising-democratic-senate-gains-in/ [politics] image: wikimedia via idea "Texas state capitol building"
+15:39:55 writing: French school protests resume on smaller scale after autumn break (4 sources)
+15:39:56   source text: 310 / 2604 / 2823 / 2313 chars
+15:40:02   ✓ published: /news/french-student-protests-return-on-minor-scale-following-school-break/ [world] image: wikimedia via idea "French high school blockade Paris"
+15:40:02 writing explainer for: French school protests resume on smaller scale after autumn break
+15:40:08   ✓ explainer: /news/why-are-french-students-still-protesting/
+15:40:08 done — 2 stories
