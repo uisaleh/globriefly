@@ -93,6 +93,9 @@
   "publishedAt": "2026-11-02T05:56:05.784Z",
   "updatedAt": "2026-11-02T05:56:05.784Z",
   "readingMinutes": 5,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173386794681745",
+    "sharedAt": "2026-11-02T05:59:28.685Z"
+  },
   "ogImage": "/og/rethinking-international-sexual-health-frameworks.jpg"
 }
