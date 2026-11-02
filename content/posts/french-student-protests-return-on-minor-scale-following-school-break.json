@@ -110,6 +110,9 @@
   "publishedAt": "2026-11-02T15:40:01.891Z",
   "updatedAt": "2026-11-02T15:40:01.891Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173413674681745",
+    "sharedAt": "2026-11-02T15:43:39.407Z"
+  },
   "ogImage": "/og/french-student-protests-return-on-minor-scale-following-school-break.jpg"
 }
