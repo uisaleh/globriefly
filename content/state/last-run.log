@@ -1,22 +1,25 @@
-23:27:40 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-23:27:40 collecting videos…
-23:27:40   video feed BBC News: 15 in feed, 5 kept
-23:27:41   video feed Al Jazeera English: 15 in feed, 5 kept
-23:27:41   video feed DW News: 15 in feed, 5 kept
-23:27:41   video feed FRANCE 24 English: 15 in feed, 5 kept
-23:27:41   video feed Sky News: 15 in feed, 5 kept
-23:27:41   video feed Reuters: 15 in feed, 5 kept
-23:27:41   video feed Associated Press: 15 in feed, 5 kept
-23:27:41 videos: saved 24
-23:27:41 collecting feeds…
-23:27:46 823 new items
-23:27:48 660 candidate stories
-23:27:48 categories needing stories: technology, health, entertainment, politics, business, sports → reserved technology
-23:27:48 writing: Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve (2 sources)
-23:27:48   source text: 2591 / 2005 chars
-23:27:54   too close to source wording — rewriting
-23:28:03   ✓ published: /news/apple-faces-supply-bottlenecks-and-rising-memory-costs-for-new-foldable/ [technology] image: wikimedia via idea "iPhone Duo foldable smartphone"
-23:28:03 writing: Supreme Court rejects DOJ's bid to block California from counting disputed ballots (7 sources)
-23:28:04   source text: 4438 / 3736 / 3262 chars
-23:28:12   ✓ published: /news/supreme-court-declines-to-block-california-ballot-counting-before/ [politics] image: wikimedia via idea "Supreme Court building Washington DC"
-23:28:12 done — 2 stories
+06:39:38 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+06:39:38 collecting videos…
+06:40:04   video feed BBC News failed: Status code 404
+06:40:30   video feed Al Jazeera English failed: Status code 404
+06:40:55   video feed DW News failed: Status code 404
+06:41:21   video feed FRANCE 24 English failed: Status code 404
+06:41:47   video feed Sky News failed: Status code 404
+06:42:08 videos: saved 24
+06:42:08 collecting feeds…
+06:42:11 697 new items
+06:42:12 544 candidate stories
+06:42:12 categories needing stories: business, science, health, sports, entertainment, technology, world → reserved business
+06:42:12 writing: Martha Stewart Apologizes for Homeless Halloween Costume (2 sources)
+06:42:13   video feed Reuters failed: Status code 404
+06:42:13   source text: 2355 / 0 chars
+06:42:18   too close to source wording — rewriting
+06:42:36   ✓ published: /news/martha-stewart-issues-apology-after-controversial-halloween-attire/ [business] image: wikimedia via name "Martha Stewart"
+06:42:36 writing: US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal (6 sources)
+06:42:37   source text: 3324 / 2739 / 1740 chars
+06:42:39   video feed Associated Press failed: Status code 404
+06:42:42   too close to source wording — rewriting
+06:42:49   ✓ published: /news/united-states-military-carries-out-tactical-strikes-against-qeshm-island/ [world] image: wikimedia via idea "Qeshm Island Iran landscape"
+06:42:50 writing explainer for: US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal
+06:42:56   ✓ explainer: /news/why-did-the-us-just-strike-iran-while-talking-peace/
+06:42:56 done — 2 stories
