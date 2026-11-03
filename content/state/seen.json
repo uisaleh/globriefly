@@ -1,11 +1,5 @@
 {
   "urls": {
-    "https://medicalxpress.com/news/2026-10-amygdala-images-memories.html": 1793096951420,
-    "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html": 1793096972832,
-    "https://abcnews.com/International/wireStory/local-ceasefire-brokered-melania-trump-starts-southern-ukraine-137590102": 1793096972832,
-    "https://www.scmp.com/news/world/europe/article/3372265/ceasefire-brokered-melania-trump-begins-russian-occupied-ukrainian-town": 1793096972832,
-    "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war": 1793096972832,
-    "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece": 1793096972832,
     "https://www.france24.com/en/africa/20261027-africa-ebola-outbreak-tops-10-000-cases-mainly-dr-congo": 1793118761215,
     "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss": 1793118761215,
     "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-rdf": 1793118761215,
@@ -253,11 +247,19 @@
     "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html": 1793688169047,
     "https://www.euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections": 1793688169047,
     "https://news.sky.com/story/us-carries-out-limited-strikes-on-qeshm-island-in-iran-13607337": 1793688169047,
-    "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks": 1793688169047
+    "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks": 1793688169047,
+    "https://phys.org/news/2026-11-evolution-forest-lizards-reveal-rapid.html": 1793718193979,
+    "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss": 1793718193979,
+    "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting": 1793718296231,
+    "https://www.france24.com/en/video/20261103-us-midterm-elections-a-referendum-on-president-donald-trump": 1793718296231,
+    "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece": 1793718296231,
+    "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss": 1793718296231,
+    "https://www.dw.com/en/us-midterms-americans-vote-in-polls-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf": 1793718296231,
+    "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-elections-live-polls-due-to-open-in-test-for-trump?traffic_source=rss": 1793718296231,
+    "https://www.euronews.com/2026/11/03/us-midterm-elections-results-2026-live-updates-in-maps-and-charts": 1793718296231,
+    "https://www.thehindu.com/news/international/us-votes-for-mid-term-elections-seen-as-referendum-on-trump/article71659267.ece": 1793718296231
   },
   "fps": {
-    "activity-amygdala-become-images-lasting-may-memories-predicts": 1793096951420,
-    "attacks-begins-brokered-ceasefire-continues-local-melania-russia": 1793096972832,
     "000-africa-cases-congo-ebola-mainly-outbreak-tops": 1793118761215,
     "anthropic-business-ipo-risky": 1793118785511,
     "adds-audio-genie-google-model-real-realistic-steering": 1793135773579,
@@ -313,6 +315,8 @@
     "apple-constraints-duo-hard-improve-iphone-predict-when": 1793662080352,
     "ballots-bid-block-california-counting-court-disputed-doj": 1793662090652,
     "apologizes-costume-halloween-homeless-martha-stewart": 1793688145809,
-    "deal-iran-island-optimism-qeshm-reportedly-strikes-vance": 1793688169047
+    "deal-iran-island-optimism-qeshm-reportedly-strikes-vance": 1793688169047,
+    "act-adaptation-evolution-forest-lizards-rapid-reveal-warming": 1793718193979,
+    "2026-agenda-americans-elections-live-midterm-polls-referendum": 1793718296231
   }
 }

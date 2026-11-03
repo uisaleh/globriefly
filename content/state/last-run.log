@@ -1,25 +1,27 @@
-06:39:38 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-06:39:38 collecting videos…
-06:40:04   video feed BBC News failed: Status code 404
-06:40:30   video feed Al Jazeera English failed: Status code 404
-06:40:55   video feed DW News failed: Status code 404
-06:41:21   video feed FRANCE 24 English failed: Status code 404
-06:41:47   video feed Sky News failed: Status code 404
-06:42:08 videos: saved 24
-06:42:08 collecting feeds…
-06:42:11 697 new items
-06:42:12 544 candidate stories
-06:42:12 categories needing stories: business, science, health, sports, entertainment, technology, world → reserved business
-06:42:12 writing: Martha Stewart Apologizes for Homeless Halloween Costume (2 sources)
-06:42:13   video feed Reuters failed: Status code 404
-06:42:13   source text: 2355 / 0 chars
-06:42:18   too close to source wording — rewriting
-06:42:36   ✓ published: /news/martha-stewart-issues-apology-after-controversial-halloween-attire/ [business] image: wikimedia via name "Martha Stewart"
-06:42:36 writing: US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal (6 sources)
-06:42:37   source text: 3324 / 2739 / 1740 chars
-06:42:39   video feed Associated Press failed: Status code 404
-06:42:42   too close to source wording — rewriting
-06:42:49   ✓ published: /news/united-states-military-carries-out-tactical-strikes-against-qeshm-island/ [world] image: wikimedia via idea "Qeshm Island Iran landscape"
-06:42:50 writing explainer for: US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal
-06:42:56   ✓ explainer: /news/why-did-the-us-just-strike-iran-while-talking-peace/
-06:42:56 done — 2 stories
+15:02:14 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+15:02:14 collecting videos…
+15:02:14   video feed BBC News: 15 in feed, 5 kept
+15:02:14   video feed Al Jazeera English: 15 in feed, 5 kept
+15:02:14   video feed DW News: 15 in feed, 5 kept
+15:02:15   video feed FRANCE 24 English: 15 in feed, 5 kept
+15:02:15   video feed Sky News: 15 in feed, 5 kept
+15:02:15   video feed Reuters: 15 in feed, 5 kept
+15:02:15   video feed Associated Press: 15 in feed, 5 kept
+15:02:15 videos: saved 24
+15:02:15 collecting feeds…
+15:02:19 805 new items
+15:02:20 638 candidate stories
+15:02:20 categories needing stories: science, health, sports, entertainment, business, technology → reserved science
+15:02:20 writing: 'Evolution in the act': Forest lizards reveal rapid adaptation in a warming world (2 sources)
+15:02:21   source text: 7000 / 1348 chars
+15:02:48   too close to source wording — rewriting
+15:03:29 image source error: The operation was aborted due to timeout
+15:03:45 image source error: The operation was aborted due to timeout
+15:04:01 image source error: The operation was aborted due to timeout
+15:04:17 image source error: The operation was aborted due to timeout
+15:04:20   ✓ published: /news/caribbean-lizards-display-swift-biological-adaptation-to-global/ [science] image: wikimedia via subject "forest lizard on a tree branch"
+15:04:20 writing: US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda (6 sources)
+15:04:22   source text: 7000 / 351 / 7000 / 2639 chars
+15:04:56 writer returned unusable output: { "headline": "Americans cast ballots in crucial midterm elections testing Trump presidency", "standfirst": "Voters across the United States head to the pol
+15:04:56   skipped
+15:04:56 done — 1 stories
