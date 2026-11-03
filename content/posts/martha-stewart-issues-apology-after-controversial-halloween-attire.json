@@ -96,6 +96,9 @@
   "publishedAt": "2026-11-03T06:42:34.818Z",
   "updatedAt": "2026-11-03T06:42:34.818Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173465490681745",
+    "sharedAt": "2026-11-03T06:46:12.544Z"
+  },
   "ogImage": "/og/martha-stewart-issues-apology-after-controversial-halloween-attire.jpg"
 }
