@@ -1,27 +1,22 @@
-15:02:14 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-15:02:14 collecting videos…
-15:02:14   video feed BBC News: 15 in feed, 5 kept
-15:02:14   video feed Al Jazeera English: 15 in feed, 5 kept
-15:02:14   video feed DW News: 15 in feed, 5 kept
-15:02:15   video feed FRANCE 24 English: 15 in feed, 5 kept
-15:02:15   video feed Sky News: 15 in feed, 5 kept
-15:02:15   video feed Reuters: 15 in feed, 5 kept
-15:02:15   video feed Associated Press: 15 in feed, 5 kept
-15:02:15 videos: saved 24
-15:02:15 collecting feeds…
-15:02:19 805 new items
-15:02:20 638 candidate stories
-15:02:20 categories needing stories: science, health, sports, entertainment, business, technology → reserved science
-15:02:20 writing: 'Evolution in the act': Forest lizards reveal rapid adaptation in a warming world (2 sources)
-15:02:21   source text: 7000 / 1348 chars
-15:02:48   too close to source wording — rewriting
-15:03:29 image source error: The operation was aborted due to timeout
-15:03:45 image source error: The operation was aborted due to timeout
-15:04:01 image source error: The operation was aborted due to timeout
-15:04:17 image source error: The operation was aborted due to timeout
-15:04:20   ✓ published: /news/caribbean-lizards-display-swift-biological-adaptation-to-global/ [science] image: wikimedia via subject "forest lizard on a tree branch"
-15:04:20 writing: US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda (6 sources)
-15:04:22   source text: 7000 / 351 / 7000 / 2639 chars
-15:04:56 writer returned unusable output: { "headline": "Americans cast ballots in crucial midterm elections testing Trump presidency", "standfirst": "Voters across the United States head to the pol
-15:04:56   skipped
-15:04:56 done — 1 stories
+20:56:59 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+20:56:59 collecting videos…
+20:56:59   video feed BBC News: 15 in feed, 5 kept
+20:56:59   video feed Al Jazeera English: 15 in feed, 5 kept
+20:56:59   video feed DW News: 15 in feed, 5 kept
+20:56:59   video feed FRANCE 24 English: 15 in feed, 5 kept
+20:56:59   video feed Sky News: 15 in feed, 5 kept
+20:56:59   video feed Reuters: 15 in feed, 5 kept
+20:56:59   video feed Associated Press: 15 in feed, 5 kept
+20:56:59 videos: saved 24
+20:56:59 collecting feeds…
+20:57:04 885 new items
+20:57:06 650 candidate stories
+20:57:06 categories needing stories: health, sports, entertainment, politics, business, technology, world → reserved health
+20:57:06 writing: Child Dies From Measles in New York State’s First Fatal Case in 30 Years (3 sources)
+20:57:06   source text: 0 / 5300 / 1297 chars
+20:57:12   too close to source wording — rewriting
+20:57:21   ✓ published: /news/new-york-reports-first-fatal-measles-case-in-three-decades-amid/ [health] image: wikimedia via idea "New York State Capitol building"
+20:57:21 writing: Tech Life (8 sources)
+20:57:21   source text: 1144 / 6403 / 7000 chars
+20:57:28   ✓ published: /news/independent-journalists-face-social-media-copyright-strikes-over/ [world] image: wikimedia via idea "Silhouette of a man on a phone"
+20:57:28 done — 2 stories

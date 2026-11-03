@@ -1,29 +1,117 @@
 {
-  "updatedAt": "2026-11-03T15:02:15.447Z",
+  "updatedAt": "2026-11-03T20:56:59.419Z",
   "videos": [
     {
-      "id": "X-awvdPHnaw",
-      "title": "US midterm voting begins in high-stakes test of Trump’s presidency",
+      "id": "mEwra5b-ptg",
+      "title": "Louis thought he'd won a holiday. Now he's in a Turkish prison",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-03T20:45:34.000Z",
+      "description": "Warning: This story contains references to suicide."
+    },
+    {
+      "id": "UKXKicCVds0",
+      "title": "Candidates make final push as US midterm voters head to polls",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-03T14:40:59.000Z",
-      "description": "Voting is under way across the US in midterm elections that could strip Donald Trump’s Republicans of control of Congress. All House seats and 35 Senate seats are being contested, with rising living costs and the war on "
+      "publishedAt": "2026-11-03T20:39:39.000Z",
+      "description": "US candidates across the country are casting their ballots and making final appeals to voters, joining other Americans at the polls in midterm elections which will decide which party controls Congress. "
     },
     {
-      "id": "3rBq97Bcf9o",
-      "title": "Indian tourist dies after helicopters collide near Everest base camp.",
+      "id": "LSuFR21SeXI",
+      "title": "Voters share why and who they are voting for in the midterm election",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-03T20:36:04.000Z",
+      "description": "Election Day is here. Voters nationwide will decide control of the U.S. House and Senate. "
+    },
+    {
+      "id": "iqlDOcWqulo",
+      "title": "'Hoax' bomb threats trigger flight disruptions across Europe",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-03T20:30:37.000Z",
+      "description": "At least seven flights across Europe received bomb threats, prompting diversions, searches and an Italian Air Force escort."
+    },
+    {
+      "id": "y-yI5fVxRMw",
+      "title": "Epilepsy drug users say they were not warned of possible birth defects.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-03T14:30:25.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+      "publishedAt": "2026-11-03T20:30:22.000Z",
+      "description": ""
     },
     {
-      "id": "3qNyXwKOYpk",
-      "title": "2026 Prix Goncourt: France's prestigious literary prize awarded to Philippe Jaenada • FRANCE 24",
+      "id": "JaIt9AxNHA0",
+      "title": "Can Democrats win back Congress as voters judge Trump’s second term?",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-03T20:00:32.000Z",
+      "description": "Americans head to the polls to vote in the US midterms, with control of Congress on the line. King Charles addresses the UK's legacy of slavery, but stops short of an apology or reparations. President Donald Trump says t"
+    },
+    {
+      "id": "G_FXu80OTf4",
+      "title": "Democrats eye gains in US midterm elections • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-03T14:21:06.000Z",
-      "description": "France’s prestigious literary prize “The Goncourt” was awarded on Monday to writer Philippe Jaenada. The prize carries a symbolic reward of only 10 euros, but results in considerable recognition and book sales for the wi"
+      "publishedAt": "2026-11-03T19:17:42.000Z",
+      "description": "Will it be a trickle, a wave, or a tsunami? Election Day in the United States with Democrats hoping to take back one or both houses of Congress. We’ll track the turnout, gauge the mood and raise the curtain ahead of Midt"
+    },
+    {
+      "id": "zC5s9yaaAE0",
+      "title": "Autistic man jailed in Turkey says he was tricked into drug trafficking",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-03T15:46:33.000Z",
+      "description": "The UK Tonight with Sarah-Jane Mee will dig into the issues people across the country are talking about and explain and analyse the news stories they need to know in a dynamic hour of domestic news."
+    },
+    {
+      "id": "-MB-0Bawugk",
+      "title": "AI data centre divides Trump voters in pivotal North Carolina race",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-03T20:30:17.000Z",
+      "description": "North Carolina has a pivotal Senate race that could help determine control in Washington. "
+    },
+    {
+      "id": "xgCV6HQjvM0",
+      "title": "Vivek Ramaswamy and Amy Acton cast their votes in Ohio",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-03T19:05:37.000Z",
+      "description": "Ohio gubernatorial candidates Vivek Ramaswamy and Amy Acton cast their votes in Columbus on Tuesday, as they attempt to succeed a term-limited sitting governor who’s spent five decades in politics."
+    },
+    {
+      "id": "zxirloFtHJY",
+      "title": "Zelenskyy and Merz discuss Ukraine support after deadly Russian attack",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-03T19:34:47.000Z",
+      "description": "Ukrainian President Volodymyr Zelenskyy has condemned a Russian attack on an aid center in southern Ukraine that reportedly killed 31 people."
+    },
+    {
+      "id": "FLhdnCAbqAE",
+      "title": "Is the draft UK-EU deal to scrap red tape the biggest Brexit reset yet?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-03T20:00:00.000Z",
+      "description": "Today, the UK and EU have agreed a draft deal on removing post-Brexit checks ahead of the UK-EU summit later this month. "
+    },
+    {
+      "id": "biuOQ1JwFu0",
+      "title": "On Ebola's frontline, survivors offer friendship to sick children",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-03T19:50:29.000Z",
+      "description": "Jerkis Mahamba is one of a growing number of Ebola survivors in Congo who, with immunity from the strain currently spreading through eastern Democratic Republic of Congo, found a calling at the bedside of sick children b"
+    },
+    {
+      "id": "Ep_u8ocqtos",
+      "title": "Culture critics : Philippe Jaenada wins Goncourt Prize • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-03T18:18:35.000Z",
+      "description": "Olivia Salazar-Winspear tells us more about 2026 Goncourt Prize \"L'inconnue du quai de Javel\" by Philippe Jaenada. The french novel is about a murder set in 1949."
     },
     {
       "id": "Wpj0OpnmiWU",
@@ -34,124 +122,12 @@
       "description": "Ukrainian President Volodymyr Zelenskyy holds a news conference during his diplomatic visit to Germany. "
     },
     {
-      "id": "oczQomgrJJY",
-      "title": "Tech Weekly: Further fridge attacks, North Korea denies crypto heist",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-03T13:57:35.000Z",
-      "description": "Cyberattacks caused fridges and freezers to malfunction across European supermarkets and North Korea rejected allegations it was behind the crypto heist that stole $6.3 billion from Binance. Here's this week's top storie"
-    },
-    {
-      "id": "KRx0y8KcLjw",
-      "title": "US midterm elections underway as voters head to the polls across several states",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-03T12:58:26.000Z",
-      "description": "Polling stations have opened across several states in the United States as the midterm elections get underway. Voting is taking place in Florida, North Carolina, Philadelphia and New York, with voters heading to the poll"
-    },
-    {
-      "id": "TXStQ3MFod4",
-      "title": "Does it still make sense to learn a new language in the age of AI?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-03T12:00:21.000Z",
-      "description": "With the rapid advancement in AI translation technology, some linguists predict that human interpreters may soon be obsolete. Does that mean learning a foreign language now is a waste of time? DW's Amien Essif spoke to p"
-    },
-    {
-      "id": "cR80Sz-y3a8",
-      "title": "Qatar working to bridge the gap between US, Iran as talks continue",
+      "id": "68G7D6417Cw",
+      "title": "Attack ad sparks cross-party outrage in Ohio governor race",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-03T14:30:43.000Z",
-      "description": "Diplomatic efforts to end the war between the US and Iran are continuing. "
-    },
-    {
-      "id": "NqtdtZ1B3Wk",
-      "title": "Why are US elections always on a Tuesday?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-03T13:30:02.000Z",
-      "description": ""
-    },
-    {
-      "id": "yW5bqzmO8e8",
-      "title": "Americans vote in key midterms set to upend Trump presidency • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-03T14:18:42.000Z",
-      "description": "Americans voted on Tuesday in pivotal midterm elections with Democrats hoping to seize control of Congress and impose the first significant checks on Donald Trump's chaotic second term in the White House. Republicans los"
-    },
-    {
-      "id": "pQSpmltbOkQ",
-      "title": "King expresses ‘personal sorrow’ over slave trade",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-03T12:44:02.000Z",
-      "description": "The King delivers a speech in Antigua and Barbuda amid increasing pressure for Britain to offer an apology over its role in the transatlantic slave trade."
-    },
-    {
-      "id": "p9jylwQwouE",
-      "title": "Key number as midterm election results emerge",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-03T13:30:23.000Z",
-      "description": "In both the US Senate and House of Representatives, Democrats need a net gain of four seats to take back control of both chambers. White House Correspondent Bo Erickson walks through the balance of power on election day."
-    },
-    {
-      "id": "5B4dORVIvp4",
-      "title": "Election 2026: LIVE voting across the US",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-03T08:30:06.000Z",
-      "description": "Watch live as voters cast their ballots on Election Day 2026. Democrats seek to reclaim majorities in both the House and Senate while Republicans hope to keep control of Congress."
-    },
-    {
-      "id": "G85gh5wHzuA",
-      "title": "Sugar tax on soft drinks: Can it cut sugar consumption?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-03T10:45:42.000Z",
-      "description": "The UK experience suggests a sugar tax can push manufacturers to reduce sugar levels. Germany is now weighing a similar measure for soft drinks."
-    },
-    {
-      "id": "Fk517qpR91s",
-      "title": "Qatar remains hopeful the US and Iran can reach a deal",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-03T14:02:34.000Z",
-      "description": "Qatar’s foreign ministry spokesperson Majed al-Ansari says regional neighbours and international partners are working together to secure a deal between the US and Iran, affirming that both sides remain committed to reach"
-    },
-    {
-      "id": "TgXiuGKNlnw",
-      "title": "We travelled with Yemen's Southern Forces to the frontline",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-03T12:31:36.000Z",
-      "description": "In Yemen, a long-running civil war has flared up again."
-    },
-    {
-      "id": "pIqH3DMZVvU",
-      "title": "Israeli opposition leaders vow to remove Netanyahu quickly but path unclear • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-03T14:16:59.000Z",
-      "description": "The Israeli opposition bloc led by Gadi Eisenkot pledged Tuesday to form a government quickly to oust Prime Minister Benjamin Netanyahu but remained unclear on how, with divisions over whether to ally with Arab lawmakers"
-    },
-    {
-      "id": "_V8f1uTdyz8",
-      "title": "Funeral mass of Irish Olympian Ciara Mageean",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-03T12:20:21.000Z",
-      "description": "Watch live as mourners bid farewell to Irish athlete Ciara Mageean at St Patrick’s Church in Portaferry."
-    },
-    {
-      "id": "yiFJ7SpGfpY",
-      "title": "Iowa voters cast ballots at drive-thru sites ahead of midterms",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-02T23:15:17.000Z",
-      "description": "It may have been a product of the global pandemic, but drive-through voting in Iowa is here to stay. At the Health & Human Parking Ramp in Iowa City, voters posted their ballots without leaving their cars. "
+      "publishedAt": "2026-11-03T20:15:23.000Z",
+      "description": "The final stages of Ohio's race for governor were dominated by an attack ad that caused outrage in both parties."
     },
     {
       "id": "RGBgWpeuikE",
@@ -162,36 +138,60 @@
       "description": "Yemen’s Iran-backed Houthi rebels accused Saudi Arabia of striking the port of Ras Isa in the western province of Hodeida, along Yemen’s Red Sea coast, and setting fire to ships and commercial freight trucks.\r"
     },
     {
-      "id": "6QlJvIfTD9I",
-      "title": "Russian strike on aid center kills at least 26, Ukraine says",
+      "id": "n0V4elq7Qyg",
+      "title": "US Midterms: The states that could decide control of Congress",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-03T10:38:57.000Z",
-      "description": "Footage published by the Ukrainian State Emergency Service shows the aftermath of a Russian airstrike that struck an aid distribution center and a nearby shelter, killing at least 26 people, according to Ukrainian offici"
+      "publishedAt": "2026-11-03T18:30:34.000Z",
+      "description": "Control of Congress is at stake as Americans vote in crucial midterm elections, with Michigan, Georgia, Maine, Iowa, New Hampshire, Texas and Ohio among the key states to watch."
     },
     {
-      "id": "6sTmDMMqxXM",
-      "title": "Doha Debates: Who really runs the world?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-03T14:00:09.000Z",
-      "description": "Who holds the power today? Governments or corporations?"
-    },
-    {
-      "id": "5hhFYe97vyQ",
-      "title": "What does the UK know about the US midterms?",
+      "id": "3rBq97Bcf9o",
+      "title": "Indian tourist dies after helicopters collide near Everest base camp.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-03T12:21:39.000Z",
-      "description": ""
+      "publishedAt": "2026-11-03T14:30:25.000Z",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
     },
     {
-      "id": "NmJUGqcxrjg",
-      "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says • FRANCE 24",
+      "id": "oczQomgrJJY",
+      "title": "Tech Weekly: Further fridge attacks, North Korea denies crypto heist",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-03T13:57:35.000Z",
+      "description": "Cyberattacks caused fridges and freezers to malfunction across European supermarkets and North Korea rejected allegations it was behind the crypto heist that stole $6.3 billion from Binance. Here's this week's top storie"
+    },
+    {
+      "id": "JBJB4NOVZjw",
+      "title": "France's dermatology crisis: Patients desperate for appointments • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-02T22:28:34.000Z",
-      "description": "Emergency alert systems in Russia and Ukraine were hit in cyber attacks overnight, with fake warnings of possible nuclear strikes broadcast to users in both countries. The systems have since been brought back under contr"
+      "publishedAt": "2026-11-03T17:35:43.000Z",
+      "description": "Around 200,000 cases of skin cancer are diagnosed in France every year. Yet as more and more patients seek medical advice, getting an appointment with a dermatologist is becoming increasingly difficult. Half the country'"
+    },
+    {
+      "id": "pQSpmltbOkQ",
+      "title": "King expresses ‘personal sorrow’ over slave trade",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-03T12:44:02.000Z",
+      "description": "The King delivers a speech in Antigua and Barbuda amid increasing pressure for Britain to offer an apology over its role in the transatlantic slave trade."
+    },
+    {
+      "id": "c8TpwaP2eQk",
+      "title": "Georgia battleground under spotlight as Congress hangs in the balance",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-03T20:09:07.000Z",
+      "description": "Another battleground state is Georgia where the Senate seat race may tip the balance of Congress."
+    },
+    {
+      "id": "TXStQ3MFod4",
+      "title": "Does it still make sense to learn a new language in the age of AI?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-03T12:00:21.000Z",
+      "description": "With the rapid advancement in AI translation technology, some linguists predict that human interpreters may soon be obsolete. Does that mean learning a foreign language now is a waste of time? DW's Amien Essif spoke to p"
     }
   ]
 }
