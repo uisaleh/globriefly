@@ -1,55 +1,23 @@
-17:10:56 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-17:10:56 collecting videos…
-17:10:57   video feed BBC News: 15 in feed, 5 kept
-17:10:57   video feed Al Jazeera English: 15 in feed, 5 kept
-17:10:57   video feed DW News: 15 in feed, 5 kept
-17:10:57   video feed FRANCE 24 English: 15 in feed, 5 kept
-17:10:57   video feed Sky News: 15 in feed, 5 kept
-17:10:57   video feed Reuters: 15 in feed, 5 kept
-17:10:57   video feed Associated Press: 15 in feed, 5 kept
-17:10:57 videos: saved 24
-17:10:57 collecting feeds…
-17:11:02 854 new items
-17:11:03 649 candidate stories
-17:11:03 categories needing stories: technology, science, sports, entertainment, world, business → reserved technology
-17:11:03 writing: Elon Musk spent nearly $500 million on the midterms and lost big-time (2 sources)
-17:11:03   source text: 2820 / 7000 chars
-17:11:21 writer returned unusable output: { "headline": "Tech investments and data centres suffer major setbacks in midterm elections", "standfirst": "Technology sector priorities and high-spending 
-17:11:21   skipped
-17:11:21 writing: My Call With President Trump (5 sources)
-17:11:21   source text: 6994 / 4257 / 6145 chars
-17:11:44   too close to source wording — rewriting
-17:11:45 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:12:33 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:12:46 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:13:03 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:13:09   skipped
-17:13:09 done — 0 stories
+23:36:20 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+23:36:20 collecting videos…
+23:36:45   video feed BBC News failed: Status code 404
+23:37:11   video feed Al Jazeera English failed: Status code 404
+23:37:11   video feed DW News: 15 in feed, 5 kept
+23:37:37   video feed FRANCE 24 English failed: Status code 404
+23:37:45   video feed Sky News: 15 in feed, 5 kept
+23:38:10   video feed Reuters failed: Status code 404
+23:38:36   video feed Associated Press failed: Status code 404
+23:38:36 videos: saved 24
+23:38:36 collecting feeds…
+23:38:40 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+23:38:40 867 new items
+23:38:41 651 candidate stories
+23:38:41 categories needing stories: world, technology, science, health, sports, entertainment, business → reserved world
+23:38:41 writing: Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses (5 sources)
+23:38:43   source text: 0 / 579 / 4067 / 841 / 7000 chars
+23:38:51   ✓ published: /news/us-midterm-losses-prompt-jd-vance-to-blame-the-controversial-war-with/ [world] image: wikimedia via idea "JD Vance US Capitol"
+23:38:51 writing: Liverpool lose to Fenerbahce as Como hit nine in stunning Champions League win (4 sources)
+23:38:52   source text: 5379 / 240 / 240 / 3178 / 275 chars
+23:38:57   too close to source wording — rewriting
+23:39:05   skipped
+23:39:05 done — 1 stories
