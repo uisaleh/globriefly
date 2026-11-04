@@ -1,18 +1,5 @@
 {
   "urls": {
-    "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet": 1793203110327,
-    "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html": 1793203110327,
-    "https://thehill.com/policy/international/6178060-flavio-bolsonaro-brazil-election-miami-trump-administration/": 1793203155876,
-    "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html": 1793203155876,
-    "https://www.dw.com/en/flavio-bolsonaro-lands-in-miami-after-fleeing-brazil-for-us/a-79788659?maca=en-rss-en-all-1573-rdf": 1793203155876,
-    "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss": 1793203155876,
-    "https://timesofindia.indiatimes.com/world/us/flavio-bolsonaro-lands-in-miami-after-leaving-brazil-following-election-defeat-to-lula/articleshow/135269431.cms": 1793203155876,
-    "https://www.thehindu.com/news/international/flavio-bolsonaro-flees-brazil-and-boards-a-flight-to-ecuador-after-election-loss-to-lula/article71634871.ece": 1793203155876,
-    "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/": 1793203155876,
-    "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat": 1793203155876,
-    "https://www.france24.com/en/brazil-bolsonaro-defeated-and-on-the-run": 1793203155876,
-    "https://www.euronews.com/2026/10/28/us-to-grant-flavio-bolsonaro-visa-as-he-flees-brazil-and-makes-brief-stop-in-ecuador-via-a": 1793203155876,
-    "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled": 1793203155876,
     "https://phys.org/news/2026-10-climate-amplified-european-rainfall.html": 1793210451273,
     "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss": 1793221222995,
     "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/": 1793221233153,
@@ -252,11 +239,16 @@
     "https://www.thehindu.com/news/international/democrat-keisha-lance-bottoms-becomes-first-black-woman-governor-in-us/article71663892.ece": 1793783069943,
     "https://www.npr.org/2026/11/03/g-s1-151235/democrat-david-crowley-will-be-wisconsins-first-black-governor": 1793783069943,
     "https://www.channelnewsasia.com/world/keisha-lance-bottoms-wins-georgia-race-first-black-woman-elected-governor-us-state-6519866": 1793783069943,
-    "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterm-results-democrat-keisha-lance-bottoms-makes-history-as-first-black-woman-governor-flips-georgia-seat/articleshow/135519340.cms": 1793783069943
+    "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterm-results-democrat-keisha-lance-bottoms-makes-history-as-first-black-woman-governor-flips-georgia-seat/articleshow/135519340.cms": 1793783069943,
+    "https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/": 1793812281310,
+    "https://www.theverge.com/policy/1026365/data-centers-midterms-results": 1793812281310,
+    "https://www.nytimes.com/video/us/politics/100000011260461/my-call-with-president-trump.html": 1793812389761,
+    "https://www.billboard.com/music/country/the-chicks-celebrate-democrats-midterm-victory-eff-trump-1236373878/": 1793812389761,
+    "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war": 1793812389761,
+    "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-losers-trump-republicans-democrats-news/article71663818.ece": 1793812389761,
+    "https://theconversation.com/epic-blue-wave-helps-democrats-take-congress-in-overwhelming-rebuke-to-president-trump-295830": 1793812389761
   },
   "fps": {
-    "astronomers-beyond-dwarf-found-mysterious-neptune-object-planet": 1793203110327,
-    "bolsonaro-brazil-fleeing-lands-miami-vio": 1793203155876,
     "2024-amplified-change-climate-european-floods-models-rainfall": 1793210451273,
     "claims-drug-government-lawmaker-probe-savings-stat-trumprx": 1793221222995,
     "crash-dozens-high-injured-kills-least-spain-speed": 1793221233154,
@@ -310,6 +302,8 @@
     "coons-delaware-reelection-senate-wins": 1793755207716,
     "crash-deadly-minister-offers-resignation-spain-train-transport": 1793755221503,
     "congress-control-democrats-dips-dollar-gold-jump-metals": 1793783040159,
-    "black-elects-first-governor-woman": 1793783069943
+    "black-elects-first-governor-woman": 1793783069943,
+    "500-big-elon-lost-midterms-million-musk-nearly": 1793812281311,
+    "call-president-trump": 1793812389761
   }
 }

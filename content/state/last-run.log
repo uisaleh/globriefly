@@ -1,23 +1,55 @@
-09:03:42 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-09:03:42 collecting videos…
-09:03:42   video feed BBC News: 15 in feed, 5 kept
-09:03:42   video feed Al Jazeera English: 15 in feed, 5 kept
-09:03:42   video feed DW News: 15 in feed, 5 kept
-09:03:42   video feed FRANCE 24 English: 15 in feed, 5 kept
-09:03:42   video feed Sky News: 15 in feed, 5 kept
-09:03:42   video feed Reuters: 15 in feed, 5 kept
-09:03:42   video feed Associated Press: 15 in feed, 5 kept
-09:03:42 videos: saved 24
-09:03:42 collecting feeds…
-09:03:46 680 new items
-09:03:47 500 candidate stories
-09:03:47 categories needing stories: business, technology, sports, entertainment, world → reserved business
-09:03:47 writing: Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress (2 sources)
-09:03:48   source text: 2796 / 310 chars
-09:03:53   too close to source wording — rewriting
-09:04:02   ✓ published: /news/precious-metals-rally-and-dollar-weakens-following-us-midterm-elections/ [business] image: wikimedia via idea "gold and silver bars"
-09:04:02 writing: US elects its first Black woman governor (7 sources)
-09:04:17   source text: 344 / 1040 / 268 / 1937 / 0 chars
-09:04:21   too close to source wording — rewriting
-09:04:32   ✓ published: /news/keisha-lance-bottoms-secures-historic-election-victory-in-georgia/ [politics] image: wikimedia via name "Keisha Lance Bottoms"
-09:04:32 done — 2 stories
+17:10:56 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+17:10:56 collecting videos…
+17:10:57   video feed BBC News: 15 in feed, 5 kept
+17:10:57   video feed Al Jazeera English: 15 in feed, 5 kept
+17:10:57   video feed DW News: 15 in feed, 5 kept
+17:10:57   video feed FRANCE 24 English: 15 in feed, 5 kept
+17:10:57   video feed Sky News: 15 in feed, 5 kept
+17:10:57   video feed Reuters: 15 in feed, 5 kept
+17:10:57   video feed Associated Press: 15 in feed, 5 kept
+17:10:57 videos: saved 24
+17:10:57 collecting feeds…
+17:11:02 854 new items
+17:11:03 649 candidate stories
+17:11:03 categories needing stories: technology, science, sports, entertainment, world, business → reserved technology
+17:11:03 writing: Elon Musk spent nearly $500 million on the midterms and lost big-time (2 sources)
+17:11:03   source text: 2820 / 7000 chars
+17:11:21 writer returned unusable output: { "headline": "Tech investments and data centres suffer major setbacks in midterm elections", "standfirst": "Technology sector priorities and high-spending 
+17:11:21   skipped
+17:11:21 writing: My Call With President Trump (5 sources)
+17:11:21   source text: 6994 / 4257 / 6145 chars
+17:11:44   too close to source wording — rewriting
+17:11:45 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:12:33 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:12:46 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:13:03 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:13:09   skipped
+17:13:09 done — 0 stories
