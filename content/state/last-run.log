@@ -1,22 +1,25 @@
-20:56:59 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-20:56:59 collecting videos…
-20:56:59   video feed BBC News: 15 in feed, 5 kept
-20:56:59   video feed Al Jazeera English: 15 in feed, 5 kept
-20:56:59   video feed DW News: 15 in feed, 5 kept
-20:56:59   video feed FRANCE 24 English: 15 in feed, 5 kept
-20:56:59   video feed Sky News: 15 in feed, 5 kept
-20:56:59   video feed Reuters: 15 in feed, 5 kept
-20:56:59   video feed Associated Press: 15 in feed, 5 kept
-20:56:59 videos: saved 24
-20:56:59 collecting feeds…
-20:57:04 885 new items
-20:57:06 650 candidate stories
-20:57:06 categories needing stories: health, sports, entertainment, politics, business, technology, world → reserved health
-20:57:06 writing: Child Dies From Measles in New York State’s First Fatal Case in 30 Years (3 sources)
-20:57:06   source text: 0 / 5300 / 1297 chars
-20:57:12   too close to source wording — rewriting
-20:57:21   ✓ published: /news/new-york-reports-first-fatal-measles-case-in-three-decades-amid/ [health] image: wikimedia via idea "New York State Capitol building"
-20:57:21 writing: Tech Life (8 sources)
-20:57:21   source text: 1144 / 6403 / 7000 chars
-20:57:28   ✓ published: /news/independent-journalists-face-social-media-copyright-strikes-over/ [world] image: wikimedia via idea "Silhouette of a man on a phone"
-20:57:28 done — 2 stories
+01:17:46 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+01:17:46 collecting videos…
+01:18:11   video feed BBC News failed: Status code 404
+01:18:37   video feed Al Jazeera English failed: Status code 404
+01:18:45   video feed DW News: 15 in feed, 5 kept
+01:19:11   video feed FRANCE 24 English failed: Status code 404
+01:19:37   video feed Sky News failed: Status code 404
+01:19:39   video feed Reuters: 15 in feed, 5 kept
+01:19:55   video feed Associated Press: 15 in feed, 5 kept
+01:19:55 videos: saved 24
+01:19:55 collecting feeds…
+01:19:58 810 new items
+01:20:00 597 candidate stories
+01:20:00 categories needing stories: politics, technology, sports, entertainment, business → reserved politics
+01:20:00 writing: Coons wins Delaware Senate reelection (2 sources)
+01:20:00   source text: 0 / 7000 chars
+01:20:08   ✓ published: /news/midterm-elections-yield-early-senate-victories-for-democrats-as/ [politics] image: wikimedia via idea "Jon Ossoff"
+01:20:08 writing: Spain’s Transport Minister offers resignation after deadly train crash (10 sources)
+01:20:09   source text: 3827 / 3416 / 2190 chars
+01:20:14   too close to source wording — rewriting
+01:20:21 writer returned unusable output: { "headline": "Spanish transport chief quits following tragic rail disaster", "standfirst": "Transport Minister Óscar Puente has resigned and withdrawn from
+01:20:21   skipped
+01:20:21 writing explainer for: Coons wins Delaware Senate reelection
+01:20:30   ✓ explainer: /news/what-do-early-midterm-election-results-mean-for-washington/
+01:20:30 done — 1 stories

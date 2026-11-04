@@ -1,12 +1,5 @@
 {
   "urls": {
-    "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/": 1793135773579,
-    "https://www.theverge.com/tech/1019076/google-genie-4-ai-model": 1793135773579,
-    "https://www.nytimes.com/live/2026/10/27/world/israel-elections": 1793135797005,
-    "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates": 1793135797005,
-    "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss": 1793135797005,
-    "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack": 1793135797005,
-    "https://www.euronews.com/2026/10/27/exit-polls-suggest-no-clear-victor-in-israeli-election": 1793135797005,
     "https://sports.yahoo.com/articles/longtime-nebraska-play-play-announcer-010024485.html": 1793150323965,
     "\n                                                https://www.cbssports.com/\n                    ": 1793150323965,
     "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest": 1793150333836,
@@ -260,11 +253,21 @@
     "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson": 1793739446893,
     "https://www.theguardian.com/tv-and-radio/2026/nov/03/the-simpsons-french-homer-marge-married-real-life-peythieu-augereau": 1793739446893,
     "https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada": 1793739446893,
-    "https://www.thehindu.com/news/international/iran-unveils-huge-billboard-with-threat-against-donald-trumps-life/article71660523.ece": 1793739446893
+    "https://www.thehindu.com/news/international/iran-unveils-huge-billboard-with-threat-against-donald-trumps-life/article71660523.ece": 1793739446893,
+    "https://thehill.com/homenews/campaign/6165627-coons-wins-delaware-senate-race/": 1793755207716,
+    "https://deadline.com/2026/11/election-2026-latest-1237212469/": 1793755207716,
+    "https://www.thehindu.com/news/international/spains-transport-minister-offers-resignation-after-deadly-train-crash/article71663710.ece": 1793755221503,
+    "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss": 1793755221503,
+    "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html": 1793755221503,
+    "https://abcnews.com/International/wireStory/spains-transport-minister-steps-6-days-after-fatal-137823144": 1793755221503,
+    "https://www.scmp.com/news/world/europe/article/3373189/spains-transport-minister-resigns-after-train-crash-killed-69": 1793755221503,
+    "https://www.channelnewsasia.com/world/spanish-transport-minister-offers-resignation-after-deadly-train-crash-6518011": 1793755221503,
+    "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash": 1793755221503,
+    "https://www.politico.eu/article/spain-transport-minister-oscar-puente-resigns-after-deadly-train-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1793755221503,
+    "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf": 1793755221503,
+    "https://news.sky.com/story/spains-transport-minister-oscar-puente-to-resign-after-train-crash-killed-69-people-13607610": 1793755221503
   },
   "fps": {
-    "adds-audio-genie-google-model-real-realistic-steering": 1793135773579,
-    "clear-exit-israeli-live-netanyahu-opposition-polls-show": 1793135797005,
     "2026-2027-announcer-following-kent-longtime-nebraska-pavelka": 1793150323965,
     "here-latest": 1793150333836,
     "action-calls-climate-emergency-global-harms-health-outpace": 1793175747900,
@@ -320,6 +323,8 @@
     "act-adaptation-evolution-forest-lizards-rapid-reveal-warming": 1793718193979,
     "2026-agenda-americans-elections-live-midterm-polls-referendum": 1793718296231,
     "case-child-dies-fatal-first-measles-state-years": 1793739439661,
-    "life-tech": 1793739446893
+    "life-tech": 1793739446893,
+    "coons-delaware-reelection-senate-wins": 1793755207716,
+    "crash-deadly-minister-offers-resignation-spain-train-transport": 1793755221503
   }
 }

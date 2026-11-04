@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-03T20:56:59.419Z",
+  "updatedAt": "2026-11-04T01:19:55.532Z",
   "videos": [
+    {
+      "id": "6uFR7I5g_YE",
+      "title": "Congolese protest ex-president Kabila's new rebel movement",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-04T01:07:00.000Z",
+      "description": "Hundreds of people marched through the eastern Congolese city of Uvira to protest against the M23 rebellion and the advance of forces now operating under the Front for the Refoundation of the Nation."
+    },
+    {
+      "id": "ezrVMu9ctCc",
+      "title": "How the midterms could shape the rest of Trump's term",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-04T00:42:31.000Z",
+      "description": "How could the midterm elections shape the rest of President Donald Trump’s term? AP’s White House reporter Michelle L. Price explains what's at stake in the fight for Congress."
+    },
+    {
+      "id": "PaclYKsHZ00",
+      "title": "Why voter frustration could spell trouble for Trump",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-03T21:30:02.000Z",
+      "description": "Donald Trump is not on the ballot papers in this election, but the midterms are one of the most important tests yet of his presidency. Unaffordable living costs are top of voters' minds as they head to the ballot boxes t"
+    },
     {
       "id": "mEwra5b-ptg",
       "title": "Louis thought he'd won a holiday. Now he's in a Turkish prison",
@@ -18,22 +42,6 @@
       "description": "US candidates across the country are casting their ballots and making final appeals to voters, joining other Americans at the polls in midterm elections which will decide which party controls Congress. "
     },
     {
-      "id": "LSuFR21SeXI",
-      "title": "Voters share why and who they are voting for in the midterm election",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-03T20:36:04.000Z",
-      "description": "Election Day is here. Voters nationwide will decide control of the U.S. House and Senate. "
-    },
-    {
-      "id": "iqlDOcWqulo",
-      "title": "'Hoax' bomb threats trigger flight disruptions across Europe",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-03T20:30:37.000Z",
-      "description": "At least seven flights across Europe received bomb threats, prompting diversions, searches and an Italian Air Force escort."
-    },
-    {
       "id": "y-yI5fVxRMw",
       "title": "Epilepsy drug users say they were not warned of possible birth defects.",
       "channel": "BBC News",
@@ -42,20 +50,36 @@
       "description": ""
     },
     {
-      "id": "JaIt9AxNHA0",
-      "title": "Can Democrats win back Congress as voters judge Trump’s second term?",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-03T20:00:32.000Z",
-      "description": "Americans head to the polls to vote in the US midterms, with control of Congress on the line. King Charles addresses the UK's legacy of slavery, but stops short of an apology or reparations. President Donald Trump says t"
-    },
-    {
       "id": "G_FXu80OTf4",
       "title": "Democrats eye gains in US midterm elections • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
       "publishedAt": "2026-11-03T19:17:42.000Z",
       "description": "Will it be a trickle, a wave, or a tsunami? Election Day in the United States with Democrats hoping to take back one or both houses of Congress. We’ll track the turnout, gauge the mood and raise the curtain ahead of Midt"
+    },
+    {
+      "id": "I3tTS1FQTa0",
+      "title": "NASA astronaut Anil Menon votes from space in the US midterms",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-04T00:59:42.000Z",
+      "description": "NASA astronaut Anil Menon voted from orbit in the US midterm election by casting an electronic ballot from the International Space Station."
+    },
+    {
+      "id": "bPfUhn7x-mA",
+      "title": "El-Sayed and Rogers share final thoughts ahead of polls closing in Michigan",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-03T23:45:08.000Z",
+      "description": "Progressive Abdul El-Sayed and Republican Mike Rogers shared their thoughts as voting was underway in Michigan's midterm elections, with El-Sayed hoping for a “decisive outcome” and Rogers describing his campaign as “vig"
+    },
+    {
+      "id": "qtZa6ihq6UM",
+      "title": "Spanish striker dies after collision in match",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-03T21:00:40.000Z",
+      "description": "30-year-old Spanish striker Jesus de Miguel died a day after suffering a cardiac arrest following a collision during a match. "
     },
     {
       "id": "zC5s9yaaAE0",
@@ -74,22 +98,6 @@
       "description": "North Carolina has a pivotal Senate race that could help determine control in Washington. "
     },
     {
-      "id": "xgCV6HQjvM0",
-      "title": "Vivek Ramaswamy and Amy Acton cast their votes in Ohio",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-03T19:05:37.000Z",
-      "description": "Ohio gubernatorial candidates Vivek Ramaswamy and Amy Acton cast their votes in Columbus on Tuesday, as they attempt to succeed a term-limited sitting governor who’s spent five decades in politics."
-    },
-    {
-      "id": "zxirloFtHJY",
-      "title": "Zelenskyy and Merz discuss Ukraine support after deadly Russian attack",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-03T19:34:47.000Z",
-      "description": "Ukrainian President Volodymyr Zelenskyy has condemned a Russian attack on an aid center in southern Ukraine that reportedly killed 31 people."
-    },
-    {
       "id": "FLhdnCAbqAE",
       "title": "Is the draft UK-EU deal to scrap red tape the biggest Brexit reset yet?",
       "channel": "BBC News",
@@ -98,20 +106,36 @@
       "description": "Today, the UK and EU have agreed a draft deal on removing post-Brexit checks ahead of the UK-EU summit later this month. "
     },
     {
-      "id": "biuOQ1JwFu0",
-      "title": "On Ebola's frontline, survivors offer friendship to sick children",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-03T19:50:29.000Z",
-      "description": "Jerkis Mahamba is one of a growing number of Ebola survivors in Congo who, with immunity from the strain currently spreading through eastern Democratic Republic of Congo, found a calling at the bedside of sick children b"
-    },
-    {
       "id": "Ep_u8ocqtos",
       "title": "Culture critics : Philippe Jaenada wins Goncourt Prize • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
       "publishedAt": "2026-11-03T18:18:35.000Z",
       "description": "Olivia Salazar-Winspear tells us more about 2026 Goncourt Prize \"L'inconnue du quai de Javel\" by Philippe Jaenada. The french novel is about a murder set in 1949."
+    },
+    {
+      "id": "1NeagCZjzfU",
+      "title": "Nasdaq ends higher as AI heavyweights rebound",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-04T00:52:07.000Z",
+      "description": "The Nasdaq ended higher as AI heavyweights rebounded ahead of US midterm election results, while Apple fell after the iPhone maker joined the list of Big Tech companies whose quarterly results failed to impress investors"
+    },
+    {
+      "id": "Oqj_4qjCjL4",
+      "title": "Election 2026: LIVE U.S. Senate and House balance of power maps",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-03T23:26:58.000Z",
+      "description": "Watch results come in during the 2026 midterm election."
+    },
+    {
+      "id": "iqlDOcWqulo",
+      "title": "'Hoax' bomb threats trigger flight disruptions across Europe",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-03T20:30:37.000Z",
+      "description": "At least seven flights across Europe received bomb threats, prompting diversions, searches and an Italian Air Force escort."
     },
     {
       "id": "Wpj0OpnmiWU",
@@ -130,36 +154,12 @@
       "description": "The final stages of Ohio's race for governor were dominated by an attack ad that caused outrage in both parties."
     },
     {
-      "id": "RGBgWpeuikE",
-      "title": "Video is said to show strikes on a port in Hodeida, Yemen",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-02T22:29:42.000Z",
-      "description": "Yemen’s Iran-backed Houthi rebels accused Saudi Arabia of striking the port of Ras Isa in the western province of Hodeida, along Yemen’s Red Sea coast, and setting fire to ships and commercial freight trucks.\r"
-    },
-    {
-      "id": "n0V4elq7Qyg",
-      "title": "US Midterms: The states that could decide control of Congress",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-03T18:30:34.000Z",
-      "description": "Control of Congress is at stake as Americans vote in crucial midterm elections, with Michigan, Georgia, Maine, Iowa, New Hampshire, Texas and Ohio among the key states to watch."
-    },
-    {
       "id": "3rBq97Bcf9o",
       "title": "Indian tourist dies after helicopters collide near Everest base camp.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
       "publishedAt": "2026-11-03T14:30:25.000Z",
       "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
-    },
-    {
-      "id": "oczQomgrJJY",
-      "title": "Tech Weekly: Further fridge attacks, North Korea denies crypto heist",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-03T13:57:35.000Z",
-      "description": "Cyberattacks caused fridges and freezers to malfunction across European supermarkets and North Korea rejected allegations it was behind the crypto heist that stole $6.3 billion from Binance. Here's this week's top storie"
     },
     {
       "id": "JBJB4NOVZjw",
@@ -170,28 +170,28 @@
       "description": "Around 200,000 cases of skin cancer are diagnosed in France every year. Yet as more and more patients seek medical advice, getting an appointment with a dermatologist is becoming increasingly difficult. Half the country'"
     },
     {
-      "id": "pQSpmltbOkQ",
-      "title": "King expresses ‘personal sorrow’ over slave trade",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-03T12:44:02.000Z",
-      "description": "The King delivers a speech in Antigua and Barbuda amid increasing pressure for Britain to offer an apology over its role in the transatlantic slave trade."
+      "id": "jSKn3ZBa3Wo",
+      "title": "Ballot scanner failures cause voting disruptions in Westchester County",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-04T00:43:47.000Z",
+      "description": "Ballot scanners failed to accept ballots at polling sites across New York’s Westchester County, north of New York City, prompting election officials to collect paper ballots in secure emergency bags for counting later."
     },
     {
-      "id": "c8TpwaP2eQk",
-      "title": "Georgia battleground under spotlight as Congress hangs in the balance",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-03T20:09:07.000Z",
-      "description": "Another battleground state is Georgia where the Senate seat race may tip the balance of Congress."
+      "id": "jvHfvfZinrw",
+      "title": "What's the No. 1 issue that brought you to the polls?",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-03T22:53:50.000Z",
+      "description": "AP caught up with voters across the United States Tuesday as they cast their ballot in the 2026 midterm elections. Here's what they told us about the major issues that brought them to the ballot box."
     },
     {
-      "id": "TXStQ3MFod4",
-      "title": "Does it still make sense to learn a new language in the age of AI?",
+      "id": "zxirloFtHJY",
+      "title": "Zelenskyy and Merz discuss Ukraine support after deadly Russian attack",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-03T12:00:21.000Z",
-      "description": "With the rapid advancement in AI translation technology, some linguists predict that human interpreters may soon be obsolete. Does that mean learning a foreign language now is a waste of time? DW's Amien Essif spoke to p"
+      "publishedAt": "2026-11-03T19:34:47.000Z",
+      "description": "Ukrainian President Volodymyr Zelenskyy has condemned a Russian attack on an aid center in southern Ukraine that reportedly killed 31 people."
     }
   ]
 }
