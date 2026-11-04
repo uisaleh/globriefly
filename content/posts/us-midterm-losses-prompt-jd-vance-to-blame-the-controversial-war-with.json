@@ -115,6 +115,9 @@
   "publishedAt": "2026-11-04T23:38:50.328Z",
   "updatedAt": "2026-11-04T23:38:50.328Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173598804681745",
+    "sharedAt": "2026-11-04T23:42:14.671Z"
+  },
   "ogImage": "/og/us-midterm-losses-prompt-jd-vance-to-blame-the-controversial-war-with.jpg"
 }
