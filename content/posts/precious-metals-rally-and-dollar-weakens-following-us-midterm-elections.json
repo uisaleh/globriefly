@@ -95,6 +95,9 @@
   "publishedAt": "2026-11-04T09:04:01.234Z",
   "updatedAt": "2026-11-04T09:04:01.234Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173552910681745",
+    "sharedAt": "2026-11-04T09:07:41.241Z"
+  },
   "ogImage": "/og/precious-metals-rally-and-dollar-weakens-following-us-midterm-elections.jpg"
 }
