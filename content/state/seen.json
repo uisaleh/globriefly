@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/": 1793235216593,
-    "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced": 1793235216593,
-    "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/": 1793235216593,
-    "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/": 1793235216593,
-    "https://www.engadget.com/2299925/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/": 1793235216593,
-    "https://thehill.com/newsletters/business-economy/6179798-fed-hits-pause-on-interest-rates/": 1793235239696,
-    "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms": 1793235239696,
-    "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss": 1793235239696,
-    "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece": 1793235239696,
-    "https://www.scmp.com/news/world/united-states-canada/article/3372489/us-fed-holds-interest-rates-steady-despite-surging-inflation": 1793235239696,
     "https://www.abc.net.au/news/2026-10-29/milwaukee-brewers-world-series-victory/107324300": 1793257233148,
     "\n                                                https://www.cbssports.com/mlb/news/jacob-misiorowski-brewers-2026-world-series/\n                    ": 1793257233148,
     "\n                                                https://www.cbssports.com/mlb/news/william-contreras-world-series-mvp-brewers-catcher-2026-title/\n                    ": 1793257233148,
@@ -244,11 +234,23 @@
     "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss": 1793835545026,
     "https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce": 1793835545026,
     "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss": 1793835545026,
-    "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live": 1793835545026
+    "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live": 1793835545026,
+    "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/": 1793860770311,
+    "https://fortune.com/2026/11/04/voters-pull-the-plug-on-big-techs-data-center-boom/": 1793860770311,
+    "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss": 1793860793079,
+    "https://www.euronews.com/2026/11/05/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years-for-collusion": 1793860793079,
+    "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html": 1793860793079,
+    "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf": 1793860793079,
+    "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced": 1793860793079,
+    "https://www.thehindu.com/news/international/hong-kong-activist-joshua-wong-sentenced-to-10-years-in-prison-in-2nd-national-security-case/article71668669.ece": 1793860793079,
+    "https://www.japantimes.co.jp/news/2026/11/05/asia-pacific/politics/joshua-wong-hong-kong-democracy-prison/": 1793860793079,
+    "https://abcnews.com/International/wireStory/teen-activist-hong-kongs-joshua-wong-spending-years-137865786": 1793860793079,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss": 1793860793079,
+    "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case": 1793860793079,
+    "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion": 1793860793079,
+    "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373335/joshua-wong-jailed-10-years-over-bid-instigate-sanctions-beijing-hong-kong": 1793860793079
   },
   "fps": {
-    "apple-extreme-laptop-macbook-pricing-pro-pushes-touchscreen": 1793235216593,
-    "fed-hits-interest-pause-rates": 1793235239696,
     "brewers-complete-maiden-series-story-title-underdog-world": 1793257233148,
     "barrage-fires-korea-missile-north-rise-sea-south": 1793257243872,
     "brewers-defeat-first-franchise-games-history-rays-series": 1793283204468,
@@ -301,6 +303,8 @@
     "500-big-elon-lost-midterms-million-musk-nearly": 1793812281311,
     "call-president-trump": 1793812389761,
     "2026-blames-break-iran-losses-midterm-republicans-trump": 1793835529637,
-    "champions-como-fenerbahce-hit-league-liverpool-lose-nine": 1793835545026
+    "champions-como-fenerbahce-hit-league-liverpool-lose-nine": 1793835545026,
+    "bigger-centers-clash-coming-data-midterms": 1793860770311,
+    "democracy-face-hong-jailed-joshua-kong-pro-protests": 1793860793079
   }
 }
