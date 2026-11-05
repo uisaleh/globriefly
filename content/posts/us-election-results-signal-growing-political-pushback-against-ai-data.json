@@ -112,6 +112,9 @@
   "publishedAt": "2026-11-05T06:39:31.254Z",
   "updatedAt": "2026-11-05T06:39:31.254Z",
   "readingMinutes": 5,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173619384681745",
+    "sharedAt": "2026-11-05T06:43:42.465Z"
+  },
   "ogImage": "/og/us-election-results-signal-growing-political-pushback-against-ai-data.jpg"
 }
