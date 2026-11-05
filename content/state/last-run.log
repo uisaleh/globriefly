@@ -1,20 +1,21 @@
-06:36:09 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-06:36:09 collecting videos…
-06:36:34   video feed BBC News failed: Status code 404
-06:36:59   video feed Al Jazeera English failed: Status code 404
-06:37:25   video feed DW News failed: Status code 404
-06:37:50   video feed FRANCE 24 English failed: Status code 404
-06:38:15   video feed Sky News failed: Status code 404
-06:38:39 videos: saved 24
-06:38:39 collecting feeds…
-06:38:41   video feed Reuters failed: Status code 404
-06:38:42 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-06:38:42 708 new items
-06:38:43 540 candidate stories
-06:38:43 categories needing stories: technology, science, health, sports, entertainment, world, politics, business → reserved technology
-06:38:43 writing: After the midterms, a bigger clash over data centers could be coming (2 sources)
-06:38:43   source text: 6855 / 6719 chars
-06:38:45 gemini gemini-3.5-flash-lite failed (503): {
+15:25:05 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+15:25:05 collecting videos…
+15:25:05   video feed BBC News: 15 in feed, 5 kept
+15:25:05   video feed Al Jazeera English: 15 in feed, 5 kept
+15:25:05   video feed DW News: 15 in feed, 5 kept
+15:25:05   video feed FRANCE 24 English: 15 in feed, 5 kept
+15:25:05   video feed Sky News: 15 in feed, 5 kept
+15:25:05   video feed Reuters: 15 in feed, 5 kept
+15:25:05   video feed Associated Press: 15 in feed, 5 kept
+15:25:05 videos: saved 24
+15:25:05 collecting feeds…
+15:25:09 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+15:25:09 860 new items
+15:25:10 630 candidate stories
+15:25:10 categories needing stories: politics, business, science, health, sports, entertainment, world → reserved politics
+15:25:10 writing: Putin not invited to G20 summit in Manchester, says Burnham (3 sources)
+15:25:10   source text: 2697 / 2763 / 595 chars
+15:25:12 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -22,7 +23,7 @@
   }
 }
 
-06:38:51 gemini gemini-3.5-flash-lite failed (503): {
+15:25:24 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -30,14 +31,7 @@
   }
 }
 
-06:39:06   video feed Associated Press failed: Status code 404
-06:39:32   ✓ published: /news/us-election-results-signal-growing-political-pushback-against-ai-data/ [technology] image: wikimedia via idea "data center server room"
-06:39:32 writing: Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years (12 sources)
-06:39:48   source text: 3629 / 3938 / 699 / 0 / 4652 chars
-06:39:53 writer returned unusable output: { "headline": "Hong Kong activist Joshua Wong receives additional decade in prison", "standfirst": "Prominent pro-democracy activist Joshua Wong has been se
-06:39:53   skipped
-06:39:53 writing explainer for: After the midterms, a bigger clash over data centers could be coming
-06:39:56 gemini gemini-3.5-flash-lite failed (503): {
+15:25:32 gemini gemini-3.6-flash failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -45,7 +39,7 @@
   }
 }
 
-06:40:03 gemini gemini-3.5-flash-lite failed (503): {
+15:25:41 gemini gemini-3.6-flash failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -53,5 +47,40 @@
   }
 }
 
-06:40:30   ✓ explainer: /news/why-are-voters-turning-against-giant-ai-data-centers-across-the-us/
-06:40:30 done — 1 stories
+15:25:47   skipped
+15:25:47 writing: Russell Brand Is Found Guilty of Rape and Sexual Assault (12 sources)
+15:25:48   source text: 1628 / 3954 / 0 / 3221 chars
+15:25:52 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+15:26:00 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+15:26:17 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+15:27:13 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+15:27:19   skipped
+15:27:19 done — 0 stories
