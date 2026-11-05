@@ -110,6 +110,9 @@
   "publishedAt": "2026-11-05T21:59:15.749Z",
   "updatedAt": "2026-11-05T21:59:15.749Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173671926681745",
+    "sharedAt": "2026-11-05T22:02:50.560Z"
+  },
   "ogImage": "/og/cristiano-ronaldo-ends-record-breaking-international-career-with.jpg"
 }

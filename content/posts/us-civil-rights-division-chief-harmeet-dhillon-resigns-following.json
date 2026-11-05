@@ -126,6 +126,9 @@
   "publishedAt": "2026-11-05T21:59:07.642Z",
   "updatedAt": "2026-11-05T21:59:07.642Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173671812681745",
+    "sharedAt": "2026-11-05T22:02:27.853Z"
+  },
   "ogImage": "/og/us-civil-rights-division-chief-harmeet-dhillon-resigns-following.jpg"
 }
