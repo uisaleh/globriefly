@@ -1,37 +1,133 @@
 {
-  "updatedAt": "2026-11-05T15:25:05.845Z",
+  "updatedAt": "2026-11-05T21:57:21.452Z",
   "videos": [
     {
-      "id": "FHWrocCD79I",
-      "title": "Ronaldo retires from Portugal national team",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-05T15:10:38.000Z",
-      "description": "Cristiano Ronaldo announced he was retiring from the Portuguese national team, bringing the curtain down on one of the most illustrious international careers in the history of soccer."
-    },
-    {
-      "id": "5wh62STYTCM",
-      "title": "Jerusalem Daily: Settler pogroms in Hebron |",
+      "id": "_Clm3qwUalI",
+      "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-05T15:10:21.000Z",
-      "description": "Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians across Gaza and the occupied West Bank."
+      "publishedAt": "2026-11-05T21:40:45.000Z",
+      "description": "Spanish footballer Jesus de Miguel has been laid to rest two days after his tragic death. The 30-year-old striker suffered cardiac arrest following an on-field collision during a second-division game. "
     },
     {
-      "id": "-i6f0K7w2Vc",
-      "title": "Midterm elections deliver historic firsts across states and the nation",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-05T15:00:13.000Z",
-      "description": "While 2026's midterms will be remembered for the astonishing number of losses that Democrats handed to President Donald Trump. In the background, something perhaps equally seismic unfolded: a wave of firsts that elevated"
-    },
-    {
-      "id": "zQU_m72NdsQ",
-      "title": "Russell Brand found guilty of rape and sexual assault",
+      "id": "xbgtOgYVGJM",
+      "title": "Democrats make ending war in Iran a priority after sweeping midterms wins",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-05T14:52:07.000Z",
-      "description": "Russell Brand has been found guilty of one count of rape and three counts of sexual assault."
+      "publishedAt": "2026-11-05T21:40:13.000Z",
+      "description": "Democrats say they want to end the war in Iran as one of their top priorities, after taking control of Congress in US midterm elections."
+    },
+    {
+      "id": "w02H1dl8qVk",
+      "title": "Russel Brand: The Verdict",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-05T21:31:39.000Z",
+      "description": "Sky’s Jonathan Samuels presents an hour-long special programme on the trial of Russell Brand, after the comedian was found guilty of one count of rape and three counts of sexual assault."
+    },
+    {
+      "id": "pc4RCJLSiJg",
+      "title": "Europe is celebrating Trump's defeat. Should it be?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-05T21:30:24.000Z",
+      "description": "Donald Trump suffered a major setback in the US midterm elections. But will it actually change America's foreign policy? "
+    },
+    {
+      "id": "CMN8BJb1iIc",
+      "title": "Wall St slumps as sharp tech losses put Nasdaq on course for correction",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-05T21:26:19.000Z",
+      "description": "The Nasdaq Composite ended sharply lower, notching its deepest one-day drop in 19 months and confirming it was in a correction, as chipmakers sank on ‌fears of tougher AI regulation after Democrats won control of the US "
+    },
+    {
+      "id": "x1Kc3Kdpkjw",
+      "title": "Nigeria court bars opposition candidate two months before election • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-05T21:22:55.000Z",
+      "description": "In tonight's edition, a Nigerian court disqualifies a leading presidential candidate, adding fresh complications for the electoral process two months before the election. Also, tens of thousands have fled across the bord"
+    },
+    {
+      "id": "dA0WoQ8pHVA",
+      "title": "Michigan's Arab American community reacts to Abdul El-Sayed's victory",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-05T20:39:01.000Z",
+      "description": "Michigan Democrat Abdul El-Sayed has become the first Muslim elected to the U.S. Senate. Muslim voters, who made up about 3% of Michigan voters, overwhelmingly backed El-Sayed. About 9 in 10 Muslim voters in the state’s "
+    },
+    {
+      "id": "ZQuEDdLHOY4",
+      "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-05T21:31:30.000Z",
+      "description": "Israeli forces demolished five homes in Biddu, northwest of Jerusalem in the occupied West Bank, displacing more than 100 people. Ahmad Abu Eid, a resident of Biddu, said Israeli forces raided the town without warning, d"
+    },
+    {
+      "id": "ZriAOy9ACfA",
+      "title": "Was King Charles’ Caribbean tour a success?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-05T21:01:07.000Z",
+      "description": "King Charles has just completed his royal tour of the Caribbean - but why is this being considered his most challenging yet?"
+    },
+    {
+      "id": "cwUpmClSvoo",
+      "title": "Russell Brand faces lengthy prison sentence after rape conviction",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-05T21:03:45.000Z",
+      "description": "Russell Brand faces years in jail after he was convicted of one count of rape and three of sexual assault."
+    },
+    {
+      "id": "Vziju8i9rpc",
+      "title": "Saudi Arabia's sports strategy disrupted",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-05T21:00:22.000Z",
+      "description": "Saudi Arabia has spent billions on sports. But ongoing conflicts in the region have forced the country to postpone hosting the Asian Cup for almost a year and reassess its strategy."
+    },
+    {
+      "id": "DTG5p-Pw2Ns",
+      "title": "Democrats, high prices and the AI economy",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-05T21:03:24.000Z",
+      "description": "A blue wave has swept Washington, but many of the forces shaping the US economy remain out of their hands, with the Nasdaq tumbling as chipmakers sank on fears of tougher AI regulation. US economics editor Dan Burns and "
+    },
+    {
+      "id": "44e04JK4W8Y",
+      "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-05T20:37:42.000Z",
+      "description": "“You can be as repressive as you want. The grievances are still here.” With this stark observation, Ariane Bogain, lecturer in French and politics at Northumbria University, captures the central dilemma confronting the F"
+    },
+    {
+      "id": "T0RZXW5-UYE",
+      "title": "Melania Trump hosts Putin's envoy at the White House after she brokered the ceasefire in Oleshky",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-05T20:30:36.000Z",
+      "description": "Melania Trump brought Russian and Ukrainian officials together at the White House to mark a six-day localized ceasefire she brokered. As Vladimir Putin’s envoy praised her humanitarian role, the first lady said she hoped"
+    },
+    {
+      "id": "Irc3Pw-60CY",
+      "title": "South Africa's ANC faces tough test in municipal elections",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-05T21:00:07.000Z",
+      "description": "Vote counting is under way in South Africa after Wednesday's municipal elections."
+    },
+    {
+      "id": "bGUZjnflVlc",
+      "title": "Why are airports across Europe receiving hoax bomb threats?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-05T19:56:59.000Z",
+      "description": "At least 21 aircraft and several airports across Europe have been targeted by bomb threats in the second such incident this week, with the UK calling it a \"malicious hoax\"."
     },
     {
       "id": "MDsd7Ngod9Y",
@@ -42,156 +138,60 @@
       "description": "Nigel Farage and Danny Kruger unveil the party’s armed forces spokesperson at a press conference in central London."
     },
     {
-      "id": "PUDJFtOfLcA",
-      "title": "Former top diplomat on the global risks and NATO after Trump’s midterm defeat",
+      "id": "Q8htnFomwRs",
+      "title": "The one factor driving migration no one is talking about",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-05T14:40:41.000Z",
-      "description": "From Berlin to Brussels, many welcomed the Democratic victory in Congress as a setback for Donald Trump. The assumption was simple: less Trump means less disruption. But politics is rarely that straightforward. According"
+      "publishedAt": "2026-11-05T20:30:14.000Z",
+      "description": "Poverty forces people from poor countries to migrate to rich ones. That's how most people assume economic migration works. But it might not be so simple. Rising education levels, better economic chances and growing ambit"
     },
     {
-      "id": "DPe3WMNEH3w",
-      "title": "Bringing the magic of Harry Potter to life through music • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-05T14:32:14.000Z",
-      "description": "In this edition of Entre Nous, we meet Timothy Henty, the British conductor bringing the magic of Harry Potter to life in Paris. As part of the Harry Potter Film Concert Series, he leads more than 80 musicians in a spect"
-    },
-    {
-      "id": "z3qJUhEi13w",
-      "title": "Living with loss and constant danger in an orphanage on Lebanon’s frontline",
+      "id": "1kfun6ShMK0",
+      "title": "Paraguay's president resigns under mounting pressure from bank collapse",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-05T14:36:04.000Z",
-      "description": "In their new life at an orphanage in southern Lebanon, 13-year-old Inaya Sultan tries to be strong for her four-year-old sister Malak, who lost their father in the recent war and now live with the constant sound of Israe"
+      "publishedAt": "2026-11-05T20:38:08.000Z",
+      "description": "Paraguayan President Santiago Peña resigned as calls for his removal swelled following the collapse of digital lender ueno that left millions of customers unable to access their accounts."
     },
     {
-      "id": "9Kmo8fSQ91s",
-      "title": "Bomb threats disrupt flights across Europe as planes diverted, forced to land",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-05T14:54:52.000Z",
-      "description": "Multiple flights across Europe have been diverted due to a series of bomb threats."
+      "id": "RIu734CxYqE",
+      "title": "Portugal: Cristiano Ronaldo announces his international retirement • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-05T18:16:52.000Z",
+      "description": "Portuguese football legend Cristiano Ronaldo announced on Thursday he was retiring from international football at the age of 41. "
     },
     {
-      "id": "A2qlSUh2PAQ",
-      "title": "Democrats win US House, cementing control over Congress",
+      "id": "xdlKH8mfZD0",
+      "title": "Police clash with protesters in France as unions join nationwide strikes",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-04T15:26:03.000Z",
-      "description": "Democrats have won control of Congress in Tuesday’s 2026 midterm elections in a widespread repudiation of President Donald Trump and the Republican Party, a drubbing that reached deep into reliable GOP territory.\r"
+      "publishedAt": "2026-11-05T19:03:41.000Z",
+      "description": "Trade union members joined nationwide strikes and demonstrations in Paris to demand higher wages and support the high school protest movement."
     },
     {
-      "id": "yiTLP3P7-jQ",
-      "title": "Hundreds queue for remake of Legend of Zelda: Ocarina of Time in London.",
+      "id": "5wh62STYTCM",
+      "title": "Jerusalem Daily: Settler pogroms in Hebron |",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-05T15:10:21.000Z",
+      "description": "Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians across Gaza and the occupied West Bank."
+    },
+    {
+      "id": "8yUfifaYgOE",
+      "title": "How El Niño is making the Pacific 'burn with fever'",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-05T14:00:21.000Z",
-      "description": ""
+      "publishedAt": "2026-11-05T19:00:30.000Z",
+      "description": "A wave of intense and, at times, unpredictable storms exacerbated by the El Niño weather pattern has killed dozens, shuttered major airports and wiped out crops and infrastructure across a swathe of East Asia."
     },
     {
-      "id": "uR2ylBTtB9g",
-      "title": "Thousands of protesters face police in France",
+      "id": "iw5a5aQKgNM",
+      "title": "President Trump admits war in Iran was likely to blame",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-05T13:03:44.000Z",
-      "description": "Watch live from across France as protests continue after weeks of unrest."
-    },
-    {
-      "id": "jJQipl4TisM",
-      "title": "Former Hong Kong activist Joshua Wong sentenced to 10 more years",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-05T13:44:49.000Z",
-      "description": "Hong Kong’s High Court has sentenced pro-democracy activist Joshua Wong to 10 more years in prison. Wong has been detained since 2020 on charges including subversion under the semi-autonomous Chinese territory’s National"
-    },
-    {
-      "id": "peC7UP0rjj8",
-      "title": "France faces new protests as government seeks to prevent violence • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-05T14:19:52.000Z",
-      "description": "France faces new protests as the government seeks to prevent a repeat of October unrest. Protesters demand better public services, including education, and also critique the cost-of-living. FRANCE 24's Claire Paccalin re"
-    },
-    {
-      "id": "QapEGIoPuFQ",
-      "title": "From AI to the Fed: Five midterm takeaways for the markets",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-04T16:52:41.000Z",
-      "description": "Democrats pulled off a sweeping midterm elections victory, sending financial markets swinging between gains and losses as an unexpectedly large blue wave washed over investors. Elena Casas takes a look at the markets' in"
-    },
-    {
-      "id": "j72IruGljPc",
-      "title": "What can Democrats do in Congress under President Trump?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-05T13:42:48.000Z",
-      "description": "The Democratic party had a major win in the US midterm elections. But what can they actually change when it comes to Donald Trump’s decisions, policies and presidency? "
-    },
-    {
-      "id": "v1ATkAb99Xw",
-      "title": "Democrat James Talarico flips a US Senate seat in Texas",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-04T14:21:51.000Z",
-      "description": "Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP\r"
-    },
-    {
-      "id": "auivg7iWHeI",
-      "title": "Fake job interviews used in $6.3bn crypto hack.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-04T16:00:07.000Z",
-      "description": ""
-    },
-    {
-      "id": "P_uwy4bo-yc",
-      "title": "Sky’s Ed Conway explains why inflation may have been a key factor in the US midterm result",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-04T23:00:36.000Z",
-      "description": "Sky’s Ed Conway explains that inflation may well have been a key factor in the US midterm result, as Donald Trump’s approval on the issue has cratered after he pledged to keep prices down."
-    },
-    {
-      "id": "uo1WOkQm6oc",
-      "title": "Shipping crews caught in the crossfire of the Hormuz conflict",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-05T10:19:36.000Z",
-      "description": "Appalling conditions, unpaid wages and the constant threat of attack: Thousands of sailors are stranded in the Strait of Hormuz as the US-Iran conflict disrupts shipping routes and experts warn of risks to global trade."
-    },
-    {
-      "id": "1jWfFPLf1BY",
-      "title": "Cyberattack: French bank says online hacking stole around $100 million • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-05T14:09:55.000Z",
-      "description": "French regional bank Credit Mutuel Arkea said Wednesday it had been the victim of a cyberattack that allowed fraudulent transactions amounting to around 100 million euros ($112 million). It said in the attack, which had "
-    },
-    {
-      "id": "BOCTHlBsCzc",
-      "title": "Fans and footballers honor Tenerife striker De Miguel",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-04T16:47:16.000Z",
-      "description": "Fans gathered in Santa Cruz de Tenerife, Spain, to pay tribute to Tenerife striker Jesus de Miguel, who died at the age of 30 after suffering a cardiac arrest following a collision during a match against Andorra. Players"
-    },
-    {
-      "id": "NYdvJUtSzyE",
-      "title": "Indonesia rushes thousands of troops to Jakarta amid wiretap scandal",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-05T13:39:50.000Z",
-      "description": "Indonesia is deploying thousands of troops in Jakarta amid an alleged wiretapping scandal targeting President Prabowo Subianto, ministers and others. Among those implicated is Gen Listyo Sigit Prabowo, who was appointed "
-    },
-    {
-      "id": "rbNIk9RKAmQ",
-      "title": "Rescuers save roe deer trapped in ice in Russia's Far East",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-04T14:20:35.000Z",
-      "description": "Rescuers saved a young roe deer trapped on ice in Russia’s Far East."
+      "publishedAt": "2026-11-05T06:53:00.000Z",
+      "description": "The Democrats have won the House and Senate in a huge blow to Donald Trump's power."
     }
   ]
 }

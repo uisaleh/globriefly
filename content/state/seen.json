@@ -1,17 +1,5 @@
 {
   "urls": {
-    "https://thehill.com/homenews/campaign/6181594-voters-prioritize-economy-healthcare-iran/": 1793304917601,
-    "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender": 1793304917601,
-    "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html": 1793304946924,
-    "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death": 1793304946924,
-    "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html": 1793304946924,
-    "https://www.rnz.co.nz/life/people/celebrity/legendary-english-actor-patrick-stewart-has-died-aged-86": 1793304946924,
-    "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead": 1793304946924,
-    "https://www.rollingstone.com/tv-movies/tv-movie-news/patrick-stewart-star-trek-actor-dead-1235141000/": 1793304946924,
-    "https://variety.com/2026/tv/news/patrick-stewart-dead-star-trek-picardx-men-xavier-1236934412/": 1793304946924,
-    "https://deadline.com/2026/10/patrick-stewart-dead-1237208580/": 1793304946924,
-    "https://news.sky.com/story/star-trek-and-x-men-actor-sir-patrick-stewart-dies-13605543": 1793304946924,
-    "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/": 1793304946924,
     "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss": 1793321765890,
     "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report": 1793321765890,
     "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428": 1793321765890,
@@ -244,11 +232,19 @@
     "https://www.hollywoodreporter.com/news/general-news/russell-brand-guilty-trial-rape-sexual-assault-verdicts-1236747548/": 1793892439983,
     "https://www.rollingstone.com/tv-movies/tv-movie-news/russell-brand-verdict-rape-trial-1235651472/": 1793892439983,
     "https://variety.com/2026/tv/global/russell-brand-verdict-guilty-rape-sexual-assault-1236937565/": 1793892439983,
-    "https://deadline.com/2026/11/russell-brand-found-guilty-rape-sexual-assault-1237212032/": 1793892439983
+    "https://deadline.com/2026/11/russell-brand-found-guilty-rape-sexual-assault-1237212032/": 1793892439983,
+    "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html": 1793915947343,
+    "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss": 1793915947343,
+    "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns": 1793915947343,
+    "https://www.abc.net.au/news/2026-11-06/cristiano-ronaldo-announces-retirement-international-football/107353704": 1793915955336,
+    "https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement": 1793915955336,
+    "http://www.africanews.com/2026/11/05/cristiano-ronaldo-announces-international-retirement-from-portugal/": 1793915955336,
+    "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss": 1793915955336,
+    "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss": 1793915955336,
+    "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf": 1793915955336,
+    "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss": 1793915955336
   },
   "fps": {
-    "ahead-concerns-economy-gallup-healthcare-iran-midterms-top": 1793304917601,
-    "memorable-patrick-performances-stewart": 1793304946924,
     "500bn-fears-google-plunges-rattle-street-value-wall": 1793321765890,
     "appeal-case-court-erin-murders-mushroom-patterson-rejects": 1793321782071,
     "ceo-experience-logged-moving-only-reddit": 1793343808294,
@@ -299,6 +295,8 @@
     "bigger-centers-clash-coming-data-midterms": 1793860770311,
     "democracy-face-hong-jailed-joshua-kong-pro-protests": 1793860793079,
     "burnham-g20-invited-manchester-putin-summit": 1793892347658,
-    "assault-brand-found-guilty-rape-russell-sexual": 1793892439983
+    "assault-brand-found-guilty-rape-russell-sexual": 1793892439983,
+    "civil-department-dhillon-harmeet-justice-leader-resigns-rights": 1793915947343,
+    "cristiano-football-international-retires-ronaldo-superstar": 1793915955336
   }
 }
