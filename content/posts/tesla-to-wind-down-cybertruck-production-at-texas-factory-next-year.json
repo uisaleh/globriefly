@@ -100,6 +100,9 @@
   "publishedAt": "2026-11-06T10:45:29.930Z",
   "updatedAt": "2026-11-06T10:45:29.930Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173725248681745",
+    "sharedAt": "2026-11-06T10:49:03.776Z"
+  },
   "ogImage": "/og/tesla-to-wind-down-cybertruck-production-at-texas-factory-next-year.jpg"
 }
