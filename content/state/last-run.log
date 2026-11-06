@@ -1,24 +1,26 @@
-02:21:15 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-02:21:15 collecting videos…
-02:21:40   video feed BBC News failed: Status code 404
-02:22:06   video feed Al Jazeera English failed: Status code 404
-02:22:32   video feed DW News failed: Status code 404
-02:22:57   video feed FRANCE 24 English failed: Status code 404
-02:23:23   video feed Sky News failed: Status code 404
-02:23:45 videos: saved 24
-02:23:45 collecting feeds…
-02:23:48   video feed Reuters failed: Status code 404
-02:23:50 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-02:23:50 829 new items
-02:23:51 605 candidate stories
-02:23:51 categories needing stories: world, business, science, health, entertainment, politics, sports → reserved world
-02:23:51 writing: California governor commutes sentences of more than 500 people on death row (8 sources)
-02:23:56   video feed Associated Press: 15 in feed, 5 kept
-02:24:07   source text: 5050 / 0 / 6971 / 3233 chars
-02:24:15   ✓ published: /news/california-governor-commutes-every-death-row-sentence-in-historic/ [world] image: wikimedia via idea "Gavin Newsom California governor"
-02:24:15 writing: New York Times In Advanced Talks To Buy Letterboxd For Reported $330 Million (5 sources)
-02:24:15   source text: 1611 / 1111 / 1602 chars
-02:24:16 gemini gemini-3.5-flash-lite failed (503): {
+10:45:15 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+10:45:15 collecting videos…
+10:45:15   video feed BBC News: 15 in feed, 5 kept
+10:45:15   video feed Al Jazeera English: 15 in feed, 5 kept
+10:45:15   video feed DW News: 15 in feed, 5 kept
+10:45:15   video feed FRANCE 24 English: 15 in feed, 5 kept
+10:45:15   video feed Sky News: 15 in feed, 5 kept
+10:45:15   video feed Reuters: 15 in feed, 5 kept
+10:45:15   video feed Associated Press: 15 in feed, 5 kept
+10:45:15 videos: saved 24
+10:45:15 collecting feeds…
+10:45:19 feed failed: France 24 https://www.france24.com/en/rss — Status code 403
+10:45:19 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+10:45:19 637 new items
+10:45:20 483 candidate stories
+10:45:20 categories needing stories: business, technology, science, health, politics, sports, world → reserved business
+10:45:20 writing: Is it the end of the Cybertruck? Elon Musk announces factory will shift production (2 sources)
+10:45:20   source text: 1567 / 1567 / 1567 chars
+10:45:31   ✓ published: /news/tesla-to-wind-down-cybertruck-production-at-texas-factory-next-year/ [business] image: wikimedia via idea "Elon Musk Tesla Cybertruck"
+10:45:31 writing: Trump signs order to preserve Oval Office as national monument (7 sources)
+10:45:31   source text: 3471 / 4815 / 1975 chars
+10:45:38   too close to source wording — rewriting
+10:45:39 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -26,15 +28,5 @@
   }
 }
 
-02:24:30   ✓ published: /news/new-york-times-company-in-talks-to-purchase-letterboxd-for-millions/ [entertainment] image: wikimedia via name "New York Times"
-02:24:30 writing explainer for: California governor commutes sentences of more than 500 people on death row
-02:24:31 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-02:24:41   ✓ explainer: /news/why-did-california-commute-every-death-row-sentence/
-02:24:41 done — 2 stories
+10:45:50   skipped
+10:45:50 done — 1 stories
