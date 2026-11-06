@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/": 1793369065719,
-    "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack": 1793369065719,
-    "https://www.scmp.com/news/hong-kong/series/3372759/tai-po-fire-report": 1793369137723,
-    "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/": 1793369137723,
-    "https://phys.org/news/2026-10-pollution-people-indonesia-september.html": 1793369137723,
-    "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/science-health/indonesia-wildfire-toll/": 1793369137723,
-    "https://www.scmp.com/news/hong-kong/society/article/3372622/why-did-it-take-11-months-apology-too-late-some-tai-po-fire-survivors": 1793369137723,
-    "https://www.scmp.com/news/china/article/3372658/lulas-win-aids-china-ties-hong-kong-official-quits-over-tai-po-fire-scmps-7-highlights": 1793369137723,
     "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html": 1793387923255,
     "https://sports.yahoo.com/articles/return-mac-190300162.html": 1793387936748,
     "\n                                                https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-update-bills/\n                    ": 1793387936748,
@@ -249,11 +241,18 @@
     "https://www.channelnewsasia.com/world/trump-oval-office-national-monument-white-house-6529706": 1793961950423,
     "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html": 1793961950423,
     "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation": 1793961950423,
-    "https://www.scmp.com/news/world/united-states-canada/article/3373469/trumps-first-move-after-midterms-ensuring-future-presidents-cant-change-his-oval-office": 1793961950423
+    "https://www.scmp.com/news/world/united-states-canada/article/3373469/trumps-first-move-after-midterms-ensuring-future-presidents-cant-change-his-oval-office": 1793961950423,
+    "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/": 1793987732347,
+    "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/": 1793987732347,
+    "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested": 1793987735321,
+    "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html": 1793987735321,
+    "https://timesofindia.indiatimes.com/world/us/meghan-markles-father-arrested-for-possessing-child-sexual-abuse-materials/articleshow/135614822.cms": 1793987735321,
+    "https://www.rollingstone.com/culture/culture-news/thomas-markle-arrested-allegations-child-sex-abuse-images-1235653911/": 1793987735321,
+    "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession": 1793987735321,
+    "https://www.thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece": 1793987735321,
+    "https://www.scmp.com/news/world/united-states-canada/article/3373612/meghans-father-thomas-markle-arrested-us-child-sex-abuse-material-charges": 1793987735321
   },
   "fps": {
-    "binance-blamed-breach-hackers-korean-north-record-stealing": 1793369065719,
-    "fire-report-tai": 1793369137723,
     "extreme-flavors-pressure-reveals-superconductivity-two-under-ute": 1793387923255,
     "mac-return": 1793387936748,
     "flyover-halloween-plane-residents-startled-trick-trump": 1793403731805,
@@ -304,6 +303,8 @@
     "500-california-commutes-death-governor-people-row-sentences": 1793931853857,
     "330-advanced-buy-letterboxd-million-reported-talks-times": 1793931867920,
     "announces-cybertruck-elon-end-factory-musk-production-shift": 1793961929362,
-    "monument-national-office-order-oval-preserve-signs-trump": 1793961950424
+    "monument-national-office-order-oval-preserve-signs-trump": 1793961950424,
+    "able-alexa-amazon-shop-soon-text-you": 1793987732347,
+    "abuse-arrested-charges-child-father-florida-markle-material": 1793987735321
   }
 }

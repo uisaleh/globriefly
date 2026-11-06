@@ -1,32 +1,25 @@
-10:45:15 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-10:45:15 collecting videos…
-10:45:15   video feed BBC News: 15 in feed, 5 kept
-10:45:15   video feed Al Jazeera English: 15 in feed, 5 kept
-10:45:15   video feed DW News: 15 in feed, 5 kept
-10:45:15   video feed FRANCE 24 English: 15 in feed, 5 kept
-10:45:15   video feed Sky News: 15 in feed, 5 kept
-10:45:15   video feed Reuters: 15 in feed, 5 kept
-10:45:15   video feed Associated Press: 15 in feed, 5 kept
-10:45:15 videos: saved 24
-10:45:15 collecting feeds…
-10:45:19 feed failed: France 24 https://www.france24.com/en/rss — Status code 403
-10:45:19 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-10:45:19 637 new items
-10:45:20 483 candidate stories
-10:45:20 categories needing stories: business, technology, science, health, politics, sports, world → reserved business
-10:45:20 writing: Is it the end of the Cybertruck? Elon Musk announces factory will shift production (2 sources)
-10:45:20   source text: 1567 / 1567 / 1567 chars
-10:45:31   ✓ published: /news/tesla-to-wind-down-cybertruck-production-at-texas-factory-next-year/ [business] image: wikimedia via idea "Elon Musk Tesla Cybertruck"
-10:45:31 writing: Trump signs order to preserve Oval Office as national monument (7 sources)
-10:45:31   source text: 3471 / 4815 / 1975 chars
-10:45:38   too close to source wording — rewriting
-10:45:39 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-10:45:50   skipped
-10:45:50 done — 1 stories
+17:55:21 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+17:55:21 collecting videos…
+17:55:21   video feed BBC News: 15 in feed, 5 kept
+17:55:21   video feed Al Jazeera English: 15 in feed, 5 kept
+17:55:22   video feed DW News: 15 in feed, 5 kept
+17:55:22   video feed FRANCE 24 English: 15 in feed, 5 kept
+17:55:22   video feed Sky News: 15 in feed, 5 kept
+17:55:22   video feed Reuters: 15 in feed, 5 kept
+17:55:22   video feed Associated Press: 15 in feed, 5 kept
+17:55:22 videos: saved 24
+17:55:22 collecting feeds…
+17:55:26 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+17:55:26 895 new items
+17:55:27 716 candidate stories
+17:55:27 categories needing stories: technology, science, health, politics, business, sports, world → reserved technology
+17:55:27 writing: You'll soon be able to text Alexa to shop on Amazon (2 sources)
+17:55:27   source text: 1553 / 2215 chars
+17:55:32 writer returned unusable output: { "headline": "Amazon introduces text-based shopping assistant for US customers", "standfirst": "Amazon has launched a new texting feature for its Alexa AI 
+17:55:32   skipped
+17:55:32 writing: Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material (7 sources)
+17:55:32   source text: 5187 / 1906 / 4101 chars
+17:55:35 gemini gemini-3.5-flash-lite failed (200): empty response
+17:55:35 gemini gemini-3.6-flash failed (200): empty response
+17:55:35   skipped
+17:55:35 done — 0 stories
