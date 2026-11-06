@@ -127,6 +127,9 @@
   "publishedAt": "2026-11-06T23:04:59.461Z",
   "updatedAt": "2026-11-06T23:04:59.461Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173785104681745",
+    "sharedAt": "2026-11-06T23:08:32.817Z"
+  },
   "ogImage": "/og/kenyan-doomsday-sect-leader-receives-two-centuries-in-prison-for-mass.jpg"
 }
