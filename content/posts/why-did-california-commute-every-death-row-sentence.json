@@ -95,6 +95,9 @@
   "publishedAt": "2026-11-06T02:24:40.659Z",
   "updatedAt": "2026-11-06T02:24:40.659Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173690304681745",
+    "sharedAt": "2026-11-06T02:28:38.943Z"
+  },
   "ogImage": "/og/why-did-california-commute-every-death-row-sentence.jpg"
 }

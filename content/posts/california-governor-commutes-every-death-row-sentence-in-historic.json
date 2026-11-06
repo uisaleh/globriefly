@@ -114,6 +114,9 @@
   "publishedAt": "2026-11-06T02:24:14.263Z",
   "updatedAt": "2026-11-06T02:24:14.263Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173689854681745",
+    "sharedAt": "2026-11-06T02:27:53.232Z"
+  },
   "ogImage": "/og/california-governor-commutes-every-death-row-sentence-in-historic.jpg"
 }

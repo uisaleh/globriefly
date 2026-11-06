@@ -110,6 +110,9 @@
   "publishedAt": "2026-11-06T02:24:29.790Z",
   "updatedAt": "2026-11-06T02:24:29.790Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173689962681745",
+    "sharedAt": "2026-11-06T02:28:15.469Z"
+  },
   "ogImage": "/og/new-york-times-company-in-talks-to-purchase-letterboxd-for-millions.jpg"
 }
