@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html": 1793387923255,
-    "https://sports.yahoo.com/articles/return-mac-190300162.html": 1793387936748,
-    "\n                                                https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-update-bills/\n                    ": 1793387936748,
-    "\n                                                https://www.cbssports.com/betting/news/nfl-longshot-parlay-picks-best-bets-player-props-week-8-2026/\n                    ": 1793387936748,
-    "\n                                                https://www.cbssports.com/betting/news/college-football-parlay-picks-predictions-bets-week-9-2026/\n                    ": 1793387936748,
-    "https://www.cricinfo.com/ci/content/story/1560774.html?ex_cid=OTC-RSS": 1793387936748,
-    "http://www.africanews.com/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest/": 1793387936748,
-    "https://www.euronews.com/video/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest": 1793387936748,
-    "http://www.africanews.com/2026/10/29/cameroon-families-demand-return-of-relatives-from-ukraine/": 1793387936748,
     "https://www.nytimes.com/2026/10/30/us/politics/air-force-flyover.html": 1793403731805,
     "https://timesofindia.indiatimes.com/world/us/trumps-halloween-surprise-sparks-panic-in-washington-residents-call-911-fearing-plane-crash-as-air-force-one-showed-low-altitude-flyover/articleshow/135377172.cms": 1793403731805,
     "https://www.channelnewsasia.com/world/pope-leo-makes-history-us-midterm-vote-6508626": 1793403737638,
@@ -250,11 +241,19 @@
     "https://www.rollingstone.com/culture/culture-news/thomas-markle-arrested-allegations-child-sex-abuse-images-1235653911/": 1793987735321,
     "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession": 1793987735321,
     "https://www.thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece": 1793987735321,
-    "https://www.scmp.com/news/world/united-states-canada/article/3373612/meghans-father-thomas-markle-arrested-us-child-sex-abuse-material-charges": 1793987735321
+    "https://www.scmp.com/news/world/united-states-canada/article/3373612/meghans-father-thomas-markle-arrested-us-child-sex-abuse-material-charges": 1793987735321,
+    "https://www.nytimes.com/2026/11/06/arts/television/melania-trump-the-series-amazon-prime.html": 1794006266208,
+    "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video": 1794006266208,
+    "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison": 1794006295624,
+    "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html": 1794006295624,
+    "https://www.channelnewsasia.com/world/kenya-paul-mackenzie-mass-murder-sentenced-prison-6532176": 1794006295624,
+    "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie": 1794006295624,
+    "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder": 1794006295624,
+    "https://abcnews.com/International/wireStory/leader-kenyan-doomsday-cult-sentenced-200-years-prison-137905380": 1794006295624,
+    "http://www.africanews.com/2026/11/06/kenyan-doomsday-cult-leader-sentenced-to-200-years-in-prison-for-murder-of-191/": 1794006295624,
+    "https://www.scmp.com/news/world/africa/article/3373594/kenyan-doomsday-cult-leader-jailed-200-years-murdering-191-followers": 1794006295624
   },
   "fps": {
-    "extreme-flavors-pressure-reveals-superconductivity-two-under-ute": 1793387923255,
-    "mac-return": 1793387936748,
     "flyover-halloween-plane-residents-startled-trick-trump": 1793403731805,
     "history-leo-makes-midterm-pope-vote": 1793403737638,
     "apology-britain-formal-minister-open-prime-slavery": 1793424729126,
@@ -305,6 +304,8 @@
     "announces-cybertruck-elon-end-factory-musk-production-shift": 1793961929362,
     "monument-national-office-order-oval-preserve-signs-trump": 1793961950424,
     "able-alexa-amazon-shop-soon-text-you": 1793987732347,
-    "abuse-arrested-charges-child-father-florida-markle-material": 1793987735321
+    "abuse-arrested-charges-child-father-florida-markle-material": 1793987735321,
+    "amazon-director-film-follows-melania-part-same-series": 1794006266208,
+    "200-cult-kenyan-leader-prison-sentenced-years": 1794006295624
   }
 }

@@ -1,25 +1,23 @@
-17:55:21 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-17:55:21 collecting videos…
-17:55:21   video feed BBC News: 15 in feed, 5 kept
-17:55:21   video feed Al Jazeera English: 15 in feed, 5 kept
-17:55:22   video feed DW News: 15 in feed, 5 kept
-17:55:22   video feed FRANCE 24 English: 15 in feed, 5 kept
-17:55:22   video feed Sky News: 15 in feed, 5 kept
-17:55:22   video feed Reuters: 15 in feed, 5 kept
-17:55:22   video feed Associated Press: 15 in feed, 5 kept
-17:55:22 videos: saved 24
-17:55:22 collecting feeds…
-17:55:26 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-17:55:26 895 new items
-17:55:27 716 candidate stories
-17:55:27 categories needing stories: technology, science, health, politics, business, sports, world → reserved technology
-17:55:27 writing: You'll soon be able to text Alexa to shop on Amazon (2 sources)
-17:55:27   source text: 1553 / 2215 chars
-17:55:32 writer returned unusable output: { "headline": "Amazon introduces text-based shopping assistant for US customers", "standfirst": "Amazon has launched a new texting feature for its Alexa AI 
-17:55:32   skipped
-17:55:32 writing: Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material (7 sources)
-17:55:32   source text: 5187 / 1906 / 4101 chars
-17:55:35 gemini gemini-3.5-flash-lite failed (200): empty response
-17:55:35 gemini gemini-3.6-flash failed (200): empty response
-17:55:35   skipped
-17:55:35 done — 0 stories
+23:03:40 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+23:03:40 collecting videos…
+23:03:40   video feed BBC News: 15 in feed, 5 kept
+23:04:06   video feed Al Jazeera English failed: Status code 404
+23:04:06   video feed DW News: 15 in feed, 5 kept
+23:04:08   video feed FRANCE 24 English: 15 in feed, 5 kept
+23:04:08   video feed Sky News: 15 in feed, 5 kept
+23:04:08   video feed Reuters: 15 in feed, 5 kept
+23:04:16   video feed Associated Press: 15 in feed, 5 kept
+23:04:16 videos: saved 24
+23:04:16 collecting feeds…
+23:04:19 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+23:04:19 858 new items
+23:04:21 697 candidate stories
+23:04:21 categories needing stories: politics, technology, science, health, sports, business, world → reserved politics
+23:04:21 writing: Amazon Follows Melania Trump Film With Two-Part Series by the Same Director (2 sources)
+23:04:21   source text: 1654 / 0 / 0 chars
+23:04:27   ✓ published: /news/amazon-announces-two-part-prime-video-series-about-melania-trump/ [politics] image: wikimedia via idea "Melania Trump"
+23:04:27 writing: Kenyan cult leader sentenced to 200 years in prison (8 sources)
+23:04:43   source text: 781 / 3817 / 3259 / 0 / 3462 chars
+23:04:48   too close to source wording — rewriting
+23:05:00   ✓ published: /news/kenyan-doomsday-sect-leader-receives-two-centuries-in-prison-for-mass/ [world] image: wikimedia via subject "courthouse exterior building"
+23:05:00 done — 2 stories
