@@ -1,21 +1,24 @@
-21:57:21 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-21:57:21 collecting videos…
-21:57:21   video feed BBC News: 15 in feed, 5 kept
-21:57:21   video feed Al Jazeera English: 15 in feed, 5 kept
-21:57:21   video feed DW News: 15 in feed, 5 kept
-21:57:21   video feed FRANCE 24 English: 15 in feed, 5 kept
-21:57:21   video feed Sky News: 15 in feed, 5 kept
-21:57:21   video feed Reuters: 15 in feed, 5 kept
-21:57:21   video feed Associated Press: 15 in feed, 5 kept
-21:57:21 videos: saved 24
-21:57:21 collecting feeds…
-21:57:26 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-21:57:26 935 new items
-21:57:28 707 candidate stories
-21:57:28 categories needing stories: politics, business, science, health, sports, entertainment, world → reserved politics
-21:57:28 writing: Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns (3 sources)
-21:57:43   source text: 2814 / 0 / 0 chars
-21:57:47 gemini gemini-3.5-flash-lite failed (503): {
+02:21:15 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+02:21:15 collecting videos…
+02:21:40   video feed BBC News failed: Status code 404
+02:22:06   video feed Al Jazeera English failed: Status code 404
+02:22:32   video feed DW News failed: Status code 404
+02:22:57   video feed FRANCE 24 English failed: Status code 404
+02:23:23   video feed Sky News failed: Status code 404
+02:23:45 videos: saved 24
+02:23:45 collecting feeds…
+02:23:48   video feed Reuters failed: Status code 404
+02:23:50 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+02:23:50 829 new items
+02:23:51 605 candidate stories
+02:23:51 categories needing stories: world, business, science, health, entertainment, politics, sports → reserved world
+02:23:51 writing: California governor commutes sentences of more than 500 people on death row (8 sources)
+02:23:56   video feed Associated Press: 15 in feed, 5 kept
+02:24:07   source text: 5050 / 0 / 6971 / 3233 chars
+02:24:15   ✓ published: /news/california-governor-commutes-every-death-row-sentence-in-historic/ [world] image: wikimedia via idea "Gavin Newsom California governor"
+02:24:15 writing: New York Times In Advanced Talks To Buy Letterboxd For Reported $330 Million (5 sources)
+02:24:15   source text: 1611 / 1111 / 1602 chars
+02:24:16 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -23,7 +26,9 @@
   }
 }
 
-21:57:54 gemini gemini-3.5-flash-lite failed (503): {
+02:24:30   ✓ published: /news/new-york-times-company-in-talks-to-purchase-letterboxd-for-millions/ [entertainment] image: wikimedia via name "New York Times"
+02:24:30 writing explainer for: California governor commutes sentences of more than 500 people on death row
+02:24:31 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -31,16 +36,5 @@
   }
 }
 
-21:58:33 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-21:59:09   ✓ published: /news/us-civil-rights-division-chief-harmeet-dhillon-resigns-following/ [politics] image: wikimedia via idea "Harmeet Dhillon"
-21:59:09 writing: Superstar Cristiano Ronaldo retires from international football (6 sources)
-21:59:10   source text: 2174 / 377 / 5345 / 4569 chars
-21:59:16   ✓ published: /news/cristiano-ronaldo-ends-record-breaking-international-career-with/ [sports] image: wikimedia via idea "Cristiano Ronaldo Portugal"
-21:59:16 done — 2 stories
+02:24:41   ✓ explainer: /news/why-did-california-commute-every-death-row-sentence/
+02:24:41 done — 2 stories

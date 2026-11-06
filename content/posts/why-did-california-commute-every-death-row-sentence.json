@@ -1,0 +1,100 @@
+{
+  "slug": "why-did-california-commute-every-death-row-sentence",
+  "status": "published",
+  "type": "explainer",
+  "category": "world",
+  "region": "Americas",
+  "headline": "Why did California commute every death row sentence?",
+  "standfirst": "California Governor Gavin Newsom has commuted the sentences of all 548 inmates on death row, sparking national debate.",
+  "keyPoints": [
+    "Governor Gavin Newsom commuted the sentences of all 548 inmates on California's death row.",
+    "The inmates' sentences were changed to life imprisonment without the possibility of parole.",
+    "California has not executed a prisoner in two decades despite having the largest death row in the country.",
+    "The decision requires approval from at least four judges on the California Supreme Court."
+  ],
+  "sections": [
+    {
+      "heading": "What did Governor Newsom announce?",
+      "paragraphs": [
+        "California Governor Gavin Newsom has made a historic announcement regarding the state's criminal justice system, declaring that he will commute the sentences of all 548 people currently on death row. Instead of facing capital punishment, these individuals will serve life sentences without the possibility of parole. This sweeping action represents the largest mass clemency in the history of the United States.",
+        "Newsom explained his decision in an open letter to the public, stating that state-sanctioned killing contradicts the values of California and undermines the legal system. Although the state has maintained the largest death row population in the country, it has not actually carried out an execution in twenty years. Supporters of the move point out that the change effectively resolves a long-standing logistical and moral stalemate in the state."
+      ]
+    },
+    {
+      "heading": "Why is the death penalty so controversial?",
+      "paragraphs": [
+        "Capital punishment remains a deeply divisive topic across the United States. Proponents argue that the death penalty serves as a necessary deterrent for the most heinous crimes and provides ultimate justice for victims and their families. At the federal level, leaders like President Donald Trump have championed its use, pointing to serious crimes that warrant the ultimate punishment.",
+        "On the other hand, critics and civil rights organizations emphasize the immense financial cost, racial disparities in sentencing, and the risk of executing innocent people. According to the Death Penalty Information Center, California has spent billions of dollars on its capital punishment system since the late 1970s while executing only a fraction of those condemned. Furthermore, numerous individuals nationwide have been exonerated after being wrongfully convicted and sentenced to death."
+      ]
+    },
+    {
+      "heading": "What happens next for the inmates?",
+      "paragraphs": [
+        "While the governor holds the constitutional authority to grant clemency, the process in California is not entirely instantaneous. Under state law, because many of the affected individuals have multiple felony convictions, at least four of the seven justices on the California Supreme Court must review and sign off on the commutations before they become officially final.",
+        "For the inmates and their families, the announcement brings a mixture of relief and lingering grief. Legal experts note that while these individuals will spend the rest of their natural lives behind bars, the machinery of state executions in California has effectively been dismantled. The decision also leaves a lasting legacy for Newsom as his final term as governor comes to a close."
+      ]
+    }
+  ],
+  "highlight": "State-sanctioned killing is incompatible with California’s values, undermines the foundations of our legal system, and diminishes each of us.",
+  "timeline": [],
+  "tags": [
+    "California",
+    "Gavin Newsom",
+    "death penalty",
+    "legal system",
+    "politics"
+  ],
+  "socialSummary": "California Governor Gavin Newsom has commuted the sentences of all 548 inmates on the state's death row to life imprisonment.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/San_Quentin_State_Prison.jpg/1920px-San_Quentin_State_Prison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "San Quentin State Prison, Marin County, California",
+    "credit": "Frank Schulenburg / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:San_Quentin_State_Prison.jpg",
+    "license": "CC BY-SA 4.0",
+    "provider": "wikimedia",
+    "query": "San Quentin State Prison",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "San Quentin State Prison",
+    "names": [
+      "Gavin Newsom",
+      "California Supreme Court"
+    ],
+    "subject": "prison exterior wall"
+  },
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss"
+    },
+    {
+      "name": "NPR",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6030961/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "name": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3373467/california-governor-newsom-granting-clemency-all-548-death-row-inmates-state"
+    }
+  ],
+  "sourceTitles": [
+    "California governor commutes sentences of more than 500 people on death row",
+    "Newsom announces he will commute sentences of inmates on California's death row",
+    "California governor commutes sentences for state's 548 death row inmates",
+    "California Governor Newsom granting clemency to all 548 death row inmates in state",
+    "California Gov. Gavin Newsom Commutes Hundreds of Death Row Sentences",
+    "California governor says commuting all death sentences in state"
+  ],
+  "sourceCount": 8,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-11-06T02:24:40.659Z",
+  "updatedAt": "2026-11-06T02:24:40.659Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-did-california-commute-every-death-row-sentence.jpg"
+}
