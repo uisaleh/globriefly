@@ -1,13 +1,117 @@
 {
-  "updatedAt": "2026-11-07T09:57:47.752Z",
+  "updatedAt": "2026-11-07T16:22:51.358Z",
   "videos": [
     {
-      "id": "R3VWe_-vqA0",
-      "title": "Pope urges healthcare for all in Uruguay • FRANCE 24 English",
+      "id": "MLFgNRx6-IE",
+      "title": "Hundreds march in Pau, France against high living costs",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-07T16:04:50.000Z",
+      "description": "Around 500 people took part in a demonstration in Pau, France, as trade unions called for action against the rising cost of living and in support of high school students."
+    },
+    {
+      "id": "-1h0A8X10Ic",
+      "title": "Five killed and dozen more injured in Krakow shooting, police say",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-07T15:47:51.000Z",
+      "description": "Five people have been killed after a shooting in Krakow's Main Market Square and around a dozen people are injured, including police officers, Małopolska Police said."
+    },
+    {
+      "id": "vYxljf_Y17g",
+      "title": "Europe joins data center protests",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-07T15:20:19.000Z",
+      "description": "Will Europe follow the lead of US voters who swept Democrats to power on the promise of curtailing data center growth? Weekend protests across Europe are focussed on highlighting the downside of the AI build out and aski"
+    },
+    {
+      "id": "6RlDLB5Awrw",
+      "title": "Evan Gershkovich reflects on 491 days in Russian prison",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-07T15:04:00.000Z",
+      "description": "Freed in an East-West prisoner swap after 491 days in a Russian prison, US journalist Evan Gershkovich reflects on his time behind bars and his views on Vladimir Putin's Russia in his new book, 'This Cursed Beautiful Lan"
+    },
+    {
+      "id": "Jw0spSEC5S0",
+      "title": "Mélenchon rallies supporters ahead of French election • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-07T09:41:22.000Z",
-      "description": "Three weeks after undergoing surgery for lung cancer, Pope Francis has begun a three-nation tour of Latin America, saying he felt better than he looked. His first stop is Uruguay, the continent’s most secular country. Ja"
+      "publishedAt": "2026-11-07T14:45:03.000Z",
+      "description": "France Unbowed is holding a major campaign rally at Le Bourget, near Paris, as its leader Jean-Luc Mélenchon gains momentum ahead of April’s presidential election, currently polling in second place. France 24 reporter Ol"
+    },
+    {
+      "id": "VhZqPA0eGi8",
+      "title": "Pope Leo 'in fairly good shape' after cancer treatment",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-07T14:42:50.000Z",
+      "description": "Pope Leo XIV spoke on his way to Uruguay as part of his three-nation Latin America tour."
+    },
+    {
+      "id": "T4lpePqFv7Y",
+      "title": "Displaced families in Gaza endure a difficult night as heavy rain floods tents and shelters",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-07T12:36:26.000Z",
+      "description": "The rain marks the start of another difficult winter for hundreds of thousands of Palestinians who have been displaced by the war and are living in tents or makeshift shelters with little protection.\r"
+    },
+    {
+      "id": "EKUfCiGiV2A",
+      "title": "CENTCOM forms task force to disrupt Iran's land supply routes",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-07T15:36:52.000Z",
+      "description": "US Central Command (CENTCOM) has announced it is launching a new task force against Iran."
+    },
+    {
+      "id": "pIjbDM9QTRc",
+      "title": "What do we know about Stranger Things prequel series?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-07T12:15:37.000Z",
+      "description": ""
+    },
+    {
+      "id": "OzWCdBIEZ50",
+      "title": "Peru erects 14-meter statue of Pope Leo XIV ahead of visit",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-07T13:45:22.000Z",
+      "description": "A towering statue of Pope Leo XIV has been erected in Peru's port city of Callao, where crowds gathered ahead of the pontiff's expected arrival on November 11."
+    },
+    {
+      "id": "MXTF-2OcOhg",
+      "title": "What does Stephen Miller's promotion mean for Trump's White House?",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-07T15:03:03.000Z",
+      "description": "President Trump taps Stephen Miller as White House chief of staff, a move that could point to a tougher agender after Republicans lose control of Congress. Vice President JD Vance is also looking to build his own politic"
+    },
+    {
+      "id": "-EOyzePIjMM",
+      "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience' • FRANCE 24",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-07T13:29:27.000Z",
+      "description": "French unions and student groups are set to take to the streets for another day of protests on Saturday, while the Yellow Vests movement plans a separate rally in central Paris despite a ban by authorities. The demonstra"
+    },
+    {
+      "id": "auSH41DSPFg",
+      "title": "Andy Burnham considers changes to rape trials after Russell Brand conviction",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-07T14:33:51.000Z",
+      "description": "The Prime Minister says he will look at changes to rape trials to ensure women do not feel they are the ones on trial in court."
+    },
+    {
+      "id": "3zY7X1qX97I",
+      "title": "The connection between the push for school choice and Pete Hegseth",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-07T12:05:04.000Z",
+      "description": "Defense Secretary Pete Hegseth is among the high-profile proponents of classical Christian education, which has grown in popularity. The push to use taxpayer money to fund private schools is helping classical Christian s"
     },
     {
       "id": "szeYvzkXWmA",
@@ -18,52 +122,52 @@
       "description": "American forces struck Iran's Qeshm island overnight for at least the second time this week, with two missiles hitting the area, according to local and official Iranian media, which gave no details on damage."
     },
     {
-      "id": "J2EjN9Qn3hI",
-      "title": "Should Burnham learn from the midterms?",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-07T09:25:34.000Z",
-      "description": "\"Democracy is something that cannot be bought.\"⁠"
-    },
-    {
-      "id": "wFRe9LvCHDw",
-      "title": "Black sea drone strikes put key global trade route at risk",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-07T09:00:30.000Z",
-      "description": "At least seven cargo ships and tankers have been hit off Bulgaria and Romania in October. The drone strikes are driving up insurance costs, pressuring grain exports and worrying coastal towns that depend on tourism."
-    },
-    {
-      "id": "a9KGiE-kFzo",
-      "title": "1 killed and 2 others injured when a helicopter crashes into bay near Miami, officials say",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-07T08:52:27.000Z",
-      "description": "One person was killed and two others were seriously injured on Wednesday when a helicopter crashed into Biscayne Bay near Miami, officials said.\r"
-    },
-    {
-      "id": "jPL2ZPvnt4A",
-      "title": "Trump replaces Susie Wiles with Stephen Miller as White House chief of staff",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-07T05:37:02.000Z",
-      "description": "President Trump named longtime aide Stephen Miller as his chief of staff November 6, giving the architect of some of his toughest domestic policies one of the most powerful jobs in Washington after Republicans lost contr"
-    },
-    {
-      "id": "lWR-DSZppLI",
-      "title": "Russell Brand: What happened inside the court room?",
+      "id": "1pAgLpuxIdQ",
+      "title": "Naomi Watts 'deeply impressed' by Kim Kardashian's acting.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-06T23:30:09.000Z",
-      "description": "Russell Brand’s conviction for rape and sexual assault has brought renewed scrutiny to the actor and comedian, who cultivated an image of provocation and promiscuity before embracing an identity as a right-wing influence"
+      "publishedAt": "2026-11-07T11:50:51.000Z",
+      "description": ""
     },
     {
-      "id": "TSy-pLsJav4",
-      "title": "AI Data centres face growing backlash • FRANCE 24 English",
+      "id": "ZpIZAyobk0Q",
+      "title": "Why everyone suddenly needs Turkey for energy",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-07T12:52:00.000Z",
+      "description": "For decades, Turkey was heavily dependent on imported energy, spending billions on oil and gas from abroad. Now, Ankara has a bigger ambition: Not just securing its own energy future but becoming a country that helps pow"
+    },
+    {
+      "id": "MW6-01KFKZk",
+      "title": "Four injured after four-story building collapses in Brazil",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-07T14:28:28.000Z",
+      "description": "The roof of a four-story commercial building collapsed in São Paulo. Four people were injured, authorities said."
+    },
+    {
+      "id": "R3VWe_-vqA0",
+      "title": "Pope urges healthcare for all in Uruguay • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-07T09:39:54.000Z",
-      "description": "Democrats are also calling for tighter regulation of AI data centres, a concern shared across Europe. In Amsterdam, several hundred activists occupied the site of a planned Microsoft data centre as part of a two-day prot"
+      "publishedAt": "2026-11-07T09:41:22.000Z",
+      "description": "Three weeks after undergoing surgery for lung cancer, Pope Francis has begun a three-nation tour of Latin America, saying he felt better than he looked. His first stop is Uruguay, the continent’s most secular country. Ja"
+    },
+    {
+      "id": "i-T9VVqhq5g",
+      "title": "New trial for Ebola vaccine",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-07T12:43:37.000Z",
+      "description": "Two new Ebola vaccines are going to trialled in the Democratic Republic of Congo to stop the deadly outbreak which has devastated the country."
+    },
+    {
+      "id": "VfT4NybcwbQ",
+      "title": "High school students in Serbia paint over graffiti as part of a post-election cleanup wave",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-07T11:40:00.000Z",
+      "description": "Serbia's capital Belgrade has been getting a makeover after a youth-led movement's victory over a long-ruling strongman and his government in Oct. 25 elections. \r"
     },
     {
       "id": "FNSbFStKKz0",
@@ -74,124 +178,20 @@
       "description": "E-bikes are an increasingly popular way to get around in China. Manufacturers there are now looking to expand to markets abroad as fuel prices stay high and consumers look for electric alternatives, as Al Jazeera’s Katri"
     },
     {
-      "id": "a55tUavUdZU",
-      "title": "Could the AI boom leave Scotland facing water shortages and power cuts?",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-07T09:17:07.000Z",
-      "description": "Scottish data centres could cause water shortages, higher energy bills and even power cuts, according to Scottish government documents."
-    },
-    {
-      "id": "S2sRA5pDgtE",
-      "title": "India's AI ambitions: Can it become a global tech superpower?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-07T07:00:22.000Z",
-      "description": "India is betting big on AI. By 2047, the country aims to become one of the world's top three AI superpowers. Is that goal realistic? Or is India's vast market mainly a battleground for others?"
-    },
-    {
-      "id": "UVWbU5NLI4Q",
-      "title": "Evacuations as death toll rises to 53 after Russian airstrike on Komyshuvakha",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-07T05:01:13.000Z",
-      "description": "The death toll from Russian strikes on a former school and nearby shelter in the Ukrainian village of Komyshuvakha has risen to 53, according to the State Emergency Service of Ukraine.\r"
-    },
-    {
-      "id": "PH4KFjO-7yc",
-      "title": "Pope Leo in 'fairly good shape' starting South America tour after lung surgery",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-07T05:17:14.000Z",
-      "description": "Pope Leo said November 6 that he feels \"in fairly good shape\" after his lung cancer surgery last month, and that he never doubted he would go ahead with the intense 12-day trip across South America. "
-    },
-    {
-      "id": "Rqs6IGGRDsw",
-      "title": "US tech stocks rally after dramatic plunge but markets remain shaky",
+      "id": "3JbCfZGd2Sk",
+      "title": "Is it the end of the road for Tesla's Cybertruck?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-06T22:46:06.000Z",
-      "description": "US tech stocks have shown signs of a partial recovery after the value of shares in artificial intelligence and technology firms plummeted worldwide."
+      "publishedAt": "2026-11-07T11:15:36.000Z",
+      "description": ""
     },
     {
-      "id": "MKZaJvw7Nz8",
-      "title": "Kenyan cult leader sentenced to 200 years in prison • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-06T21:24:28.000Z",
-      "description": "In tonight's edition, cult leader Paul Mackenzie is sentenced to 200 years in prison for the murder of 190 children starved ‌to death on his orders. Also, in South Africa, activists warn that new data centres could put a"
-    },
-    {
-      "id": "r7Mn6TdZ0YM",
-      "title": "Qatari PM says US willing to seek solution to war with Iran",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-07T07:08:58.000Z",
-      "description": "Qatar's Prime Minister Mohammed bin Abdulrahman Al Thani says the US remains willing to seek a solution to the conflict with Iran, even after the midterm elections changed the political landscape in Washington. "
-    },
-    {
-      "id": "hZ0bGpFPnmE",
-      "title": "'Cloning is love': Pet owners explain why they cloned their pets",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-07T09:00:08.000Z",
-      "description": "Cloning pets is becoming more and more popular, even American football star Tom Brady recently admitted his dog was cloned. He did it with Viagen, a company based in the US. "
-    },
-    {
-      "id": "I8LXJeDXeIU",
-      "title": "Trillions lost as investors question the AI boom",
+      "id": "CpmRFNQLs54",
+      "title": "Paraguay's ousted leader under house arrest",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-07T05:00:16.000Z",
-      "description": "AI stocks have started to bounce back after a sell-off erased trillions of dollars in market value. But one day of gains doesn't answer the bigger question: can the enormous spending on chips and data centers deliver the"
-    },
-    {
-      "id": "sUykNrHi8gE",
-      "title": "Dad of 20-year-old co-pilot in Florida jet crash says her final radio calls showed 'she's tough'",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-06T21:57:41.000Z",
-      "description": "The father of the co-pilot who died along with eight others when her Learjet crashed in Florida feels immense pride when he listens to his daughter's heartbreaking final radio transmissions to try to figure out why it pl"
-    },
-    {
-      "id": "5HONoO1hxqc",
-      "title": "Susie Wiles replaced, tech stocks rebound, Cybertruck wind down",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-06T23:56:08.000Z",
-      "description": "Stephen Miller will replace Susie Wiles as President Trump's chief of staff, effective Monday. Wall Street attempts to recover after a major selloff on Thursday. Hoax bomb threats force flight diversions and emergency la"
-    },
-    {
-      "id": "xesCK6mfL2s",
-      "title": "Major construction ongoing near Iran missile bases",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-06T22:45:27.000Z",
-      "description": "Iran is undertaking significant new construction near at least two of its major missile sites, satellite images suggest. We examine why this poses a challenge for the US."
-    },
-    {
-      "id": "JuJqUuhERbU",
-      "title": "Europe bomb hoaxes widen • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-06T21:22:23.000Z",
-      "description": "The series of hoax bomb scares sent to several Irish media outlets and European airlines are likely part of a coordinated campaign of disruption, according to the Irish government. Dozens of commercial flights have been "
-    },
-    {
-      "id": "yCqRFRfund0",
-      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-07T07:03:58.000Z",
-      "description": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island, marking the first attacks since the November 3 midterm elections. Trump told reporters the conflict is ‘not a war’."
-    },
-    {
-      "id": "rQeLyrWiFKc",
-      "title": "Mornings with Ridge and Frost",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-06T21:14:59.000Z",
-      "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews."
+      "publishedAt": "2026-11-07T12:30:14.000Z",
+      "description": "Paraguay's ousted leader Santiago Pena has been placed under house arrest after lawmakers impeached him over a banking scandal. He's accused of channeling public funds into Ueno Bank, which later collapsed. The bank's fa"
     }
   ]
 }

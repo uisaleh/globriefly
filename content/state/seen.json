@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories": 1793449012746,
-    "https://www.thehindu.com/news/international/what-are-united-states-midterm-elections-2026-democrats-vs-republicans-donald-trump-what-it-means-for-india/article71643628.ece": 1793449012746,
-    "https://www.rollingstone.com/tv-movies/tv-movie-news/stream-florida-georgia-football-game-online-free-2026-1235649565/": 1793449020465,
-    "https://sports.yahoo.com/articles/watch-tcu-football-vs-kansas-120128337.html": 1793449020465,
-    "https://www.billboard.com/culture/product-recommendations/florida-vs-georgia-watch-college-football-live-online-free-1236370601/": 1793449020465,
     "https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/": 1793468481539,
     "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it": 1793468481539,
     "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/": 1793468550680,
@@ -253,11 +248,14 @@
     "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts": 1794045517466,
     "https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536": 1794045517466,
     "https://www.scmp.com/news/world/americas/article/3373623/paraguays-president-pena-impeached-over-ueno-banking-crisis-placed-under-house-arrest": 1794045517466,
-    "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf": 1794045517466
+    "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf": 1794045517466,
+    "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html": 1794068589039,
+    "https://www.thehindu.com/news/international/italian-foreign-minister-says-pro-russian-hackers-targeted-him-over-ukraine-support/article71678639.ece": 1794068608981,
+    "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf": 1794068608981,
+    "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss": 1794068608981,
+    "https://abcnews.com/International/wireStory/italys-meloni-blames-pro-russian-hackers-leak-foreign-137937793": 1794068608981
   },
   "fps": {
-    "billion-elections-have-megadonors-midterm-spent-these-total": 1793449012746,
-    "florida-football-free-game-georgia-how-livestream-online": 1793449020465,
     "how-instagram-purpose-reposting-what-you": 1793468481539,
     "attacks-iran-israel-leader-supreme-warns": 1793468550680,
     "channel-complex-evolution-gene-giant-illuminates-potassium-protein": 1793482086533,
@@ -308,6 +306,8 @@
     "because-bought-deal-developer-ends-fox-lucrative-roku": 1794019674895,
     "2026-blast-chief-decision-defends-democrats-elections-live": 1794019699604,
     "begins-forest-restoration-wildfire-work": 1794045509940,
-    "arrest-bank-collapse-house-ousted-paraguay-places-president": 1794045517466
+    "arrest-bank-collapse-house-ousted-paraguay-places-president": 1794045517466,
+    "ahead-congress-healthcare-makeup-prognosis-stocks-uncertain-why": 1794068589039,
+    "foreign-hackers-him-italian-minister-pro-russian-support": 1794068608981
   }
 }

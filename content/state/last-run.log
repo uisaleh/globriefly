@@ -1,22 +1,32 @@
-09:57:47 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-09:57:47 collecting videos…
-09:57:47   video feed BBC News: 15 in feed, 5 kept
-09:57:47   video feed Al Jazeera English: 15 in feed, 5 kept
-09:57:47   video feed DW News: 15 in feed, 5 kept
-09:57:47   video feed FRANCE 24 English: 15 in feed, 5 kept
-09:57:47   video feed Sky News: 15 in feed, 5 kept
-09:57:47   video feed Reuters: 15 in feed, 5 kept
-09:57:47   video feed Associated Press: 15 in feed, 5 kept
-09:57:47 videos: saved 24
-09:57:47 collecting feeds…
-09:57:51 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-09:57:51 439 new items
-09:57:51 347 candidate stories
-09:57:51 categories needing stories: science, health, sports, entertainment, world, business, technology → reserved science
-09:57:51 writing: New Forest wildfire restoration work begins (1 sources)
-09:57:51   source text: 3115 chars
-09:58:31   ✓ published: /news/restoration-efforts-commence-following-devastating-new-forest-wildfire/ [science] image: wikimedia via idea "New Forest landscape"
-09:58:31 writing: Paraguay places ousted president Peña under house arrest after bank collapse (6 sources)
-09:58:32   source text: 7000 / 241 / 4182 / 4087 chars
-09:58:38   ✓ published: /news/paraguay-ousts-president-and-places-him-under-arrest-following-bank/ [world] image: wikimedia via idea "Santiago Pena Paraguay"
-09:58:38 done — 2 stories
+16:22:51 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+16:22:51 collecting videos…
+16:22:51   video feed BBC News: 15 in feed, 5 kept
+16:22:51   video feed Al Jazeera English: 15 in feed, 5 kept
+16:22:51   video feed DW News: 15 in feed, 5 kept
+16:22:51   video feed FRANCE 24 English: 15 in feed, 5 kept
+16:22:51   video feed Sky News: 15 in feed, 5 kept
+16:22:51   video feed Reuters: 15 in feed, 5 kept
+16:22:51   video feed Associated Press: 15 in feed, 5 kept
+16:22:51 videos: saved 24
+16:22:51 collecting feeds…
+16:22:54 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+16:22:54 545 new items
+16:22:55 454 candidate stories
+16:22:55 categories needing stories: business, health, sports, entertainment, technology, world → reserved business
+16:22:55 writing: Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup (1 sources)
+16:22:55   source text: 1860 chars
+16:23:00   too close to source wording — rewriting
+16:23:10   ✓ published: /news/healthcare-sector-faces-unpredictable-outlook-following-congressional/ [business] image: wikimedia via idea "Wall Street stock exchange building"
+16:23:10 writing: Italian Foreign Minister says pro-Russian hackers targeted him over Ukraine support (4 sources)
+16:23:12   source text: 1626 / 1984 / 2332 chars
+16:23:13 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+16:23:23   too close to source wording — rewriting
+16:23:30   ✓ published: /news/italian-foreign-minister-targeted-by-dark-web-data-leak-over-ukraine/ [world] image: wikimedia via idea "Antonio Tajani Italy"
+16:23:30 done — 2 stories
