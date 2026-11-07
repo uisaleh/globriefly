@@ -113,6 +113,9 @@
   "publishedAt": "2026-11-07T02:48:26.666Z",
   "updatedAt": "2026-11-07T02:48:26.666Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173804940681745",
+    "sharedAt": "2026-11-07T02:52:21.873Z"
+  },
   "ogImage": "/og/why-is-donald-trump-making-stephen-miller-his-new-chief-of-staff.jpg"
 }

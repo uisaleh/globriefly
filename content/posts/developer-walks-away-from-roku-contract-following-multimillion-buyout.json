@@ -103,6 +103,9 @@
   "publishedAt": "2026-11-07T02:47:55.224Z",
   "updatedAt": "2026-11-07T02:47:55.224Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173804676681745",
+    "sharedAt": "2026-11-07T02:51:37.535Z"
+  },
   "ogImage": "/og/developer-walks-away-from-roku-contract-following-multimillion-buyout.jpg"
 }
