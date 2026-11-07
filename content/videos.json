@@ -1,21 +1,141 @@
 {
-  "updatedAt": "2026-11-07T16:22:51.358Z",
+  "updatedAt": "2026-11-07T20:50:52.632Z",
   "videos": [
     {
-      "id": "MLFgNRx6-IE",
-      "title": "Hundreds march in Pau, France against high living costs",
+      "id": "PJb2zu3noaE",
+      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-07T16:04:50.000Z",
-      "description": "Around 500 people took part in a demonstration in Pau, France, as trade unions called for action against the rising cost of living and in support of high school students."
+      "publishedAt": "2026-11-07T20:07:55.000Z",
+      "description": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger as Russian drones reach its outskirts. With the frontline less than 20km away, the city is racing to protect its streets as Al"
     },
     {
-      "id": "-1h0A8X10Ic",
-      "title": "Five killed and dozen more injured in Krakow shooting, police say",
+      "id": "vHPVeh_l5Yc",
+      "title": "Gunman opens fire in Polish city of Krakow, killing at least 6 people and injuring 15",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-07T19:58:00.000Z",
+      "description": "At least six people were killed and 15 suffered injuries after a gunman opened fire on random people in Krakow’s busy Main Square, a major tourist destination. Police shot and wounded the suspect after a gunfight, later "
+    },
+    {
+      "id": "HvO-FpUF-F4",
+      "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-07T19:57:51.000Z",
+      "description": "“We are facing a crisis of human civilisation. And we are going to win.”"
+    },
+    {
+      "id": "dzuvTq_BYAA",
+      "title": "Zelenskyy: Russia targeting Ukraine's grid ahead of Abu Dhabi talks",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-07T19:45:37.000Z",
+      "description": "Russia has launched a fresh wave of attacks across Ukraine. President Volodymyr Zelenskyy says Moscow used North Korean missiles to strike civilian energy infrastructure in an effort to disrupt the country's electricity "
+    },
+    {
+      "id": "DEJtGW6KGG0",
+      "title": "🎥 'Train to Busan' director says AI-era audiences crave original stories",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-07T19:00:34.000Z",
+      "description": "Director Yeon Sang-ho, who is best known internationally for the zombie hit \"Train to Busan,\" said that he now wants to make films for audiences willing to reflect rather than simply be thrilled, adding that AI has made "
+    },
+    {
+      "id": "VxRukuIEB5I",
+      "title": "The race for 2028 has already begun",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-07T15:47:51.000Z",
-      "description": "Five people have been killed after a shooting in Krakow's Main Market Square and around a dozen people are injured, including police officers, Małopolska Police said."
+      "publishedAt": "2026-11-07T19:00:18.000Z",
+      "description": "Jim Messina, Democrat strategist and Obama’s former campaign manager gives us the inside track on what Democrats will look for in their next presidential candidate for 2028, and how the race has already started. "
+    },
+    {
+      "id": "aA64AHY74MM",
+      "title": "Thomas Markle charged over child sexual abuse images",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-07T18:55:11.000Z",
+      "description": "The Duchess of Sussex's father has appeared in court after being arrested and charged with allegedly possessing child sexual abuse images. Sky's Laura Bundock reports."
+    },
+    {
+      "id": "kogilWtkbZ8",
+      "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to form government",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-07T20:07:07.000Z",
+      "description": "Israeli President Isaac Herzog has chosen opposition candidate Gadi Eisenkot to form a new government."
+    },
+    {
+      "id": "dG-_aNnZdJM",
+      "title": "Paraguay’s former president questioned by attorney general’s office after being ousted by Congress",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-07T18:41:29.000Z",
+      "description": "Paraguay’s former president was taken to the attorney general’s office for questioning Saturday, just hours after being ousted by Congress over the collapse of a major bank. Paraguayan prosecutors on Friday ordered the a"
+    },
+    {
+      "id": "el9Hr3aKMVI",
+      "title": "'What we do have here is a lot of tear gas': Police clash with protesters after peaceful march",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-07T17:34:35.000Z",
+      "description": "FRANCE 24 senior reporter James André reports from Paris's Place de la Nation, where police fired tear gas at protesters as the largely peaceful demonstration wound down."
+    },
+    {
+      "id": "YJyqRP36jnM",
+      "title": "How can we make sustainable travel safe?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-07T16:22:53.000Z",
+      "description": "After two high-speed train crashes in Spain this year, many are wary of traveling by train. But don't get off just yet."
+    },
+    {
+      "id": "OJsjPDq4ePE",
+      "title": "Heavy rain floods tents housing displaced Palestinians in Gaza",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-07T17:57:06.000Z",
+      "description": "Heavy rainfall triggered flooding through displacement camps in Gaza City, with Palestinians saying their belongings, including their bedding, have all become soaked."
+    },
+    {
+      "id": "h4fhtWY6BaA",
+      "title": "At the scene of the shooting in Krakow",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-07T18:10:55.000Z",
+      "description": "At least five people have been killed and about a dozen injured in a shooting in Krakow's Main Market Square, local police have said."
+    },
+    {
+      "id": "E_QOJhcsRRs",
+      "title": "Why are people cloning their pets?",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-07T16:38:12.000Z",
+      "description": "Should people be allowed to clone their pets and bring them into the UK?"
+    },
+    {
+      "id": "huwOQ4VgqUk",
+      "title": "Cameron Kasky: Can the left reshape the Democratic Party?",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-07T20:04:02.000Z",
+      "description": "Following sweeping Democratic victories in the US midterm elections, a new wave of progressive politicians is set to challenge the party's establishment and reshape its political agenda. But with Democrats in control of "
+    },
+    {
+      "id": "Wz4gSfe9uqU",
+      "title": "People in India celebrate Diwali with lights and prayers",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-07T18:30:31.000Z",
+      "description": "Indians are celebrating the annual Hindu festival of lights, Diwali, by symbolically lighting millions of earthen oil lamps at dusk on the banks of the Saryu River in Ayodhya, in the northern state of Uttar Pradesh. \r"
+    },
+    {
+      "id": "qb-UsVf8KLE",
+      "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-07T17:30:03.000Z",
+      "description": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential ele"
     },
     {
       "id": "vYxljf_Y17g",
@@ -34,12 +154,12 @@
       "description": "Freed in an East-West prisoner swap after 491 days in a Russian prison, US journalist Evan Gershkovich reflects on his time behind bars and his views on Vladimir Putin's Russia in his new book, 'This Cursed Beautiful Lan"
     },
     {
-      "id": "Jw0spSEC5S0",
-      "title": "Mélenchon rallies supporters ahead of French election • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-07T14:45:03.000Z",
-      "description": "France Unbowed is holding a major campaign rally at Le Bourget, near Paris, as its leader Jean-Luc Mélenchon gains momentum ahead of April’s presidential election, currently polling in second place. France 24 reporter Ol"
+      "id": "rJUsZC2fq_I",
+      "title": "Russian strikes in Ukraine leave nine injured and damage power network",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-07T16:30:19.000Z",
+      "description": "Overnight drone and ballistic missile attacks damaged Ukrainian energy infrastructure, President Volodymyr Zelenskyhas said, causing blackouts and disrupting water supplies."
     },
     {
       "id": "VhZqPA0eGi8",
@@ -50,60 +170,12 @@
       "description": "Pope Leo XIV spoke on his way to Uruguay as part of his three-nation Latin America tour."
     },
     {
-      "id": "T4lpePqFv7Y",
-      "title": "Displaced families in Gaza endure a difficult night as heavy rain floods tents and shelters",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-07T12:36:26.000Z",
-      "description": "The rain marks the start of another difficult winter for hundreds of thousands of Palestinians who have been displaced by the war and are living in tents or makeshift shelters with little protection.\r"
-    },
-    {
-      "id": "EKUfCiGiV2A",
-      "title": "CENTCOM forms task force to disrupt Iran's land supply routes",
+      "id": "MLFgNRx6-IE",
+      "title": "Hundreds march in Pau, France against high living costs",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-07T15:36:52.000Z",
-      "description": "US Central Command (CENTCOM) has announced it is launching a new task force against Iran."
-    },
-    {
-      "id": "pIjbDM9QTRc",
-      "title": "What do we know about Stranger Things prequel series?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-07T12:15:37.000Z",
-      "description": ""
-    },
-    {
-      "id": "OzWCdBIEZ50",
-      "title": "Peru erects 14-meter statue of Pope Leo XIV ahead of visit",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-07T13:45:22.000Z",
-      "description": "A towering statue of Pope Leo XIV has been erected in Peru's port city of Callao, where crowds gathered ahead of the pontiff's expected arrival on November 11."
-    },
-    {
-      "id": "MXTF-2OcOhg",
-      "title": "What does Stephen Miller's promotion mean for Trump's White House?",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-07T15:03:03.000Z",
-      "description": "President Trump taps Stephen Miller as White House chief of staff, a move that could point to a tougher agender after Republicans lose control of Congress. Vice President JD Vance is also looking to build his own politic"
-    },
-    {
-      "id": "-EOyzePIjMM",
-      "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience' • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-07T13:29:27.000Z",
-      "description": "French unions and student groups are set to take to the streets for another day of protests on Saturday, while the Yellow Vests movement plans a separate rally in central Paris despite a ban by authorities. The demonstra"
-    },
-    {
-      "id": "auSH41DSPFg",
-      "title": "Andy Burnham considers changes to rape trials after Russell Brand conviction",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-07T14:33:51.000Z",
-      "description": "The Prime Minister says he will look at changes to rape trials to ensure women do not feel they are the ones on trial in court."
+      "publishedAt": "2026-11-07T16:04:50.000Z",
+      "description": "Around 500 people took part in a demonstration in Pau, France, as trade unions called for action against the rising cost of living and in support of high school students."
     },
     {
       "id": "3zY7X1qX97I",
@@ -114,84 +186,12 @@
       "description": "Defense Secretary Pete Hegseth is among the high-profile proponents of classical Christian education, which has grown in popularity. The push to use taxpayer money to fund private schools is helping classical Christian s"
     },
     {
-      "id": "szeYvzkXWmA",
-      "title": "US strikes Iran's Qeshm island for second time this week",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-07T09:35:30.000Z",
-      "description": "American forces struck Iran's Qeshm island overnight for at least the second time this week, with two missiles hitting the area, according to local and official Iranian media, which gave no details on damage."
-    },
-    {
-      "id": "1pAgLpuxIdQ",
-      "title": "Naomi Watts 'deeply impressed' by Kim Kardashian's acting.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-07T11:50:51.000Z",
-      "description": ""
-    },
-    {
-      "id": "ZpIZAyobk0Q",
-      "title": "Why everyone suddenly needs Turkey for energy",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-07T12:52:00.000Z",
-      "description": "For decades, Turkey was heavily dependent on imported energy, spending billions on oil and gas from abroad. Now, Ankara has a bigger ambition: Not just securing its own energy future but becoming a country that helps pow"
-    },
-    {
-      "id": "MW6-01KFKZk",
-      "title": "Four injured after four-story building collapses in Brazil",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-07T14:28:28.000Z",
-      "description": "The roof of a four-story commercial building collapsed in São Paulo. Four people were injured, authorities said."
-    },
-    {
-      "id": "R3VWe_-vqA0",
-      "title": "Pope urges healthcare for all in Uruguay • FRANCE 24 English",
+      "id": "-EOyzePIjMM",
+      "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience' • FRANCE 24",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-07T09:41:22.000Z",
-      "description": "Three weeks after undergoing surgery for lung cancer, Pope Francis has begun a three-nation tour of Latin America, saying he felt better than he looked. His first stop is Uruguay, the continent’s most secular country. Ja"
-    },
-    {
-      "id": "i-T9VVqhq5g",
-      "title": "New trial for Ebola vaccine",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-07T12:43:37.000Z",
-      "description": "Two new Ebola vaccines are going to trialled in the Democratic Republic of Congo to stop the deadly outbreak which has devastated the country."
-    },
-    {
-      "id": "VfT4NybcwbQ",
-      "title": "High school students in Serbia paint over graffiti as part of a post-election cleanup wave",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-07T11:40:00.000Z",
-      "description": "Serbia's capital Belgrade has been getting a makeover after a youth-led movement's victory over a long-ruling strongman and his government in Oct. 25 elections. \r"
-    },
-    {
-      "id": "FNSbFStKKz0",
-      "title": "China’s e-bikes boom as fuel prices rise",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-07T09:18:55.000Z",
-      "description": "E-bikes are an increasingly popular way to get around in China. Manufacturers there are now looking to expand to markets abroad as fuel prices stay high and consumers look for electric alternatives, as Al Jazeera’s Katri"
-    },
-    {
-      "id": "3JbCfZGd2Sk",
-      "title": "Is it the end of the road for Tesla's Cybertruck?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-07T11:15:36.000Z",
-      "description": ""
-    },
-    {
-      "id": "CpmRFNQLs54",
-      "title": "Paraguay's ousted leader under house arrest",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-07T12:30:14.000Z",
-      "description": "Paraguay's ousted leader Santiago Pena has been placed under house arrest after lawmakers impeached him over a banking scandal. He's accused of channeling public funds into Ueno Bank, which later collapsed. The bank's fa"
+      "publishedAt": "2026-11-07T13:29:27.000Z",
+      "description": "French unions and student groups are set to take to the streets for another day of protests on Saturday, while the Yellow Vests movement plans a separate rally in central Paris despite a ban by authorities. The demonstra"
     }
   ]
 }

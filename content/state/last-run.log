@@ -1,32 +1,23 @@
-16:22:51 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-16:22:51 collecting videos…
-16:22:51   video feed BBC News: 15 in feed, 5 kept
-16:22:51   video feed Al Jazeera English: 15 in feed, 5 kept
-16:22:51   video feed DW News: 15 in feed, 5 kept
-16:22:51   video feed FRANCE 24 English: 15 in feed, 5 kept
-16:22:51   video feed Sky News: 15 in feed, 5 kept
-16:22:51   video feed Reuters: 15 in feed, 5 kept
-16:22:51   video feed Associated Press: 15 in feed, 5 kept
-16:22:51 videos: saved 24
-16:22:51 collecting feeds…
-16:22:54 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-16:22:54 545 new items
-16:22:55 454 candidate stories
-16:22:55 categories needing stories: business, health, sports, entertainment, technology, world → reserved business
-16:22:55 writing: Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup (1 sources)
-16:22:55   source text: 1860 chars
-16:23:00   too close to source wording — rewriting
-16:23:10   ✓ published: /news/healthcare-sector-faces-unpredictable-outlook-following-congressional/ [business] image: wikimedia via idea "Wall Street stock exchange building"
-16:23:10 writing: Italian Foreign Minister says pro-Russian hackers targeted him over Ukraine support (4 sources)
-16:23:12   source text: 1626 / 1984 / 2332 chars
-16:23:13 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-16:23:23   too close to source wording — rewriting
-16:23:30   ✓ published: /news/italian-foreign-minister-targeted-by-dark-web-data-leak-over-ukraine/ [world] image: wikimedia via idea "Antonio Tajani Italy"
-16:23:30 done — 2 stories
+20:50:52 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+20:50:52 collecting videos…
+20:50:52   video feed BBC News: 15 in feed, 5 kept
+20:50:52   video feed Al Jazeera English: 15 in feed, 5 kept
+20:50:52   video feed DW News: 15 in feed, 5 kept
+20:50:52   video feed FRANCE 24 English: 15 in feed, 5 kept
+20:50:52   video feed Sky News: 15 in feed, 5 kept
+20:50:52   video feed Reuters: 15 in feed, 5 kept
+20:50:52   video feed Associated Press: 15 in feed, 5 kept
+20:50:52 videos: saved 24
+20:50:52 collecting feeds…
+20:50:54 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+20:50:54 620 new items
+20:50:55 475 candidate stories
+20:50:55 categories needing stories: health, sports, entertainment, business, technology → reserved health
+20:50:55 writing: Potential driver of severe early-onset preeclampsia identified (1 sources)
+20:50:55   source text: 7000 chars
+20:51:04   ✓ published: /news/researchers-identify-potential-driver-of-severe-early-onset-preeclampsia/ [health] image: wikimedia via idea "medical laboratory research"
+20:51:04 writing: 'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White (11 sources)
+20:51:04   source text: 2119 / 1890 / 2838 chars
+20:51:09   too close to source wording — rewriting
+20:51:18   ✓ published: /news/donald-trump-invites-martial-arts-boss-dana-white-to-lead-white-house/ [politics] image: wikimedia via idea "Dana White"
+20:51:18 done — 2 stories

@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/": 1793468481539,
-    "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it": 1793468481539,
-    "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/": 1793468550680,
-    "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks": 1793468550680,
-    "https://thehill.com/policy/international/6186134-khamenei-warns-iran-strikes/": 1793468550680,
-    "https://www.scmp.com/news/world/middle-east/article/3372847/irans-supreme-leader-warns-us-israel-against-war": 1793468550680,
-    "https://www.thehindu.com/news/international/irans-supreme-leader-warns-us-israel-against-new-attacks/article71649244.ece": 1793468550680,
-    "https://www.channelnewsasia.com/world/iran-supreme-leader-warn-us-israel-new-attacks-6509621": 1793468550680,
     "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html": 1793482086533,
     "https://sports.yahoo.com/articles/josh-jacobs-allegations-explained-packers-212143101.html": 1793482100743,
     "https://sports.yahoo.com/articles/nfl-review-allegations-against-packers-210631231.html": 1793482100743,
@@ -253,11 +245,22 @@
     "https://www.thehindu.com/news/international/italian-foreign-minister-says-pro-russian-hackers-targeted-him-over-ukraine-support/article71678639.ece": 1794068608981,
     "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf": 1794068608981,
     "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss": 1794068608981,
-    "https://abcnews.com/International/wireStory/italys-meloni-blames-pro-russian-hackers-leak-foreign-137937793": 1794068608981
+    "https://abcnews.com/International/wireStory/italys-meloni-blames-pro-russian-hackers-leak-foreign-137937793": 1794068608981,
+    "https://medicalxpress.com/news/2026-11-potential-driver-severe-early-onset.html": 1794084662257,
+    "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white": 1794084676964,
+    "https://deadline.com/2026/11/dana-white-donald-trump-1237216350/": 1794084676964,
+    "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html": 1794084676964,
+    "https://www.thehindu.com/news/international/trump-says-he-wants-ufc-chief-dana-white-for-white-house-press-secretary/article71679478.ece": 1794084676964,
+    "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html": 1794084676964,
+    "https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/": 1794084676964,
+    "https://variety.com/2026/biz/news/trump-press-secretary-ufc-dana-white-1236942110/": 1794084676964,
+    "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss": 1794084676964,
+    "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf": 1794084676964,
+    "https://www.scmp.com/news/world/united-states-canada/article/3373670/trump-asks-ufc-chief-dana-white-be-his-new-press-secretary-please-take-job": 1794084676964,
+    "https://timesofindia.indiatimes.com/world/us/who-is-ufc-boss-dana-white-who-gets-surprising-offer-from-donald-trump-to-be-white-house-press-secretary/articleshow/135645732.cms": 1794084676964,
+    "https://thehill.com/homenews/administration/6206117-trump-says-he-offered-white-house-press-secretary-job-to-dana-white/": 1794084676964
   },
   "fps": {
-    "how-instagram-purpose-reposting-what-you": 1793468481539,
-    "attacks-iran-israel-leader-supreme-warns": 1793468550680,
     "channel-complex-evolution-gene-giant-illuminates-potassium-protein": 1793482086533,
     "abuse-accused-additional-allegations-arrest-explained-jacobs-josh": 1793482100744,
     "challenging-lava-oddball-reflective-understand-world": 1793495085258,
@@ -308,6 +311,8 @@
     "begins-forest-restoration-wildfire-work": 1794045509940,
     "arrest-bank-collapse-house-ousted-paraguay-places-president": 1794045517466,
     "ahead-congress-healthcare-makeup-prognosis-stocks-uncertain-why": 1794068589039,
-    "foreign-hackers-him-italian-minister-pro-russian-support": 1794068608981
+    "foreign-hackers-him-italian-minister-pro-russian-support": 1794068608981,
+    "driver-early-identified-onset-potential-preeclampsia-severe": 1794084662257,
+    "chief-dana-fighter-offers-press-role-secretary-trump": 1794084676964
   }
 }
