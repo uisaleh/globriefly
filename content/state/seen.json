@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.nytimes.com/2026/10/30/us/politics/air-force-flyover.html": 1793403731805,
-    "https://timesofindia.indiatimes.com/world/us/trumps-halloween-surprise-sparks-panic-in-washington-residents-call-911-fearing-plane-crash-as-air-force-one-showed-low-altitude-flyover/articleshow/135377172.cms": 1793403731805,
-    "https://www.channelnewsasia.com/world/pope-leo-makes-history-us-midterm-vote-6508626": 1793403737638,
-    "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/": 1793403737638,
-    "https://www.dw.com/en/us-midterms-pope-leo-xiv-casts-vote-by-mail/a-79810339?maca=en-rss-en-all-1573-rdf": 1793403737638,
-    "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss": 1793403737638,
-    "https://www.scmp.com/news/world/united-states-canada/article/3372784/pope-leo-becomes-first-pope-ever-vote-us-election-submits-mail-ballot": 1793403737638,
-    "https://abcnews.com/International/wireStory/pope-leo-xiv-become-pope-history-vote-us-137704157": 1793403737638,
     "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html": 1793424729126,
     "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss": 1793424729126,
     "https://www.theguardian.com/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade": 1793424729126,
@@ -251,11 +243,19 @@
     "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder": 1794006295624,
     "https://abcnews.com/International/wireStory/leader-kenyan-doomsday-cult-sentenced-200-years-prison-137905380": 1794006295624,
     "http://www.africanews.com/2026/11/06/kenyan-doomsday-cult-leader-sentenced-to-200-years-in-prison-for-murder-of-191/": 1794006295624,
-    "https://www.scmp.com/news/world/africa/article/3373594/kenyan-doomsday-cult-leader-jailed-200-years-murdering-191-followers": 1794006295624
+    "https://www.scmp.com/news/world/africa/article/3373594/kenyan-doomsday-cult-leader-jailed-200-years-murdering-191-followers": 1794006295624,
+    "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/": 1794019674895,
+    "https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal/": 1794019674895,
+    "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates": 1794019699604,
+    "https://www.japantimes.co.jp/news/2026/11/07/world/politics/trump-stephen-miller-chief-of-staff/": 1794019699604,
+    "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html": 1794019699604,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss": 1794019699604,
+    "https://www.thehindu.com/news/international/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/article71676063.ece": 1794019699604,
+    "https://www.scmp.com/news/us/politics/article/3373617/trump-names-stephen-miller-chief-staff-replacing-susie-wiles-after-midterm-losses": 1794019699604,
+    "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff": 1794019699604,
+    "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss": 1794019699604
   },
   "fps": {
-    "flyover-halloween-plane-residents-startled-trick-trump": 1793403731805,
-    "history-leo-makes-midterm-pope-vote": 1793403737638,
     "apology-britain-formal-minister-open-prime-slavery": 1793424729126,
     "1bn-greenlights-missile-patriot-sale-ukraine": 1793424739427,
     "billion-elections-have-megadonors-midterm-spent-these-total": 1793449012746,
@@ -306,6 +306,8 @@
     "able-alexa-amazon-shop-soon-text-you": 1793987732347,
     "abuse-arrested-charges-child-father-florida-markle-material": 1793987735321,
     "amazon-director-film-follows-melania-part-same-series": 1794006266208,
-    "200-cult-kenyan-leader-prison-sentenced-years": 1794006295624
+    "200-cult-kenyan-leader-prison-sentenced-years": 1794006295624,
+    "because-bought-deal-developer-ends-fox-lucrative-roku": 1794019674895,
+    "2026-blast-chief-decision-defends-democrats-elections-live": 1794019699604
   }
 }
