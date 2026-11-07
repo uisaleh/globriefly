@@ -112,6 +112,9 @@
   "publishedAt": "2026-11-07T09:58:37.803Z",
   "updatedAt": "2026-11-07T09:58:37.803Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173834712681745",
+    "sharedAt": "2026-11-07T10:02:13.649Z"
+  },
   "ogImage": "/og/paraguay-ousts-president-and-places-him-under-arrest-following-bank.jpg"
 }
