@@ -123,6 +123,9 @@
   "publishedAt": "2026-11-08T19:40:24.869Z",
   "updatedAt": "2026-11-08T19:40:24.869Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174006420681745",
+    "sharedAt": "2026-11-08T19:44:04.115Z"
+  },
   "ogImage": "/og/european-nations-secure-seat-at-upcoming-abu-dhabi-peace-talks-on.jpg"
 }
