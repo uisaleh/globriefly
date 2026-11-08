@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html": 1793482086533,
-    "https://sports.yahoo.com/articles/josh-jacobs-allegations-explained-packers-212143101.html": 1793482100743,
-    "https://sports.yahoo.com/articles/nfl-review-allegations-against-packers-210631231.html": 1793482100743,
-    "https://www.theguardian.com/sport/2026/oct/31/josh-jacobs-green-bay-packers-abuse-allegations-police-records": 1793482100743,
-    "\n                                                https://www.cbssports.com/nfl/news/three-other-women-accused-packers-josh-jacobs-of-abuse-after-arrest/\n                    ": 1793482100743,
     "https://phys.org/news/2026-10-oddball-lava-world.html": 1793495085258,
     "https://www.rnz.co.nz/news/world/2282547/judge-throws-out-trump-suit-over-epstein-letter": 1793495115445,
     "https://www.hollywoodreporter.com/news/politics-news/trump-lawsuit-wall-street-journal-epstein-dismissed-1236744244/": 1793495115445,
@@ -258,11 +253,22 @@
     "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf": 1794084676964,
     "https://www.scmp.com/news/world/united-states-canada/article/3373670/trump-asks-ufc-chief-dana-white-be-his-new-press-secretary-please-take-job": 1794084676964,
     "https://timesofindia.indiatimes.com/world/us/who-is-ufc-boss-dana-white-who-gets-surprising-offer-from-donald-trump-to-be-white-house-press-secretary/articleshow/135645732.cms": 1794084676964,
-    "https://thehill.com/homenews/administration/6206117-trump-says-he-offered-white-house-press-secretary-job-to-dana-white/": 1794084676964
+    "https://thehill.com/homenews/administration/6206117-trump-says-he-offered-white-house-press-secretary-job-to-dana-white/": 1794084676964,
+    "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss": 1794097916946,
+    "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html": 1794097916946,
+    "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026": 1794097916946,
+    "https://www.cricinfo.com/ci/content/story/1561807.html?ex_cid=OTC-RSS": 1794097916946,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss": 1794097938010,
+    "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html": 1794097938010,
+    "https://thehill.com/policy/international/6206234-herzog-appoints-eisenkot-form-government/": 1794097938010,
+    "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss": 1794097938010,
+    "https://www.thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece": 1794097938010,
+    "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog": 1794097938010,
+    "https://news.sky.com/story/blow-for-netanyahu-as-opposition-rival-asked-to-form-government-by-israels-president-13609540": 1794097938010,
+    "https://www.scmp.com/news/world/middle-east/article/3373671/israels-president-taps-eisenkot-form-government-setback-netanyahu": 1794097938010,
+    "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government": 1794097938010
   },
   "fps": {
-    "channel-complex-evolution-gene-giant-illuminates-potassium-protein": 1793482086533,
-    "abuse-accused-additional-allegations-arrest-explained-jacobs-josh": 1793482100744,
     "challenging-lava-oddball-reflective-understand-world": 1793495085258,
     "epstein-judge-letter-suit-throws-trump": 1793495115445,
     "alexander-die-general-ist-kriegsgefahr-mit-real-security": 1793518129073,
@@ -313,6 +319,8 @@
     "ahead-congress-healthcare-makeup-prognosis-stocks-uncertain-why": 1794068589039,
     "foreign-hackers-him-italian-minister-pro-russian-support": 1794068608981,
     "driver-early-identified-onset-potential-preeclampsia-severe": 1794084662257,
-    "chief-dana-fighter-offers-press-role-secretary-trump": 1794084676964
+    "chief-dana-fighter-offers-press-role-secretary-trump": 1794084676964,
+    "day-match": 1794097916946,
+    "chosen-eisenkot-form-government-israel-netanyahu-next": 1794097938010
   }
 }

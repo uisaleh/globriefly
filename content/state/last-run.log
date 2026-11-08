@@ -1,23 +1,26 @@
-20:50:52 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-20:50:52 collecting videos…
-20:50:52   video feed BBC News: 15 in feed, 5 kept
-20:50:52   video feed Al Jazeera English: 15 in feed, 5 kept
-20:50:52   video feed DW News: 15 in feed, 5 kept
-20:50:52   video feed FRANCE 24 English: 15 in feed, 5 kept
-20:50:52   video feed Sky News: 15 in feed, 5 kept
-20:50:52   video feed Reuters: 15 in feed, 5 kept
-20:50:52   video feed Associated Press: 15 in feed, 5 kept
-20:50:52 videos: saved 24
-20:50:52 collecting feeds…
-20:50:54 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-20:50:54 620 new items
-20:50:55 475 candidate stories
-20:50:55 categories needing stories: health, sports, entertainment, business, technology → reserved health
-20:50:55 writing: Potential driver of severe early-onset preeclampsia identified (1 sources)
-20:50:55   source text: 7000 chars
-20:51:04   ✓ published: /news/researchers-identify-potential-driver-of-severe-early-onset-preeclampsia/ [health] image: wikimedia via idea "medical laboratory research"
-20:51:04 writing: 'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White (11 sources)
-20:51:04   source text: 2119 / 1890 / 2838 chars
-20:51:09   too close to source wording — rewriting
-20:51:18   ✓ published: /news/donald-trump-invites-martial-arts-boss-dana-white-to-lead-white-house/ [politics] image: wikimedia via idea "Dana White"
-20:51:18 done — 2 stories
+00:30:38 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+00:30:38 collecting videos…
+00:31:04   video feed BBC News failed: Status code 404
+00:31:12   video feed Al Jazeera English: 15 in feed, 5 kept
+00:31:12   video feed DW News: 15 in feed, 5 kept
+00:31:38   video feed FRANCE 24 English failed: Status code 404
+00:31:38   video feed Sky News: 15 in feed, 5 kept
+00:31:38   video feed Reuters: 15 in feed, 5 kept
+00:31:38   video feed Associated Press: 15 in feed, 5 kept
+00:31:38 videos: saved 24
+00:31:38 collecting feeds…
+00:31:42 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+00:31:42 570 new items
+00:31:42 438 candidate stories
+00:31:42 categories needing stories: sports, entertainment, business, technology, world → reserved sports
+00:31:42 writing: Match of the Day (4 sources)
+00:31:43   source text: 2123 / 2123 / 2820 chars
+00:31:47   too close to source wording — rewriting
+00:31:56 writer returned unusable output: { "headline": "Remembering NASA's historic Mars Global Surveyor mission launch", "standfirst": "Looking back at the launch of NASA's Mars Global Surveyor or
+00:31:56   skipped
+00:31:56 writing: Eisenkot chosen over Netanyahu to form Israel’s next government (8 sources)
+00:32:12   source text: 338 / 0 / 4524 / 3950 / 0 chars
+00:32:19   ✓ published: /news/israeli-president-selects-gadi-eisenkot-to-attempt-government-formation/ [world] image: wikimedia via idea "Gadi Eisenkot Tel Aviv"
+00:32:19 writing explainer for: Eisenkot chosen over Netanyahu to form Israel’s next government
+00:32:22 writer returned unusable output: { "headline": "Why did Israel's president pick Gadi Eisenkot over Benjamin Netanyahu?", "standfirst": "Following an inconclusive general election, Israel's 
+00:32:22 done — 1 stories
