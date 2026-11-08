@@ -90,6 +90,9 @@
   "publishedAt": "2026-11-08T15:06:03.686Z",
   "updatedAt": "2026-11-08T15:06:03.686Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173982696681745",
+    "sharedAt": "2026-11-08T15:09:27.493Z"
+  },
   "ogImage": "/og/massive-ancient-black-holes-cannot-explain-universe-dark-matter.jpg"
 }

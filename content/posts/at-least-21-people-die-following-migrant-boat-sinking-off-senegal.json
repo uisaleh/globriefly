@@ -112,6 +112,9 @@
   "publishedAt": "2026-11-08T15:06:16.608Z",
   "updatedAt": "2026-11-08T15:06:16.608Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173982816681745",
+    "sharedAt": "2026-11-08T15:09:49.741Z"
+  },
   "ogImage": "/og/at-least-21-people-die-following-migrant-boat-sinking-off-senegal.jpg"
 }
