@@ -93,6 +93,9 @@
   "publishedAt": "2026-11-08T07:18:03.144Z",
   "updatedAt": "2026-11-08T07:18:03.144Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173939832681745",
+    "sharedAt": "2026-11-08T07:22:00.586Z"
+  },
   "ogImage": "/og/why-did-druski-play-elizabeth-holmes-in-a-wild-snl-parody.jpg"
 }

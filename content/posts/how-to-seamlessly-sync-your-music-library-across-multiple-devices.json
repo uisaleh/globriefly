@@ -85,6 +85,9 @@
   "publishedAt": "2026-11-08T07:17:43.559Z",
   "updatedAt": "2026-11-08T07:17:43.559Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122173939562681745",
+    "sharedAt": "2026-11-08T07:21:15.076Z"
+  },
   "ogImage": "/og/how-to-seamlessly-sync-your-music-library-across-multiple-devices.jpg"
 }
