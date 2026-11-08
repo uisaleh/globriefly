@@ -1,22 +1,23 @@
-19:39:51 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-19:39:51 collecting videos…
-19:39:51   video feed BBC News: 15 in feed, 5 kept
-19:39:51   video feed Al Jazeera English: 15 in feed, 5 kept
-19:39:51   video feed DW News: 15 in feed, 5 kept
-19:39:51   video feed FRANCE 24 English: 15 in feed, 5 kept
-19:39:51   video feed Sky News: 15 in feed, 5 kept
-19:39:51   video feed Reuters: 15 in feed, 5 kept
-19:39:51   video feed Associated Press: 15 in feed, 5 kept
-19:39:51 videos: saved 24
-19:39:51 collecting feeds…
-19:39:56 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-19:39:56 617 new items
-19:39:56 475 candidate stories
-19:39:56 categories needing stories: business, sports, politics, technology, world → reserved business
-19:39:56 writing: Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers (1 sources)
-19:39:57   source text: 3364 chars
-19:40:03   ✓ published: /news/congressional-democrats-plan-sweeping-probes-into-trump-administration/ [business] image: wikimedia via idea "Todd Blanche"
-19:40:03 writing: Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections (5 sources)
-19:40:19   source text: 0 / 2349 / 2586 / 2293 chars
-19:40:25   ✓ published: /news/european-nations-secure-seat-at-upcoming-abu-dhabi-peace-talks-on/ [world] image: wikimedia via idea "Abu Dhabi skyline"
-19:40:25 done — 2 stories
+23:40:16 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+23:40:16 collecting videos…
+23:40:42   video feed BBC News failed: Status code 404
+23:40:57   video feed Al Jazeera English: 15 in feed, 5 kept
+23:41:23   video feed DW News failed: Status code 404
+23:41:49   video feed FRANCE 24 English failed: Status code 404
+23:42:15   video feed Sky News failed: Status code 404
+23:42:41   video feed Reuters failed: Status code 404
+23:42:46 videos: saved 24
+23:42:46 collecting feeds…
+23:42:49   video feed Associated Press: 15 in feed, 5 kept
+23:42:52 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+23:42:52 628 new items
+23:42:52 463 candidate stories
+23:42:52 categories needing stories: politics, health, sports, business, technology → reserved politics
+23:42:52 writing: Ukrainian nuclear plant switches to generators after losing final power line (2 sources)
+23:42:52   source text: 0 / 2171 chars
+23:42:57   too close to source wording — rewriting
+23:43:04   skipped
+23:43:04 writing: Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy (10 sources)
+23:43:05   source text: 1821 / 3071 / 2666 chars
+23:43:13   ✓ published: /news/nvidia-launches-board-inquiry-into-chief-executive-over-foreign/ [technology] image: wikimedia via name "Jensen Huang"
+23:43:13 done — 1 stories

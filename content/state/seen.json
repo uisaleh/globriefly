@@ -1,11 +1,5 @@
 {
   "urls": {
-    "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html": 1793575960277,
-    "https://www.channelnewsasia.com/world/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces-6511556": 1793575982653,
-    "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss": 1793575982653,
-    "https://www.scmp.com/news/world/europe/article/3372907/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces": 1793575982653,
-    "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police": 1793575982653,
-    "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf": 1793575982653,
     "https://phys.org/news/2026-10-global-sexual-health-communal-knowledge.html": 1793598962116,
     "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf": 1793598972501,
     "https://www.euronews.com/2026/11/02/kimi-antonelli-becomes-youngest-f1-champion-as-max-verstappen-wins-race": 1793598972501,
@@ -246,11 +240,22 @@
     "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says": 1794166824527,
     "https://www.politico.eu/article/europe-will-be-represented-in-abu-dhabi-talks-on-ukraine-french-foreign-minister-jean-noel-barrot-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794166824527,
     "https://www.thehindu.com/news/international/europe-will-be-represented-at-us-mediated-ukraine-talks-in-abu-dhabi-france/article71681017.ece": 1794166824527,
-    "https://www.channelnewsasia.com/world/europe-us-mediated-ukraine-russia-talks-abu-dhabi-6534261": 1794166824527
+    "https://www.channelnewsasia.com/world/europe-us-mediated-ukraine-russia-talks-abu-dhabi-6534261": 1794166824527,
+    "https://thehill.com/policy/international/6206805-ukraine-nuclear-safety-threatened/": 1794181384745,
+    "https://www.thehindu.com/news/international/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-external-power-supply/article71680948.ece": 1794181384745,
+    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html": 1794181391829,
+    "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece": 1794181391829,
+    "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories": 1794181391829,
+    "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe": 1794181391829,
+    "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html": 1794181391829,
+    "https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html": 1794181391829,
+    "https://thehill.com/policy/technology/6206971-nvidia-investigates-jensen-huang/": 1794181391829,
+    "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/": 1794181391829,
+    "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation": 1794181391829,
+    "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/": 1794181391829,
+    "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy": 1794181391829
   },
   "fps": {
-    "bond-changed-everything-month-oil-past-trades": 1793575960277,
-    "attacks-attempted-bomb-forces-france-murder-opens-petrol": 1793575982653,
     "being-communal-global-health-knowledge-matters-pleasure-sexual": 1793598962116,
     "antonelli-champion-history-kimi-makes-youngest": 1793598972501,
     "alaska-blue-ddhq-flip-maine-map-races-senate": 1793633993352,
@@ -300,6 +305,8 @@
     "black-dark-holes-large-matter-primordial-ruled-source": 1794150362737,
     "boat-killed-least-migrant-off-senegal-sinks": 1794150370832,
     "amp-blanche-counters-democrats-investigation-lawmakers-may-probe": 1794166802273,
-    "abu-brokered-defying-dhabi-europe-join-kremlin-objections": 1794166824527
+    "abu-brokered-defying-dhabi-europe-join-kremlin-objections": 1794166824527,
+    "final-generators-line-losing-nuclear-plant-power-switches": 1794181384745,
+    "chinese-huang-investigation-jensen-nvidia-opens-relationship-spy": 1794181391829
   }
 }
