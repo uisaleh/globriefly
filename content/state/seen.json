@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate": 1793561767383,
-    "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss": 1793561767383,
-    "https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698": 1793561767383,
-    "https://thehill.com/homenews/campaign/6186882-stevens-rogers-church-michigan/": 1793561767383,
-    "https://www.aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections?traffic_source=rss": 1793561767383,
-    "https://www.nytimes.com/2026/11/01/movies/michael-mann-shooting.html": 1793561820794,
-    "https://www.hollywoodreporter.com/news/general-news/michael-mann-accidentally-shoots-himself-l-a-gun-range-1236744347/": 1793561820794,
-    "https://www.rollingstone.com/tv-movies/tv-movie-news/director-michael-mann-accidentally-shoots-himself-leg-1235651009/": 1793561820794,
     "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html": 1793575960277,
     "https://www.channelnewsasia.com/world/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces-6511556": 1793575982653,
     "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss": 1793575982653,
@@ -248,11 +240,15 @@
     "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss": 1794150370832,
     "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-21-dead-after-migrant-boat-sinks-off-senegals-northwestern-coast/articleshow/135659201.cms": 1794150370832,
     "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say": 1794150370832,
-    "https://www.thehindu.com/news/international/migrant-boat-sinks-off-senegal-death-toll/article71680824.ece": 1794150370832
+    "https://www.thehindu.com/news/international/migrant-boat-sinks-off-senegal-death-toll/article71680824.ece": 1794150370832,
+    "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html": 1794166802273,
+    "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia": 1794166824527,
+    "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says": 1794166824527,
+    "https://www.politico.eu/article/europe-will-be-represented-in-abu-dhabi-talks-on-ukraine-french-foreign-minister-jean-noel-barrot-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794166824527,
+    "https://www.thehindu.com/news/international/europe-will-be-represented-at-us-mediated-ukraine-talks-in-abu-dhabi-france/article71681017.ece": 1794166824527,
+    "https://www.channelnewsasia.com/world/europe-us-mediated-ukraine-russia-talks-abu-dhabi-6534261": 1794166824527
   },
   "fps": {
-    "abdul-democrat-endorses-haley-mike-republican-rival-rogers": 1793561767383,
-    "accidentally-angeles-gun-himself-los-mann-michael-range": 1793561820794,
     "bond-changed-everything-month-oil-past-trades": 1793575960277,
     "attacks-attempted-bomb-forces-france-murder-opens-petrol": 1793575982653,
     "being-communal-global-health-knowledge-matters-pleasure-sexual": 1793598962116,
@@ -302,6 +298,8 @@
     "across-apple-devices-easier-music-syncing-think-you": 1794122260884,
     "crazy-documentary-druski-elizabeth-holmes-impersonates-meta-snl": 1794122276936,
     "black-dark-holes-large-matter-primordial-ruled-source": 1794150362737,
-    "boat-killed-least-migrant-off-senegal-sinks": 1794150370832
+    "boat-killed-least-migrant-off-senegal-sinks": 1794150370832,
+    "amp-blanche-counters-democrats-investigation-lawmakers-may-probe": 1794166802273,
+    "abu-brokered-defying-dhabi-europe-join-kremlin-objections": 1794166824527
   }
 }

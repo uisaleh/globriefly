@@ -1,23 +1,22 @@
-15:05:45 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-15:05:45 collecting videos…
-15:05:45   video feed BBC News: 15 in feed, 5 kept
-15:05:45   video feed Al Jazeera English: 15 in feed, 5 kept
-15:05:45   video feed DW News: 15 in feed, 5 kept
-15:05:45   video feed FRANCE 24 English: 15 in feed, 5 kept
-15:05:45   video feed Sky News: 15 in feed, 5 kept
-15:05:45   video feed Reuters: 15 in feed, 5 kept
-15:05:45   video feed Associated Press: 15 in feed, 5 kept
-15:05:45 videos: saved 24
-15:05:45 collecting feeds…
-15:05:49 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-15:05:49 522 new items
-15:05:49 414 candidate stories
-15:05:49 categories needing stories: science, sports, politics, business, technology, world → reserved science
-15:05:49 writing: 'Stupendously large' primordial black holes ruled out as a dark matter source (1 sources)
-15:05:49   source text: 5067 chars
-15:05:55   too close to source wording — rewriting
-15:06:05   ✓ published: /news/massive-ancient-black-holes-cannot-explain-universe-dark-matter/ [science] image: wikimedia via idea "cosmic microwave background telescope"
-15:06:05 writing: At least 21 killed after migrant boat sinks off Senegal (5 sources)
-15:06:06   source text: 2009 / 1543 / 2045 chars
-15:06:17   ✓ published: /news/at-least-21-people-die-following-migrant-boat-sinking-off-senegal/ [world] image: wikimedia via name "Canary Islands"
-15:06:17 done — 2 stories
+19:39:51 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+19:39:51 collecting videos…
+19:39:51   video feed BBC News: 15 in feed, 5 kept
+19:39:51   video feed Al Jazeera English: 15 in feed, 5 kept
+19:39:51   video feed DW News: 15 in feed, 5 kept
+19:39:51   video feed FRANCE 24 English: 15 in feed, 5 kept
+19:39:51   video feed Sky News: 15 in feed, 5 kept
+19:39:51   video feed Reuters: 15 in feed, 5 kept
+19:39:51   video feed Associated Press: 15 in feed, 5 kept
+19:39:51 videos: saved 24
+19:39:51 collecting feeds…
+19:39:56 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+19:39:56 617 new items
+19:39:56 475 candidate stories
+19:39:56 categories needing stories: business, sports, politics, technology, world → reserved business
+19:39:56 writing: Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers (1 sources)
+19:39:57   source text: 3364 chars
+19:40:03   ✓ published: /news/congressional-democrats-plan-sweeping-probes-into-trump-administration/ [business] image: wikimedia via idea "Todd Blanche"
+19:40:03 writing: Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections (5 sources)
+19:40:19   source text: 0 / 2349 / 2586 / 2293 chars
+19:40:25   ✓ published: /news/european-nations-secure-seat-at-upcoming-abu-dhabi-peace-talks-on/ [world] image: wikimedia via idea "Abu Dhabi skyline"
+19:40:25 done — 2 stories

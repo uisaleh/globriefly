@@ -1,21 +1,53 @@
 {
-  "updatedAt": "2026-11-08T15:05:45.493Z",
+  "updatedAt": "2026-11-08T19:39:51.284Z",
   "videos": [
     {
-      "id": "PT6QsTIDtic",
-      "title": "Palestinian journalist Abed Abou Shhadeh released after five days in detention",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-08T14:47:34.000Z",
-      "description": "Israeli police have released Palestinian journalist and political activist Abed Abou Shhadeh after five days in detention, without significant restrictions. He described his arrest as politically motivated and vowed to c"
+      "id": "wamacgBTNfQ",
+      "title": "Collision between 2 trains in Egypt kills 7 and injures more than 100",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-08T19:15:45.000Z",
+      "description": "Seven people were killed and over 100 others injured after two trains collided Sunday south of the Egyptian capital, Cairo, the Egyptian Chief Prosecutor’s office said in a statement. Among those dead was also the train'"
     },
     {
-      "id": "TI9ZTGWt5O8",
-      "title": "US voters reject AI data centres: could the backlash spread to France? • FRANCE 24 English",
+      "id": "raFmqXwVV88",
+      "title": "\"I heard shots in Krakow attack but thought it was a toy\".",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-08T19:15:10.000Z",
+      "description": ""
+    },
+    {
+      "id": "ngiDo0id0po",
+      "title": "Krakow shooting: What do we know about the suspect and motive?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-08T19:11:37.000Z",
+      "description": "Poland is observing two days of national mourning after a mass shooting in Krakow killed six people and injured more than a dozen. Prosecutors are investigating the attack as a terrorist offense, and authorities say the "
+    },
+    {
+      "id": "q-ZAs61RYHI",
+      "title": "Equator: a magazine for a post-American world",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-08T18:11:47.000Z",
+      "description": "Equator magazine is the brainchild of a group of writers and editors – some of them ex-mainstream media – who came together during a \"moment of moral despair\" as they witnessed Israel's genocidal war on Gaza unfold. O"
+    },
+    {
+      "id": "S8E6FY-ppVY",
+      "title": "Strike damages Aramco tower in Riyadh • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-08T14:34:06.000Z",
-      "description": "In this week’s US midterms, voters in dozens of towns rejected new data centres, the buildings powering artificial intelligence, and Democrats taking over Congress want to go further. What does that mean for America’s AI"
+      "publishedAt": "2026-11-08T17:01:33.000Z",
+      "description": "A building belonging to Saudi oil giant Aramco was damaged in Riyadh on Sunday amid a series of missile attacks launched by Yemen's Houthi rebels. The building sustained minor damage after being hit by falling shrapnel. "
+    },
+    {
+      "id": "VpRB17cc89w",
+      "title": "Israel election, Krakow shooting, AI shopping agents",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-08T15:59:13.000Z",
+      "description": "Israel's president chooses Gadi Eisenkot, Prime Minister Benjamin Netanyahu's strongest rival, to try to form ​a new government. Poland is in mourning after a mass shooting in Krakow that the government said ‌was likely "
     },
     {
       "id": "Yz0SqQ_9k8c",
@@ -26,6 +58,46 @@
       "description": "King Charles led the UK in a two-minute silence to commemorate those who served and died in conflict on Remembrance Sunday."
     },
     {
+      "id": "izhLQknsb8c",
+      "title": "King Charles III leads remembrance service at Cenotaph",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-08T16:25:06.000Z",
+      "description": "Thousands of military personnel, veterans and members of the public gathered in central London on Sunday as King Charles III led Britain's annual ceremony of remembrance for the country's war dead.\r"
+    },
+    {
+      "id": "Udt8h3DcnuA",
+      "title": "Are There More Russell Brands In The Media Industry?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-08T17:00:07.000Z",
+      "description": "Today, we look at the political fallout from the Russell Brand case."
+    },
+    {
+      "id": "i5G5iaQjGJY",
+      "title": "El Hierro declares social emergency amid surge in migrant arrivals",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-08T18:15:39.000Z",
+      "description": "Spain's Canary Island of El Hierro has declared a social emergency amid a surge in migrant arrivals, as a boat carrying 215 people reached its shores on Sunday. Meanwhile, at least 21 people died and one survivor was res"
+    },
+    {
+      "id": "4JgvTyeQ3Zs",
+      "title": "Seven killed, 112 injured in train collision in Egypt",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-08T18:04:17.000Z",
+      "description": "Seven people have been killed and 112 injured after two passenger trains collided and derailed in Giza’s El-Ayyat district, according to Egypt’s Ministry of Health. Emergency teams were deployed to rescue passengers and "
+    },
+    {
+      "id": "K9Gxc8aZoDs",
+      "title": "Ukraine: Russian strikes leave hundreds of thousands without power • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-08T16:59:41.000Z",
+      "description": "Hundreds of thousands of Ukrainians were left without electricity on Sunday following Russian airstrikes targeting the country's energy infrastructure. Moscow has intensified its attacks as winter approaches, leaving res"
+    },
+    {
       "id": "QJVab-yO4V0",
       "title": "Caught on camera: suspected gunman down after shootout with Kraków police",
       "channel": "Reuters",
@@ -34,12 +106,68 @@
       "description": "Security camera video captured the moment that police officers in Kraków exchanged gunfire with a suspected assailant during a mass shooting that killed at least six people."
     },
     {
-      "id": "3BgTU3Dimfg",
-      "title": "Nepal honors dogs during Hindu festival",
+      "id": "pIwIQdP-47s",
+      "title": "Lisa Nandy: Cases like Brand 'probably happening today'",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "description": "Lisa Nandy says she believes organisations in the media and entertainment industries are not doing enough to protect women from becoming victims of sexual assault and rape. "
+    },
+    {
+      "id": "x656rSG1QW8",
+      "title": "Tourists in Krakow share reactions to attack which left 6 dead",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-08T16:04:51.000Z",
+      "description": "International visitors to Poland's second largest city shared reactions of shock, disbelief and sadness to Saturday's shooting that left six people dead and 15 wounded. Krakow was in mourning Sunday after a 24-year-old m"
+    },
+    {
+      "id": "aJbWtZ6ysik",
+      "title": "UFC boss Dana White reacts to Trump's White House job offer.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-08T16:15:17.000Z",
+      "description": ""
+    },
+    {
+      "id": "0rxTvIt2vDc",
+      "title": "Why Trump wants to bring Russian gas back to Europe",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-08T14:00:39.000Z",
-      "description": "Dogs in Nepal were showered with flower garlands and treats during Kukur Tihar, part of the Hindu festival of lights. At a ceremony in Kathmandu, police dogs also showed off their skills, marching alongside officers and "
+      "publishedAt": "2026-11-08T16:18:20.000Z",
+      "description": "Trump reportedly wants US companies to help sell Russian gas to Europe. But who would benefit from the deal? "
+    },
+    {
+      "id": "U1c71CFdzOM",
+      "title": "Can Gadi Eisenkot unite Israel's divided opposition?",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-08T17:30:18.000Z",
+      "description": "\"Now is the time to form a national emergency government\"."
+    },
+    {
+      "id": "5u-CXetgLxg",
+      "title": "Gadi Eisenkot receives mandate to form government • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-08T16:58:10.000Z",
+      "description": "Israel's opposition leader Gadi Eisenkot has officially been tasked with forming the country's next government, following a formal announcement by President Isaac Herzog. He now has up to six weeks to negotiate with pote"
+    },
+    {
+      "id": "Jz6HEaho6os",
+      "title": "Israelis gather in Tel Aviv to back Netanyahu opponent Eisenkot",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-08T14:04:50.000Z",
+      "description": "Israelis gathered at Tel Aviv's Habima Square to back opposition candidate Gadi Eisenkot, calling for him to form Israel's next government."
+    },
+    {
+      "id": "Ph3pZDF0je0",
+      "title": "Opinions divided as huge Lincolnshire data centre due to start construction in 2027",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-07T21:33:07.000Z",
+      "description": "Elsham Tech Park is expected to begin construction in 2027, with plans to build a data centre on a site the size of 247 football pitches."
     },
     {
       "id": "x28yyfy0dwA",
@@ -58,140 +186,12 @@
       "description": "Today, Laura and Joe are looking at what might be in a new deal between the UK and European Union."
     },
     {
-      "id": "fE0Lsf2-NJ8",
-      "title": "France protests: Volunteer 'street medics' step in as clashes injure hundreds",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-08T14:08:54.000Z",
-      "description": "Volunteer \"street medics\" in white helmets are turning up at nationwide protests across France to treat demonstrators injured in clashes with police, offering first aid for bleeding and tear gas exposure. "
-    },
-    {
-      "id": "ZhlViAQcVwM",
-      "title": "Yemen's humanitarian crisis worsens • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-08T14:22:12.000Z",
-      "description": "One month into the Yemeni government's offensive against the Iran-aligned Houthis, fighting continues to escalate along the Red Sea coast. Meanwhile, the humanitarian crisis is worsening, with hundreds of thousands of pe"
-    },
-    {
-      "id": "acWUVnnpoeg",
-      "title": "King Charles leads Remembrance Sunday service",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-08T12:03:06.000Z",
-      "description": "Watch live as King Charles III leads the National Service of Remembrance at the Cenotaph in central London."
-    },
-    {
-      "id": "Jz6HEaho6os",
-      "title": "Israelis gather in Tel Aviv to back Netanyahu opponent Eisenkot",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-08T14:04:50.000Z",
-      "description": "Israelis gathered at Tel Aviv's Habima Square to back opposition candidate Gadi Eisenkot, calling for him to form Israel's next government."
-    },
-    {
-      "id": "ggIfmqdnYFk",
-      "title": "Israel's president gives Gadi Eisenkot first shot to form government",
+      "id": "3BgTU3Dimfg",
+      "title": "Nepal honors dogs during Hindu festival",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-08T13:55:02.000Z",
-      "description": "Israeli President Isaac Herzog says he'll give opposition politician Gadi Eisenkot the first chance to form a government. That puts him a step closer to unseating his rival, Prime Minister Benjamin Netanyahu. But it won'"
-    },
-    {
-      "id": "in1B63e8YDo",
-      "title": "COP31: How wild weather swept around the globe in 2026",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-08T12:32:27.000Z",
-      "description": "2026 has been another year of wild weather, with tropical cyclone, fire tornadoes and wildfires. 62% of cumulative human-caused CO₂ emissions between 1850 and 2019 occurred during 1970–2019—a 50-year period, according to"
-    },
-    {
-      "id": "MxvXe1t2QFk",
-      "title": "Mark Zuckerberg wants AI walking around your home, do you?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-08T09:30:22.000Z",
-      "description": "Would you let AI walk around your home?"
-    },
-    {
-      "id": "Nd-u7tIkK64",
-      "title": "Japan ramps up diplomacy between US and Iran to help end war",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-08T14:00:32.000Z",
-      "description": "Japan stepped up its diplomatic efforts when the Iran war started."
-    },
-    {
-      "id": "vrWWAT6Li-w",
-      "title": "Poland in shock after 6 killed in Krakow far-right shooting • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-08T14:21:17.000Z",
-      "description": "Poland on Sunday launched a terror probe into the mass shooting in Krakow the day before, in which six people were killed and many more were injured. Authorities have said that the 24-year-old suspect, who used a semi-au"
-    },
-    {
-      "id": "pIwIQdP-47s",
-      "title": "Lisa Nandy: Cases like Brand 'probably happening today'",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-08T12:00:00.000Z",
-      "description": "Lisa Nandy says she believes organisations in the media and entertainment industries are not doing enough to protect women from becoming victims of sexual assault and rape. "
-    },
-    {
-      "id": "xdci6iLcwak",
-      "title": "WARNING - DISTRESSING CONTENT: Houthi-run ministry says airstrikes kill at least two dozen in Yemen",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-08T13:28:54.000Z",
-      "description": "At least 27 people were killed and 36 wounded in what the Houthi-run Saba news agency said were Saudi airstrikes on a village near Yemen's capital Sanaa."
-    },
-    {
-      "id": "CBOYg4ITDVU",
-      "title": "Trump asks MMA boss Dana White to serve as press secretary",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-08T12:41:51.000Z",
-      "description": "US President Donald Trump has asked Dana White, the head of the Ultimate Fighting Championship, to serve as White House press secretary. "
-    },
-    {
-      "id": "2KapKKlrZZk",
-      "title": "Funerals for police and civilians killed in Russian attack on Ukraine's Komyshuvakha",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-08T12:15:15.000Z",
-      "description": "Police officers and relatives gathered in Zaporizhzhia for a farewell ceremony for six police officers killed in Russian attacks in the frontline village of Komyshuvakha. The attack killed at least 55 civilians, while 45"
-    },
-    {
-      "id": "NQ1_oUFD5Io",
-      "title": "Krakow shooting leaves six dead, including British citizen",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-08T09:10:15.000Z",
-      "description": "An attack in Krakow’s Main Market Square on Saturday has left six people dead. "
-    },
-    {
-      "id": "P7tiFxEFQmo",
-      "title": "The DNA That Unmasked a Killer",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-08T14:00:22.000Z",
-      "description": "Leslie Preer's murder went unsolved for 21 years. Her husband was the longtime suspect, but the case went cold. Then, new DNA technology pointed detectives to someone else entirely – a suspect thousands of miles away. Id"
-    },
-    {
-      "id": "HvO-FpUF-F4",
-      "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-07T19:57:51.000Z",
-      "description": "“We are facing a crisis of human civilisation. And we are going to win.”"
-    },
-    {
-      "id": "Ph3pZDF0je0",
-      "title": "Opinions divided as huge Lincolnshire data centre due to start construction in 2027",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-07T21:33:07.000Z",
-      "description": "Elsham Tech Park is expected to begin construction in 2027, with plans to build a data centre on a site the size of 247 football pitches."
+      "publishedAt": "2026-11-08T14:00:39.000Z",
+      "description": "Dogs in Nepal were showered with flower garlands and treats during Kukur Tihar, part of the Hindu festival of lights. At a ceremony in Kathmandu, police dogs also showed off their skills, marching alongside officers and "
     }
   ]
 }
