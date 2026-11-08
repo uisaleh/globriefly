@@ -1,26 +1,25 @@
-00:30:38 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-00:30:38 collecting videos…
-00:31:04   video feed BBC News failed: Status code 404
-00:31:12   video feed Al Jazeera English: 15 in feed, 5 kept
-00:31:12   video feed DW News: 15 in feed, 5 kept
-00:31:38   video feed FRANCE 24 English failed: Status code 404
-00:31:38   video feed Sky News: 15 in feed, 5 kept
-00:31:38   video feed Reuters: 15 in feed, 5 kept
-00:31:38   video feed Associated Press: 15 in feed, 5 kept
-00:31:38 videos: saved 24
-00:31:38 collecting feeds…
-00:31:42 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-00:31:42 570 new items
-00:31:42 438 candidate stories
-00:31:42 categories needing stories: sports, entertainment, business, technology, world → reserved sports
-00:31:42 writing: Match of the Day (4 sources)
-00:31:43   source text: 2123 / 2123 / 2820 chars
-00:31:47   too close to source wording — rewriting
-00:31:56 writer returned unusable output: { "headline": "Remembering NASA's historic Mars Global Surveyor mission launch", "standfirst": "Looking back at the launch of NASA's Mars Global Surveyor or
-00:31:56   skipped
-00:31:56 writing: Eisenkot chosen over Netanyahu to form Israel’s next government (8 sources)
-00:32:12   source text: 338 / 0 / 4524 / 3950 / 0 chars
-00:32:19   ✓ published: /news/israeli-president-selects-gadi-eisenkot-to-attempt-government-formation/ [world] image: wikimedia via idea "Gadi Eisenkot Tel Aviv"
-00:32:19 writing explainer for: Eisenkot chosen over Netanyahu to form Israel’s next government
-00:32:22 writer returned unusable output: { "headline": "Why did Israel's president pick Gadi Eisenkot over Benjamin Netanyahu?", "standfirst": "Following an inconclusive general election, Israel's 
-00:32:22 done — 1 stories
+07:15:00 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+07:15:00 collecting videos…
+07:15:26   video feed BBC News failed: Status code 404
+07:15:35   video feed Al Jazeera English: 15 in feed, 5 kept
+07:16:01   video feed DW News failed: Status code 404
+07:16:27   video feed FRANCE 24 English failed: Status code 404
+07:16:52   video feed Sky News failed: Status code 404
+07:17:18   video feed Reuters failed: Status code 404
+07:17:30 videos: saved 24
+07:17:30 collecting feeds…
+07:17:34 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+07:17:34 446 new items
+07:17:35 365 candidate stories
+07:17:35 categories needing stories: technology, sports, entertainment, politics, business → reserved technology
+07:17:35 writing: Syncing Apple Music across your devices is easier than you think (1 sources)
+07:17:35   source text: 3256 chars
+07:17:44   ✓ published: /news/how-to-seamlessly-sync-your-music-library-across-multiple-devices/ [technology] image: none
+07:17:44 writing: ‘SNL’: Druski Impersonates ‘Crazy’ Elizabeth Holmes in Meta-Documentary (4 sources)
+07:17:44   source text: 2198 / 3149 / 1419 chars
+07:17:45   video feed Associated Press failed: Status code 404
+07:17:50   too close to source wording — rewriting
+07:17:58   ✓ published: /news/druski-channels-elizabeth-holmes-in-saturday-night-live-parody-debut/ [entertainment] image: wikimedia via idea "Elizabeth Holmes"
+07:17:58 writing explainer for: ‘SNL’: Druski Impersonates ‘Crazy’ Elizabeth Holmes in Meta-Documentary
+07:18:03   ✓ explainer: /news/why-did-druski-play-elizabeth-holmes-in-a-wild-snl-parody/
+07:18:03 done — 2 stories

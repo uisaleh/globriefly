@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://phys.org/news/2026-10-oddball-lava-world.html": 1793495085258,
-    "https://www.rnz.co.nz/news/world/2282547/judge-throws-out-trump-suit-over-epstein-letter": 1793495115445,
-    "https://www.hollywoodreporter.com/news/politics-news/trump-lawsuit-wall-street-journal-epstein-dismissed-1236744244/": 1793495115445,
-    "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html": 1793495115445,
-    "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423/": 1793495115445,
-    "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html": 1793495115445,
-    "https://www.scmp.com/news/world/united-states-canada/article/3372857/judge-throws-out-trump-lawsuit-against-wall-street-journal-over-epstein-birthday-letter": 1793495115445,
-    "https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665/": 1793495115445,
     "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-wie-real-ist-die-kriegsgefahr-mit-general-alexander-sollfrank/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1793518129073,
     "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency": 1793518137353,
     "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss": 1793518137353,
@@ -266,11 +258,14 @@
     "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog": 1794097938010,
     "https://news.sky.com/story/blow-for-netanyahu-as-opposition-rival-asked-to-form-government-by-israels-president-13609540": 1794097938010,
     "https://www.scmp.com/news/world/middle-east/article/3373671/israels-president-taps-eisenkot-form-government-setback-netanyahu": 1794097938010,
-    "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government": 1794097938010
+    "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government": 1794097938010,
+    "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/": 1794122260884,
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-druski-impersonates-crazy-elizabeth-holmes-meta-documentary-1235654383/": 1794122276936,
+    "https://www.hollywoodreporter.com/tv/tv-news/druski-elizabeth-holmes-snl-you-can-see-everything-skit-1236750276/": 1794122276936,
+    "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/": 1794122276936,
+    "https://deadline.com/2026/11/druski-elizabeth-holmes-whiteface-dru-can-see-everything-snl-1237216571/": 1794122276936
   },
   "fps": {
-    "challenging-lava-oddball-reflective-understand-world": 1793495085258,
-    "epstein-judge-letter-suit-throws-trump": 1793495115445,
     "alexander-die-general-ist-kriegsgefahr-mit-real-security": 1793518129073,
     "3bn-attack-behind-binance-covered-fbi-hack-korea": 1793518137353,
     "almanac-november": 1793545303944,
@@ -321,6 +316,8 @@
     "driver-early-identified-onset-potential-preeclampsia-severe": 1794084662257,
     "chief-dana-fighter-offers-press-role-secretary-trump": 1794084676964,
     "day-match": 1794097916946,
-    "chosen-eisenkot-form-government-israel-netanyahu-next": 1794097938010
+    "chosen-eisenkot-form-government-israel-netanyahu-next": 1794097938010,
+    "across-apple-devices-easier-music-syncing-think-you": 1794122260884,
+    "crazy-documentary-druski-elizabeth-holmes-impersonates-meta-snl": 1794122276936
   }
 }
