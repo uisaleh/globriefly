@@ -113,6 +113,9 @@
   "publishedAt": "2026-11-08T23:43:13.030Z",
   "updatedAt": "2026-11-08T23:43:13.030Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174025086681745",
+    "sharedAt": "2026-11-08T23:46:24.923Z"
+  },
   "ogImage": "/og/nvidia-launches-board-inquiry-into-chief-executive-over-foreign.jpg"
 }
