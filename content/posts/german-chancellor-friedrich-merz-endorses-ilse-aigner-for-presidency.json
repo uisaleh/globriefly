@@ -102,6 +102,9 @@
   "publishedAt": "2026-11-09T06:15:44.364Z",
   "updatedAt": "2026-11-09T06:15:44.364Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174046452681745",
+    "sharedAt": "2026-11-09T06:19:12.210Z"
+  },
   "ogImage": "/og/german-chancellor-friedrich-merz-endorses-ilse-aigner-for-presidency.jpg"
 }
