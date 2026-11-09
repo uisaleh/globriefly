@@ -1,23 +1,25 @@
-23:40:16 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-23:40:16 collecting videos…
-23:40:42   video feed BBC News failed: Status code 404
-23:40:57   video feed Al Jazeera English: 15 in feed, 5 kept
-23:41:23   video feed DW News failed: Status code 404
-23:41:49   video feed FRANCE 24 English failed: Status code 404
-23:42:15   video feed Sky News failed: Status code 404
-23:42:41   video feed Reuters failed: Status code 404
-23:42:46 videos: saved 24
-23:42:46 collecting feeds…
-23:42:49   video feed Associated Press: 15 in feed, 5 kept
-23:42:52 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-23:42:52 628 new items
-23:42:52 463 candidate stories
-23:42:52 categories needing stories: politics, health, sports, business, technology → reserved politics
-23:42:52 writing: Ukrainian nuclear plant switches to generators after losing final power line (2 sources)
-23:42:52   source text: 0 / 2171 chars
-23:42:57   too close to source wording — rewriting
-23:43:04   skipped
-23:43:04 writing: Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy (10 sources)
-23:43:05   source text: 1821 / 3071 / 2666 chars
-23:43:13   ✓ published: /news/nvidia-launches-board-inquiry-into-chief-executive-over-foreign/ [technology] image: wikimedia via name "Jensen Huang"
-23:43:13 done — 1 stories
+06:12:55 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+06:12:55 collecting videos…
+06:13:20   video feed BBC News failed: Status code 404
+06:13:46   video feed Al Jazeera English failed: Status code 404
+06:14:12   video feed DW News failed: Status code 404
+06:14:37   video feed FRANCE 24 English failed: Status code 404
+06:15:03   video feed Sky News failed: Status code 404
+06:15:25 videos: saved 24
+06:15:25 collecting feeds…
+06:15:28 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+06:15:28 549 new items
+06:15:29 419 candidate stories
+06:15:29 categories needing stories: politics, health, sports, business, world → reserved politics
+06:15:29 writing: Die Kür der Ilse Aigner (2 sources)
+06:15:29   video feed Reuters failed: Status code 404
+06:15:30   source text: 2553 / 2109 chars
+06:15:34   too close to source wording — rewriting
+06:15:45   ✓ published: /news/german-chancellor-friedrich-merz-endorses-ilse-aigner-for-presidency/ [politics] image: wikimedia via idea "Ilse Aigner politician"
+06:15:45 writing: Pope Leo takes Milei to task as he visits divided Argentina (5 sources)
+06:15:46   source text: 4048 / 3344 / 4141 chars
+06:15:55   ✓ published: /news/pope-leo-challenges-argentina-leader-over-austerity-and-democratic-tone/ [world] image: wikimedia via name "Pope Leo XIV"
+06:15:55 writing explainer for: Pope Leo takes Milei to task as he visits divided Argentina
+06:15:55   video feed Associated Press failed: Status code 404
+06:15:58 writer returned unusable output: { "headline": "Why did Pope Leo clash with Argentina's president over austerity?", "standfirst": "Pope Leo XIV urged President Javier Milei to ensure econom
+06:15:58 done — 2 stories
