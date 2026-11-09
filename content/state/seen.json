@@ -1,12 +1,5 @@
 {
   "urls": {
-    "https://thehill.com/homenews/6188072-ddhq-senate-forecast-texas-alaska-maine/": 1793633993352,
-    "https://www.nytimes.com/video/us/politics/100000011237962/can-democrats-flip-texas.html": 1793633993352,
-    "https://www.france24.com/en/video/20261102-french-school-protests-resume-on-smaller-scale-after-autumn-break": 1793634000858,
-    "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break?traffic_source=rss": 1793634000858,
-    "https://www.scmp.com/news/world/europe/article/3373008/french-school-protests-resume-smaller-scale-holidays-end": 1793634000858,
-    "https://www.france24.com/en/france/20261102-french-school-protests-resume-smaller-scale-after-holiday-break": 1793634000858,
-    "https://www.channelnewsasia.com/world/france-school-holidays-end-protests-resume-6512656": 1793634000858,
     "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/": 1793662080352,
     "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints": 1793662080352,
     "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html": 1793662090652,
@@ -251,11 +244,27 @@
     "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf": 1794204951895,
     "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html": 1794204951895,
     "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei": 1794204951895,
-    "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss": 1794204951895
+    "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss": 1794204951895,
+    "https://phys.org/news/2026-11-cop31-leaders-pressure-tackle-climate.html": 1794245170787,
+    "https://www.channelnewsasia.com/sustainability/cop31-climate-talks-un-crisis-antalya-6535811": 1794245170787,
+    "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates": 1794245185917,
+    "https://www.france24.com/en/video/20261109-russell-brand-sentenced-to-10-and-a-half-years-in-jail-for-rape-sexual-assault": 1794245185917,
+    "https://www.france24.com/en/video/20261109-sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault": 1794245185917,
+    "https://www.thehindu.com/news/international/comedian-russell-brand-sentenced-to-more-than-a-decade-in-prison/article71683300.ece": 1794245185917,
+    "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/": 1794245185917,
+    "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html": 1794245185917,
+    "https://www.euronews.com/2026/11/09/british-comedian-russell-brand-sentenced-to-10-years-and-six-months-for-rape-sexual-assaul": 1794245185917,
+    "https://timesofindia.indiatimes.com/world/uk/russell-brand-sentenced-to-10-and-a-half-years-in-prison-for-rape-and-sexual-assault/articleshow/135685812.cms": 1794245185917,
+    "https://www.scmp.com/news/world/europe/article/3373841/uks-russell-brand-sentenced-10-1/2-years-jail-rape-sexual-assault": 1794245185917,
+    "https://www.france24.com/en/europe/20261109-russell-brand-sentenced-to-10-years-6-months-for-rape-and-sexual-assault": 1794245185917,
+    "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss": 1794245185917,
+    "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced": 1794245185917,
+    "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf": 1794245185917,
+    "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault": 1794245185917,
+    "https://www.hollywoodreporter.com/news/general-news/russell-brand-sentence-prison-10-years-rape-sexual-trial-1236750783/": 1794245185917,
+    "https://www.cbsnews.com/video/russell-brand-set-to-be-sentenced-for-rape-sexual-assault-convictions/": 1794245185917
   },
   "fps": {
-    "alaska-blue-ddhq-flip-maine-map-races-senate": 1793633993352,
-    "autumn-break-french-protests-resume-scale-school-smaller": 1793634000858,
     "apple-constraints-duo-hard-improve-iphone-predict-when": 1793662080352,
     "ballots-bid-block-california-counting-court-disputed-doj": 1793662090652,
     "apologizes-costume-halloween-homeless-martha-stewart": 1793688145809,
@@ -305,6 +314,8 @@
     "final-generators-line-losing-nuclear-plant-power-switches": 1794181384745,
     "chinese-huang-investigation-jensen-nvidia-opens-relationship-spy": 1794181391829,
     "aigner-der-die-ilse": 1794204943747,
-    "argentina-divided-leo-milei-pope-takes-task-visits": 1794204951895
+    "argentina-divided-leo-milei-pope-takes-task-visits": 1794204951895,
+    "climate-cop31-crisis-leaders-opens-pressure-tackle-under": 1794245170787,
+    "assault-brand-happened-offences-rape-russell-sentenced-sexual": 1794245185917
   }
 }
