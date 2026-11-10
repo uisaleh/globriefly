@@ -1,24 +1,22 @@
-01:28:15 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-01:28:15 collecting videos…
-01:28:41   video feed BBC News failed: Status code 404
-01:29:06   video feed Al Jazeera English failed: Status code 404
-01:29:32   video feed DW News failed: Status code 404
-01:29:58   video feed FRANCE 24 English failed: Status code 404
-01:30:23   video feed Sky News failed: Status code 404
-01:30:45 videos: saved 24
-01:30:45 collecting feeds…
-01:30:48 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-01:30:48 826 new items
-01:30:49 619 candidate stories
-01:30:49 categories needing stories: business, technology, science, health, sports, entertainment, politics → reserved business
-01:30:49 writing: Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy' (3 sources)
-01:30:50   source text: 3291 / 1227 / 0 chars
-01:30:51   video feed Reuters failed: Status code 404
-01:30:55   too close to source wording — rewriting
-01:31:04   ✓ published: /news/trump-says-nvidia-boss-jensen-huang-claimed-ignorance-over-alleged-spy/ [business] image: wikimedia via idea "Donald Trump White House briefing"
-01:31:04 writing: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (7 sources)
-01:31:04   source text: 5238 / 5238 / 5238 chars
-01:31:10   ✓ published: /news/fbi-investigates-nvidia-chief-executive-following-intelligence-warnings/ [world] image: wikimedia via idea "Jensen Huang Nvidia"
-01:31:10 writing explainer for: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
-01:31:15   ✓ explainer: /news/why-are-us-officials-investigating-nvidias-chief-executive/
-01:31:15 done — 2 stories
+09:41:05 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+09:41:05 collecting videos…
+09:41:05   video feed BBC News: 15 in feed, 5 kept
+09:41:05   video feed Al Jazeera English: 15 in feed, 5 kept
+09:41:05   video feed DW News: 15 in feed, 5 kept
+09:41:06   video feed FRANCE 24 English: 15 in feed, 5 kept
+09:41:06   video feed Sky News: 15 in feed, 5 kept
+09:41:06   video feed Reuters: 15 in feed, 5 kept
+09:41:06   video feed Associated Press: 15 in feed, 5 kept
+09:41:06 videos: saved 24
+09:41:06 collecting feeds…
+09:41:10 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+09:41:10 709 new items
+09:41:11 538 candidate stories
+09:41:11 categories needing stories: politics, science, health, sports, entertainment, business, technology → reserved politics
+09:41:11 writing: Phones to be banned from pupils' bags or pockets under stricter rules for schools in England (1 sources)
+09:41:11   source text: 4860 chars
+09:41:19   ✓ published: /news/stricter-government-rules-will-completely-ban-mobile-phones-in-english/ [politics] image: wikimedia via idea "school classroom students"
+09:41:19 writing: California voters reject billionaire tax (7 sources)
+09:41:20   source text: 2800 / 2285 / 6690 chars
+09:41:28   ✓ published: /news/california-voters-reject-proposed-one-time-wealth-tax-on-billionaires/ [world] image: wikimedia via idea "Gavin Newsom California Economic Summit"
+09:41:28 done — 2 stories

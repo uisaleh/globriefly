@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-11-10T01:30:45.164Z",
+  "updatedAt": "2026-11-10T09:41:06.647Z",
   "videos": [
+    {
+      "id": "PqsZk6v-5Y0",
+      "title": "Lights go out at Russia's investigative newspaper, Novaya Gazeta",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-10T09:34:27.000Z",
+      "description": "Russian investigative newspaper Novaya Gazeta is winding down its operations after holding its final editorial meeting, citing a campaign of state pressure that it said made it impossible to continue reporting. "
+    },
+    {
+      "id": "Q4rT_ZO_vSg",
+      "title": "WATCH: US-led peace talks between Russia and Ukraine begin in Abu Dhabi",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-10T09:07:29.000Z",
+      "description": "Watch as three-way talks between Russia, Ukraine and the United States open in Abu Dhabi. Read more here: https://bit.ly/4iHQLDr"
+    },
+    {
+      "id": "zGQ9-99Y_M0",
+      "title": "Thousands of West African gold miners deported from Guinea",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-10T09:03:25.000Z",
+      "description": "Thousands of West African gold miners have been deported from Guinea following a ban on artisanal mining."
+    },
+    {
+      "id": "SAD22aCM3Os",
+      "title": "A rickshaw that runs on sunlight",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-10T09:00:16.000Z",
+      "description": "In Quetta, the capital of Pakistan's Balochistan province, one man has found a way to cut fuel costs by converting a rickshaw to run on solar energy. He says the switch has made it easier to take his five children to sch"
+    },
+    {
+      "id": "_71GD3RfBM8",
+      "title": "Teddy Riner: From French Olympic hero to presidential candidate? • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-10T08:48:13.000Z",
+      "description": "PRESS REVIEW - Tuesday, November 10: French Olympic judo champion announces he will run for president in next year's French elections. But how serious is his bid? Also, a new government directive in France says school ch"
+    },
+    {
+      "id": "3Vrbvd491LM",
+      "title": "US aircraft moved from British base: What we know",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-10T08:31:32.000Z",
+      "description": "US aircraft were moved from an airbase in the UK following a reported threat from Iran."
+    },
+    {
+      "id": "o0h3vlRseUw",
+      "title": "What is Nvidia? And why does it matter?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-10T04:00:36.000Z",
+      "description": ""
+    },
+    {
+      "id": "0EPEVoUOvCc",
+      "title": "Tech Weekly: Jensen in trouble, and so long Cybertruck",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-10T09:30:53.000Z",
+      "description": "From the spy thriller surrounding Nvidia CEO Jensen Huang to Tesla’s decision to end Cybertruck production, and a humanoid robot’s Antarctic marathon mishap, here’s what’s happening in the world of technology. "
+    },
+    {
+      "id": "f8O7ahJKC94",
+      "title": "EU anti-piracy naval force patrols the Gulf of Aden",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-10T07:15:11.000Z",
+      "description": "Rising tensions across the Middle East and the Horn of Africa are raising concerns over a possible resurgence of piracy in the Gulf of Aden, a vital shipping route connecting Europe and Asia. The EU's Operation Atalanta "
+    },
+    {
+      "id": "_Tus65DWVOw",
+      "title": "UFC CEO Dana White takes the White House podium during Washington visit",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-10T08:48:17.000Z",
+      "description": "During his visit to meet with US President Donald Trump in Washington, UFC CEO Dana White answers questions at the White House podium, joking about how his life in the last 24 hours ‘has been insane’ since Trump proposed"
+    },
+    {
+      "id": "ESFMjd5rBE4",
+      "title": "Eisenkot’s narrow path to coalition",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-10T06:25:38.000Z",
+      "description": "Gadi Eisenkot, the head of Israel’s centrist Yashar party, has under a month (with a possible 14-day extension) to secure the coalition needed to oust Prime Minister Benjamin Netanyahu’s religious-nationalist government."
+    },
+    {
+      "id": "58Q5Pni5Fi4",
+      "title": "Nvidia shares slide as board probes CEO over affair with alleged Chinese spy • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-10T00:20:01.000Z",
+      "description": "Nvidia CEO Jensen Huang is facing scrutiny after reports he was targeted in a suspected Chinese intelligence operation involving a businesswoman with whom he was having an affair. The controversy has rattled investors, s"
+    },
+    {
+      "id": "xFWuH8MoTKs",
+      "title": "Hope v hot air: Are climate talks cooked?",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-10T08:23:43.000Z",
+      "description": "The great climate roadshow rolls into town for another year, after a period of global conflict, record-breaking heatwaves, and terrifying glacier collapses. ⁠"
+    },
+    {
+      "id": "F8Wx2MG5EWA",
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-10T02:30:08.000Z",
+      "description": ""
+    },
     {
       "id": "Wz-LpAi0Enw",
       "title": "Sectors Up Close: Cyber defenses are 'not up to par'",
@@ -10,12 +122,28 @@
       "description": "From hacked supermarket fridges to cyber heists, newly uncovered vulnerabilities are threatening essential services and carrying huge economic costs. Patrick Kennedy from AllSource Investments explains why cybersecurity "
     },
     {
-      "id": "NqXnQplz3zY",
-      "title": "Al Fayed's brother 'assaulted me at Scottish estate'.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-09T17:00:15.000Z",
-      "description": ""
+      "id": "JzZKL07gamg",
+      "title": "Congress returns to a changed Washington after GOP's election wipeout",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-10T06:00:11.000Z",
+      "description": "Congress returns to a changed Washington after Democrats trounced Republicans in the midterm elections. It's the start of a six-week lame-duck sprint for Congress as Republicans try to wrap up work before Democrats take "
+    },
+    {
+      "id": "lHmFJlDGw1k",
+      "title": "Are your supplements fake?",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-10T08:36:32.000Z",
+      "description": "That protein powder in your cupboard might not be all protein, and those creatine gummies might be candy. How are manufacturers duping customers? Al Jazeera's Basel Ghazoghli explains how you can protect yourself."
+    },
+    {
+      "id": "ewf262LkmLs",
+      "title": "Republican seeks Hegseth's impeachment",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-10T05:40:06.000Z",
+      "description": "Republican lawmaker Thomas Massie has introduced articles of impeachment against US Defense Secretary Pete Hegseth, accusing him of waging an illegal war in Iran. Hegseth said he was not worried and was ready to defend h"
     },
     {
       "id": "JjQzgzhePbk",
@@ -26,36 +154,20 @@
       "description": "Annette Young is pleased to welcome Renaud Foucart, Senior Lecturer at the Department of Economics ECARES at Lancaster University. France's 1.6% minimum-wage increase, in response to the countrywide protests, may offer a"
     },
     {
-      "id": "n8KN1rq8EEQ",
-      "title": "Al Jazeera tries skateboarding at Youth Olympics",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-09T16:46:20.000Z",
-      "description": "Al Jazeera’s Nic Haque learns how to skateboard with skateboarding athlete Noura Amghar at the 2026 Youth Olympics in Senegal."
-    },
-    {
-      "id": "M6W7qcDi1ME",
-      "title": "Russell Brand jailed for 10 years and 6 months",
+      "id": "FwD7OBLbwqE",
+      "title": "Harry and Meghan open 'online harm' memorial at EU Parliament",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-09T16:42:36.000Z",
-      "description": "⚠️ Warning: Details of rape and sexual assault"
+      "publishedAt": "2026-11-09T20:51:52.000Z",
+      "description": "The Duke and Duchess of Sussex will attend the opening of the Lost Screen Memorial at the European Parliament – a memorial to children and families whose lives have been affected by online harm."
     },
     {
-      "id": "RijYrGL2Syo",
-      "title": "Trump reacts to Nvidia’s investigation into CEO Jensen Huang",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-09T15:50:19.000Z",
-      "description": "President Donald Trump on Sunday defended Nvidia CEO Jensen Huang following reports that the chipmaker was investigating Huang's alleged links to a Chinese spy."
-    },
-    {
-      "id": "25gggBF1H1o",
-      "title": "Pope Leo urges Argentine President to safeguard democracy",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-09T15:31:46.000Z",
-      "description": "Pope Leo delivered a subtle but striking message for President Javier Milei on his first visit to Argentina. Without naming Milei directly, the pontiff said political leaders must put people, not the economy, first, and "
+      "id": "NqXnQplz3zY",
+      "title": "Al Fayed's brother 'assaulted me at Scottish estate'.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-09T17:00:15.000Z",
+      "description": ""
     },
     {
       "id": "AhzLRwwvjeM",
@@ -66,132 +178,20 @@
       "description": "In November 2026, Larysa Ryndova saw her husband Serhiy for the first time in four-and-a-half years after he was trapped with others in the Russian-occupied Ukrainian town of Oleshky. They last saw each other in 2022 bef"
     },
     {
-      "id": "W4TSF8OYgyE",
-      "title": "World on track for hottest year on record.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-09T16:30:28.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
-    },
-    {
-      "id": "fAl6WWrb_hU",
-      "title": "French PM brings forward hike in minimum wage to calm protesters • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-09T16:47:53.000Z",
-      "description": "French Prime Minister Sebastien Lecornu said ​on Monday, November 9, he was bringing forward a planned hike in the minimum wage to December from January, as he sought to defuse a cost-of-living crisis that has sparked so"
-    },
-    {
-      "id": "oVswa55sKig",
-      "title": "Gaza sand embankment collapse kills mother and three children",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-09T16:45:19.000Z",
-      "description": "Palestinians dig through a sand bank that collapsed during a storm in central Gaza, killing a mother and her three children."
-    },
-    {
-      "id": "VVhZxpbg2A0",
-      "title": "Sky correspondents describe how Brand's body language changed through his rape and sex assault trial",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-09T16:15:33.000Z",
-      "description": "Russell Brand has been jailed for 10 years and six months after being found guilty of rape and sexual assault."
-    },
-    {
-      "id": "izhLQknsb8c",
-      "title": "King Charles III leads remembrance service at Cenotaph",
+      "id": "RijYrGL2Syo",
+      "title": "Trump reacts to Nvidia’s investigation into CEO Jensen Huang",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-08T16:25:06.000Z",
-      "description": "Thousands of military personnel, veterans and members of the public gathered in central London on Sunday as King Charles III led Britain's annual ceremony of remembrance for the country's war dead.\r"
+      "publishedAt": "2026-11-09T15:50:19.000Z",
+      "description": "President Donald Trump on Sunday defended Nvidia CEO Jensen Huang following reports that the chipmaker was investigating Huang's alleged links to a Chinese spy."
     },
     {
-      "id": "8ag3El3CGD8",
-      "title": "Deadly train collision in Egypt",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-09T14:30:28.000Z",
-      "description": "At least seven people are dead and 125 injured following the collision of two trains in Egypt’s al-Ayyat district, about 50 kilometers south of Cairo, on Sunday. "
-    },
-    {
-      "id": "VpRB17cc89w",
-      "title": "Israel election, Krakow shooting, AI shopping agents",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-08T15:59:13.000Z",
-      "description": "Israel's president chooses Gadi Eisenkot, Prime Minister Benjamin Netanyahu's strongest rival, to try to form ​a new government. Poland is in mourning after a mass shooting in Krakow that the government said ‌was likely "
-    },
-    {
-      "id": "RR4XJyjHDwQ",
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-09T16:00:19.000Z",
-      "description": "Drug trafficking in France generates €7bn a year and rising - and narcotics are flooding into cities like Marseille, fueling violence on its streets."
-    },
-    {
-      "id": "S8E6FY-ppVY",
-      "title": "Strike damages Aramco tower in Riyadh • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-08T17:01:33.000Z",
-      "description": "A building belonging to Saudi oil giant Aramco was damaged in Riyadh on Sunday amid a series of missile attacks launched by Yemen's Houthi rebels. The building sustained minor damage after being hit by falling shrapnel. "
-    },
-    {
-      "id": "Kr4Ar7SyVSo",
-      "title": "What’s next for US Republicans and Trumpism?",
+      "id": "fILqTTLAxmo",
+      "title": "Gaza's displaced families battle winter storms in flooded tents",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-09T16:11:00.000Z",
-      "description": "The Republican Party lost big in the recent United States elections because “they made a crap ton of promises and then they don’t keep any of them”, argues Republican politician and former US Congressman Tom Garrett. On "
-    },
-    {
-      "id": "Yz0SqQ_9k8c",
-      "title": "The UK falls silent",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-08T14:18:52.000Z",
-      "description": "King Charles led the UK in a two-minute silence to commemorate those who served and died in conflict on Remembrance Sunday."
-    },
-    {
-      "id": "x656rSG1QW8",
-      "title": "Tourists in Krakow share reactions to attack which left 6 dead",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-08T16:04:51.000Z",
-      "description": "International visitors to Poland's second largest city shared reactions of shock, disbelief and sadness to Saturday's shooting that left six people dead and 15 wounded. Krakow was in mourning Sunday after a 24-year-old m"
-    },
-    {
-      "id": "Q6HdsCrMfvk",
-      "title": "Nvidia launches probe into alleged Chinese spy affair",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-09T13:29:24.000Z",
-      "description": "Nvidia has launched an investigation after reports that CEO Jensen Huang was targeted in an alleged Chinese intelligence operation. Huang has admitted to an extramarital affair. The company says it has no reason to belie"
-    },
-    {
-      "id": "QJVab-yO4V0",
-      "title": "Caught on camera: suspected gunman down after shootout with Kraków police",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-08T14:07:01.000Z",
-      "description": "Security camera video captured the moment that police officers in Kraków exchanged gunfire with a suspected assailant during a mass shooting that killed at least six people."
-    },
-    {
-      "id": "j34CNJnVB8E",
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-09T15:08:25.000Z",
-      "description": "A gunman suspected of killing six people in central Krakow and his parents and sister at their home has died in hospital, Polish police say."
-    },
-    {
-      "id": "K9Gxc8aZoDs",
-      "title": "Ukraine: Russian strikes leave hundreds of thousands without power • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-08T16:59:41.000Z",
-      "description": "Hundreds of thousands of Ukrainians were left without electricity on Sunday following Russian airstrikes targeting the country's energy infrastructure. Moscow has intensified its attacks as winter approaches, leaving res"
+      "publishedAt": "2026-11-10T08:21:38.000Z",
+      "description": "Displaced Palestinian families in Gaza fear winter storms as heavy rain floods their fragile tents."
     }
   ]
 }

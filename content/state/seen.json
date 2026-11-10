@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html": 1793688145809,
-    "https://www.rnz.co.nz/life/people/celebrity/martha-stewart-says-she-really-screwed-up-with-homeless-halloween-costume": 1793688145809,
-    "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island": 1793688169047,
-    "https://www.scmp.com/news/china/diplomacy/article/3373075/us-strikes-irans-qeshm-island-ahead-midterms-trump-says-deal-could-happen": 1793688169047,
-    "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html": 1793688169047,
-    "https://www.euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections": 1793688169047,
-    "https://news.sky.com/story/us-carries-out-limited-strikes-on-qeshm-island-in-iran-13607337": 1793688169047,
-    "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks": 1793688169047,
     "https://phys.org/news/2026-11-evolution-forest-lizards-reveal-rapid.html": 1793718193979,
     "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss": 1793718193979,
     "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting": 1793718296231,
@@ -264,11 +256,17 @@
     "https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy": 1794274269429,
     "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk": 1794274269429,
     "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html": 1794274269429,
-    "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss": 1794274269429
+    "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss": 1794274269429,
+    "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss": 1794303677922,
+    "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss": 1794303686753,
+    "https://www.euronews.com/2026/11/10/california-voters-reject-one-off-billionaire-wealth-tax-us-media-predicts": 1794303686753,
+    "https://www.scmp.com/news/world/united-states-canada/article/3373896/california-billionaire-tax-defeated-contentious-vote": 1794303686753,
+    "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/": 1794303686753,
+    "https://www.france24.com/en/americas/20261110-california-voters-reject-proposed-one-time-tax-on-billionaires-wealth": 1794303686753,
+    "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum": 1794303686753,
+    "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40": 1794303686753
   },
   "fps": {
-    "apologizes-costume-halloween-homeless-martha-stewart": 1793688145809,
-    "deal-iran-island-optimism-qeshm-reportedly-strikes-vance": 1793688169047,
     "act-adaptation-evolution-forest-lizards-rapid-reveal-warming": 1793718193979,
     "2026-agenda-americans-elections-live-midterm-polls-referendum": 1793718296231,
     "case-child-dies-fatal-first-measles-state-years": 1793739439661,
@@ -318,6 +316,8 @@
     "climate-cop31-crisis-leaders-opens-pressure-tackle-under": 1794245170787,
     "assault-brand-happened-offences-rape-russell-sentenced-sexual": 1794245185917,
     "didn-him-huang-jensen-know-monday-paramour-spy": 1794274262729,
-    "affair-alleged-boss-chinese-fbi-investigating-nvidia-spy": 1794274269429
+    "affair-alleged-boss-chinese-fbi-investigating-nvidia-spy": 1794274269429,
+    "bags-banned-england-phones-pockets-pupils-rules-schools": 1794303677922,
+    "billionaire-california-reject-tax-voters": 1794303686753
   }
 }
