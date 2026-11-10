@@ -1,69 +1,141 @@
 {
-  "updatedAt": "2026-11-10T09:41:06.647Z",
+  "updatedAt": "2026-11-10T17:43:59.455Z",
   "videos": [
     {
-      "id": "PqsZk6v-5Y0",
-      "title": "Lights go out at Russia's investigative newspaper, Novaya Gazeta",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-10T09:34:27.000Z",
-      "description": "Russian investigative newspaper Novaya Gazeta is winding down its operations after holding its final editorial meeting, citing a campaign of state pressure that it said made it impossible to continue reporting. "
-    },
-    {
-      "id": "Q4rT_ZO_vSg",
-      "title": "WATCH: US-led peace talks between Russia and Ukraine begin in Abu Dhabi",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-10T09:07:29.000Z",
-      "description": "Watch as three-way talks between Russia, Ukraine and the United States open in Abu Dhabi. Read more here: https://bit.ly/4iHQLDr"
-    },
-    {
-      "id": "zGQ9-99Y_M0",
-      "title": "Thousands of West African gold miners deported from Guinea",
+      "id": "ezOvOjKCksc",
+      "title": "Do climate change conferences make a difference?",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-10T09:03:25.000Z",
-      "description": "Thousands of West African gold miners have been deported from Guinea following a ban on artisanal mining."
+      "publishedAt": "2026-11-10T17:30:21.000Z",
+      "description": "The world is entering a new reality where climate extremes are the norm"
     },
     {
-      "id": "SAD22aCM3Os",
-      "title": "A rickshaw that runs on sunlight",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-10T09:00:16.000Z",
-      "description": "In Quetta, the capital of Pakistan's Balochistan province, one man has found a way to cut fuel costs by converting a rickshaw to run on solar energy. He says the switch has made it easier to take his five children to sch"
-    },
-    {
-      "id": "_71GD3RfBM8",
-      "title": "Teddy Riner: From French Olympic hero to presidential candidate? • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-10T08:48:13.000Z",
-      "description": "PRESS REVIEW - Tuesday, November 10: French Olympic judo champion announces he will run for president in next year's French elections. But how serious is his bid? Also, a new government directive in France says school ch"
-    },
-    {
-      "id": "3Vrbvd491LM",
-      "title": "US aircraft moved from British base: What we know",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-10T08:31:32.000Z",
-      "description": "US aircraft were moved from an airbase in the UK following a reported threat from Iran."
-    },
-    {
-      "id": "o0h3vlRseUw",
-      "title": "What is Nvidia? And why does it matter?",
+      "id": "UlDga0wBhTs",
+      "title": "UK and US tight-lipped after American war planes depart second British airbase",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-10T04:00:36.000Z",
+      "publishedAt": "2026-11-10T17:30:13.000Z",
+      "description": "More than a dozen US Air Force aircraft have left a second airbase in Britain weeks after the US withdrew its bombers from RAF Fairford over a suspected Iran-linked security incident."
+    },
+    {
+      "id": "Mbd7-zHSAOQ",
+      "title": "Egypt media crackdown, editor-in-chief faces prison",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-10T17:27:21.000Z",
+      "description": "For more news go to: http://www.dw.com/en/"
+    },
+    {
+      "id": "ds3RKF1NAFs",
+      "title": "Climate activist Greta Thunberg calls for nations to work toward ‘real policy changes’ at COP31",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-10T17:27:21.000Z",
+      "description": "Climate activist Greta Thunberg emphasized the need to prioritize people and the planet over profits as she arrived at the U.N. climate meeting in Turkey. This year’s Conference of the Parties, or COP31, follows a year o"
+    },
+    {
+      "id": "8gKqDb5jvAc",
+      "title": "Prince Harry blasts social media platforms for failing to protect children",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-10T17:21:13.000Z",
+      "description": "Britain’s Prince Harry accuses social media companies of failing to protect children and says they can no longer be trusted to address online harms without tougher regulation."
+    },
+    {
+      "id": "OqOC8O-JvXk",
+      "title": "Introducing: Backstory with Cathy Newman",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-10T17:12:28.000Z",
+      "description": "Backstory with Cathy Newman, coming 12 November."
+    },
+    {
+      "id": "O6C5XHrXoyg",
+      "title": "Kristallnacht' 88th anniversary: Merz says Germany faces historic test over antisemitism",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-10T16:47:49.000Z",
+      "description": "It has been 88 years since \"Kristallnacht\", the \"Night of Broken Glass\" in Europe, a violent pogrom against the Jewish population across Nazi Germany and Austria, marking a critical escalation toward the Holocaust. Fried"
+    },
+    {
+      "id": "TcifYW7tBEk",
+      "title": "Security forces seized top court, Somalia’s ex-chief justice says",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-10T17:01:08.000Z",
+      "description": "Somalia’s former Chief Justice Bashe Yusuf Ahmed told Al Jazeera that more than 300 security forces had ‘militarily occupied’ the Supreme Court after it ruled that President Hassan Sheikh Mohamud’s term extension, and co"
+    },
+    {
+      "id": "hRCJO2is1EY",
+      "title": "David Walliams loses court bid to block publication of sexual misconduct allegations",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-10T15:22:52.000Z",
+      "description": "Warning: Distressing content"
+    },
+    {
+      "id": "QlOG3c1btk4",
+      "title": "Abu Dhabi talks: Russia seeks new “security architecture” with growing US backing",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-10T16:33:19.000Z",
+      "description": "Trilateral Ukraine-Russia-US negotiations are underway in Abu Dhabi. Moscow is refusing to discuss a ceasefire in Ukraine without discussions of “what comes after.” Kyiv and European capitals believe Russia’s calls for a"
+    },
+    {
+      "id": "XFDaKUpLmWk",
+      "title": "FDA adds rare vision-loss warning to popular GLP-1 drugs",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-10T17:09:35.000Z",
+      "description": "Popular weight loss drugs, including Ozempic and Wegovy, will carry a new warning about the possibility of a rare side effect that can lead to permanent vision loss, U.S. health regulators announced Monday."
+    },
+    {
+      "id": "7Kdp8m-Rkt4",
+      "title": "'Jensanity' tested as Nvidia CEO's woes evoke disbelief from Taiwan",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-10T16:56:46.000Z",
+      "description": "Nvidia CEO Jensen Huang is drawing both sympathy and disbelief in his birthplace of Taiwan, where he has rockstar status, after dramatic revelations of his affair with a woman who could have been a Chinese spy."
+    },
+    {
+      "id": "ZKZhjnlQRNk",
+      "title": "Brand may not be seen again 'for a long time'",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-10T16:59:19.000Z",
+      "description": "Russell Brand has been jailed for 10-and-a-half years for raping one woman and sexually assaulting three others."
+    },
+    {
+      "id": "9U38vFEsLkM",
+      "title": "US Pentagon chief Pete Hegseth calls impeachment moves 'a farce' • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-10T16:43:38.000Z",
+      "description": "US Defence Secretary Pete Hegseth on Tuesday, November 10, called an effort to impeach him over ​abuse of power in the Iran war a farce and sabotage that plays into the hands of adversaries. FRANCE 24's International Aff"
+    },
+    {
+      "id": "nCNUrQ9qOzo",
+      "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-10T16:37:16.000Z",
+      "description": "Nayef Al-Nabet, a non-resident fellow at the Middle East Council on Global Affairs, discusses the Qatari prime minister’s visit to Washington, shifting US–Iran positions, and efforts to bring both sides back to negotiati"
+    },
+    {
+      "id": "3m-A6X1G1Ek",
+      "title": "Man smashes Chinese government building with excavator.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-10T15:00:10.000Z",
       "description": ""
     },
     {
-      "id": "0EPEVoUOvCc",
-      "title": "Tech Weekly: Jensen in trouble, and so long Cybertruck",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-10T09:30:53.000Z",
-      "description": "From the spy thriller surrounding Nvidia CEO Jensen Huang to Tesla’s decision to end Cybertruck production, and a humanoid robot’s Antarctic marathon mishap, here’s what’s happening in the world of technology. "
+      "id": "-W-R0fXYxBg",
+      "title": "Deadly blast at Turkey steel factory",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-10T11:51:57.000Z",
+      "description": "An explosion ripped through a steel plant in western Turkey on Monday, killing at least 17 people. President Recep Tayyip Erdogan has vowed to find out who was responsible."
     },
     {
       "id": "f8O7ahJKC94",
@@ -74,124 +146,52 @@
       "description": "Rising tensions across the Middle East and the Horn of Africa are raising concerns over a possible resurgence of piracy in the Gulf of Aden, a vital shipping route connecting Europe and Asia. The EU's Operation Atalanta "
     },
     {
-      "id": "_Tus65DWVOw",
-      "title": "UFC CEO Dana White takes the White House podium during Washington visit",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-10T08:48:17.000Z",
-      "description": "During his visit to meet with US President Donald Trump in Washington, UFC CEO Dana White answers questions at the White House podium, joking about how his life in the last 24 hours ‘has been insane’ since Trump proposed"
+      "id": "1q-UlDsqL_Q",
+      "title": "Inside ETFs: Taking the sting out of market swings",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-10T16:37:43.000Z",
+      "description": "With data center fatigue and growing concerns threatening to undo recent gains, JD Gardner from Aptus Capital Advisors says that option-based ETFs could offer a compelling solution — helping cushion the downside while pr"
     },
     {
-      "id": "ESFMjd5rBE4",
-      "title": "Eisenkot’s narrow path to coalition",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-10T06:25:38.000Z",
-      "description": "Gadi Eisenkot, the head of Israel’s centrist Yashar party, has under a month (with a possible 14-day extension) to secure the coalition needed to oust Prime Minister Benjamin Netanyahu’s religious-nationalist government."
-    },
-    {
-      "id": "58Q5Pni5Fi4",
-      "title": "Nvidia shares slide as board probes CEO over affair with alleged Chinese spy • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-10T00:20:01.000Z",
-      "description": "Nvidia CEO Jensen Huang is facing scrutiny after reports he was targeted in a suspected Chinese intelligence operation involving a businesswoman with whom he was having an affair. The controversy has rattled investors, s"
-    },
-    {
-      "id": "xFWuH8MoTKs",
-      "title": "Hope v hot air: Are climate talks cooked?",
+      "id": "3Vrbvd491LM",
+      "title": "US aircraft moved from British base: What we know",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-10T08:23:43.000Z",
-      "description": "The great climate roadshow rolls into town for another year, after a period of global conflict, record-breaking heatwaves, and terrifying glacier collapses. ⁠"
+      "publishedAt": "2026-11-10T08:31:32.000Z",
+      "description": "US aircraft were moved from an airbase in the UK following a reported threat from Iran."
     },
     {
-      "id": "F8Wx2MG5EWA",
-      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV.",
+      "id": "_71GD3RfBM8",
+      "title": "Teddy Riner: From French Olympic hero to presidential candidate? • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-10T08:48:13.000Z",
+      "description": "PRESS REVIEW - Tuesday, November 10: French Olympic judo champion announces he will run for president in next year's French elections. But how serious is his bid? Also, a new government directive in France says school ch"
+    },
+    {
+      "id": "BOXKW3xugZY",
+      "title": "Malaysian court clears former PM Najib Razak for house arrest transfer",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-10T16:30:13.000Z",
+      "description": "Malaysia’s former Prime Minister Najib Razak swaps his prison cell for a mansion after receiving a royal pardon."
+    },
+    {
+      "id": "91FCgTZMEYk",
+      "title": "Drone delivers food to chimpanzee after Florida flooding at sanctuary cuts off access.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-10T02:30:08.000Z",
+      "publishedAt": "2026-11-10T14:07:08.000Z",
       "description": ""
     },
     {
-      "id": "Wz-LpAi0Enw",
-      "title": "Sectors Up Close: Cyber defenses are 'not up to par'",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-09T17:08:39.000Z",
-      "description": "From hacked supermarket fridges to cyber heists, newly uncovered vulnerabilities are threatening essential services and carrying huge economic costs. Patrick Kennedy from AllSource Investments explains why cybersecurity "
-    },
-    {
-      "id": "JzZKL07gamg",
-      "title": "Congress returns to a changed Washington after GOP's election wipeout",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-10T06:00:11.000Z",
-      "description": "Congress returns to a changed Washington after Democrats trounced Republicans in the midterm elections. It's the start of a six-week lame-duck sprint for Congress as Republicans try to wrap up work before Democrats take "
-    },
-    {
-      "id": "lHmFJlDGw1k",
-      "title": "Are your supplements fake?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-10T08:36:32.000Z",
-      "description": "That protein powder in your cupboard might not be all protein, and those creatine gummies might be candy. How are manufacturers duping customers? Al Jazeera's Basel Ghazoghli explains how you can protect yourself."
-    },
-    {
-      "id": "ewf262LkmLs",
-      "title": "Republican seeks Hegseth's impeachment",
+      "id": "advZ7qqdgBg",
+      "title": "UFC chief gives White House press briefing with Trump",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-10T05:40:06.000Z",
-      "description": "Republican lawmaker Thomas Massie has introduced articles of impeachment against US Defense Secretary Pete Hegseth, accusing him of waging an illegal war in Iran. Hegseth said he was not worried and was ready to defend h"
-    },
-    {
-      "id": "JjQzgzhePbk",
-      "title": "Social unrest ahead of French elections:  Protesters 'don't believe politics can achieve anything'",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-09T16:52:20.000Z",
-      "description": "Annette Young is pleased to welcome Renaud Foucart, Senior Lecturer at the Department of Economics ECARES at Lancaster University. France's 1.6% minimum-wage increase, in response to the countrywide protests, may offer a"
-    },
-    {
-      "id": "FwD7OBLbwqE",
-      "title": "Harry and Meghan open 'online harm' memorial at EU Parliament",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-09T20:51:52.000Z",
-      "description": "The Duke and Duchess of Sussex will attend the opening of the Lost Screen Memorial at the European Parliament – a memorial to children and families whose lives have been affected by online harm."
-    },
-    {
-      "id": "NqXnQplz3zY",
-      "title": "Al Fayed's brother 'assaulted me at Scottish estate'.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-09T17:00:15.000Z",
-      "description": ""
-    },
-    {
-      "id": "AhzLRwwvjeM",
-      "title": "Ukrainian couple reunited after nearly five years",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-09T17:07:40.000Z",
-      "description": "In November 2026, Larysa Ryndova saw her husband Serhiy for the first time in four-and-a-half years after he was trapped with others in the Russian-occupied Ukrainian town of Oleshky. They last saw each other in 2022 bef"
-    },
-    {
-      "id": "RijYrGL2Syo",
-      "title": "Trump reacts to Nvidia’s investigation into CEO Jensen Huang",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-09T15:50:19.000Z",
-      "description": "President Donald Trump on Sunday defended Nvidia CEO Jensen Huang following reports that the chipmaker was investigating Huang's alleged links to a Chinese spy."
-    },
-    {
-      "id": "fILqTTLAxmo",
-      "title": "Gaza's displaced families battle winter storms in flooded tents",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-10T08:21:38.000Z",
-      "description": "Displaced Palestinian families in Gaza fear winter storms as heavy rain floods their fragile tents."
+      "publishedAt": "2026-11-10T10:18:22.000Z",
+      "description": "UFC President Dana White joined a White House press conference where he spoke to the media about not accepting US President Donald Trump's offer to be his press secretary. "
     }
   ]
 }

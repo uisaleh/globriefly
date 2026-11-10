@@ -1,22 +1,39 @@
-09:41:05 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-09:41:05 collecting videos…
-09:41:05   video feed BBC News: 15 in feed, 5 kept
-09:41:05   video feed Al Jazeera English: 15 in feed, 5 kept
-09:41:05   video feed DW News: 15 in feed, 5 kept
-09:41:06   video feed FRANCE 24 English: 15 in feed, 5 kept
-09:41:06   video feed Sky News: 15 in feed, 5 kept
-09:41:06   video feed Reuters: 15 in feed, 5 kept
-09:41:06   video feed Associated Press: 15 in feed, 5 kept
-09:41:06 videos: saved 24
-09:41:06 collecting feeds…
-09:41:10 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-09:41:10 709 new items
-09:41:11 538 candidate stories
-09:41:11 categories needing stories: politics, science, health, sports, entertainment, business, technology → reserved politics
-09:41:11 writing: Phones to be banned from pupils' bags or pockets under stricter rules for schools in England (1 sources)
-09:41:11   source text: 4860 chars
-09:41:19   ✓ published: /news/stricter-government-rules-will-completely-ban-mobile-phones-in-english/ [politics] image: wikimedia via idea "school classroom students"
-09:41:19 writing: California voters reject billionaire tax (7 sources)
-09:41:20   source text: 2800 / 2285 / 6690 chars
-09:41:28   ✓ published: /news/california-voters-reject-proposed-one-time-wealth-tax-on-billionaires/ [world] image: wikimedia via idea "Gavin Newsom California Economic Summit"
-09:41:28 done — 2 stories
+17:43:59 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+17:43:59 collecting videos…
+17:43:59   video feed BBC News: 15 in feed, 5 kept
+17:43:59   video feed Al Jazeera English: 15 in feed, 5 kept
+17:43:59   video feed DW News: 15 in feed, 5 kept
+17:43:59   video feed FRANCE 24 English: 15 in feed, 5 kept
+17:43:59   video feed Sky News: 15 in feed, 5 kept
+17:43:59   video feed Reuters: 15 in feed, 5 kept
+17:43:59   video feed Associated Press: 15 in feed, 5 kept
+17:43:59 videos: saved 24
+17:43:59 collecting feeds…
+17:44:02 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+17:44:02 946 new items
+17:44:03 737 candidate stories
+17:44:03 categories needing stories: science, health, sports, entertainment, politics, business, technology, world → reserved science
+17:44:03 writing: See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners (2 sources)
+17:44:04   source text: 3249 / 7000 chars
+17:44:05 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+17:44:17 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+DOMException [TimeoutError]: The operation was aborted due to timeout
+    at node:internal/deps/undici/undici:14976:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async callGemini (file:///home/runner/work/globriefly/globriefly/agent/llm.mjs:65:19)
+    at async generate (file:///home/runner/work/globriefly/globriefly/agent/llm.mjs:132:36)
+    at async main (file:///home/runner/work/globriefly/globriefly/agent/run.mjs:154:19)
