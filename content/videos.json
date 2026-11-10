@@ -1,45 +1,117 @@
 {
-  "updatedAt": "2026-11-10T17:43:59.455Z",
+  "updatedAt": "2026-11-10T23:13:17.432Z",
   "videos": [
     {
-      "id": "ezOvOjKCksc",
-      "title": "Do climate change conferences make a difference?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-10T17:30:21.000Z",
-      "description": "The world is entering a new reality where climate extremes are the norm"
+      "id": "4CG8UzKgaFw",
+      "title": "The Wrap with Anna Botting",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-10T23:09:46.000Z",
+      "description": "Sky News's brand new late-night show The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
     },
     {
-      "id": "UlDga0wBhTs",
-      "title": "UK and US tight-lipped after American war planes depart second British airbase",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-10T17:30:13.000Z",
-      "description": "More than a dozen US Air Force aircraft have left a second airbase in Britain weeks after the US withdrew its bombers from RAF Fairford over a suspected Iran-linked security incident."
-    },
-    {
-      "id": "Mbd7-zHSAOQ",
-      "title": "Egypt media crackdown, editor-in-chief faces prison",
+      "id": "phx5rM2xsCg",
+      "title": "Protests amid new migrant arrivals to Canary Islands",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-10T17:27:21.000Z",
-      "description": "For more news go to: http://www.dw.com/en/"
+      "publishedAt": "2026-11-10T23:00:31.000Z",
+      "description": "Residents on the Canary Island of El Hierro are protesting the number of migrants arriving from West Africa. Almost 7,500 migrants have arrived since the start of the month, the equivalent of a quarter of the island’s po"
     },
     {
-      "id": "ds3RKF1NAFs",
-      "title": "Climate activist Greta Thunberg calls for nations to work toward ‘real policy changes’ at COP31",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-10T17:27:21.000Z",
-      "description": "Climate activist Greta Thunberg emphasized the need to prioritize people and the planet over profits as she arrived at the U.N. climate meeting in Turkey. This year’s Conference of the Parties, or COP31, follows a year o"
+      "id": "qlLI15D95d4",
+      "title": "Stockpiling surge after UK government's 'Be Ready' campaign.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-10T23:00:00.000Z",
+      "description": ""
     },
     {
-      "id": "8gKqDb5jvAc",
-      "title": "Prince Harry blasts social media platforms for failing to protect children",
+      "id": "AT2Ajguxsos",
+      "title": "Pope Leo draws 650,000 for outdoor Mass in Argentina's second city",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-10T17:21:13.000Z",
-      "description": "Britain’s Prince Harry accuses social media companies of failing to protect children and says they can no longer be trusted to address online harms without tougher regulation."
+      "publishedAt": "2026-11-10T22:58:47.000Z",
+      "description": "Pope Leo drew 650,000 people to an outdoor Mass in Argentina's second city of Cordoba in what was another strong crowd turnout on his 12-day South America tour."
+    },
+    {
+      "id": "x-puSOzhDZM",
+      "title": "US midterms 2026 latest: Can Pete Hegseth survive impeachment?",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-10T22:31:37.000Z",
+      "description": "Pete Hegseth says efforts to impeach him are nothing but a political spectacle that will ultimately sabotage American soldiers."
+    },
+    {
+      "id": "oUZ5UQP_0E4",
+      "title": "Bernie Sanders says he won't support Chuck Schumer for Senate Democratic leader",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-10T22:30:08.000Z",
+      "description": "Sen. Bernie Sanders says he won't be supporting Sen. Chuck Schumer as the Democratic majority leader in the new Congress. The demand for change sets up a seismic confrontation after the party’s sweep to power in the midt"
+    },
+    {
+      "id": "nFkMnHW0Jpk",
+      "title": "West Bank: Population and healthcare actors, such as MSF, 'still facing movement restrictions'",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-10T22:25:46.000Z",
+      "description": "Eve Irvine is pleased to welcome Frederica Venturi of Doctors Without Borders (MSF). The withdrawal of Israeli forces from Hebron has not brought an end to the humanitarian crisis. According to Venturi, some 3,300 Palest"
+    },
+    {
+      "id": "iRJmsmwz5Zw",
+      "title": "US army serviceman spying arrest",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-10T22:31:04.000Z",
+      "description": "Counter-terror police say they have arrested a member of the US Army near Gloucester on suspicion of spying for Russia."
+    },
+    {
+      "id": "PxzhUtXaeE0",
+      "title": "Democracy won. But who really holds the power?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-10T23:00:10.000Z",
+      "description": "The US midterms offered something many feared democracy had lost -\r : proof that voters can still change the course of politics. "
+    },
+    {
+      "id": "Nd9-GExUVmc",
+      "title": "Senior US soldier suspected of spying for Russia arrested at Nato base in UK",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-10T22:59:32.000Z",
+      "description": "A senior US soldier has been arrested in the UK on suspicion of spying for Russia, British counter-terror police have said."
+    },
+    {
+      "id": "4Km1o37YC0o",
+      "title": "Yoshitomo Nara fans turn out for NYC solo show",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-10T22:29:21.000Z",
+      "description": "Long lines formed outside David Zwirner's New York galleries as visitors turned out for Japanese artist Yoshitomo Nara's first major solo exhibition in the city in nearly a decade."
+    },
+    {
+      "id": "8YEL40gEQf8",
+      "title": "US indicts three men over alleged 'terror' attacks in US and Europe, including UK air base plot",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-10T21:48:00.000Z",
+      "description": "The US Justice Department (DOJ) has indicted three men accused of orchestrating nearly 20 attacks and attempted attacks in the United States and Europe, targeting Jewish communities, synagogues and a British military bas"
+    },
+    {
+      "id": "scYP6Q2mTxM",
+      "title": "You won a seat in Congress. Now what?",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-10T21:21:08.000Z",
+      "description": "Newly elected Congress members are in Washington this week for freshman orientation after Democrats won both the House and the Senate in the midterms. Here’s what it takes to get ready for the job."
+    },
+    {
+      "id": "YHqb2Tx0uW0",
+      "title": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-10T21:57:46.000Z",
+      "description": "As the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Security Initiative. \"Europe is not going an"
     },
     {
       "id": "OqOC8O-JvXk",
@@ -50,52 +122,52 @@
       "description": "Backstory with Cathy Newman, coming 12 November."
     },
     {
-      "id": "O6C5XHrXoyg",
-      "title": "Kristallnacht' 88th anniversary: Merz says Germany faces historic test over antisemitism",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-10T16:47:49.000Z",
-      "description": "It has been 88 years since \"Kristallnacht\", the \"Night of Broken Glass\" in Europe, a violent pogrom against the Jewish population across Nazi Germany and Austria, marking a critical escalation toward the Holocaust. Fried"
-    },
-    {
-      "id": "TcifYW7tBEk",
-      "title": "Security forces seized top court, Somalia’s ex-chief justice says",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-10T17:01:08.000Z",
-      "description": "Somalia’s former Chief Justice Bashe Yusuf Ahmed told Al Jazeera that more than 300 security forces had ‘militarily occupied’ the Supreme Court after it ruled that President Hassan Sheikh Mohamud’s term extension, and co"
-    },
-    {
-      "id": "hRCJO2is1EY",
-      "title": "David Walliams loses court bid to block publication of sexual misconduct allegations",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-10T15:22:52.000Z",
-      "description": "Warning: Distressing content"
-    },
-    {
-      "id": "QlOG3c1btk4",
-      "title": "Abu Dhabi talks: Russia seeks new “security architecture” with growing US backing",
+      "id": "LtouHd8a1YM",
+      "title": "Hegseth slams potential impeachment as a 'political spectacle'",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-10T16:33:19.000Z",
-      "description": "Trilateral Ukraine-Russia-US negotiations are underway in Abu Dhabi. Moscow is refusing to discuss a ceasefire in Ukraine without discussions of “what comes after.” Kyiv and European capitals believe Russia’s calls for a"
+      "publishedAt": "2026-11-10T22:46:37.000Z",
+      "description": "US Defense Secretary Pete Hegseth blasted efforts to impeach him as a farce and defended his record, ahead of a House of Representatives vote that will test whether the resolution has enough support to move forward. "
     },
     {
-      "id": "XFDaKUpLmWk",
-      "title": "FDA adds rare vision-loss warning to popular GLP-1 drugs",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-10T17:09:35.000Z",
-      "description": "Popular weight loss drugs, including Ozempic and Wegovy, will carry a new warning about the possibility of a rare side effect that can lead to permanent vision loss, U.S. health regulators announced Monday."
+      "id": "1yTqTjwkYv0",
+      "title": "What allegations have been made against David Walliams?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-10T22:45:29.000Z",
+      "description": ""
     },
     {
-      "id": "7Kdp8m-Rkt4",
-      "title": "'Jensanity' tested as Nvidia CEO's woes evoke disbelief from Taiwan",
+      "id": "jRiZ9dVAtEE",
+      "title": "Iraq barred Iran soccer team flight arrival",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-10T16:56:46.000Z",
-      "description": "Nvidia CEO Jensen Huang is drawing both sympathy and disbelief in his birthplace of Taiwan, where he has rockstar status, after dramatic revelations of his affair with a woman who could have been a Chinese spy."
+      "publishedAt": "2026-11-10T21:47:02.000Z",
+      "description": "Iraq barred a plane carrying Iran's national soccer team from landing at Basra airport, a decision by the Iraqi Civil Aviation ‌Authority linked to US sanctions imposed on Iranian airlines, two Basra airport officials sa"
+    },
+    {
+      "id": "clEf1znN9_U",
+      "title": "2026 Midterms: Blue wave or anti-Trump backlash?",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-10T21:01:23.000Z",
+      "description": "The midterms are over, and Democrats have scored a decisive victory, exceeding even their most optimistic expectations. But does this result signal a country turning blue – or a country simply fed up with the status quo?"
+    },
+    {
+      "id": "kJ1oCwqoEtE",
+      "title": "California voters reject Proposition 40, a tax on the net worth of billionaires",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-10T21:11:03.000Z",
+      "description": "California voters have rejected Proposition 40, a proposed one-time 5% tax on the net worth of residents worth more than $1 billion. The measure would have directed most of the revenue toward health care, with additional"
+    },
+    {
+      "id": "bEpw3ksmZSw",
+      "title": "'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-10T21:40:16.000Z",
+      "description": "Erin Ogunkeye is pleased to welcome Raphaëlle d’Ornano, Founder and Managing Partner of D’Ornano + Co. “Nvidia has an absolutely central role in the ecosystem,” she explains, “If something happens to Nvidia, it's going t"
     },
     {
       "id": "ZKZhjnlQRNk",
@@ -106,92 +178,20 @@
       "description": "Russell Brand has been jailed for 10-and-a-half years for raping one woman and sexually assaulting three others."
     },
     {
-      "id": "9U38vFEsLkM",
-      "title": "US Pentagon chief Pete Hegseth calls impeachment moves 'a farce' • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-10T16:43:38.000Z",
-      "description": "US Defence Secretary Pete Hegseth on Tuesday, November 10, called an effort to impeach him over ​abuse of power in the Iran war a farce and sabotage that plays into the hands of adversaries. FRANCE 24's International Aff"
-    },
-    {
-      "id": "nCNUrQ9qOzo",
-      "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-10T16:37:16.000Z",
-      "description": "Nayef Al-Nabet, a non-resident fellow at the Middle East Council on Global Affairs, discusses the Qatari prime minister’s visit to Washington, shifting US–Iran positions, and efforts to bring both sides back to negotiati"
-    },
-    {
-      "id": "3m-A6X1G1Ek",
-      "title": "Man smashes Chinese government building with excavator.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-10T15:00:10.000Z",
-      "description": ""
-    },
-    {
-      "id": "-W-R0fXYxBg",
-      "title": "Deadly blast at Turkey steel factory",
+      "id": "sD6w82Q8kbk",
+      "title": "Germany is pushing Europe's leaders to put more money on the table for Ukraine",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-10T11:51:57.000Z",
-      "description": "An explosion ripped through a steel plant in western Turkey on Monday, killing at least 17 people. President Recep Tayyip Erdogan has vowed to find out who was responsible."
+      "publishedAt": "2026-11-10T22:00:22.000Z",
+      "description": "German Chancellor Friedrich Merz wants all EU countries to help close a major funding gap for Ukraine. The country could be short of billions of euros next year as Russia's invasion continues. During a meeting with Hunga"
     },
     {
-      "id": "f8O7ahJKC94",
-      "title": "EU anti-piracy naval force patrols the Gulf of Aden",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-10T07:15:11.000Z",
-      "description": "Rising tensions across the Middle East and the Horn of Africa are raising concerns over a possible resurgence of piracy in the Gulf of Aden, a vital shipping route connecting Europe and Asia. The EU's Operation Atalanta "
-    },
-    {
-      "id": "1q-UlDsqL_Q",
-      "title": "Inside ETFs: Taking the sting out of market swings",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-10T16:37:43.000Z",
-      "description": "With data center fatigue and growing concerns threatening to undo recent gains, JD Gardner from Aptus Capital Advisors says that option-based ETFs could offer a compelling solution — helping cushion the downside while pr"
-    },
-    {
-      "id": "3Vrbvd491LM",
-      "title": "US aircraft moved from British base: What we know",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-10T08:31:32.000Z",
-      "description": "US aircraft were moved from an airbase in the UK following a reported threat from Iran."
-    },
-    {
-      "id": "_71GD3RfBM8",
-      "title": "Teddy Riner: From French Olympic hero to presidential candidate? • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-10T08:48:13.000Z",
-      "description": "PRESS REVIEW - Tuesday, November 10: French Olympic judo champion announces he will run for president in next year's French elections. But how serious is his bid? Also, a new government directive in France says school ch"
-    },
-    {
-      "id": "BOXKW3xugZY",
-      "title": "Malaysian court clears former PM Najib Razak for house arrest transfer",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-10T16:30:13.000Z",
-      "description": "Malaysia’s former Prime Minister Najib Razak swaps his prison cell for a mansion after receiving a royal pardon."
-    },
-    {
-      "id": "91FCgTZMEYk",
-      "title": "Drone delivers food to chimpanzee after Florida flooding at sanctuary cuts off access.",
+      "id": "Jx0Go3gJq7c",
+      "title": "US Defence Secretary Pete Hegseth hits back at efforts to impeach him",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-10T14:07:08.000Z",
-      "description": ""
-    },
-    {
-      "id": "advZ7qqdgBg",
-      "title": "UFC chief gives White House press briefing with Trump",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-10T10:18:22.000Z",
-      "description": "UFC President Dana White joined a White House press conference where he spoke to the media about not accepting US President Donald Trump's offer to be his press secretary. "
+      "publishedAt": "2026-11-10T22:30:20.000Z",
+      "description": "US Defence Secretary Pete Hegseth has hit back at efforts to impeach him over America's military campaign against Iran."
     }
   ]
 }

@@ -1,28 +1,5 @@
 {
   "urls": {
-    "https://phys.org/news/2026-11-evolution-forest-lizards-reveal-rapid.html": 1793718193979,
-    "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss": 1793718193979,
-    "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting": 1793718296231,
-    "https://www.france24.com/en/video/20261103-us-midterm-elections-a-referendum-on-president-donald-trump": 1793718296231,
-    "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece": 1793718296231,
-    "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss": 1793718296231,
-    "https://www.dw.com/en/us-midterms-americans-vote-in-polls-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf": 1793718296231,
-    "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-elections-live-polls-due-to-open-in-test-for-trump?traffic_source=rss": 1793718296231,
-    "https://www.euronews.com/2026/11/03/us-midterm-elections-results-2026-live-updates-in-maps-and-charts": 1793718296231,
-    "https://www.thehindu.com/news/international/us-votes-for-mid-term-elections-seen-as-referendum-on-trump/article71659267.ece": 1793718296231,
-    "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html": 1793739439661,
-    "https://www.scientificamerican.com/article/new-yorks-first-measles-death-in-30-years-is-an-omen-of-worse-to-come/": 1793739439661,
-    "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/?utm_campaign=rss": 1793739439661,
-    "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss": 1793739446893,
-    "https://fortune.com/2026/11/03/scg-china-overcapacity-southeast-asia/": 1793739446893,
-    "https://phys.org/news/2026-11-ways-sealevel-affects-daily-life.html": 1793739446893,
-    "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories": 1793739446893,
-    "https://phys.org/news/2026-11-life-chesapeake-bay.html": 1793739446893,
-    "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/": 1793739446893,
-    "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson": 1793739446893,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/03/the-simpsons-french-homer-marge-married-real-life-peythieu-augereau": 1793739446893,
-    "https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada": 1793739446893,
-    "https://www.thehindu.com/news/international/iran-unveils-huge-billboard-with-threat-against-donald-trumps-life/article71660523.ece": 1793739446893,
     "https://thehill.com/homenews/campaign/6165627-coons-wins-delaware-senate-race/": 1793755207716,
     "https://deadline.com/2026/11/election-2026-latest-1237212469/": 1793755207716,
     "https://www.thehindu.com/news/international/spains-transport-minister-offers-resignation-after-deadly-train-crash/article71663710.ece": 1793755221503,
@@ -264,13 +241,17 @@
     "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/": 1794303686753,
     "https://www.france24.com/en/americas/20261110-california-voters-reject-proposed-one-time-tax-on-billionaires-wealth": 1794303686753,
     "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum": 1794303686753,
-    "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40": 1794303686753
+    "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40": 1794303686753,
+    "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html": 1794352425992,
+    "https://www.scientificamerican.com/article/the-u-s-may-be-on-the-cusp-of-losing-its-measles-elimination-status/": 1794352425992,
+    "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html": 1794352442776,
+    "https://deadline.com/2026/11/pete-hegseth-impeachment-trump-2-1237219386/": 1794352442776,
+    "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss": 1794352442776,
+    "https://www.channelnewsasia.com/world/hegseth-impeachment-house-vote-defence-trump-massie-6540321": 1794352442776,
+    "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort": 1794352442776,
+    "https://www.nytimes.com/2026/11/10/us/politics/trump-hegseth-impeachment.html": 1794352442776
   },
   "fps": {
-    "act-adaptation-evolution-forest-lizards-rapid-reveal-warming": 1793718193979,
-    "2026-agenda-americans-elections-live-midterm-polls-referendum": 1793718296231,
-    "case-child-dies-fatal-first-measles-state-years": 1793739439661,
-    "life-tech": 1793739446893,
     "coons-delaware-reelection-senate-wins": 1793755207716,
     "crash-deadly-minister-offers-resignation-spain-train-transport": 1793755221503,
     "congress-control-democrats-dips-dollar-gold-jump-metals": 1793783040159,
@@ -318,6 +299,8 @@
     "didn-him-huang-jensen-know-monday-paramour-spy": 1794274262729,
     "affair-alleged-boss-chinese-fbi-investigating-nvidia-spy": 1794274269429,
     "bags-banned-england-phones-pockets-pupils-rules-schools": 1794303677922,
-    "billionaire-california-reject-tax-voters": 1794303686753
+    "billionaire-california-reject-tax-voters": 1794303686753,
+    "data-elimination-has-lost-measles-status-suggests": 1794352425992,
+    "effort-hegseth-house-impeachment-torpedoed": 1794352442776
   }
 }
