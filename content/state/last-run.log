@@ -1,26 +1,24 @@
-17:25:58 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-17:25:58 collecting videos…
-17:25:59   video feed BBC News: 15 in feed, 5 kept
-17:25:59   video feed Al Jazeera English: 15 in feed, 5 kept
-17:25:59   video feed DW News: 15 in feed, 5 kept
-17:25:59   video feed FRANCE 24 English: 15 in feed, 5 kept
-17:25:59   video feed Sky News: 15 in feed, 5 kept
-17:25:59   video feed Reuters: 15 in feed, 5 kept
-17:25:59   video feed Associated Press: 14 in feed, 5 kept
-17:25:59 videos: saved 24
-17:25:59 collecting feeds…
-17:26:02 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-17:26:02 869 new items
-17:26:04 676 candidate stories
-17:26:04 categories needing stories: science, health, sports, entertainment, politics, business, technology, world → reserved science
-17:26:04 writing: COP31 opens with leaders under pressure to tackle climate crisis (2 sources)
-17:26:04   source text: 5563 / 5013 chars
-17:26:10 writer returned unusable output: { "headline": "Global climate summit opens in Turkey amid financial disputes", "standfirst": "The COP31 climate conference began in Antalya with urgent appe
-17:26:10   skipped
-17:26:10 writing: Russell Brand sentenced to more than 10 years for rape and sexual assault offences – as it happened (12 sources)
-17:26:11   source text: 7000 / 310 / 436 / 2344 / 4377 chars
-17:26:17   too close to source wording — rewriting
-17:26:27   ✓ published: /news/russell-brand-imprisoned-for-more-than-a-decade-following-trial/ [world] image: wikimedia via idea "Southwark Crown Court London"
-17:26:27 writing explainer for: Russell Brand sentenced to more than 10 years for rape and sexual assault offences – as it happened
-17:26:33   ✓ explainer: /news/why-was-russell-brand-sentenced-to-prison/
-17:26:33 done — 1 stories
+01:28:15 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+01:28:15 collecting videos…
+01:28:41   video feed BBC News failed: Status code 404
+01:29:06   video feed Al Jazeera English failed: Status code 404
+01:29:32   video feed DW News failed: Status code 404
+01:29:58   video feed FRANCE 24 English failed: Status code 404
+01:30:23   video feed Sky News failed: Status code 404
+01:30:45 videos: saved 24
+01:30:45 collecting feeds…
+01:30:48 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+01:30:48 826 new items
+01:30:49 619 candidate stories
+01:30:49 categories needing stories: business, technology, science, health, sports, entertainment, politics → reserved business
+01:30:49 writing: Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy' (3 sources)
+01:30:50   source text: 3291 / 1227 / 0 chars
+01:30:51   video feed Reuters failed: Status code 404
+01:30:55   too close to source wording — rewriting
+01:31:04   ✓ published: /news/trump-says-nvidia-boss-jensen-huang-claimed-ignorance-over-alleged-spy/ [business] image: wikimedia via idea "Donald Trump White House briefing"
+01:31:04 writing: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy (7 sources)
+01:31:04   source text: 5238 / 5238 / 5238 chars
+01:31:10   ✓ published: /news/fbi-investigates-nvidia-chief-executive-following-intelligence-warnings/ [world] image: wikimedia via idea "Jensen Huang Nvidia"
+01:31:10 writing explainer for: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+01:31:15   ✓ explainer: /news/why-are-us-officials-investigating-nvidias-chief-executive/
+01:31:15 done — 2 stories

@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/": 1793662080352,
-    "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints": 1793662080352,
-    "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html": 1793662090652,
-    "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf": 1793662090652,
-    "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots": 1793662090652,
-    "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/": 1793662090652,
-    "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss": 1793662090652,
-    "https://www.scmp.com/news/world/united-states-canada/article/3373041/trump-administration-asks-supreme-court-set-aside-20000-disputed-california-ballots": 1793662090652,
-    "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump": 1793662090652,
     "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html": 1793688145809,
     "https://www.rnz.co.nz/life/people/celebrity/martha-stewart-says-she-really-screwed-up-with-homeless-halloween-costume": 1793688145809,
     "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island": 1793688169047,
@@ -262,11 +253,20 @@
     "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf": 1794245185917,
     "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault": 1794245185917,
     "https://www.hollywoodreporter.com/news/general-news/russell-brand-sentence-prison-10-years-rape-sexual-trial-1236750783/": 1794245185917,
-    "https://www.cbsnews.com/video/russell-brand-set-to-be-sentenced-for-rape-sexual-assault-convictions/": 1794245185917
+    "https://www.cbsnews.com/video/russell-brand-set-to-be-sentenced-for-rape-sexual-assault-convictions/": 1794245185917,
+    "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html": 1794274262729,
+    "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html": 1794274262729,
+    "https://www.channelnewsasia.com/world/jensen-huang-nvidia-donald-trump-chinese-spy-6537361": 1794274262729,
+    "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss": 1794274269429,
+    "https://www.thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece": 1794274269429,
+    "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss": 1794274269429,
+    "https://www.cbsnews.com/video/nvidia-shares-drop-amid-ceos-alleged-chinese-spy-affair/": 1794274269429,
+    "https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy": 1794274269429,
+    "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk": 1794274269429,
+    "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html": 1794274269429,
+    "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss": 1794274269429
   },
   "fps": {
-    "apple-constraints-duo-hard-improve-iphone-predict-when": 1793662080352,
-    "ballots-bid-block-california-counting-court-disputed-doj": 1793662090652,
     "apologizes-costume-halloween-homeless-martha-stewart": 1793688145809,
     "deal-iran-island-optimism-qeshm-reportedly-strikes-vance": 1793688169047,
     "act-adaptation-evolution-forest-lizards-rapid-reveal-warming": 1793718193979,
@@ -316,6 +316,8 @@
     "aigner-der-die-ilse": 1794204943747,
     "argentina-divided-leo-milei-pope-takes-task-visits": 1794204951895,
     "climate-cop31-crisis-leaders-opens-pressure-tackle-under": 1794245170787,
-    "assault-brand-happened-offences-rape-russell-sentenced-sexual": 1794245185917
+    "assault-brand-happened-offences-rape-russell-sentenced-sexual": 1794245185917,
+    "didn-him-huang-jensen-know-monday-paramour-spy": 1794274262729,
+    "affair-alleged-boss-chinese-fbi-investigating-nvidia-spy": 1794274269429
   }
 }
