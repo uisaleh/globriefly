@@ -104,6 +104,9 @@
   "publishedAt": "2026-11-10T23:13:46.880Z",
   "updatedAt": "2026-11-10T23:13:46.880Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174196080681745",
+    "sharedAt": "2026-11-10T23:17:14.549Z"
+  },
   "ogImage": "/og/united-states-faces-imminent-loss-of-official-measles-elimination-status.jpg"
 }
