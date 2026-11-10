@@ -97,6 +97,9 @@
   "publishedAt": "2026-11-10T09:41:18.665Z",
   "updatedAt": "2026-11-10T09:41:18.665Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174150042681745",
+    "sharedAt": "2026-11-10T09:44:40.650Z"
+  },
   "ogImage": "/og/stricter-government-rules-will-completely-ban-mobile-phones-in-english.jpg"
 }

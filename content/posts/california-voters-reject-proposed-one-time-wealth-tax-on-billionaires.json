@@ -114,6 +114,9 @@
   "publishedAt": "2026-11-10T09:41:27.283Z",
   "updatedAt": "2026-11-10T09:41:27.283Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174150174681745",
+    "sharedAt": "2026-11-10T09:45:03.031Z"
+  },
   "ogImage": "/og/california-voters-reject-proposed-one-time-wealth-tax-on-billionaires.jpg"
 }
