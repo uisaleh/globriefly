@@ -104,6 +104,9 @@
   "publishedAt": "2026-11-10T01:31:03.354Z",
   "updatedAt": "2026-11-10T01:31:03.354Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174125328681745",
+    "sharedAt": "2026-11-10T01:34:33.255Z"
+  },
   "ogImage": "/og/trump-says-nvidia-boss-jensen-huang-claimed-ignorance-over-alleged-spy.jpg"
 }
