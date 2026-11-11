@@ -92,6 +92,9 @@
   "publishedAt": "2026-11-11T06:04:42.161Z",
   "updatedAt": "2026-11-11T06:04:42.161Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174217890681745",
+    "sharedAt": "2026-11-11T06:08:20.766Z"
+  },
   "ogImage": "/og/u-s-and-china-establish-new-dialogue-mechanism-to-manage-advanced.jpg"
 }

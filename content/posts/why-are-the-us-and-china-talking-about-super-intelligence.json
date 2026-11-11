@@ -82,6 +82,9 @@
   "publishedAt": "2026-11-11T06:05:09.405Z",
   "updatedAt": "2026-11-11T06:05:09.405Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174218154681745",
+    "sharedAt": "2026-11-11T06:08:41.414Z"
+  },
   "ogImage": "/og/why-are-the-us-and-china-talking-about-super-intelligence.jpg"
 }
