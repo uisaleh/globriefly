@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-11T14:08:33.487Z",
+  "updatedAt": "2026-11-11T21:53:38.303Z",
   "videos": [
+    {
+      "id": "61otYycCW6g",
+      "title": "Tshisekedi paves way for constitutional change • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-11T21:41:09.000Z",
+      "description": "In tonight's edition, A new law expanding the conditions for a constitutional referendum has ignited political tensions in the DRC. Also, Kenya has officially declared the end of its latest Ebola outbreak. And at COP31, "
+    },
+    {
+      "id": "-Ka2rNceQQk",
+      "title": "'Men started the sex war': Feminist responds to Walliams allegations",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-11T21:36:36.000Z",
+      "description": "Best-selling author and proud feminist Kathy Lette join's Cathy Newman to discuss the conviction of Russell Brand and the allegations facing David Walliams, which he denies."
+    },
+    {
+      "id": "OD3z6OYrtak",
+      "title": "Soldier shouts at Pete Hegseth's group to 'maintain an atmosphere of silence and respect'",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-11T21:32:45.000Z",
+      "description": "Defense Secretary Pete Hegseth and his group were reprimanded by a soldier guarding the Tomb of the Unknown Soldier Wednesday after laughter was heard as they took photos following a Veterans Day ceremony at Arlington Na"
+    },
+    {
+      "id": "u4Ucn0300F0",
+      "title": "Thousands march to mark Poland's Independence Day",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-11T21:00:07.000Z",
+      "description": "Thousands of people have taken to the streets of Warsaw for Poland's annual Independence Day march amid heightened political tensions following a deadly shooting in Krakow. The celebrations mark the country's restoration"
+    },
+    {
+      "id": "S8sEl5AZXoU",
+      "title": "Tehran vows to strike US bases in Europe if they are used to attack Iran",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-11T21:00:03.000Z",
+      "description": "Iran's security chief says Tehran will attack any US military bases, including in Europe, if they are used to launch attacks on Iran."
+    },
+    {
+      "id": "gu0ALRQPbXc",
+      "title": "US, China should stay clear-eyed on AI ties, Bessent says",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-11T20:29:33.000Z",
+      "description": "The United States and China should harbor no illusions about their differences on artificial intelligence as they navigate cooperation to mitigate the technology's risks while competing for AI supremacy, US Treasury Secr"
+    },
+    {
+      "id": "f5rgbrF8WVQ",
+      "title": "Can a climate summit work when major world leaders don't show up?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-11T20:27:10.000Z",
+      "description": "The climate warnings are getting louder, but many world leaders are staying home. Their negotiators are at COP31, but without top-level political pressure, can they deliver anything more than another round of promises?"
+    },
+    {
+      "id": "BH7hpktpOzY",
+      "title": "General strike over housing brings out hundreds of thousands in Spain • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-11T21:31:08.000Z",
+      "description": "Millions of workers in Spain shut down businesses and public transport on Wednesday, as part of the country's first general strike in 14 years. Following a peaceful march in Barcelona over soaring rents and property pric"
+    },
+    {
+      "id": "B-1QdqbVyxo",
+      "title": "US indictment details alleged Iran-backed terror plots in Europe",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-11T21:17:35.000Z",
+      "description": "Iran has threatened to target US military bases in Europe if they are used in the war in the Middle East, as a new US indictment reveals details of alleged Iran-backed plots targeting Britain and Jewish communities acros"
+    },
+    {
+      "id": "hR-4BGOxp5c",
+      "title": "Texas A&M fans are still yelling",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-11T21:30:42.000Z",
+      "description": "Texas A&M students, alumni and fans are carrying on the Midnight Yell. Here's how the college football tradition got its start."
+    },
+    {
+      "id": "v1MQLTVTZ1I",
+      "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-11T21:00:01.000Z",
+      "description": "Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails, forcing at least 300 Italian schools to evacuate. The email in Italy was reportedly signed by the same person behind threats sent to"
+    },
+    {
+      "id": "NnSLpBHlfFc",
+      "title": "Why India could face a food and fuel crisis",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-11T20:30:34.000Z",
+      "description": "We take a look at how climate change, extreme weather and the wars in Ukraine and Iran are pushing South Asia closer to the brink of a food and fuel crisis. "
+    },
+    {
+      "id": "qGmghNwZqcc",
+      "title": "CoreWeave sparks AI cloud stock rally, lifts Nvidia",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-11T20:17:41.000Z",
+      "description": "CoreWeave jumped more than 20% igniting a rally in battered AI cloud stocks, as its hefty spending yielded strong revenue growth and the company signaled a pullback from the borrowing binge that had set off alarms of an "
+    },
+    {
+      "id": "QBo28iucJAQ",
+      "title": "How are Ukrainians reacting to the Abu Dhabi agreements?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-11T19:14:24.000Z",
+      "description": "What do people in Ukraine's capital, Kyiv, make of talks in the United Arab Emirates between Ukraine, Russia and the US.? Do they see any chance of a ceasefire, and do they believe Russia is ready for peace?"
+    },
+    {
+      "id": "RB9NNftaS0o",
+      "title": "Rare Marilyn Monroe photos from her final shoot to be auctioned • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-11T21:05:06.000Z",
+      "description": "Prints from the personal collection of renowned photographer Bert Stern, including his celebrated series The Last Sitting of Marilyn Monroe, are set to be auctioned at Gros & Delettrez in Paris, marking the first such sa"
+    },
     {
       "id": "23jDRUNoia4",
       "title": "Will Ukraine talks change anything? Who could be behind bomb hoaxes?",
@@ -10,36 +130,44 @@
       "description": "Military analyst Michael Clarke answers your questions on the Ukraine war and Iran war with presenter Kamali Melbourne."
     },
     {
-      "id": "jKj00BmtIQY",
-      "title": "Prada’s new Milan exhibit turns a century of fashion into fresh discoveries",
+      "id": "9Nj4iGW72UA",
+      "title": "Top toys trends for under the Christmas tree this year",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-11T13:35:00.000Z",
-      "description": "Iconic A-line skirts twirl overhead, silver-covered handbags gleam in a secret underground passage and a spacesuit prototype brings more than a century of fashion history into the future at Prada’s new permanent exhibiti"
+      "publishedAt": "2026-11-11T21:00:03.000Z",
+      "description": "Squishy slime and sensory toys are predicted to be the hottest toy trends this Christmas."
     },
     {
-      "id": "Ala-4sKuct0",
-      "title": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
+      "id": "B3YPTrntdfs",
+      "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-11T13:22:50.000Z",
-      "description": "Mahmoud Abdel-Malek, a 20-year-old goalkeeper for Gaza Sports Club, was killed in an Israeli airstrike on Gaza city days after playing in a tournament honouring 1,017 Palestinian athletes killed since October 2023."
+      "publishedAt": "2026-11-11T20:31:31.000Z",
+      "description": "Palestinian families have returned to the Sabra neighbourhood of Gaza City after an Israeli strike hit a metal foundry and killed three people. This is what they say after the devastation of losing their only place of sh"
     },
     {
-      "id": "QOj_5TCiBR8",
-      "title": "Vehicle plows into pedestrians in LA, killing three",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-11T13:15:33.000Z",
-      "description": "An SUV plowed into a group of pedestrians in the North Hollywood district of Los Angeles on November 10, killing at least three and critically injuring three more, authorities said."
-    },
-    {
-      "id": "2Ilfu6iSHJM",
-      "title": "More than 100 tonnes of rubbish dumped at £10m business park in Wales.",
+      "id": "jwyQUPng6Ok",
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-11T13:08:22.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+      "publishedAt": "2026-11-11T20:30:00.000Z",
+      "description": ""
+    },
+    {
+      "id": "inWNRRJfzxY",
+      "title": "Polish right turns out en masse for controversial Independence Day rally",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-11T19:56:31.000Z",
+      "description": "Thousands of nationalist supporters gathered in Warsaw for a controversial annual Independence Day march that is linked to far-right groups. However, some participants said they were there just to show patriotism."
+    },
+    {
+      "id": "i6z6bolFxDA",
+      "title": "Russia and Ukraine agree major prisoner swap after Abu Dhabi talks",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-11T18:05:50.000Z",
+      "description": "Russia and Ukraine have reached a rare agreement: a major prisoner swap. But the toughest questions remain unresolved, from a ceasefire and security guarantees to Europe’s place at the negotiating table. Is peace any clo"
     },
     {
       "id": "VQPwJO_hV3w",
@@ -50,14 +178,6 @@
       "description": "More than 50 countries, 20 non-governmental and philanthropic organisations and a series of multinational companies are pledging this week to put children's rights at the heart of their policies and actions. A pact is be"
     },
     {
-      "id": "Hk3uc6IHHNk",
-      "title": "Russia's return to ice hockey divides the sport",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-11T12:45:31.000Z",
-      "description": "The 2027 Ice Hockey World Championships in Germany are in doubt after several nations say they won't play against Russian teams."
-    },
-    {
       "id": "D5NHYSrz4g0",
       "title": "PMQs | Andy Burnham faces questions from MPs across the Commons",
       "channel": "Sky News",
@@ -66,132 +186,12 @@
       "description": "Prime Minister Andy Burnham faces MPs in the House of Commons for the weekly session of Prime Minister's Questions (PMQs)."
     },
     {
-      "id": "1ysZNjeT23Y",
-      "title": "Comedian David Walliams accused of sexual misconduct day after Russell Brand jailed",
+      "id": "jKj00BmtIQY",
+      "title": "Prada’s new Milan exhibit turns a century of fashion into fresh discoveries",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-11T12:40:06.000Z",
-      "description": "A day after Russell Brand was jailed, a second British comedian — David Walliams — was in the headlines, accused of using his fame and status to prey on young female fans for sex. (Nov. 11)\r"
-    },
-    {
-      "id": "XTN9SNfzFaw",
-      "title": "US man convicted after admitting he dismembered wife but denies killing her",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-11T13:07:46.000Z",
-      "description": "A Virginia man has been convicted of murdering his wife, more than two years after she went missing. During the trial, Naresh Bhatt confessed to dismembering her body with a saw and disposing of it, but denied killing he"
-    },
-    {
-      "id": "5_05yIm1KmA",
-      "title": "At least 300 Italian schools evacuated after email bomb alerts",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-11T13:01:48.000Z",
-      "description": "At least 300 schools in Italy were evacuated after receiving a bomb alert message, the government said, the latest in a series of threats and cyberattacks on supermarkets, blood banks, air traffic and TV broadcasters acr"
-    },
-    {
-      "id": "12nulsEJFhk",
-      "title": "Real Madrid’s Vinícius Júnior surprises fan in Sudan who lost legs in strike",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-11T10:36:26.000Z",
-      "description": "Real Madrid footballer Vinícius Júnior has sent a message to one of his biggest fans, a young boy in Sudan who lost both of his legs in a drone strike."
-    },
-    {
-      "id": "9qc0HZ8X3aQ",
-      "title": "Aneto, one of southern Europe's largest glaciers, is melting away • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-11T12:33:22.000Z",
-      "description": "Within a decade, one of the largest glaciers in southern Europe will have disappeared. Aneto, the highest peak of the Spanish Pyrenees, is melting at a spectacular rate. Its demise is another sign of global warming and h"
-    },
-    {
-      "id": "CID5CmtUSFw",
-      "title": "Migrant caravan heads to US-Mexico border",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-11T12:00:30.000Z",
-      "description": "Several hundred Honduran migrants set off from southern Mexico on Tuesday, hoping recent Democratic gains in the US midterm elections could lead to changes in President Donald Trump's immigration policies. The caravan fo"
-    },
-    {
-      "id": "IStTMqZ8gnI",
-      "title": "Harry Kane and Thomas Tuchel speak ahead of Nations League match against Croatia",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-11T09:44:09.000Z",
-      "description": "England manager Thomas Tuchel and captain Harry Kane preview the Nations League match against Croatia, ahead of Kane set to become the most-capped England player of all time. "
-    },
-    {
-      "id": "oUZ5UQP_0E4",
-      "title": "Bernie Sanders says he won't support Chuck Schumer for Senate Democratic leader",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-10T22:30:08.000Z",
-      "description": "Sen. Bernie Sanders says he won't be supporting Sen. Chuck Schumer as the Democratic majority leader in the new Congress. The demand for change sets up a seismic confrontation after the party’s sweep to power in the midt"
-    },
-    {
-      "id": "PPKD5gO-V-0",
-      "title": "Were Russians the true heroes of WWII?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-11T12:42:14.000Z",
-      "description": "Were Russians the true heroes of WWII?"
-    },
-    {
-      "id": "HuQxc8ytwwo",
-      "title": "Crypto Weekly: Binance hack forces action, Greek crypto users to pay up",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-11T12:29:05.000Z",
-      "description": "From the Binance hack forcing US regulators into action to Greece approving a bill to impose 10% capital gains tax on cryptocurrencies. Here is a round up of the crypto stories of the week."
-    },
-    {
-      "id": "jGKBA6xaflE",
-      "title": "I was accused of spying for China",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-11T06:00:21.000Z",
-      "description": "In his first interview, parliamentary researcher Chris Cash has spoken to the BBC about being accused of spying for China. "
-    },
-    {
-      "id": "BoHF13lYHII",
-      "title": "Patrick Bury: 'It’s going to cost a lot of money to repair the systems.' • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-11T12:32:15.000Z",
-      "description": "Patrick Bury, Senior associate professor in warfare and counterterrorism at University of Bath, is our guest."
-    },
-    {
-      "id": "F6e7cXR_cfQ",
-      "title": "Ukraine vs. Russia's new, jet-powered drones",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-11T10:15:18.000Z",
-      "description": "Ukraine’s military is scrambling to find better and cheaper ways to intercept Russia’s new, jet-powered drones. Ukraine used to shoot down 90 percent of incoming drones before Russia moved to jet propulsion. Now, that fi"
-    },
-    {
-      "id": "4CG8UzKgaFw",
-      "title": "The Wrap with Anna Botting",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-10T23:09:46.000Z",
-      "description": "Sky News's brand new late-night show The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
-    },
-    {
-      "id": "scYP6Q2mTxM",
-      "title": "You won a seat in Congress. Now what?",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-10T21:21:08.000Z",
-      "description": "Newly elected Congress members are in Washington this week for freshman orientation after Democrats won both the House and the Senate in the midterms. Here’s what it takes to get ready for the job."
-    },
-    {
-      "id": "pIRriJtNOm4",
-      "title": "A Suburban Home Turned into a Crime Scene",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-11T12:30:21.000Z",
-      "description": "In 2001, traces of blood turn a suburban family home into a crime scene. "
+      "publishedAt": "2026-11-11T13:35:00.000Z",
+      "description": "Iconic A-line skirts twirl overhead, silver-covered handbags gleam in a secret underground passage and a spacesuit prototype brings more than a century of fashion history into the future at Prada’s new permanent exhibiti"
     }
   ]
 }

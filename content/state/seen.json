@@ -1,12 +1,5 @@
 {
   "urls": {
-    "https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/": 1793812281310,
-    "https://www.theverge.com/policy/1026365/data-centers-midterms-results": 1793812281310,
-    "https://www.nytimes.com/video/us/politics/100000011260461/my-call-with-president-trump.html": 1793812389761,
-    "https://www.billboard.com/music/country/the-chicks-celebrate-democrats-midterm-victory-eff-trump-1236373878/": 1793812389761,
-    "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war": 1793812389761,
-    "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-losers-trump-republicans-democrats-news/article71663818.ece": 1793812389761,
-    "https://theconversation.com/epic-blue-wave-helps-democrats-take-congress-in-overwhelming-rebuke-to-president-trump-295830": 1793812389761,
     "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html": 1793835529637,
     "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/": 1793835529637,
     "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss": 1793835529637,
@@ -247,11 +240,21 @@
     "https://www.thehindu.com/news/international/spains-first-general-strike-in-14-years-brings-clashing-social-and-political-desires-to-the-fore/article71688857.ece": 1794406158728,
     "https://www.theguardian.com/sport/2026/nov/11/jayson-tatum-jaylen-brown-76ers-celtics-greeting-nba": 1794406186209,
     "\n                                                https://www.cbssports.com/nba/news/celtics-76ers-winners-losers-jayson-tatum-jaylen-brown-paul-george/\n                    ": 1794406186209,
-    "https://www.japantimes.co.jp/sports/2026/11/11/basketball/nba/celtics-sixers-tatum-brown/": 1794406186209
+    "https://www.japantimes.co.jp/sports/2026/11/11/basketball/nba/celtics-sixers-tatum-brown/": 1794406186209,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss": 1794434038449,
+    "https://www.france24.com/en/schools-evacuated-across-italy-after-bomb-threats": 1794434038449,
+    "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss": 1794434038449,
+    "https://www.thehindu.com/news/national/italy-evacuates-over-300-schools-due-to-bomb-alert-with-threats-in-scotland-and-ireland/article71690995.ece": 1794434038449,
+    "https://www.politico.eu/article/bomb-threats-disrupting-hundreds-schools-italy-ireland-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794434038449,
+    "https://www.cbsnews.com/news/bomb-threat-schools-europe-italy-uk-ireland-hoaxes-hybrid-warfare-iran-russia/": 1794434038449,
+    "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-rdf": 1794434038449,
+    "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html": 1794434038449,
+    "https://www.channelnewsasia.com/world/italy-northern-ireland-schools-evacuated-email-bomb-threat-6542766": 1794434038449,
+    "https://www.scmp.com/news/world/europe/article/3374103/over-300-italian-schools-evacuated-after-receiving-same-emailed-bomb-alert": 1794434038449,
+    "https://www.hollywoodreporter.com/tv/tv-news/randall-england-dead-general-hospital-1236753374/": 1794434057030,
+    "https://deadline.com/2026/11/randall-england-dead-1237220596/": 1794434057030
   },
   "fps": {
-    "500-big-elon-lost-midterms-million-musk-nearly": 1793812281311,
-    "call-president-trump": 1793812389761,
     "2026-blames-break-iran-losses-midterm-republicans-trump": 1793835529637,
     "champions-como-fenerbahce-hit-league-liverpool-lose-nine": 1793835545026,
     "bigger-centers-clash-coming-data-midterms": 1793860770311,
@@ -299,6 +302,8 @@
     "bessent-china-compete-cooperate-harbor-illusions-should-they": 1794377081479,
     "block-defence-efforts-hegseth-impeach-iran-pete-republicans": 1794377103999,
     "disruption-first-general-sees-spain-strike-widespread-years": 1794406158728,
-    "76ers-beat-brown-celtics-former-frosty-gives-greeting": 1794406186209
+    "76ers-beat-brown-celtics-former-frosty-gives-greeting": 1794406186209,
+    "across-bomb-hoax-ireland-italy-schools-target-threats": 1794434038449,
+    "actor-dies-england-general-hospital-randall": 1794434057030
   }
 }
