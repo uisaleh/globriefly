@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html": 1793783040159,
-    "https://www.france24.com/en/video/20261104-blue-wave-turning-into-a-tsunami-as-democrats-take-control-of-congress": 1793783040159,
-    "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-elects-its-first-black-woman-governor?traffic_source=rss": 1793783069943,
-    "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss": 1793783069943,
-    "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss": 1793783069943,
-    "https://www.rollingstone.com/politics/politics-news/keisha-lance-bottoms-first-black-woman-governor-united-states-1235652396/": 1793783069943,
-    "https://www.thehindu.com/news/international/democrat-keisha-lance-bottoms-becomes-first-black-woman-governor-in-us/article71663892.ece": 1793783069943,
-    "https://www.npr.org/2026/11/03/g-s1-151235/democrat-david-crowley-will-be-wisconsins-first-black-governor": 1793783069943,
-    "https://www.channelnewsasia.com/world/keisha-lance-bottoms-wins-georgia-race-first-black-woman-elected-governor-us-state-6519866": 1793783069943,
-    "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterm-results-democrat-keisha-lance-bottoms-makes-history-as-first-black-woman-governor-flips-georgia-seat/articleshow/135519340.cms": 1793783069943,
     "https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/": 1793812281310,
     "https://www.theverge.com/policy/1026365/data-centers-midterms-results": 1793812281310,
     "https://www.nytimes.com/video/us/politics/100000011260461/my-call-with-president-trump.html": 1793812389761,
@@ -246,11 +236,20 @@
     "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf": 1794377103999,
     "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss": 1794377103999,
     "https://www.thehindu.com/news/international/us-republicans-derail-bid-to-impeach-hegseth/article71687959.ece": 1794377103999,
-    "https://news.sky.com/story/pete-hegseth-attempt-to-impeach-trumps-defence-secretary-blocked-13610811": 1794377103999
+    "https://news.sky.com/story/pete-hegseth-attempt-to-impeach-trumps-defence-secretary-blocked-13610811": 1794377103999,
+    "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss": 1794406158728,
+    "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs": 1794406158728,
+    "https://www.france24.com/en/spain-s-first-general-strike-in-14-years-3-weeks-before-national-polls": 1794406158728,
+    "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss": 1794406158728,
+    "https://www.scmp.com/news/world/europe/article/3374082/spanish-workers-stage-huge-general-strike-1st-14-years-angry-over-housing": 1794406158728,
+    "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike": 1794406158728,
+    "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf": 1794406158728,
+    "https://www.thehindu.com/news/international/spains-first-general-strike-in-14-years-brings-clashing-social-and-political-desires-to-the-fore/article71688857.ece": 1794406158728,
+    "https://www.theguardian.com/sport/2026/nov/11/jayson-tatum-jaylen-brown-76ers-celtics-greeting-nba": 1794406186209,
+    "\n                                                https://www.cbssports.com/nba/news/celtics-76ers-winners-losers-jayson-tatum-jaylen-brown-paul-george/\n                    ": 1794406186209,
+    "https://www.japantimes.co.jp/sports/2026/11/11/basketball/nba/celtics-sixers-tatum-brown/": 1794406186209
   },
   "fps": {
-    "congress-control-democrats-dips-dollar-gold-jump-metals": 1793783040159,
-    "black-elects-first-governor-woman": 1793783069943,
     "500-big-elon-lost-midterms-million-musk-nearly": 1793812281311,
     "call-president-trump": 1793812389761,
     "2026-blames-break-iran-losses-midterm-republicans-trump": 1793835529637,
@@ -298,6 +297,8 @@
     "data-elimination-has-lost-measles-status-suggests": 1794352425992,
     "effort-hegseth-house-impeachment-torpedoed": 1794352442776,
     "bessent-china-compete-cooperate-harbor-illusions-should-they": 1794377081479,
-    "block-defence-efforts-hegseth-impeach-iran-pete-republicans": 1794377103999
+    "block-defence-efforts-hegseth-impeach-iran-pete-republicans": 1794377103999,
+    "disruption-first-general-sees-spain-strike-widespread-years": 1794406158728,
+    "76ers-beat-brown-celtics-former-frosty-gives-greeting": 1794406186209
   }
 }
