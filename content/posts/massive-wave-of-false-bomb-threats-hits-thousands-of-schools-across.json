@@ -112,6 +112,9 @@
   "publishedAt": "2026-11-11T21:54:03.575Z",
   "updatedAt": "2026-11-11T21:54:03.575Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174277272681745",
+    "sharedAt": "2026-11-11T21:57:31.789Z"
+  },
   "ogImage": "/og/massive-wave-of-false-bomb-threats-hits-thousands-of-schools-across.jpg"
 }
