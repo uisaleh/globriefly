@@ -1,17 +1,5 @@
 {
   "urls": {
-    "https://thehill.com/homenews/campaign/6165627-coons-wins-delaware-senate-race/": 1793755207716,
-    "https://deadline.com/2026/11/election-2026-latest-1237212469/": 1793755207716,
-    "https://www.thehindu.com/news/international/spains-transport-minister-offers-resignation-after-deadly-train-crash/article71663710.ece": 1793755221503,
-    "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss": 1793755221503,
-    "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html": 1793755221503,
-    "https://abcnews.com/International/wireStory/spains-transport-minister-steps-6-days-after-fatal-137823144": 1793755221503,
-    "https://www.scmp.com/news/world/europe/article/3373189/spains-transport-minister-resigns-after-train-crash-killed-69": 1793755221503,
-    "https://www.channelnewsasia.com/world/spanish-transport-minister-offers-resignation-after-deadly-train-crash-6518011": 1793755221503,
-    "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash": 1793755221503,
-    "https://www.politico.eu/article/spain-transport-minister-oscar-puente-resigns-after-deadly-train-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1793755221503,
-    "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf": 1793755221503,
-    "https://news.sky.com/story/spains-transport-minister-oscar-puente-to-resign-after-train-crash-killed-69-people-13607610": 1793755221503,
     "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html": 1793783040159,
     "https://www.france24.com/en/video/20261104-blue-wave-turning-into-a-tsunami-as-democrats-take-control-of-congress": 1793783040159,
     "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-elects-its-first-black-woman-governor?traffic_source=rss": 1793783069943,
@@ -249,11 +237,18 @@
     "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss": 1794352442776,
     "https://www.channelnewsasia.com/world/hegseth-impeachment-house-vote-defence-trump-massie-6540321": 1794352442776,
     "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort": 1794352442776,
-    "https://www.nytimes.com/2026/11/10/us/politics/trump-hegseth-impeachment.html": 1794352442776
+    "https://www.nytimes.com/2026/11/10/us/politics/trump-hegseth-impeachment.html": 1794352442776,
+    "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html": 1794377081479,
+    "https://www.euronews.com/2026/11/11/us-republicans-block-efforts-to-impeach-us-defence-secretary-pete-hegseth-over-iran-war": 1794377103999,
+    "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss": 1794377103999,
+    "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html": 1794377103999,
+    "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates": 1794377103999,
+    "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf": 1794377103999,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss": 1794377103999,
+    "https://www.thehindu.com/news/international/us-republicans-derail-bid-to-impeach-hegseth/article71687959.ece": 1794377103999,
+    "https://news.sky.com/story/pete-hegseth-attempt-to-impeach-trumps-defence-secretary-blocked-13610811": 1794377103999
   },
   "fps": {
-    "coons-delaware-reelection-senate-wins": 1793755207716,
-    "crash-deadly-minister-offers-resignation-spain-train-transport": 1793755221503,
     "congress-control-democrats-dips-dollar-gold-jump-metals": 1793783040159,
     "black-elects-first-governor-woman": 1793783069943,
     "500-big-elon-lost-midterms-million-musk-nearly": 1793812281311,
@@ -301,6 +296,8 @@
     "bags-banned-england-phones-pockets-pupils-rules-schools": 1794303677922,
     "billionaire-california-reject-tax-voters": 1794303686753,
     "data-elimination-has-lost-measles-status-suggests": 1794352425992,
-    "effort-hegseth-house-impeachment-torpedoed": 1794352442776
+    "effort-hegseth-house-impeachment-torpedoed": 1794352442776,
+    "bessent-china-compete-cooperate-harbor-illusions-should-they": 1794377081479,
+    "block-defence-efforts-hegseth-impeach-iran-pete-republicans": 1794377103999
   }
 }

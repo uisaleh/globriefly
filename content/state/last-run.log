@@ -1,21 +1,24 @@
-23:13:17 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-23:13:17 collecting videos…
-23:13:17   video feed BBC News: 15 in feed, 5 kept
-23:13:17   video feed Al Jazeera English: 15 in feed, 5 kept
-23:13:17   video feed DW News: 15 in feed, 5 kept
-23:13:17   video feed FRANCE 24 English: 15 in feed, 5 kept
-23:13:17   video feed Sky News: 15 in feed, 5 kept
-23:13:17   video feed Reuters: 15 in feed, 5 kept
-23:13:17   video feed Associated Press: 15 in feed, 5 kept
-23:13:17 videos: saved 24
-23:13:17 collecting feeds…
-23:13:20 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-23:13:20 881 new items
-23:13:22 688 candidate stories
-23:13:22 categories needing stories: science, health, sports, entertainment, politics, business, technology, world → reserved science
-23:13:22 writing: The U.S. Has Lost Its Measles-Elimination Status, Data Suggests (2 sources)
-23:13:22   source text: 0 / 0 / 6293 chars
-23:13:23 gemini gemini-3.5-flash-lite failed (503): {
+06:02:00 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+06:02:00 collecting videos…
+06:02:27   video feed BBC News failed: Status code 404
+06:02:54   video feed Al Jazeera English failed: Status code 404
+06:03:21   video feed DW News failed: Status code 404
+06:03:48   video feed FRANCE 24 English failed: Status code 404
+06:04:15   video feed Sky News failed: Status code 404
+06:04:30 videos: saved 24
+06:04:30 collecting feeds…
+06:04:34 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+06:04:34 686 new items
+06:04:35 546 candidate stories
+06:04:35 categories needing stories: business, technology, health, sports, entertainment, world, politics → reserved business
+06:04:35 writing: U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says (1 sources)
+06:04:35   source text: 4108 chars
+06:04:43   ✓ published: /news/u-s-and-china-establish-new-dialogue-mechanism-to-manage-advanced/ [business] image: wikimedia via idea "Scott Bessent Washington DC"
+06:04:43 writing: US Republicans block efforts to impeach US Defence Secretary Pete Hegseth over Iran war (8 sources)
+06:04:43   source text: 2883 / 4326 / 7000 chars
+06:04:43   video feed Reuters failed: Status code 404
+06:04:48   too close to source wording — rewriting
+06:04:52 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -23,10 +26,7 @@
   }
 }
 
-23:13:38   too close to source wording — rewriting
-23:13:47   ✓ published: /news/united-states-faces-imminent-loss-of-official-measles-elimination-status/ [science] image: wikimedia via idea "Centers for Disease Control and Prevention building"
-23:13:47 writing: Hegseth impeachment effort torpedoed in House (6 sources)
-23:13:48   source text: 2891 / 2370 / 2241 chars
-23:13:53   too close to source wording — rewriting
-23:14:02   skipped
-23:14:02 done — 1 stories
+06:05:03   skipped
+06:05:04 writing explainer for: U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says
+06:05:10   ✓ explainer: /news/why-are-the-us-and-china-talking-about-super-intelligence/
+06:05:10 done — 1 stories

@@ -1,0 +1,87 @@
+{
+  "slug": "why-are-the-us-and-china-talking-about-super-intelligence",
+  "status": "published",
+  "type": "explainer",
+  "category": "business",
+  "region": "Global",
+  "headline": "Why are the US and China talking about super intelligence?",
+  "standfirst": "The United States and China have established a new dialogue to manage artificial intelligence risks while competing for global dominance.",
+  "keyPoints": [
+    "The US and China have created a dialogue mechanism focusing on super intelligence.",
+    "Both nations want to share best practices for testing advanced AI models before release.",
+    "Despite cooperating on safety, the two countries remain locked in an intense race for technological dominance.",
+    "Washington and Beijing plan to maintain communication channels to prevent misunderstandings and serious incidents."
+  ],
+  "sections": [
+    {
+      "heading": "What is the new US-China AI dialogue?",
+      "paragraphs": [
+        "The United States and China have established a specialized framework to discuss advanced artificial intelligence, often referred to as super intelligence. Treasury Secretary Scott Bessent outlined the initiative during a speech in New York, emphasizing that both governments must navigate their deep differences while addressing the unprecedented challenges posed by rapid technological advancements.",
+        "This diplomatic channel is designed to foster transparency and prevent dangerous misunderstandings between two of the world's most powerful technology sectors. Rather than halting development, the talks focus on establishing shared safety protocols and exchanging insights on how to handle potential risks before they materialize on a global scale."
+      ]
+    },
+    {
+      "heading": "Why are safety practices becoming a priority?",
+      "paragraphs": [
+        "As frontier artificial intelligence models become more powerful, experts and policymakers alike have raised concerns about unintended consequences. The new bilateral mechanism aims to address these fears by encouraging both nations to share testing procedures and safety benchmarks.",
+        "A core principle of the dialogue is ensuring that human judgment remains firmly in command of advanced systems. By keeping lines of communication open, officials hope to create early warning systems for critical incidents and establish baseline expectations for responsible deployment."
+      ]
+    },
+    {
+      "heading": "How does competition complicate cooperation?",
+      "paragraphs": [
+        "Cooperating on safety does not mean the two superpowers have put aside their rivalry. Both Washington and Beijing view leadership in artificial intelligence as vital to their long-term economic and national security interests, creating a fierce race for global supremacy.",
+        "While American officials have voiced concerns about regulatory burdens placing domestic firms at a disadvantage, Chinese counterparts have similarly resisted calls to slow down frontier research. Balancing the demands of an intense technological race with the shared responsibilities of global safety remains a delicate diplomatic challenge."
+      ]
+    },
+    {
+      "heading": "What comes next for the two tech superpowers?",
+      "paragraphs": [
+        "Leaders from both countries are expected to continue high-level discussions on the sidelines of upcoming international summits. These meetings will test whether the newly established communication channels can withstand ongoing geopolitical tensions and trade restrictions.",
+        "Ultimately, officials from both sides acknowledge that while cooperation may not resolve every underlying dispute, managing the future of artificial intelligence safely is an obligation neither nation can afford to ignore."
+      ]
+    }
+  ],
+  "highlight": "The two nations will need to demonstrate how they can reconcile the demands of competition with the responsibilities of leadership.",
+  "timeline": [],
+  "tags": [
+    "artificial intelligence",
+    "United States",
+    "China",
+    "technology",
+    "diplomacy"
+  ],
+  "socialSummary": "Discover why the US and China are launching a new dialogue to manage artificial intelligence risks while competing for global dominance.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1920px-BalticServers_data_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Server room of BalticServers",
+    "credit": "BalticServers.com / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+    "license": "CC BY-SA 3.0",
+    "provider": "wikimedia",
+    "query": "computer servers data center",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "computer servers data center",
+    "names": [],
+    "subject": "computer servers data center"
+  },
+  "sources": [
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html"
+    }
+  ],
+  "sourceTitles": [
+    "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says"
+  ],
+  "sourceCount": 1,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-11-11T06:05:09.405Z",
+  "updatedAt": "2026-11-11T06:05:09.405Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-are-the-us-and-china-talking-about-super-intelligence.jpg"
+}
