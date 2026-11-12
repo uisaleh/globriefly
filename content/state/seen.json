@@ -1,16 +1,5 @@
 {
   "urls": {
-    "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html": 1793835529637,
-    "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/": 1793835529637,
-    "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss": 1793835529637,
-    "https://www.thehindu.com/news/international/vance-tries-to-distance-himself-from-iran-war-after-republican-partys-deep-losses-in-midterm-elections/article71667348.ece": 1793835529637,
-    "https://www.thehindu.com/news/international/us-vp-vance-says-iran-war-was-the-reason-republicans-lost-midterms/article71667003.ece": 1793835529637,
-    "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf": 1793835529637,
-    "https://sports.yahoo.com/articles/liverpool-lose-fenerbahce-como-hit-231905707.html": 1793835545026,
-    "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss": 1793835545026,
-    "https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce": 1793835545026,
-    "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss": 1793835545026,
-    "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live": 1793835545026,
     "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/": 1793860770311,
     "https://fortune.com/2026/11/04/voters-pull-the-plug-on-big-techs-data-center-boom/": 1793860770311,
     "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss": 1793860793079,
@@ -252,11 +241,22 @@
     "https://www.channelnewsasia.com/world/italy-northern-ireland-schools-evacuated-email-bomb-threat-6542766": 1794434038449,
     "https://www.scmp.com/news/world/europe/article/3374103/over-300-italian-schools-evacuated-after-receiving-same-emailed-bomb-alert": 1794434038449,
     "https://www.hollywoodreporter.com/tv/tv-news/randall-england-dead-general-hospital-1236753374/": 1794434057030,
-    "https://deadline.com/2026/11/randall-england-dead-1237220596/": 1794434057030
+    "https://deadline.com/2026/11/randall-england-dead-1237220596/": 1794434057030,
+    "https://thehill.com/homenews/senate/6215009-senator-cramer-calls-nvidia-ceo-resignation/": 1794452232509,
+    "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race": 1794452240606,
+    "https://www.scmp.com/news/world/united-states-canada/article/3374129/democrat-colom-defeats-hyde-smith-mississippi-win-historic-senate-seat": 1794452240606,
+    "https://www.rollingstone.com/politics/politics-news/scott-colom-win-senate-seat-mississippi-1235652682/": 1794452240606,
+    "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi": 1794452240606,
+    "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country": 1794452240606,
+    "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf": 1794452240606,
+    "https://thehill.com/homenews/campaign/6165685-colom-mississippi-senate-ousts-hyde-smith/": 1794452240606,
+    "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss": 1794452240606,
+    "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom": 1794452240606,
+    "https://www.politico.com/news/2026/11/11/scott-colom-wins-mississippi-senate-01161555": 1794452240606,
+    "https://deadline.com/2026/11/scott-colom-senate-mississippi-cnn-1237220986/": 1794452240606,
+    "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html": 1794452240606
   },
   "fps": {
-    "2026-blames-break-iran-losses-midterm-republicans-trump": 1793835529637,
-    "champions-como-fenerbahce-hit-league-liverpool-lose-nine": 1793835545026,
     "bigger-centers-clash-coming-data-midterms": 1793860770311,
     "democracy-face-hong-jailed-joshua-kong-pro-protests": 1793860793079,
     "burnham-g20-invited-manchester-putin-summit": 1793892347658,
@@ -304,6 +304,8 @@
     "disruption-first-general-sees-spain-strike-widespread-years": 1794406158728,
     "76ers-beat-brown-celtics-former-frosty-gives-greeting": 1794406186209,
     "across-bomb-hoax-ireland-italy-schools-target-threats": 1794434038449,
-    "actor-dies-england-general-hospital-randall": 1794434057030
+    "actor-dies-england-general-hospital-randall": 1794434057030,
+    "feels-gop-huang-jensen-nvidia-resign-senator-should": 1794452232509,
+    "cindy-colom-democrat-hyde-mississippi-scott-senate-smith": 1794452240606
   }
 }
