@@ -115,6 +115,9 @@
   "publishedAt": "2026-11-12T02:57:32.921Z",
   "updatedAt": "2026-11-12T02:57:32.921Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174294876681745",
+    "sharedAt": "2026-11-12T03:01:10.036Z"
+  },
   "ogImage": "/og/democrat-scott-colom-secures-historic-us-senate-victory-in-mississippi.jpg"
 }

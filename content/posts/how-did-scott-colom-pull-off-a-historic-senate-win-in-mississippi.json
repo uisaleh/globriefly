@@ -108,6 +108,9 @@
   "publishedAt": "2026-11-12T02:57:36.695Z",
   "updatedAt": "2026-11-12T02:57:36.695Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174295074681745",
+    "sharedAt": "2026-11-12T03:01:32.511Z"
+  },
   "ogImage": "/og/how-did-scott-colom-pull-off-a-historic-senate-win-in-mississippi.jpg"
 }
