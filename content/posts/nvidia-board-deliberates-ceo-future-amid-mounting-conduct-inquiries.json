@@ -110,6 +110,9 @@
   "publishedAt": "2026-11-12T10:57:23.767Z",
   "updatedAt": "2026-11-12T10:57:23.767Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174321600681745",
+    "sharedAt": "2026-11-12T11:01:00.428Z"
+  },
   "ogImage": "/og/nvidia-board-deliberates-ceo-future-amid-mounting-conduct-inquiries.jpg"
 }

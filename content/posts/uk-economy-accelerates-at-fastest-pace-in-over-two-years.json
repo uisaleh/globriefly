@@ -103,6 +103,9 @@
   "publishedAt": "2026-11-12T10:57:15.670Z",
   "updatedAt": "2026-11-12T10:57:15.670Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174321456681745",
+    "sharedAt": "2026-11-12T11:00:37.072Z"
+  },
   "ogImage": "/og/uk-economy-accelerates-at-fastest-pace-in-over-two-years.jpg"
 }
