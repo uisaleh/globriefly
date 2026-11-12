@@ -1,24 +1,22 @@
-02:54:52 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-02:54:52 collecting videos…
-02:55:18   video feed BBC News failed: Status code 404
-02:55:44   video feed Al Jazeera English failed: Status code 404
-02:55:44   video feed DW News: 15 in feed, 5 kept
-02:55:44   video feed FRANCE 24 English: 15 in feed, 5 kept
-02:56:10   video feed Sky News failed: Status code 404
-02:56:36   video feed Reuters failed: Status code 404
-02:57:02   video feed Associated Press failed: Status code 404
-02:57:02 videos: saved 24
-02:57:02 collecting feeds…
-02:57:06 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-02:57:06 720 new items
-02:57:07 579 candidate stories
-02:57:07 categories needing stories: politics, technology, science, health, entertainment, world, sports → reserved politics
-02:57:07 writing: GOP senator feels 'strongly' Jensen Huang should resign at Nvidia (1 sources)
-02:57:07   source text: 0 chars
-02:57:14   ✓ published: /news/republican-senator-calls-for-nvidia-chief-executive-to-step-down/ [politics] image: wikimedia via idea "Kevin Cramer United States Senate"
-02:57:14 writing: Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win (11 sources)
-02:57:14   source text: 5751 / 7000 / 7000 chars
-02:57:33   ✓ published: /news/democrat-scott-colom-secures-historic-us-senate-victory-in-mississippi/ [politics] image: wikimedia via name "Scott Colom"
-02:57:33 writing explainer for: Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win
-02:57:37   ✓ explainer: /news/how-did-scott-colom-pull-off-a-historic-senate-win-in-mississippi/
-02:57:37 done — 2 stories
+10:56:59 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+10:56:59 collecting videos…
+10:56:59   video feed BBC News: 15 in feed, 5 kept
+10:56:59   video feed Al Jazeera English: 15 in feed, 5 kept
+10:56:59   video feed DW News: 15 in feed, 5 kept
+10:56:59   video feed FRANCE 24 English: 15 in feed, 5 kept
+10:56:59   video feed Sky News: 15 in feed, 5 kept
+10:56:59   video feed Reuters: 15 in feed, 5 kept
+10:56:59   video feed Associated Press: 15 in feed, 5 kept
+10:56:59 videos: saved 24
+10:56:59 collecting feeds…
+10:57:05 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+10:57:05 688 new items
+10:57:06 517 candidate stories
+10:57:06 categories needing stories: business, technology, science, health, entertainment, world, sports → reserved business
+10:57:06 writing: UK economy grows at fastest rate for more than two years (2 sources)
+10:57:07   source text: 2722 / 5867 chars
+10:57:17   ✓ published: /news/uk-economy-accelerates-at-fastest-pace-in-over-two-years/ [business] image: wikimedia via idea "UK Parliament London"
+10:57:17 writing: Loyalty vs accountability: a look at the Nvidia board deciding CEO Jensen Huang’s fate (10 sources)
+10:57:17   source text: 7000 / 2879 / 5400 chars
+10:57:24   ✓ published: /news/nvidia-board-deliberates-ceo-future-amid-mounting-conduct-inquiries/ [world] image: wikimedia via idea "Jensen Huang Nvidia"
+10:57:24 done — 2 stories

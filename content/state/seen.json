@@ -1,19 +1,5 @@
 {
   "urls": {
-    "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/": 1793860770311,
-    "https://fortune.com/2026/11/04/voters-pull-the-plug-on-big-techs-data-center-boom/": 1793860770311,
-    "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss": 1793860793079,
-    "https://www.euronews.com/2026/11/05/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years-for-collusion": 1793860793079,
-    "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html": 1793860793079,
-    "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf": 1793860793079,
-    "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced": 1793860793079,
-    "https://www.thehindu.com/news/international/hong-kong-activist-joshua-wong-sentenced-to-10-years-in-prison-in-2nd-national-security-case/article71668669.ece": 1793860793079,
-    "https://www.japantimes.co.jp/news/2026/11/05/asia-pacific/politics/joshua-wong-hong-kong-democracy-prison/": 1793860793079,
-    "https://abcnews.com/International/wireStory/teen-activist-hong-kongs-joshua-wong-spending-years-137865786": 1793860793079,
-    "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss": 1793860793079,
-    "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case": 1793860793079,
-    "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion": 1793860793079,
-    "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373335/joshua-wong-jailed-10-years-over-bid-instigate-sanctions-beijing-hong-kong": 1793860793079,
     "https://www.bbc.co.uk/news/articles/cmqjnkn8951qo?at_medium=RSS&at_campaign=rss": 1793892347658,
     "https://www.politico.eu/article/andy-burnham-donald-trump-invite-vladimir-putin-g20/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1793892347658,
     "https://timesofindia.indiatimes.com/world/europe/uks-burnham-wont-invite-putin-to-g20-summit-next-year-he-skips-them-anyway/articleshow/135574555.cms": 1793892347658,
@@ -254,11 +240,23 @@
     "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom": 1794452240606,
     "https://www.politico.com/news/2026/11/11/scott-colom-wins-mississippi-senate-01161555": 1794452240606,
     "https://deadline.com/2026/11/scott-colom-senate-mississippi-cnn-1237220986/": 1794452240606,
-    "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html": 1794452240606
+    "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html": 1794452240606,
+    "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss": 1794481034950,
+    "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp": 1794481034950,
+    "https://www.scmp.com/tech/big-tech/article/3374203/loyalty-vs-accountability-look-nvidia-board-deciding-ceo-jensen-huangs-fate": 1794481043469,
+    "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories": 1794481043469,
+    "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest": 1794481043469,
+    "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html": 1794481043469,
+    "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair": 1794481043469,
+    "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html": 1794481043469,
+    "https://www.thehindu.com/news/international/nvidia-preparing-to-oust-ceo-jensen-huang-us-media/article71692138.ece": 1794481043469,
+    "https://www.france24.com/en/americas/20261112-nvidia-board-weighs-ouster-of-ceo-jensen-huang-amid-spy-scandal": 1794481043469,
+    "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html": 1794481043469,
+    "https://www.cbsnews.com/video/nvidias-board-preparing-oust-ceo-jensen-huang-sources-say/": 1794481043469,
+    "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/": 1794481043469,
+    "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/": 1794481043469
   },
   "fps": {
-    "bigger-centers-clash-coming-data-midterms": 1793860770311,
-    "democracy-face-hong-jailed-joshua-kong-pro-protests": 1793860793079,
     "burnham-g20-invited-manchester-putin-summit": 1793892347658,
     "assault-brand-found-guilty-rape-russell-sexual": 1793892439983,
     "civil-department-dhillon-harmeet-justice-leader-resigns-rights": 1793915947343,
@@ -306,6 +304,8 @@
     "across-bomb-hoax-ireland-italy-schools-target-threats": 1794434038449,
     "actor-dies-england-general-hospital-randall": 1794434057030,
     "feels-gop-huang-jensen-nvidia-resign-senator-should": 1794452232509,
-    "cindy-colom-democrat-hyde-mississippi-scott-senate-smith": 1794452240606
+    "cindy-colom-democrat-hyde-mississippi-scott-senate-smith": 1794452240606,
+    "economy-fastest-grows-rate-two-years": 1794481034950,
+    "accountability-board-ceo-deciding-fate-huang-jensen-look": 1794481043469
   }
 }
