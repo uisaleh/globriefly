@@ -1,0 +1,114 @@
+{
+  "slug": "new-orleans-cruise-ship-collision-sparks-emergency-rescue-efforts",
+  "status": "published",
+  "type": "news",
+  "category": "world",
+  "region": "Americas",
+  "headline": "New Orleans cruise ship collision sparks emergency rescue efforts",
+  "standfirst": "A river cruise liner collided with a tanker in New Orleans, prompting a major emergency response and temporary river closure.",
+  "keyPoints": [
+    "A tanker collided with the American Cruise Lines vessel American Heritage in New Orleans.",
+    "Thirty-two people are receiving treatment at a local hospital, including two police officers.",
+    "Mayor Helena Moreno confirmed that all passengers and crew have been accounted for.",
+    "The US Coast Guard closed the river to vessel traffic between mile markers 93 and 96."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "A serious river collision occurred on the Mississippi River in New Orleans when a tanker struck a passenger cruise liner. The vessel involved was the American Cruise Lines ship American Heritage, which was carrying over 120 passengers alongside its crew. Following the impact, the ship quickly took on water and listed heavily onto its side.",
+        "Emergency responders rushed to the scene as dramatic videos captured passengers climbing onto railings and balconies to stay above the rising water. Helicopters scanned the area while ambulances waited on the shore to assist any injured individuals. Local authorities and maritime workers launched immediate search and rescue operations in the turbulent waters.",
+        "New Orleans Mayor Helena Moreno confirmed that every passenger and crew member had been successfully accounted for following the accident. Thirty-two individuals were transported to a local hospital for medical treatment, including two New Orleans Harbor Police officers who entered the river to rescue people."
+      ]
+    },
+    {
+      "heading": "Background and local context",
+      "paragraphs": [
+        "The incident unfolded on the Mississippi River near a heavily trafficked bridge that accommodates roughly 160,000 vehicles every day. Witnesses reported scenes of sudden confusion along the port as dock workers and nearby vessels hurried to assist those stranded in the water. Ferry services across the river were immediately suspended as a precautionary measure.",
+        "The US Coast Guard intervened by shutting down vessel traffic across a specific stretch of the waterway to facilitate ongoing emergency assessments. Maritime experts evaluating initial footage suggested that the crash might have stemmed from a sudden loss of power, steering failure, or propulsion trouble aboard the tanker."
+      ]
+    },
+    {
+      "heading": "Official reactions and community response",
+      "paragraphs": [
+        "Local leaders expressed profound relief that the outcome was not far worse, given the proximity of the busy roadway bridge. Mayor Moreno described the successful rescue operations as \"truly a miracle on the Mississippi\" during public statements regarding the emergency. Federal and local representatives monitored developments closely while praising the swift actions of first responders.",
+        "Community members near the port also contributed to the relief effort by organizing supplies and wheelchairs for survivors arriving onshore. Law enforcement and coast guard teams remained stationed around the clock to secure the crash zone and begin formal investigations into the cause."
+      ]
+    },
+    {
+      "heading": "Wider maritime impact",
+      "paragraphs": [
+        "The temporary closure of this vital commercial river corridor disrupted local transit networks and shipping schedules across the region. Authorities emphasized that thorough safety checks must be completed before normal vessel movements can safely resume on the waterway. Transport officials encouraged commuters and travelers to utilize alternative routes while river restrictions remain active.",
+        "The accident highlights the persistent safety challenges inherent in navigating heavy commercial traffic along narrow urban waterways. Investigators will review vessel logs, maintenance records, and witness testimonies to determine precisely what triggered the collision."
+      ]
+    },
+    {
+      "heading": "Next steps in the investigation",
+      "paragraphs": [
+        "Federal maritime safety investigators are expected to lead the formal inquiry into the mechanical and navigational factors behind the crash. Officials plan to examine the tanker's steering and engine systems to verify whether an onboard failure caused the vessel to veer off course. Further updates regarding the formal inquiry will be provided as evidence is gathered from the site."
+      ]
+    }
+  ],
+  "highlight": "Thirty-two people are now being treated at a local hospital.",
+  "timeline": [],
+  "tags": [
+    "New Orleans",
+    "Mississippi River",
+    "Helena Moreno",
+    "American Heritage",
+    "Coast Guard"
+  ],
+  "socialSummary": "All passengers and crew are accounted for after a tanker and cruise ship collide in New Orleans.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Crescent_City_Connection%2C_Steamboat_Natchez%2C_MART_Towers%2C_New_Orleans_early_1990s.jpg/1920px-Crescent_City_Connection%2C_Steamboat_Natchez%2C_MART_Towers%2C_New_Orleans_early_1990s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Mississippi River front, New Orleans, looking upriver towards the Crescent City Connection bridge. Note towers still…",
+    "credit": "Infrogmation of New Orleans / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Crescent_City_Connection,_Steamboat_Natchez,_MART_Towers,_New_Orleans_early_1990s.jpg",
+    "license": "CC BY-SA 4.0",
+    "provider": "wikimedia",
+    "query": "Mississippi River New Orleans bridge",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "Mississippi River New Orleans bridge",
+    "names": [
+      "Helena Moreno",
+      "American Heritage"
+    ],
+    "subject": "river cruise ship on its side"
+  },
+  "sources": [
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates"
+    },
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/culture/product-recommendations/shop-coachella-2027-music-festival-tickets-online-1236381620/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/global/huelva-festival-standouts-la-bola-negra-funk-lucia-puenzo-1236947244/"
+    }
+  ],
+  "sourceTitles": [
+    "Here’s the latest.",
+    "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
+    "Coachella 2027: Here’s Where to Shop Affordable Music Festival Tickets Online",
+    "10 Huelva Festival Standouts From ‘La Bola Negra’ to a Vibrant ‘Funk’ Musical and the Latest from ‘Dive’ Director Lucía Puenzo",
+    "‘Cunk on Cinema’ Review: Michael Bay and Benedict Cumberbatch Join Diane Morgan’s Documentary Presenter for Her Latest Laugh-Filled Netflix Series",
+    "Logan Lerman Latest To Join Searchlight’s ‘Playmates’"
+  ],
+  "sourceCount": 12,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-11-13T22:34:03.887Z",
+  "updatedAt": "2026-11-13T22:34:03.887Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/new-orleans-cruise-ship-collision-sparks-emergency-rescue-efforts.jpg"
+}

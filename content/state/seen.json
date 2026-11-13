@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/": 1793987732347,
-    "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/": 1793987732347,
-    "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested": 1793987735321,
-    "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html": 1793987735321,
-    "https://timesofindia.indiatimes.com/world/us/meghan-markles-father-arrested-for-possessing-child-sexual-abuse-materials/articleshow/135614822.cms": 1793987735321,
-    "https://www.rollingstone.com/culture/culture-news/thomas-markle-arrested-allegations-child-sex-abuse-images-1235653911/": 1793987735321,
-    "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession": 1793987735321,
-    "https://www.thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece": 1793987735321,
-    "https://www.scmp.com/news/world/united-states-canada/article/3373612/meghans-father-thomas-markle-arrested-us-child-sex-abuse-material-charges": 1793987735321,
     "https://www.nytimes.com/2026/11/06/arts/television/melania-trump-the-series-amazon-prime.html": 1794006266208,
     "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video": 1794006266208,
     "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison": 1794006295624,
@@ -252,11 +243,27 @@
     "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-rdf": 1794586532089,
     "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz": 1794586532089,
     "http://www.africanews.com/2026/11/13/iran-showcases-missiles-as-military-targets-us-army-radar-in-bahrain/": 1794586532089,
-    "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran": 1794586532089
+    "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran": 1794586532089,
+    "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss": 1794609237344,
+    "https://www.scientificamerican.com/article/can-spacex-catch-its-starship/": 1794609237344,
+    "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex": 1794609237344,
+    "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa": 1794609243249,
+    "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates": 1794609243249,
+    "https://www.billboard.com/culture/product-recommendations/shop-coachella-2027-music-festival-tickets-online-1236381620/": 1794609243249,
+    "https://variety.com/2026/film/global/huelva-festival-standouts-la-bola-negra-funk-lucia-puenzo-1236947244/": 1794609243249,
+    "https://www.hollywoodreporter.com/tv/tv-reviews/cunk-on-cinema-review-philomena-cunk-diane-morgan-netflix-1236752328/": 1794609243249,
+    "https://deadline.com/2026/11/logan-lerman-joins-playmates-searchlight-1237223249/": 1794609243249,
+    "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale": 1794609243249,
+    "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss": 1794609243249,
+    "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening": 1794609243249,
+    "https://www.statnews.com/pharmalot/2026/11/13/up-down-ladder-jobs-pharma-biotech-2/?utm_campaign=rss": 1794609243249,
+    "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html": 1794609243249,
+    "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html": 1794609243249,
+    "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss": 1794609243249,
+    "https://www.scientificamerican.com/article/no-other-animal-walks-like-humans-do-heres-why/": 1794609243249,
+    "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-midday": 1794609243249
   },
   "fps": {
-    "able-alexa-amazon-shop-soon-text-you": 1793987732347,
-    "abuse-arrested-charges-child-father-florida-markle-material": 1793987735321,
     "amazon-director-film-follows-melania-part-same-series": 1794006266208,
     "200-cult-kenyan-leader-prison-sentenced-years": 1794006295624,
     "because-bought-deal-developer-ends-fox-lucrative-roku": 1794019674895,
@@ -302,6 +309,8 @@
     "affair-fight-huang-job-report-scandals-told-trump": 1794556511939,
     "blue-challenge-chris-chuck-coming-hollen-leadership-majority": 1794556541085,
     "causing-day-disruption-microsoft-outage-outlook-second-stretches": 1794586509037,
-    "bahrain-iran-military-radar-struck": 1794586532089
+    "bahrain-iran-military-radar-struck": 1794586532089,
+    "attempt-catch-double-huge-rocket-spacex-starship": 1794609237344,
+    "here-latest": 1794609243249
   }
 }

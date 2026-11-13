@@ -1,13 +1,125 @@
 {
-  "updatedAt": "2026-11-13T16:14:47.998Z",
+  "updatedAt": "2026-11-13T22:33:38.441Z",
   "videos": [
     {
-      "id": "T5cN4VX-qMo",
-      "title": "UN refugee chief Barham Salih slams 'shameful' war in Sudan, urges 'political solution'",
+      "id": "nRtP5JHGbtQ",
+      "title": "BREAKING: All US flights grounded due to “safety and communication issues”",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-13T22:13:49.000Z",
+      "description": "All flights have been grounded across the US due to an air traffic control \"communication issue”. "
+    },
+    {
+      "id": "n1YFMadqs_0",
+      "title": "Protestors shout at Rep. Hakeem Jeffries\nat Democratic conference",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-13T22:05:07.000Z",
+      "description": "Protesters interrupted House Democratic leader Hakeem Jeffries as he began speaking at an event in Denver, demanding action on a Green New Deal and an arms embargo against Israel. The disruption came during the “What’s N"
+    },
+    {
+      "id": "YIYVI-ILfZc",
+      "title": "Why is everything getting hacked?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-13T22:00:13.000Z",
+      "description": "Hackers are using AI to widen the scope of their attacks to include shop fridges, shipping logistics,  bloodbanks and other crucial infrastructure. What, if anything can we do to protect ourselves? And do hackers still n"
+    },
+    {
+      "id": "T612lPtqe8U",
+      "title": "Seneator-elect Talarico urges Democrats to work with Trump",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-13T21:48:57.000Z",
+      "description": "Democratic US Senator-elect James Talarico said Americans cannot wait until 2029 for change, urging Democrats to help make President Trump's final two years his most productive, rather than fighting by party lines"
+    },
+    {
+      "id": "_095oUb-XwM",
+      "title": "Gambia's Adama Barrow seeks third term • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-13T15:57:13.000Z",
-      "description": "In an interview with FRANCE 24, UN refugee chief Barham Salih called the war in Sudan \"shameful\" and urged the world to end it. With forced displacement at a record high, he warned that funding cuts are hurting people \"i"
+      "publishedAt": "2026-11-13T21:47:08.000Z",
+      "description": "In tonight's programme, Gambia's electoral commission has announced the five official candidates for the country's upcoming presidential election. President Adama Barrow is seeking a third term. Also, tensions continue t"
+    },
+    {
+      "id": "ic3fKpBz2rI",
+      "title": "US FAA suspends all flight departures nationwide until further notice",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-13T21:25:58.000Z",
+      "description": "The US Federal Aviation Administration (FAA) has suspended all flight departures across the United States until further notice. It says the flights are being grounded for extraordinary reasons and as a safety precaution."
+    },
+    {
+      "id": "taO_cItWMfE",
+      "title": "SpaceX set to launch historic Starship Flight 15",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-13T21:11:31.000Z",
+      "description": "While this is SpaceX's latest launch in a string of more than a dozen test flights, there's more at stake this time."
+    },
+    {
+      "id": "MWH295GmwpA",
+      "title": "Nuclear watchdog for UN urges inspection of Iran nuclear site",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-13T21:45:36.000Z",
+      "description": "The UN nuclear watchdog has said it is increasingly concerned about Iran's uranium enrichment plant at Isfahan."
+    },
+    {
+      "id": "VRag078yfl0",
+      "title": "NASA's Voyager 1 will be humanity's first object to reach an entire light-day from Earth",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-13T20:25:48.000Z",
+      "description": "NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth. That's a mind-blowing distance of more than 16 billion miles. (AP Video/Shelby Lum) "
+    },
+    {
+      "id": "EbwtNBDomDQ",
+      "title": "Russian strike on Zaporizhzhia apartments",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-13T21:06:02.000Z",
+      "description": "A Russian strike on a residential area in Zaporizhzhia injured at least 30 people, Ukrainian officials said. Ukrainian President Volodymyr Zelenskyy said Friday that throttled speeds on the Starshield satellite internet "
+    },
+    {
+      "id": "AaNUbqoZT_A",
+      "title": "OFFENSIVE LANGUAGE WARNING: Protesters disrupt Jeffries at event",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-13T21:37:44.000Z",
+      "description": "THIS VIDEO CONTAINS LANGUAGE SOME PEOPLE MAY CONSIDER OFFENSIVE - Protesters repeatedly interrupted House Democratic Leader Hakeem Jeffries while he spoke at a post-midterms Democratic conference in Denver to debate the "
+    },
+    {
+      "id": "1vSTbVTSfSw",
+      "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-13T19:46:04.000Z",
+      "description": "On The World This Week with Gavin Lee, our panel distills the breaking news and global stories of the past 7 days into 45 minutes. "
+    },
+    {
+      "id": "8TE1JlqqDe8",
+      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-13T20:54:59.000Z",
+      "description": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to Iran’s Islamic Revolutionary Guard Corps (IRGC). The IRGC said the vessel ignored warnings and attempted to navigate an "
+    },
+    {
+      "id": "7Z_EfuVgJBg",
+      "title": "Police investigating David Walliams over alleged sexual offences",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-13T19:17:54.000Z",
+      "description": "The Wrap with Barbara Serra will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
+    },
+    {
+      "id": "BLRsNd4FcLI",
+      "title": "Download announces second EVER female-fronted headliner.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-13T21:45:24.000Z",
+      "description": ""
     },
     {
       "id": "VXaHrB_ROgE",
@@ -18,36 +130,12 @@
       "description": "A car bombing on Friday in Moscow badly injured an adviser to Ukraine’s former prime minister in the second such attack in as many days and part of a series linked to the conflict with Russia’s neighbor."
     },
     {
-      "id": "RRAU7d2U3Xk",
-      "title": "Qatar and Turkiye sign mutual defence pact",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-13T15:52:15.000Z",
-      "description": "Qatar and Turkiye sign mutual defence pact"
-    },
-    {
-      "id": "106GOrVzYCo",
-      "title": "Is Scottish-born GTA a mirror of America?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-13T15:51:12.000Z",
-      "description": "“This is the biggest entertainment release ever”, says the BBC’s technology reporter, Laura Cress. "
-    },
-    {
-      "id": "gyN32oA9SJk",
-      "title": "Why the Russell Brand Story Could Be a Turning Point",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-13T15:50:00.000Z",
-      "description": "David Walliams has been accused of sexual misconduct, just days after fellow entertainer Russell Brand, was sentenced to more than ten years in prison after being convicted of rape and sexual assault.  "
-    },
-    {
-      "id": "e-u0qImYTBg",
-      "title": "Why has El Salvador sent 2000 troops to Haiti?",
+      "id": "7Zz1ZxI9ldY",
+      "title": "Ukraine needs a Starshield alternative. Can Europe deliver?",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-13T15:36:14.000Z",
-      "description": "El Salvador sent 2,000 troops to Haiti, where President Nayib Bukele said four Salvadoran soldiers had gone missing as part of a UN operation. But Bukele has since hinted at a broader goal of eliminating Haiti's powerful"
+      "publishedAt": "2026-11-13T20:30:36.000Z",
+      "description": "Ukraine says renewed limits on Starshield are allowing more Russian drone attacks to get through. The service is the military-grade version of SpaceX’s Starlink satellite network, and Ukraine relies on it for battlefield"
     },
     {
       "id": "0aVcILduKq8",
@@ -58,12 +146,36 @@
       "description": "Hispanic families in southwest Kansas bore the brunt of a September immigration sweep, and now they’re calling for accountability."
     },
     {
-      "id": "fmVhraf97Oo",
-      "title": "Nvidia scandal: How close was ex-CEO to Trump? • FRANCE 24 English",
+      "id": "u-LVZcp6vD0",
+      "title": "Hurry up and wait: Europe wants a place at the table, ‘must make up its mind’ over Ukraine",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-13T15:50:40.000Z",
-      "description": "US lawmakers have called Jensen Huang to face their questions in December after the Nvidia ex-CEO quit over extramarital affairs, including one with a suspected Chinese spy. The Taiwanese-born businessman was a close inf"
+      "publishedAt": "2026-11-13T18:57:28.000Z",
+      "description": "Gavin Lee is pleased to welcome Alexander Titov, Lecturer in Modern European History at Queen's University Belfast and a specialist on Russia. He's joined us to discuss high-level meetings in Abu Dhabi, Dublin and the pr"
+    },
+    {
+      "id": "3exoFbEV3_c",
+      "title": "Pope Leo cheered on return to Peru city where he served as bishop",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-13T20:52:38.000Z",
+      "description": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop. The pope celebrated an outdoor Mass during his  visit to Chiclayo, which is taking place a month after h"
+    },
+    {
+      "id": "gyN32oA9SJk",
+      "title": "Why the Russell Brand Story Could Be a Turning Point",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-13T15:50:00.000Z",
+      "description": "David Walliams has been accused of sexual misconduct, just days after fellow entertainer Russell Brand, was sentenced to more than ten years in prison after being convicted of rape and sexual assault.  "
+    },
+    {
+      "id": "b9Qy0A38rQo",
+      "title": "How a server failure brought much of the world to a standstill",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-13T21:00:19.000Z",
+      "description": "Microsoft says it is deeply sorry for a global service outage that has disrupted millions of users, saying it is 'not related to cyber or AI/agents'."
     },
     {
       "id": "FOPo_E8IGVA",
@@ -74,124 +186,12 @@
       "description": "Residents in southwest Kansas made their voices heard at the ballot box following immigration enforcement operations in late September. \r"
     },
     {
-      "id": "kfofw7LeRfU",
-      "title": "Indonesia investigates alleged wiretapping of President Prabowo",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-13T15:19:57.000Z",
-      "description": "Indonesia investigates alleged wiretapping of President Prabowo, with a former police chief among four suspects arrested. Al Jazeera's Jessica Washington reports."
-    },
-    {
-      "id": "t6ByE_6ygwM",
-      "title": "Politicians Chris Philp and Zia Yusuf in heated row over immigration.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-13T15:05:05.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
-    },
-    {
-      "id": "CDqwfvr7eog",
-      "title": "The world is reliant on Microsoft. This Is Why",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-13T15:02:13.000Z",
-      "description": "When Microsoft goes down, we are given a stark reminder of how much life is dependent on a handful of tech giants. "
-    },
-    {
-      "id": "TtpB_C9Da4s",
-      "title": "Microsoft outage spills across globe causing widespread disruption",
+      "id": "0AnjtmPnjnY",
+      "title": "How Jensen Huang's downfall became an AI security crisis",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-13T15:18:34.000Z",
-      "description": "Millions of users of Microsoft products were unable to access some of the world's most popular services after an outage at the tech giant. Microsoft said it was unaware of any 'malicious activity.' DW's Pablo Foley Elias"
-    },
-    {
-      "id": "oLAudx-YdLg",
-      "title": "Market Talk: Nvidia's pain is China's gain",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-13T13:51:21.000Z",
-      "description": "Chinese AI stocks fell on concerns that Jensen Huang’s exit could further restrict access to US chips. But Joachim Klement of Panmure Liberum says China could emerge as the biggest winner, as a slowdown in US AI expansio"
-    },
-    {
-      "id": "ZUd3jYYID9c",
-      "title": "Russia strikes targets across Ukraine as Kyiv launches nearly 1,200 drones • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-13T15:46:34.000Z",
-      "description": "Russian strikes hit targets across Ukraine on Thursday, with one attack damaging a hospital. Ukraine meanwhile fired almost 1,200 drones at Russian targets overnight in one of its biggest aerial attacks since Moscow’s fu"
-    },
-    {
-      "id": "LcUHltjWLd8",
-      "title": "Timeline: The downfall of Nvidia CEO Jensen Huang",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-13T13:30:27.000Z",
-      "description": "Huang, who stepped down Thursday following reports of extramarital affairs, including with a suspected Chinese spy, was the very public face of a company that dominates the market for computer chips used to train and run"
-    },
-    {
-      "id": "MpJmhPNudLU",
-      "title": "US denies Iran destroyed American radar system in Bahrain",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-13T14:18:59.000Z",
-      "description": "The US military has denied Iranian claims that its forces destroyed an American early-warning radar system in Bahrain, saying two Iranian drones targeting the country were intercepted without causing damage."
-    },
-    {
-      "id": "Svot0o-ojlU",
-      "title": "What have you been stockpiling?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-13T14:04:28.000Z",
-      "description": ""
-    },
-    {
-      "id": "1hFrWMmPC20",
-      "title": "Mauricio Pochettino speaks after being appointed Manchester United head coach",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-13T14:51:23.000Z",
-      "description": "USMNT head coach Mauricio Pochettino holds a press conference after being appointed the job at Manchester United - where he will become the Red Devils' eighth permanent manager since Sir Alex Ferguson retired in 2013."
-    },
-    {
-      "id": "3JLnYjoRuok",
-      "title": "Is Israel dividing Berlin's Left Party?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-13T14:08:36.000Z",
-      "description": "Berlin's Left Party, Die Linke, won the most votes in the September election, promising cheaper rents and housing reforms. Now, it hopes to govern Germany's capital — potentially creating its own Zohran Mamdani moment."
-    },
-    {
-      "id": "cjGVc9n-uog",
-      "title": "🎬 How motherhood changed Hailee Steinfeld’s approach to Disney’s 'Hexed'",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-13T13:29:44.000Z",
-      "description": "\"I became a mother while making this movie,\" Hailee Steinfeld told Reuters, explaining how it shaped her understanding of her role. In \"Hexed,\" which arrives in theaters on November 25, a teenage girl discovers she has m"
-    },
-    {
-      "id": "wn8dweCLdWo",
-      "title": "‘Peruvian pope’ Leo XIV comes home to a country that shaped his life and faith through 'hardship'",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-12T23:26:10.000Z",
-      "description": "François Picard is pleased to welcome Victor Casallo, Director of the Department of Philosophical and Theological Studies at Antonio Ruiz de Montoya University. Can a Pope shaped by Peru's history of political violence, "
-    },
-    {
-      "id": "OUU2dzIFaNc",
-      "title": "Men between 50 and 69 should get a routine prostate cancer screening, ACA says",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-12T23:31:39.000Z",
-      "description": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines."
-    },
-    {
-      "id": "7knwL4M6Dmw",
-      "title": "China warns against fresh US chip curbs",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-13T13:41:07.000Z",
-      "description": "China has warned the US against imposing additional export controls on AI chips following the scandal surrounding former Nvidia CEO, Jensen Huang. Huang resigned after he admitted to having an affair with an alleged Chin"
+      "publishedAt": "2026-11-13T18:21:01.000Z",
+      "description": "Nvidia's founder Jensen Huang is out. But the bigger story isn't a personal scandal. It's a global battle over AI chips, alleged smuggling networks, and the US-China tech war."
     }
   ]
 }

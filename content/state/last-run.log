@@ -1,31 +1,23 @@
-16:14:39 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-16:14:39 collecting videos…
-16:14:39   video feed BBC News: 15 in feed, 5 kept
-16:14:39   video feed Al Jazeera English: 15 in feed, 5 kept
-16:14:39   video feed DW News: 15 in feed, 5 kept
-16:14:43   video feed FRANCE 24 English: 15 in feed, 5 kept
-16:14:43   video feed Sky News: 15 in feed, 5 kept
-16:14:47   video feed Reuters: 15 in feed, 5 kept
-16:14:47   video feed Associated Press: 15 in feed, 5 kept
-16:14:47 videos: saved 24
-16:14:47 collecting feeds…
-16:14:53 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-16:14:53 833 new items
-16:14:54 670 candidate stories
-16:14:54 categories needing stories: business, science, health, sports, entertainment, world → reserved business
-16:14:54 writing: Microsoft Outlook outage stretches into a second day, causing widespread disruption (3 sources)
-16:14:55   source text: 2159 / 0 / 7000 / 7000 chars
-16:14:57 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-16:15:24 image source error: The operation was aborted due to timeout
-16:15:26   ✓ published: /news/microsoft-outlook-and-365-services-begin-recovery-after-major-multi-day/ [business] image: wikimedia via name "Microsoft Outlook"
-16:15:26 writing: Iran says it struck U.S. military radar in Bahrain (5 sources)
-16:15:26   source text: 3643 / 2156 / 4157 chars
-16:15:33   ✓ published: /news/iran-claims-radar-attack-in-bahrain-as-us-reports-intercepting-drones/ [world] image: wikimedia via idea "Islamic Revolutionary Guard Corps missiles"
-16:15:33 done — 2 stories
+22:33:30 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+22:33:30 collecting videos…
+22:33:30   video feed BBC News: 15 in feed, 5 kept
+22:33:30   video feed Al Jazeera English: 15 in feed, 5 kept
+22:33:38   video feed DW News: 15 in feed, 5 kept
+22:33:38   video feed FRANCE 24 English: 15 in feed, 5 kept
+22:33:38   video feed Sky News: 15 in feed, 5 kept
+22:33:38   video feed Reuters: 15 in feed, 5 kept
+22:33:38   video feed Associated Press: 15 in feed, 5 kept
+22:33:38 videos: saved 24
+22:33:38 collecting feeds…
+22:33:43 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+22:33:43 800 new items
+22:33:45 619 candidate stories
+22:33:45 categories needing stories: science, health, sports, entertainment, business, world → reserved science
+22:33:45 writing: SpaceX to attempt double catch of huge Starship rocket (3 sources)
+22:33:45   source text: 2717 / 2717 / 2717 chars
+22:33:51   too close to source wording — rewriting
+22:33:58   ✓ published: /news/spacex-prepares-unprecedented-dual-midair-rocket-catch-in-texas/ [science] image: wikimedia via idea "SpaceX Starship rocket Starbase"
+22:33:58 writing: Here’s the latest. (12 sources)
+22:33:59   source text: 7000 / 7000 / 1660 chars
+22:34:04   ✓ published: /news/new-orleans-cruise-ship-collision-sparks-emergency-rescue-efforts/ [world] image: wikimedia via idea "Mississippi River New Orleans bridge"
+22:34:04 done — 2 stories
