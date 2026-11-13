@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-12T18:52:03.397Z",
+  "updatedAt": "2026-11-13T00:14:50.659Z",
   "videos": [
+    {
+      "id": "IM-AElHV8mQ",
+      "title": "Israeli strike hits Gaza hospital",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-13T00:00:01.000Z",
+      "description": "Israel says it has targeted a senior Hamas member in a strike on a Gaza hospital. Gaza’s Hamas-run health ministry says the strike hit the surgical wing and killed at least six people. Israel says Hamas, which orchestrat"
+    },
+    {
+      "id": "q0vowL__iGg",
+      "title": "Market Talk: Huang scandal cloud over Nvidia 'no matter who steps in'",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-12T23:33:26.000Z",
+      "description": "Richard Reyle, chief investment officer at Questar Capital Partners, said with Nvidia now ‘exposed to lawsuits’ over the allegations against ousted CEO Jensen Huang, the company is bound to take its ‘eye off the ball’ un"
+    },
+    {
+      "id": "OUU2dzIFaNc",
+      "title": "Men between 50 and 69 should get a routine prostate cancer screening, ACA says",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-12T23:31:39.000Z",
+      "description": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines."
+    },
+    {
+      "id": "Q1E0ZnD_ZWk",
+      "title": "Putin shows little sign of compromise in talks with US envoys",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-12T23:27:59.000Z",
+      "description": "US envoys meet Russia’s Putin in Moscow after talks in Abu Dhabi yield a major POW swap but no end to the war. Moscow resists EU involvement and repeats demands on territory, NATO and Donbas withdrawals. "
+    },
+    {
+      "id": "wn8dweCLdWo",
+      "title": "‘Peruvian pope’ Leo XIV comes home to a country that shaped his life and faith through 'hardship'",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-12T23:26:10.000Z",
+      "description": "François Picard is pleased to welcome Victor Casallo, Director of the Department of Philosophical and Theological Studies at Antonio Ruiz de Montoya University. Can a Pope shaped by Peru's history of political violence, "
+    },
+    {
+      "id": "qRm0ivlMzGE",
+      "title": "Rayner approves plans to house migrants at MoD site",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-12T22:59:42.000Z",
+      "description": "Join Gillian Joseph on The Wrap as the housing secretary, Angela Rayner, has approved plans to house 1,256 male asylum seekers at MOD Bicester in Oxfordshire, next to the village of Piddington. "
+    },
+    {
+      "id": "5nrC7tvUf8s",
+      "title": "Sunbed ads \"must not downplay skin cancer risk\"",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-12T22:30:16.000Z",
+      "description": ""
+    },
+    {
+      "id": "nFiG-LHKW2Q",
+      "title": "Voters dislike them. Removing them isn’t easy",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-12T23:02:46.000Z",
+      "description": "Voters overwhelmingly lumped Trump’s tariffs into a general frustration with higher prices. Yet removing them will be difficult – even after 2028. We look at why tariffs are so sticky, the contradictions in American opin"
+    },
+    {
+      "id": "UtMzWmaxSns",
+      "title": "Angels in the 'kill zone': Ukraine's drone medevac pilots",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-12T23:08:44.000Z",
+      "description": "Reuters documented a Ukrainian military rescue team with the 475th Separate Assault Regiment, as they piloted a Stargate hexacopter to airlift a wounded soldier out of the frontline ‘kill zone.’"
+    },
+    {
+      "id": "XFqWYWkBnW0",
+      "title": "Why are more men getting into Pilates?",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-12T22:33:32.000Z",
+      "description": "From men getting humbled on the reformer to more guys signing up for classes, Pilates is drawing a growing male following. So what’s behind the shift?"
+    },
+    {
+      "id": "FvC6UJfIDyU",
+      "title": "The Nvidia affair: Jensen Huang resigns after revelations about two affairs",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-12T22:25:58.000Z",
+      "description": "Nvidia CEO Jensen Huang has resigned after it was revealed he had two extramarital affairs, including one with a woman suspected by US intelligence of having links to Chinese intelligence. The programme also examines the"
+    },
+    {
+      "id": "47SVh2FR1LY",
+      "title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-12T22:12:47.000Z",
+      "description": "There are mounting concern across Europe that recent hoax threats and cyber attacks could be part of a massive hybrid warfare campaign. FRANCE 24's Sharon Gaffney speaks with Elisabeth Braw, Senior Fellow with the Atlant"
+    },
+    {
+      "id": "q0NxKEvAzm4",
+      "title": "Rape survivor's complaint about judge's 'victim blaming' remarks rejected",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-12T22:51:34.000Z",
+      "description": "A rape victim in a high-profile case says she \"feels terrible\" after a complaint her lawyer submitted about the judge was rejected. 'Jazmine', not her real name, says the judge treated the Fordingbridge teenage rapists \""
+    },
+    {
+      "id": "mWVNOQaDSco",
+      "title": "What is next for Nvidia after Jensen Hunag resigned?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-12T21:50:39.000Z",
+      "description": ""
+    },
+    {
+      "id": "PWhYtgLf30I",
+      "title": "Who will get a seat at Ukraine peace talks?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-12T22:52:46.000Z",
+      "description": "While peace talks for Ukraine are now looking likely, the European countries who have supported Kyiv are fearing they’re being sidelined while the US moves ahead. At a meeting of the European Political Community in Dubli"
+    },
     {
       "id": "S9gsyz6P9Es",
       "title": "DC police say gunman barricaded himself inside apartment",
@@ -10,20 +130,28 @@
       "description": "One person was killed and four others were wounded when a gunman opened fire inside a gym before barricading himself inside an apartment building in Washington, DC, police said."
     },
     {
-      "id": "pd9E6zNOg84",
-      "title": "Witness recalls the 'horrific' shooting in Washington, DC",
+      "id": "QXgbB0X7AqI",
+      "title": "Protesters attack supporters of Nigeria's opposition with chairs in Lagos",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-12T18:32:04.000Z",
-      "description": "A gunman killed one man and wounded four others Thursday in Washington’s Logan Circle neighborhood before fatally shooting himself. AP videographer River Zhang described the terrifying scene in the normally lively neighb"
+      "publishedAt": "2026-11-12T22:13:53.000Z",
+      "description": "Suspected protesters armed with cutlasses, sticks and stones attacked supporters of Nigeria's opposition Nigeria Democratic Congress (NDC) during a town hall meeting in Lagos on Thursday, disrupting the gathering and for"
     },
     {
-      "id": "-EFUR-ZKixA",
-      "title": "Scott Colom wins Mississippi Senate race",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-12T18:30:06.000Z",
-      "description": "Scott Colom has claimed victory in Mississippi's Senate race. He beat the Republican incumbent Cindy Hyde-Smith by just over 4,500 votes. A prolonged count of absentee and provisional ballots left the contest undecided f"
+      "id": "JpukQrN5QuQ",
+      "title": "Deadly shooting in Washington DC",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-12T21:19:16.000Z",
+      "description": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person being killed and the gunman killing himself after being surrounded by police.  "
+    },
+    {
+      "id": "dCmrG-cjInw",
+      "title": "Concentration of power & wealth: Do tech CEOs have more authority, influence than elected officials?",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-12T16:44:22.000Z",
+      "description": "The resignation of Nvidia founder Jensen Huang has thrown one of the world's most iconic technology companies into a leadership crisis, whose ripple effects extend far beyond Silicon Valley. Nvidia occupies a unique posi"
     },
     {
       "id": "pkrGDqnwsLM",
@@ -34,28 +162,20 @@
       "description": "Deborah gives Defence Insiders a tour of one of the Royal Navy's most powerful aircraft carriers: The HMS Prince of Wales"
     },
     {
-      "id": "QQ4ns_XYRBI",
-      "title": "Could under-25s lose sickness benefits in the UK?",
+      "id": "LmMA-lnSVv8",
+      "title": "Two children among eight killed in New York building collapse, mayor Zohran Mamdani said.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-12T18:23:44.000Z",
-      "description": "Today, the boss of tech giant Nvidia has quit following revelations of an affair with a suspected Chinese spy.  "
+      "publishedAt": "2026-11-12T21:28:37.000Z",
+      "description": ""
     },
     {
-      "id": "yn9FErBN068",
-      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-12T18:03:24.000Z",
-      "description": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital where an overnight Israeli airstrike devastated the surgical department destroying medical facilities and leaving parts of th"
-    },
-    {
-      "id": "VJBn8XJvZRY",
-      "title": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-12T16:46:13.000Z",
-      "description": "Russia's President Vladimir Putin indicated on Thursday, November 12, that the Kremlin would not compromise on its hardline demands to end the war in Ukraine, but offered a short-term ceasefire in a key frontline city du"
+      "id": "pW8QyhC2nUs",
+      "title": "“The algorithm was on our side.”",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-12T22:30:04.000Z",
+      "description": "What does it take to build a movement that can't be silenced? Serbian activist Natalija Petrović reflects on how students combined online organizing with grassroots activism to challenge the political status quo. Listen "
     },
     {
       "id": "LdOrNr4Doms",
@@ -72,126 +192,6 @@
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
       "publishedAt": "2026-11-12T18:08:34.000Z",
       "description": "New York City is launching inspections at about 100 construction sites linked to entities involved with the site next to a Brooklyn building that collapsed, Mayor Zohran Mamdani said Thursday. Eight people, including two"
-    },
-    {
-      "id": "8ln7ildk1vQ",
-      "title": "Big tech vs. democracy",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-12T17:10:14.000Z",
-      "description": "What if elections aren't the real battleground anymore? Author of the book “The Nerd Reich” Gil Durán warns that capitalism, AI and big tech are reshaping power in ways many democracies aren't prepared for. Watch the ful"
-    },
-    {
-      "id": "0gVC8aCGiuA",
-      "title": "How many nuclear weapons are there in the world, and which countries hold the most?",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-12T17:00:31.000Z",
-      "description": "Military analyst Michael Clarke unpacks these questions and more on the Sky News Defence Insider app."
-    },
-    {
-      "id": "8580Uu0lxFM",
-      "title": "Nvidia's CEO Jensen Huang has resigned. Now what?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-12T17:30:26.000Z",
-      "description": "Jensen Huang has resigned as CEO of tech giant Nvidia, the company's board says, with chief financial officer Colette Kress appointed interim boss."
-    },
-    {
-      "id": "5z8esnxKeDw",
-      "title": "Did the Democrats win or did Trump just lose?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-12T17:51:49.000Z",
-      "description": "“This is a repudiation of the Republicans and of Trump and not an embrace of the Democrats….a change in leadership is how you show that things are durable and that you’re listening to the American public.”"
-    },
-    {
-      "id": "dCmrG-cjInw",
-      "title": "Concentration of power & wealth: Do tech CEOs have more authority, influence than elected officials?",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-12T16:44:22.000Z",
-      "description": "The resignation of Nvidia founder Jensen Huang has thrown one of the world's most iconic technology companies into a leadership crisis, whose ripple effects extend far beyond Silicon Valley. Nvidia occupies a unique posi"
-    },
-    {
-      "id": "vkugzXJ3ERI",
-      "title": "Anthropic’s IPO filing lifts the lid on AI’s eye-watering spending",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-12T10:41:41.000Z",
-      "description": "AI may be the biggest investment story in the world, but there's one problem: nobody really knows how to price it. "
-    },
-    {
-      "id": "SGqkBIVp2FE",
-      "title": "A refinery in Ireland is sending alumina to Russia that may end up in weapons",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-12T17:36:17.000Z",
-      "description": "The Karin, a 400-foot-long (120-meter-long) cargo ship, sat moored this week on Ireland’s boggy River Shannon estuary. Soon, it was set to sail for Russia, laden with a white powder that can be forged into weapons vital "
-    },
-    {
-      "id": "no2Eefpa23U",
-      "title": "US state of Mississippi sends first Black senator to Washington in more than 150 years",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-12T17:00:22.000Z",
-      "description": "Mississippi's closely contested US Senate race has finally been decided after a long ballot counting process - and the result is one almost no-one predicted. Democratic candidate Scott Colom defeated the Republican incum"
-    },
-    {
-      "id": "jRKGrhMZ97c",
-      "title": "Why Nvidia CEO could be ousted over 'second affair'",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-12T10:22:50.000Z",
-      "description": "Nvidia is said to be considering ousting its CEO over claims he had a second extramarital affair - with the reports emerging days after he admitted an affair with an alleged Chinese spy."
-    },
-    {
-      "id": "3pc8Nooa3_Q",
-      "title": "How does a country prepare for war in 1,000 days?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-12T17:00:08.000Z",
-      "description": "The Defence Secretary has warned the UK to be ready for war in less than 3 years, as Russia and Iran ramp up production of drones and missiles. "
-    },
-    {
-      "id": "qJGpmqLGOEs",
-      "title": "Defending Her Father Suspected of Murder",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-12T09:30:24.000Z",
-      "description": "For years, the police were convinced Sandy Preer was responsible for the brutal murder of his wife, Leslie. "
-    },
-    {
-      "id": "hzo9oXfchAw",
-      "title": "Life through a lens: Celebrating 200 years of photography • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-12T15:58:27.000Z",
-      "description": "A passport photo, a selfie, an award-winning film and even the evening news: all of them were made possible thanks to a \"fantastic machine\", the camera. As France celebrates the bicentenary of the first fixed photographi"
-    },
-    {
-      "id": "gu0ALRQPbXc",
-      "title": "US, China should stay clear-eyed on AI ties, Bessent says",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-11T20:29:33.000Z",
-      "description": "The United States and China should harbor no illusions about their differences on artificial intelligence as they navigate cooperation to mitigate the technology's risks while competing for AI supremacy, US Treasury Secr"
-    },
-    {
-      "id": "FV6PnlYJ9rU",
-      "title": "In Mexico, journalists face threats from their attackers and the system meant to protect them",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-12T10:30:30.000Z",
-      "description": "As Mexico grows more dangerous for journalists, Alberto Jordán and Jonathan Cuevas continue reporting under death threats, while Priscila Pacheco fights for justice a decade after her father, journalist Francisco Pacheco"
-    },
-    {
-      "id": "bJsFt_043cE",
-      "title": "Schools across Italy, Ireland and UK receive hoax bomb threats",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-12T07:12:04.000Z",
-      "description": "Investigators are trying to find out who is behind thousands of hoax bomb threats against schools, airplanes and broadcasters across Europe. On Wednesday, hundreds of Italian schools were evacuate, after threatening emai"
     }
   ]
 }

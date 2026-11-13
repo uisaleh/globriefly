@@ -1,82 +1,25 @@
-18:51:58 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-18:51:58 collecting videos…
-18:52:00   video feed BBC News: 15 in feed, 5 kept
-18:52:00   video feed Al Jazeera English: 15 in feed, 5 kept
-18:52:01   video feed DW News: 15 in feed, 5 kept
-18:52:01   video feed FRANCE 24 English: 15 in feed, 5 kept
-18:52:02   video feed Sky News: 15 in feed, 5 kept
-18:52:02   video feed Reuters: 15 in feed, 5 kept
-18:52:03   video feed Associated Press: 15 in feed, 5 kept
-18:52:03 videos: saved 24
-18:52:03 collecting feeds…
-18:52:13 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-18:52:13 924 new items
-18:52:15 735 candidate stories
-18:52:15 categories needing stories: technology, science, health, sports, entertainment, business, world → reserved technology
-18:52:15 writing: Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang? (10 sources)
-18:52:16   source text: 4489 / 5650 / 3623 chars
-18:52:23 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-18:52:31 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-18:52:40 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-18:52:53 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-18:52:59   skipped
-18:52:59 writing: Trump says "we don't need a deal with Iran" (6 sources)
-18:53:01   source text: 7000 / 1926 / 1553 chars
-18:53:04 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-18:53:21 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-18:53:31 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-DOMException [TimeoutError]: The operation was aborted due to timeout
-    at node:internal/deps/undici/undici:14976:13
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async callGemini (file:///home/runner/work/globriefly/globriefly/agent/llm.mjs:65:19)
-    at async generate (file:///home/runner/work/globriefly/globriefly/agent/llm.mjs:132:36)
-    at async main (file:///home/runner/work/globriefly/globriefly/agent/run.mjs:154:19)
+00:14:50 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+00:14:50 collecting videos…
+00:14:50   video feed BBC News: 15 in feed, 5 kept
+00:14:50   video feed Al Jazeera English: 15 in feed, 5 kept
+00:14:50   video feed DW News: 15 in feed, 5 kept
+00:14:50   video feed FRANCE 24 English: 15 in feed, 5 kept
+00:14:50   video feed Sky News: 15 in feed, 5 kept
+00:14:50   video feed Reuters: 15 in feed, 5 kept
+00:14:50   video feed Associated Press: 15 in feed, 5 kept
+00:14:50 videos: saved 24
+00:14:50 collecting feeds…
+00:14:56 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+00:14:56 856 new items
+00:14:57 652 candidate stories
+00:14:57 categories needing stories: technology, science, health, sports, entertainment, world, business → reserved technology
+00:14:57 writing: Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (13 sources)
+00:14:58   source text: 4989 / 4989 / 4989 chars
+00:15:04   ✓ published: /news/nvidia-chief-executive-jensen-huang-steps-down-following-relationship/ [technology] image: wikimedia via idea "Nvidia headquarters building"
+00:15:04 writing: Israeli strike on Gaza hospital deadliest since election (8 sources)
+00:15:05   source text: 5329 / 327 / 304 / 6691 / 1787 chars
+00:15:09   too close to source wording — rewriting
+00:15:17   ✓ published: /news/six-killed-as-israeli-strike-hits-surgery-ward-at-gaza-hospital/ [world] image: wikimedia via idea "Nasser Hospital Khan Younis"
+00:15:17 writing explainer for: Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
+00:15:24   ✓ explainer: /news/why-did-nvidia-ceo-jensen-huang-step-down-amid-a-massive-scandal/
+00:15:24 done — 2 stories

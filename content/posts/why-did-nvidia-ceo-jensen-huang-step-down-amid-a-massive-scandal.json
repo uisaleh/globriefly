@@ -1,0 +1,112 @@
+{
+  "slug": "why-did-nvidia-ceo-jensen-huang-step-down-amid-a-massive-scandal",
+  "status": "published",
+  "type": "explainer",
+  "category": "technology",
+  "region": "Americas",
+  "headline": "Why did Nvidia CEO Jensen Huang step down amid a massive scandal?",
+  "standfirst": "Nvidia chief executive Jensen Huang has abruptly resigned following revelations of extramarital affairs, wiping billions off the chipmaker's stock value and drawing scrutiny from US lawmakers.",
+  "keyPoints": [
+    "Jensen Huang has abruptly resigned as chief executive of Nvidia after admitting to marital infidelity.",
+    "The chipmaking giant lost $550bn in market value over five days following the scandal.",
+    "US lawmakers have demanded answers over whether one of his alleged relationships involved a security risk.",
+    "Chief Financial Officer Colette Kress has been named interim CEO while the company searches for a permanent replacement."
+  ],
+  "sections": [
+    {
+      "heading": "What led to Jensen Huang's sudden resignation?",
+      "paragraphs": [
+        "Jensen Huang, who has served as the public face and chief executive of Nvidia since 1993, abruptly stepped down from his position following explosive revelations regarding his personal life. The scandal erupted when Huang admitted to being unfaithful to his wife after reports surfaced of an alleged relationship with a woman suspected of being a foreign intelligence asset. Shortly afterward, reports emerged detailing a second alleged affair with a long-time company executive who reported directly to him.",
+        "The revelations immediately sent shockwaves from Silicon Valley boardrooms to Capitol Hill. While initial reports of infidelity were largely brushed off within the tech community, the compounding nature of the allegations and potential governance conflicts created an untenable situation for one of the world's most influential technology leaders. Nvidia announced an independent inquiry to look into the situation, though the company stated it had no reason to believe national security secrets were compromised."
+      ]
+    },
+    {
+      "heading": "How has the scandal impacted Nvidia's market value?",
+      "paragraphs": [
+        "As one of the primary drivers of the global artificial intelligence boom, Nvidia's specialized computer chips have become essential for powering modern AI models and chatbots. This massive market dominance had propelled the company's valuation to historic heights over the previous five years. However, the leadership turmoil triggered an immediate and severe market reaction, causing the company to lose $550 billion in stock value in just five days.",
+        "This dramatic five-day drop represents the most significant downturn Nvidia has experienced since going public nearly three decades ago. Because Nvidia accounts for a substantial portion of major stock indexes like the S&P 500, the sudden market correction has also reverberated through retirement accounts and ordinary savings funds across the United States."
+      ]
+    },
+    {
+      "heading": "Why are US lawmakers getting involved?",
+      "paragraphs": [
+        "Beyond corporate governance concerns, the scandal has attracted intense interest from politicians in Washington due to potential national security implications. Lawmakers, including members of the Senate and the House Foreign Affairs Committee, have publicly demanded that Huang brief Congress regarding the nature of his relationship with the individual suspected of espionage.",
+        "While the Department of Justice has stated it has not drawn final conclusions regarding the espionage allegations, political scrutiny remains high. US officials are keen to understand whether top technology executives at critical infrastructure companies could be targeted by foreign intelligence efforts, raising broader questions about corporate oversight and national security in the tech sector."
+      ]
+    },
+    {
+      "heading": "What happens next for the artificial intelligence giant?",
+      "paragraphs": [
+        "In the wake of Huang's departure, Nvidia's leadership has moved quickly to stabilize operations. Chief Financial Officer Colette Kress stepped in as interim CEO, leading emergency executive meetings to chart the company's path forward and reassure employees, many of whom have seen their stock-based compensation fluctuate wildly amid the turmoil.",
+        "The board is now tasked with finding a permanent successor capable of steering the chipmaking giant through its next chapter. As Silicon Valley insiders discuss potential internal and external contenders to fill the massive void left by Huang, Nvidia must navigate both a leadership transition and a shifting technological landscape while working to restore investor confidence."
+      ]
+    }
+  ],
+  "highlight": "The sudden leadership turmoil triggered an immediate and severe market reaction, causing the company to lose $550 billion in stock value in just five days.",
+  "timeline": [
+    {
+      "when": "2026-11-12",
+      "what": "Jensen Huang abruptly resigns as CEO of Nvidia following revelations of alleged extramarital affairs and growing political scrutiny."
+    }
+  ],
+  "tags": [
+    "Jensen Huang",
+    "Nvidia",
+    "artificial intelligence",
+    "Silicon Valley",
+    "technology"
+  ],
+  "socialSummary": "Nvidia CEO Jensen Huang steps down amid an infidelity scandal and political scrutiny, wiping billions off the AI giant's market value.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nvidia_CEO_Jensen_Huang_gestikuliert.jpg/1920px-Nvidia_CEO_Jensen_Huang_gestikuliert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "A gesticulating Nvidia CEO Jensen Huang",
+    "credit": "Maurizio Pesce / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nvidia_CEO_Jensen_Huang_gestikuliert.jpg",
+    "license": "CC BY 2.0",
+    "provider": "wikimedia",
+    "query": "Jensen Huang Nvidia CEO",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "Jensen Huang Nvidia CEO",
+    "names": [
+      "Jensen Huang",
+      "Nvidia"
+    ],
+    "subject": "technology executive speaking"
+  },
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "name": "Fortune",
+      "url": "https://fortune.com/2026/11/12/nvidia-next-ceo-the-outside-contenders-to-succeed-jensen-huang/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/12/podcasts/hardfork-jensen-huang-resigns.html"
+    },
+    {
+      "name": "The Hill",
+      "url": "https://thehill.com/homenews/analysis/6217604-nvidias-jensen-huang-resigned/"
+    }
+  ],
+  "sourceTitles": [
+    "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "Nvidia’s next CEO: The outside contenders to succeed Jensen Huang",
+    "Jensen Huang Is Out at Nvidia",
+    "5 takeaways from Nvidia’s Jensen Huang scandal"
+  ],
+  "sourceCount": 13,
+  "importance": 9,
+  "breaking": false,
+  "publishedAt": "2026-11-13T00:15:23.800Z",
+  "updatedAt": "2026-11-13T00:15:23.800Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-did-nvidia-ceo-jensen-huang-step-down-amid-a-massive-scandal.jpg"
+}
