@@ -1,25 +1,23 @@
-00:14:50 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-00:14:50 collecting videos…
-00:14:50   video feed BBC News: 15 in feed, 5 kept
-00:14:50   video feed Al Jazeera English: 15 in feed, 5 kept
-00:14:50   video feed DW News: 15 in feed, 5 kept
-00:14:50   video feed FRANCE 24 English: 15 in feed, 5 kept
-00:14:50   video feed Sky News: 15 in feed, 5 kept
-00:14:50   video feed Reuters: 15 in feed, 5 kept
-00:14:50   video feed Associated Press: 15 in feed, 5 kept
-00:14:50 videos: saved 24
-00:14:50 collecting feeds…
-00:14:56 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-00:14:56 856 new items
-00:14:57 652 candidate stories
-00:14:57 categories needing stories: technology, science, health, sports, entertainment, world, business → reserved technology
-00:14:57 writing: Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil (13 sources)
-00:14:58   source text: 4989 / 4989 / 4989 chars
-00:15:04   ✓ published: /news/nvidia-chief-executive-jensen-huang-steps-down-following-relationship/ [technology] image: wikimedia via idea "Nvidia headquarters building"
-00:15:04 writing: Israeli strike on Gaza hospital deadliest since election (8 sources)
-00:15:05   source text: 5329 / 327 / 304 / 6691 / 1787 chars
-00:15:09   too close to source wording — rewriting
-00:15:17   ✓ published: /news/six-killed-as-israeli-strike-hits-surgery-ward-at-gaza-hospital/ [world] image: wikimedia via idea "Nasser Hospital Khan Younis"
-00:15:17 writing explainer for: Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
-00:15:24   ✓ explainer: /news/why-did-nvidia-ceo-jensen-huang-step-down-amid-a-massive-scandal/
-00:15:24 done — 2 stories
+07:52:29 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+07:52:29 collecting videos…
+07:52:55   video feed BBC News failed: Status code 404
+07:53:21   video feed Al Jazeera English failed: Status code 404
+07:53:46   video feed DW News failed: Status code 404
+07:54:12   video feed FRANCE 24 English failed: Status code 404
+07:54:38   video feed Sky News failed: Status code 404
+07:54:59 videos: saved 24
+07:54:59 collecting feeds…
+07:55:04   video feed Reuters failed: Status code 404
+07:55:04 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+07:55:04 659 new items
+07:55:05 498 candidate stories
+07:55:05 categories needing stories: politics, science, health, sports, entertainment, business, world → reserved politics
+07:55:05 writing: Trump told Huang to fight for his job after affair scandals: Report (3 sources)
+07:55:06   source text: 0 / 1957 / 7000 chars
+07:55:13   ✓ published: /news/trump-urged-jensen-huang-to-fight-for-nvidia-role-amid-spy-scandal/ [politics] image: wikimedia via idea "Jensen Huang Nvidia"
+07:55:13 writing: Blue Wave Coming For Chuck Schumer? Chris Van Hollen To Challenge For Senate Majority Leadership (7 sources)
+07:55:29   source text: 3264 / 2303 / 0 / 7000 chars
+07:55:31   video feed Associated Press failed: Status code 404
+07:55:34   too close to source wording — rewriting
+07:55:42   ✓ published: /news/chris-van-hollen-challenges-chuck-schumer-for-senate-majority-leadership/ [politics] image: wikimedia via idea "Chris Van Hollen US Senate"
+07:55:42 done — 2 stories
