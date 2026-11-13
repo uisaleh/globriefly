@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories": 1793961929361,
-    "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss": 1793961929362,
-    "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss": 1793961950423,
-    "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss": 1793961950423,
-    "https://www.thehindu.com/news/international/trump-designates-oval-office-as-national-monument/article71671751.ece": 1793961950423,
-    "https://www.channelnewsasia.com/world/trump-oval-office-national-monument-white-house-6529706": 1793961950423,
-    "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html": 1793961950423,
-    "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation": 1793961950423,
-    "https://www.scmp.com/news/world/united-states-canada/article/3373469/trumps-first-move-after-midterms-ensuring-future-presidents-cant-change-his-oval-office": 1793961950423,
     "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/": 1793987732347,
     "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/": 1793987732347,
     "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested": 1793987735321,
@@ -253,11 +244,17 @@
     "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump": 1794556541085,
     "https://thehill.com/homenews/senate/6217923-van-hollen-challenges-schumer/": 1794556541085,
     "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss": 1794556541085,
-    "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader": 1794556541085
+    "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader": 1794556541085,
+    "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories": 1794586509037,
+    "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html": 1794586509037,
+    "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage": 1794586509037,
+    "https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece": 1794586532089,
+    "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-rdf": 1794586532089,
+    "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz": 1794586532089,
+    "http://www.africanews.com/2026/11/13/iran-showcases-missiles-as-military-targets-us-army-radar-in-bahrain/": 1794586532089,
+    "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran": 1794586532089
   },
   "fps": {
-    "announces-cybertruck-elon-end-factory-musk-production-shift": 1793961929362,
-    "monument-national-office-order-oval-preserve-signs-trump": 1793961950424,
     "able-alexa-amazon-shop-soon-text-you": 1793987732347,
     "abuse-arrested-charges-child-father-florida-markle-material": 1793987735321,
     "amazon-director-film-follows-melania-part-same-series": 1794006266208,
@@ -303,6 +300,8 @@
     "ceo-chipmaking-giant-hit-huang-jensen-nvidia-plunging": 1794528903465,
     "deadliest-election-gaza-hospital-israeli-since-strike": 1794528916646,
     "affair-fight-huang-job-report-scandals-told-trump": 1794556511939,
-    "blue-challenge-chris-chuck-coming-hollen-leadership-majority": 1794556541085
+    "blue-challenge-chris-chuck-coming-hollen-leadership-majority": 1794556541085,
+    "causing-day-disruption-microsoft-outage-outlook-second-stretches": 1794586509037,
+    "bahrain-iran-military-radar-struck": 1794586532089
   }
 }

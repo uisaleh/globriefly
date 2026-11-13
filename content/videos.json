@@ -1,37 +1,173 @@
 {
-  "updatedAt": "2026-11-13T07:54:59.543Z",
+  "updatedAt": "2026-11-13T16:14:47.998Z",
   "videos": [
     {
-      "id": "IM-AElHV8mQ",
-      "title": "Israeli strike hits Gaza hospital",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-13T00:00:01.000Z",
-      "description": "Israel says it has targeted a senior Hamas member in a strike on a Gaza hospital. Gaza’s Hamas-run health ministry says the strike hit the surgical wing and killed at least six people. Israel says Hamas, which orchestrat"
+      "id": "T5cN4VX-qMo",
+      "title": "UN refugee chief Barham Salih slams 'shameful' war in Sudan, urges 'political solution'",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-13T15:57:13.000Z",
+      "description": "In an interview with FRANCE 24, UN refugee chief Barham Salih called the war in Sudan \"shameful\" and urged the world to end it. With forced displacement at a record high, he warned that funding cuts are hurting people \"i"
     },
     {
-      "id": "q0vowL__iGg",
-      "title": "Market Talk: Huang scandal cloud over Nvidia 'no matter who steps in'",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-12T23:33:26.000Z",
-      "description": "Richard Reyle, chief investment officer at Questar Capital Partners, said with Nvidia now ‘exposed to lawsuits’ over the allegations against ousted CEO Jensen Huang, the company is bound to take its ‘eye off the ball’ un"
-    },
-    {
-      "id": "OUU2dzIFaNc",
-      "title": "Men between 50 and 69 should get a routine prostate cancer screening, ACA says",
+      "id": "VXaHrB_ROgE",
+      "title": "Car bombing in Russia injures an adviser to Ukraine’s ex-prime minister",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-12T23:31:39.000Z",
-      "description": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines."
+      "publishedAt": "2026-11-13T15:55:55.000Z",
+      "description": "A car bombing on Friday in Moscow badly injured an adviser to Ukraine’s former prime minister in the second such attack in as many days and part of a series linked to the conflict with Russia’s neighbor."
     },
     {
-      "id": "Q1E0ZnD_ZWk",
-      "title": "Putin shows little sign of compromise in talks with US envoys",
+      "id": "RRAU7d2U3Xk",
+      "title": "Qatar and Turkiye sign mutual defence pact",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-12T23:27:59.000Z",
-      "description": "US envoys meet Russia’s Putin in Moscow after talks in Abu Dhabi yield a major POW swap but no end to the war. Moscow resists EU involvement and repeats demands on territory, NATO and Donbas withdrawals. "
+      "publishedAt": "2026-11-13T15:52:15.000Z",
+      "description": "Qatar and Turkiye sign mutual defence pact"
+    },
+    {
+      "id": "106GOrVzYCo",
+      "title": "Is Scottish-born GTA a mirror of America?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-13T15:51:12.000Z",
+      "description": "“This is the biggest entertainment release ever”, says the BBC’s technology reporter, Laura Cress. "
+    },
+    {
+      "id": "gyN32oA9SJk",
+      "title": "Why the Russell Brand Story Could Be a Turning Point",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-13T15:50:00.000Z",
+      "description": "David Walliams has been accused of sexual misconduct, just days after fellow entertainer Russell Brand, was sentenced to more than ten years in prison after being convicted of rape and sexual assault.  "
+    },
+    {
+      "id": "e-u0qImYTBg",
+      "title": "Why has El Salvador sent 2000 troops to Haiti?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-13T15:36:14.000Z",
+      "description": "El Salvador sent 2,000 troops to Haiti, where President Nayib Bukele said four Salvadoran soldiers had gone missing as part of a UN operation. But Bukele has since hinted at a broader goal of eliminating Haiti's powerful"
+    },
+    {
+      "id": "0aVcILduKq8",
+      "title": "Kansans demand accountability after ICE raids hit local economy",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-13T13:56:09.000Z",
+      "description": "Hispanic families in southwest Kansas bore the brunt of a September immigration sweep, and now they’re calling for accountability."
+    },
+    {
+      "id": "fmVhraf97Oo",
+      "title": "Nvidia scandal: How close was ex-CEO to Trump? • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-13T15:50:40.000Z",
+      "description": "US lawmakers have called Jensen Huang to face their questions in December after the Nvidia ex-CEO quit over extramarital affairs, including one with a suspected Chinese spy. The Taiwanese-born businessman was a close inf"
+    },
+    {
+      "id": "FOPo_E8IGVA",
+      "title": "Backlash against ICE arrests helped flip southwest Kansas vote",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-13T14:00:06.000Z",
+      "description": "Residents in southwest Kansas made their voices heard at the ballot box following immigration enforcement operations in late September. \r"
+    },
+    {
+      "id": "kfofw7LeRfU",
+      "title": "Indonesia investigates alleged wiretapping of President Prabowo",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-13T15:19:57.000Z",
+      "description": "Indonesia investigates alleged wiretapping of President Prabowo, with a former police chief among four suspects arrested. Al Jazeera's Jessica Washington reports."
+    },
+    {
+      "id": "t6ByE_6ygwM",
+      "title": "Politicians Chris Philp and Zia Yusuf in heated row over immigration.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-13T15:05:05.000Z",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+    },
+    {
+      "id": "CDqwfvr7eog",
+      "title": "The world is reliant on Microsoft. This Is Why",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-13T15:02:13.000Z",
+      "description": "When Microsoft goes down, we are given a stark reminder of how much life is dependent on a handful of tech giants. "
+    },
+    {
+      "id": "TtpB_C9Da4s",
+      "title": "Microsoft outage spills across globe causing widespread disruption",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-13T15:18:34.000Z",
+      "description": "Millions of users of Microsoft products were unable to access some of the world's most popular services after an outage at the tech giant. Microsoft said it was unaware of any 'malicious activity.' DW's Pablo Foley Elias"
+    },
+    {
+      "id": "oLAudx-YdLg",
+      "title": "Market Talk: Nvidia's pain is China's gain",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-13T13:51:21.000Z",
+      "description": "Chinese AI stocks fell on concerns that Jensen Huang’s exit could further restrict access to US chips. But Joachim Klement of Panmure Liberum says China could emerge as the biggest winner, as a slowdown in US AI expansio"
+    },
+    {
+      "id": "ZUd3jYYID9c",
+      "title": "Russia strikes targets across Ukraine as Kyiv launches nearly 1,200 drones • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-13T15:46:34.000Z",
+      "description": "Russian strikes hit targets across Ukraine on Thursday, with one attack damaging a hospital. Ukraine meanwhile fired almost 1,200 drones at Russian targets overnight in one of its biggest aerial attacks since Moscow’s fu"
+    },
+    {
+      "id": "LcUHltjWLd8",
+      "title": "Timeline: The downfall of Nvidia CEO Jensen Huang",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-13T13:30:27.000Z",
+      "description": "Huang, who stepped down Thursday following reports of extramarital affairs, including with a suspected Chinese spy, was the very public face of a company that dominates the market for computer chips used to train and run"
+    },
+    {
+      "id": "MpJmhPNudLU",
+      "title": "US denies Iran destroyed American radar system in Bahrain",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-13T14:18:59.000Z",
+      "description": "The US military has denied Iranian claims that its forces destroyed an American early-warning radar system in Bahrain, saying two Iranian drones targeting the country were intercepted without causing damage."
+    },
+    {
+      "id": "Svot0o-ojlU",
+      "title": "What have you been stockpiling?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-13T14:04:28.000Z",
+      "description": ""
+    },
+    {
+      "id": "1hFrWMmPC20",
+      "title": "Mauricio Pochettino speaks after being appointed Manchester United head coach",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-13T14:51:23.000Z",
+      "description": "USMNT head coach Mauricio Pochettino holds a press conference after being appointed the job at Manchester United - where he will become the Red Devils' eighth permanent manager since Sir Alex Ferguson retired in 2013."
+    },
+    {
+      "id": "3JLnYjoRuok",
+      "title": "Is Israel dividing Berlin's Left Party?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-13T14:08:36.000Z",
+      "description": "Berlin's Left Party, Die Linke, won the most votes in the September election, promising cheaper rents and housing reforms. Now, it hopes to govern Germany's capital — potentially creating its own Zohran Mamdani moment."
+    },
+    {
+      "id": "cjGVc9n-uog",
+      "title": "🎬 How motherhood changed Hailee Steinfeld’s approach to Disney’s 'Hexed'",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-13T13:29:44.000Z",
+      "description": "\"I became a mother while making this movie,\" Hailee Steinfeld told Reuters, explaining how it shaped her understanding of her role. In \"Hexed,\" which arrives in theaters on November 25, a teenage girl discovers she has m"
     },
     {
       "id": "wn8dweCLdWo",
@@ -42,156 +178,20 @@
       "description": "François Picard is pleased to welcome Victor Casallo, Director of the Department of Philosophical and Theological Studies at Antonio Ruiz de Montoya University. Can a Pope shaped by Peru's history of political violence, "
     },
     {
-      "id": "qRm0ivlMzGE",
-      "title": "Rayner approves plans to house migrants at MoD site",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-12T22:59:42.000Z",
-      "description": "Join Gillian Joseph on The Wrap as the housing secretary, Angela Rayner, has approved plans to house 1,256 male asylum seekers at MOD Bicester in Oxfordshire, next to the village of Piddington. "
-    },
-    {
-      "id": "5nrC7tvUf8s",
-      "title": "Sunbed ads \"must not downplay skin cancer risk\"",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-12T22:30:16.000Z",
-      "description": ""
-    },
-    {
-      "id": "nFiG-LHKW2Q",
-      "title": "Voters dislike them. Removing them isn’t easy",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-12T23:02:46.000Z",
-      "description": "Voters overwhelmingly lumped Trump’s tariffs into a general frustration with higher prices. Yet removing them will be difficult – even after 2028. We look at why tariffs are so sticky, the contradictions in American opin"
-    },
-    {
-      "id": "UtMzWmaxSns",
-      "title": "Angels in the 'kill zone': Ukraine's drone medevac pilots",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-12T23:08:44.000Z",
-      "description": "Reuters documented a Ukrainian military rescue team with the 475th Separate Assault Regiment, as they piloted a Stargate hexacopter to airlift a wounded soldier out of the frontline ‘kill zone.’"
-    },
-    {
-      "id": "XFqWYWkBnW0",
-      "title": "Why are more men getting into Pilates?",
+      "id": "OUU2dzIFaNc",
+      "title": "Men between 50 and 69 should get a routine prostate cancer screening, ACA says",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-12T22:33:32.000Z",
-      "description": "From men getting humbled on the reformer to more guys signing up for classes, Pilates is drawing a growing male following. So what’s behind the shift?"
+      "publishedAt": "2026-11-12T23:31:39.000Z",
+      "description": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines."
     },
     {
-      "id": "FvC6UJfIDyU",
-      "title": "The Nvidia affair: Jensen Huang resigns after revelations about two affairs",
+      "id": "7knwL4M6Dmw",
+      "title": "China warns against fresh US chip curbs",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-12T22:25:58.000Z",
-      "description": "Nvidia CEO Jensen Huang has resigned after it was revealed he had two extramarital affairs, including one with a woman suspected by US intelligence of having links to Chinese intelligence. The programme also examines the"
-    },
-    {
-      "id": "47SVh2FR1LY",
-      "title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-12T22:12:47.000Z",
-      "description": "There are mounting concern across Europe that recent hoax threats and cyber attacks could be part of a massive hybrid warfare campaign. FRANCE 24's Sharon Gaffney speaks with Elisabeth Braw, Senior Fellow with the Atlant"
-    },
-    {
-      "id": "q0NxKEvAzm4",
-      "title": "Rape survivor's complaint about judge's 'victim blaming' remarks rejected",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-12T22:51:34.000Z",
-      "description": "A rape victim in a high-profile case says she \"feels terrible\" after a complaint her lawyer submitted about the judge was rejected. 'Jazmine', not her real name, says the judge treated the Fordingbridge teenage rapists \""
-    },
-    {
-      "id": "mWVNOQaDSco",
-      "title": "What is next for Nvidia after Jensen Hunag resigned?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-12T21:50:39.000Z",
-      "description": ""
-    },
-    {
-      "id": "PWhYtgLf30I",
-      "title": "Who will get a seat at Ukraine peace talks?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-12T22:52:46.000Z",
-      "description": "While peace talks for Ukraine are now looking likely, the European countries who have supported Kyiv are fearing they’re being sidelined while the US moves ahead. At a meeting of the European Political Community in Dubli"
-    },
-    {
-      "id": "S9gsyz6P9Es",
-      "title": "DC police say gunman barricaded himself inside apartment",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-12T18:49:09.000Z",
-      "description": "One person was killed and four others were wounded when a gunman opened fire inside a gym before barricading himself inside an apartment building in Washington, DC, police said."
-    },
-    {
-      "id": "QXgbB0X7AqI",
-      "title": "Protesters attack supporters of Nigeria's opposition with chairs in Lagos",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-12T22:13:53.000Z",
-      "description": "Suspected protesters armed with cutlasses, sticks and stones attacked supporters of Nigeria's opposition Nigeria Democratic Congress (NDC) during a town hall meeting in Lagos on Thursday, disrupting the gathering and for"
-    },
-    {
-      "id": "JpukQrN5QuQ",
-      "title": "Deadly shooting in Washington DC",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-12T21:19:16.000Z",
-      "description": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person being killed and the gunman killing himself after being surrounded by police.  "
-    },
-    {
-      "id": "dCmrG-cjInw",
-      "title": "Concentration of power & wealth: Do tech CEOs have more authority, influence than elected officials?",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-12T16:44:22.000Z",
-      "description": "The resignation of Nvidia founder Jensen Huang has thrown one of the world's most iconic technology companies into a leadership crisis, whose ripple effects extend far beyond Silicon Valley. Nvidia occupies a unique posi"
-    },
-    {
-      "id": "pkrGDqnwsLM",
-      "title": "On the flight deck of HMS Prince of Wales",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-12T18:28:14.000Z",
-      "description": "Deborah gives Defence Insiders a tour of one of the Royal Navy's most powerful aircraft carriers: The HMS Prince of Wales"
-    },
-    {
-      "id": "LmMA-lnSVv8",
-      "title": "Two children among eight killed in New York building collapse, mayor Zohran Mamdani said.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-12T21:28:37.000Z",
-      "description": ""
-    },
-    {
-      "id": "pW8QyhC2nUs",
-      "title": "“The algorithm was on our side.”",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-12T22:30:04.000Z",
-      "description": "What does it take to build a movement that can't be silenced? Serbian activist Natalija Petrović reflects on how students combined online organizing with grassroots activism to challenge the political status quo. Listen "
-    },
-    {
-      "id": "LdOrNr4Doms",
-      "title": "Gunman kills one, wounds four in busy DC neighborhood",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-12T18:48:45.000Z",
-      "description": "A gunman killed one person and wounded four others in a busy Washington, DC, neighborhood, before barricading himself in his apartment and eventually taking his own life following a standoff, according to city officials."
-    },
-    {
-      "id": "Wg0FFwCQg78",
-      "title": "NYC to inspect about 100 sites as search continues after deadly Brooklyn collapse",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-12T18:08:34.000Z",
-      "description": "New York City is launching inspections at about 100 construction sites linked to entities involved with the site next to a Brooklyn building that collapsed, Mayor Zohran Mamdani said Thursday. Eight people, including two"
+      "publishedAt": "2026-11-13T13:41:07.000Z",
+      "description": "China has warned the US against imposing additional export controls on AI chips following the scandal surrounding former Nvidia CEO, Jensen Huang. Huang resigned after he admitted to having an affair with an alleged Chin"
     }
   ]
 }

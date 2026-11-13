@@ -1,23 +1,31 @@
-07:52:29 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-07:52:29 collecting videos…
-07:52:55   video feed BBC News failed: Status code 404
-07:53:21   video feed Al Jazeera English failed: Status code 404
-07:53:46   video feed DW News failed: Status code 404
-07:54:12   video feed FRANCE 24 English failed: Status code 404
-07:54:38   video feed Sky News failed: Status code 404
-07:54:59 videos: saved 24
-07:54:59 collecting feeds…
-07:55:04   video feed Reuters failed: Status code 404
-07:55:04 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-07:55:04 659 new items
-07:55:05 498 candidate stories
-07:55:05 categories needing stories: politics, science, health, sports, entertainment, business, world → reserved politics
-07:55:05 writing: Trump told Huang to fight for his job after affair scandals: Report (3 sources)
-07:55:06   source text: 0 / 1957 / 7000 chars
-07:55:13   ✓ published: /news/trump-urged-jensen-huang-to-fight-for-nvidia-role-amid-spy-scandal/ [politics] image: wikimedia via idea "Jensen Huang Nvidia"
-07:55:13 writing: Blue Wave Coming For Chuck Schumer? Chris Van Hollen To Challenge For Senate Majority Leadership (7 sources)
-07:55:29   source text: 3264 / 2303 / 0 / 7000 chars
-07:55:31   video feed Associated Press failed: Status code 404
-07:55:34   too close to source wording — rewriting
-07:55:42   ✓ published: /news/chris-van-hollen-challenges-chuck-schumer-for-senate-majority-leadership/ [politics] image: wikimedia via idea "Chris Van Hollen US Senate"
-07:55:42 done — 2 stories
+16:14:39 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+16:14:39 collecting videos…
+16:14:39   video feed BBC News: 15 in feed, 5 kept
+16:14:39   video feed Al Jazeera English: 15 in feed, 5 kept
+16:14:39   video feed DW News: 15 in feed, 5 kept
+16:14:43   video feed FRANCE 24 English: 15 in feed, 5 kept
+16:14:43   video feed Sky News: 15 in feed, 5 kept
+16:14:47   video feed Reuters: 15 in feed, 5 kept
+16:14:47   video feed Associated Press: 15 in feed, 5 kept
+16:14:47 videos: saved 24
+16:14:47 collecting feeds…
+16:14:53 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+16:14:53 833 new items
+16:14:54 670 candidate stories
+16:14:54 categories needing stories: business, science, health, sports, entertainment, world → reserved business
+16:14:54 writing: Microsoft Outlook outage stretches into a second day, causing widespread disruption (3 sources)
+16:14:55   source text: 2159 / 0 / 7000 / 7000 chars
+16:14:57 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+16:15:24 image source error: The operation was aborted due to timeout
+16:15:26   ✓ published: /news/microsoft-outlook-and-365-services-begin-recovery-after-major-multi-day/ [business] image: wikimedia via name "Microsoft Outlook"
+16:15:26 writing: Iran says it struck U.S. military radar in Bahrain (5 sources)
+16:15:26   source text: 3643 / 2156 / 4157 chars
+16:15:33   ✓ published: /news/iran-claims-radar-attack-in-bahrain-as-us-reports-intercepting-drones/ [world] image: wikimedia via idea "Islamic Revolutionary Guard Corps missiles"
+16:15:33 done — 2 stories
