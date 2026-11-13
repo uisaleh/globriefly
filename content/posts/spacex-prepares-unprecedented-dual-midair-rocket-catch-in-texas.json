@@ -106,6 +106,9 @@
   "publishedAt": "2026-11-13T22:33:57.883Z",
   "updatedAt": "2026-11-13T22:33:57.883Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174439620681745",
+    "sharedAt": "2026-11-13T22:37:14.334Z"
+  },
   "ogImage": "/og/spacex-prepares-unprecedented-dual-midair-rocket-catch-in-texas.jpg"
 }

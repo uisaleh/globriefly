@@ -109,6 +109,9 @@
   "publishedAt": "2026-11-13T22:34:03.887Z",
   "updatedAt": "2026-11-13T22:34:03.887Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174439812681745",
+    "sharedAt": "2026-11-13T22:37:36.009Z"
+  },
   "ogImage": "/og/new-orleans-cruise-ship-collision-sparks-emergency-rescue-efforts.jpg"
 }
