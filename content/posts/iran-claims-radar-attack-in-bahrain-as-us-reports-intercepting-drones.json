@@ -109,6 +109,9 @@
   "publishedAt": "2026-11-13T16:15:32.832Z",
   "updatedAt": "2026-11-13T16:15:32.832Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174417144681745",
+    "sharedAt": "2026-11-13T16:19:07.436Z"
+  },
   "ogImage": "/og/iran-claims-radar-attack-in-bahrain-as-us-reports-intercepting-drones.jpg"
 }
