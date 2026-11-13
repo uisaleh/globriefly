@@ -107,6 +107,9 @@
   "publishedAt": "2026-11-13T00:15:23.800Z",
   "updatedAt": "2026-11-13T00:15:23.800Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174362826681745",
+    "sharedAt": "2026-11-13T00:19:22.170Z"
+  },
   "ogImage": "/og/why-did-nvidia-ceo-jensen-huang-step-down-amid-a-massive-scandal.jpg"
 }
