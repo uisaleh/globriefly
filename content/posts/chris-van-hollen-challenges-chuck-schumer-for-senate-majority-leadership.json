@@ -110,6 +110,9 @@
   "publishedAt": "2026-11-13T07:55:41.625Z",
   "updatedAt": "2026-11-13T07:55:41.625Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174386856681745",
+    "sharedAt": "2026-11-13T07:59:16.785Z"
+  },
   "ogImage": "/og/chris-van-hollen-challenges-chuck-schumer-for-senate-majority-leadership.jpg"
 }
