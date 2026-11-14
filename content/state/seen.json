@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html": 1794068589039,
-    "https://www.thehindu.com/news/international/italian-foreign-minister-says-pro-russian-hackers-targeted-him-over-ukraine-support/article71678639.ece": 1794068608981,
-    "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf": 1794068608981,
-    "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss": 1794068608981,
-    "https://abcnews.com/International/wireStory/italys-meloni-blames-pro-russian-hackers-leak-foreign-137937793": 1794068608981,
     "https://medicalxpress.com/news/2026-11-potential-driver-severe-early-onset.html": 1794084662257,
     "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white": 1794084676964,
     "https://deadline.com/2026/11/dana-white-donald-trump-1237216350/": 1794084676964,
@@ -256,11 +251,15 @@
     "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss": 1794655518629,
     "https://www.france24.com/en/live-news/20261114-trump-xi-putin-to-hold-historic-meeting-in-china-white-house-1": 1794655518629,
     "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece": 1794655518629,
-    "https://www.thehindu.com/news/international/donald-trump-to-raise-nuclear-arms-cuts-with-putin-xi-on-november-19-white-house-says/article71700773.ece": 1794655518629
+    "https://www.thehindu.com/news/international/donald-trump-to-raise-nuclear-arms-cuts-with-putin-xi-on-november-19-white-house-says/article71700773.ece": 1794655518629,
+    "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories": 1794679031760,
+    "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html": 1794679044876,
+    "https://abcnews.com/International/wireStory/south-sudan-postpones-national-elections-february-2027-138138151": 1794679044876,
+    "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss": 1794679044876,
+    "https://www.thehindu.com/news/international/south-sudan-postpones-first-national-elections-until-february/article71701304.ece": 1794679044876,
+    "http://www.africanews.com/2026/11/14/south-sudanese-start-registering-to-vote-ahead-of-first-national-elections/": 1794679044877
   },
   "fps": {
-    "ahead-congress-healthcare-makeup-prognosis-stocks-uncertain-why": 1794068589039,
-    "foreign-hackers-him-italian-minister-pro-russian-support": 1794068608981,
     "driver-early-identified-onset-potential-preeclampsia-severe": 1794084662257,
     "chief-dana-fighter-offers-press-role-secretary-trump": 1794084676964,
     "day-match": 1794097916946,
@@ -304,6 +303,7 @@
     "another-bugs-easy-finding-fixing-linux-need-now": 1794625843882,
     "faa-flights-ground-halt-lifts-live-nationwide-offs": 1794625857203,
     "alaska-democrat-governor-jonathan-kreiss-race-replaces-republican": 1794655511591,
-    "hold-house-meeting-putin-trump-unprecedented-white": 1794655518629
+    "hold-house-meeting-putin-trump-unprecedented-white": 1794655518629,
+    "delayed-election-first-national-south-sudan": 1794679044877
   }
 }

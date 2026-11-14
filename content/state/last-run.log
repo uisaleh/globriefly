@@ -1,22 +1,23 @@
-11:24:46 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-11:24:46 collecting videos…
-11:24:46   video feed BBC News: 15 in feed, 5 kept
-11:24:46   video feed Al Jazeera English: 15 in feed, 5 kept
-11:24:47   video feed DW News: 15 in feed, 5 kept
-11:24:47   video feed FRANCE 24 English: 15 in feed, 5 kept
-11:24:47   video feed Sky News: 15 in feed, 5 kept
-11:24:47   video feed Reuters: 15 in feed, 5 kept
-11:24:47   video feed Associated Press: 15 in feed, 5 kept
-11:24:47 videos: saved 24
-11:24:47 collecting feeds…
-11:24:50 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-11:24:50 493 new items
-11:24:51 360 candidate stories
-11:24:51 categories needing stories: politics, health, sports, entertainment, business, world → reserved politics
-11:24:51 writing: Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican (3 sources)
-11:25:06   source text: 0 / 0 / 0 chars
-11:25:12   ✓ published: /news/democrat-wins-alaska-governorship-in-historic-political-shift/ [politics] image: wikimedia via idea "Alaska state capitol building"
-11:25:12 writing: Trump, Xi and Putin to hold unprecedented meeting, White House says (4 sources)
-11:25:13   source text: 0 / 3508 / 3206 / 6428 chars
-11:25:25   ✓ published: /news/trump-xi-and-putin-to-hold-unprecedented-joint-meeting-in-china/ [world] image: openverse via idea "Shenzhen China skyline"
-11:25:25 done — 2 stories
+17:57:03 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+17:57:03 collecting videos…
+17:57:03   video feed BBC News: 15 in feed, 5 kept
+17:57:03   video feed Al Jazeera English: 15 in feed, 5 kept
+17:57:03   video feed DW News: 15 in feed, 5 kept
+17:57:04   video feed FRANCE 24 English: 15 in feed, 5 kept
+17:57:04   video feed Sky News: 15 in feed, 5 kept
+17:57:04   video feed Reuters: 15 in feed, 5 kept
+17:57:04   video feed Associated Press: 15 in feed, 5 kept
+17:57:04 videos: saved 24
+17:57:04 collecting feeds…
+17:57:10 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+17:57:10 615 new items
+17:57:11 468 candidate stories
+17:57:11 categories needing stories: business, health, sports, entertainment, politics, world → reserved business
+17:57:11 writing: The trillion-dollar mistake corporate America is making about retirement (1 sources)
+17:57:11   source text: 0 chars
+17:57:11   skipped: only paywalled sources, not enough readable text
+17:57:11 writing: South Sudan’s National Election, Its First, Will Be Delayed (5 sources)
+17:57:12   source text: 3700 / 3183 / 2140 chars
+17:57:18   too close to source wording — rewriting
+17:57:35   ✓ published: /news/south-sudan-delays-inaugural-national-elections-once-more-to-early-next/ [world] image: wikimedia via name "South Sudan"
+17:57:35 done — 1 stories
