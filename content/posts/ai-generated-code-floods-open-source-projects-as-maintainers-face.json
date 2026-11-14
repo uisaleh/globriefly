@@ -97,6 +97,9 @@
   "publishedAt": "2026-11-14T03:10:47.098Z",
   "updatedAt": "2026-11-14T03:10:47.098Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174488778681745",
+    "sharedAt": "2026-11-14T03:14:19.281Z"
+  },
   "ogImage": "/og/ai-generated-code-floods-open-source-projects-as-maintainers-face.jpg"
 }
