@@ -1,12 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss": 1794045509940,
-    "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis": 1794045517466,
-    "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss": 1794045517466,
-    "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts": 1794045517466,
-    "https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536": 1794045517466,
-    "https://www.scmp.com/news/world/americas/article/3373623/paraguays-president-pena-impeached-over-ueno-banking-crisis-placed-under-house-arrest": 1794045517466,
-    "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf": 1794045517466,
     "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html": 1794068589039,
     "https://www.thehindu.com/news/international/italian-foreign-minister-says-pro-russian-hackers-targeted-him-over-ukraine-support/article71678639.ece": 1794068608981,
     "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf": 1794068608981,
@@ -255,11 +248,17 @@
     "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/": 1794625857203,
     "https://www.channelnewsasia.com/world/us-lift-nationwide-ground-stop-flights-travel-chaos-6551041": 1794625857203,
     "https://www.scmp.com/news/world/united-states-canada/article/3374411/flights-stopped-across-us-due-extraordinary-circumstances-faa-says": 1794625857203,
-    "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss": 1794625857203
+    "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss": 1794625857203,
+    "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins": 1794655511591,
+    "https://www.politico.com/news/2026/11/14/jonathan-kreiss-tomkins-wins-alaska-governor-01166573": 1794655511591,
+    "https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/": 1794655511591,
+    "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124": 1794655518629,
+    "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss": 1794655518629,
+    "https://www.france24.com/en/live-news/20261114-trump-xi-putin-to-hold-historic-meeting-in-china-white-house-1": 1794655518629,
+    "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece": 1794655518629,
+    "https://www.thehindu.com/news/international/donald-trump-to-raise-nuclear-arms-cuts-with-putin-xi-on-november-19-white-house-says/article71700773.ece": 1794655518629
   },
   "fps": {
-    "begins-forest-restoration-wildfire-work": 1794045509940,
-    "arrest-bank-collapse-house-ousted-paraguay-places-president": 1794045517466,
     "ahead-congress-healthcare-makeup-prognosis-stocks-uncertain-why": 1794068589039,
     "foreign-hackers-him-italian-minister-pro-russian-support": 1794068608981,
     "driver-early-identified-onset-potential-preeclampsia-severe": 1794084662257,
@@ -303,6 +302,8 @@
     "attempt-catch-double-huge-rocket-spacex-starship": 1794609237344,
     "here-latest": 1794609243249,
     "another-bugs-easy-finding-fixing-linux-need-now": 1794625843882,
-    "faa-flights-ground-halt-lifts-live-nationwide-offs": 1794625857203
+    "faa-flights-ground-halt-lifts-live-nationwide-offs": 1794625857203,
+    "alaska-democrat-governor-jonathan-kreiss-race-replaces-republican": 1794655511591,
+    "hold-house-meeting-putin-trump-unprecedented-white": 1794655518629
   }
 }

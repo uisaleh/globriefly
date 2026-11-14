@@ -1,25 +1,22 @@
-03:08:06 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-03:08:06 collecting videos…
-03:08:33   video feed BBC News failed: Status code 404
-03:08:59   video feed Al Jazeera English failed: Status code 404
-03:09:07   video feed DW News: 15 in feed, 5 kept
-03:09:33   video feed FRANCE 24 English failed: Status code 404
-03:09:59   video feed Sky News failed: Status code 404
-03:10:26   video feed Reuters failed: Status code 404
-03:10:29   video feed Associated Press: 15 in feed, 5 kept
-03:10:29 videos: saved 24
-03:10:29 collecting feeds…
-03:10:36 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-03:10:36 697 new items
-03:10:37 530 candidate stories
-03:10:37 categories needing stories: technology, health, sports, entertainment, business, world → reserved technology
-03:10:37 writing: ‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story (2 sources)
-03:10:38   source text: 4393 / 3900 chars
-03:10:50   ✓ published: /news/ai-generated-code-floods-open-source-projects-as-maintainers-face/ [technology] image: wikimedia via name "Linux"
-03:10:50 writing: U.S. FAA ground stop LIVE updates: Flights resume as FAA lifts nationwide halt to take-offs (10 sources)
-03:10:51   source text: 7000 / 310 / 7000 / 4170 chars
-03:10:57 writer returned unusable output: { "headline": "U.S. air travel resumes after rare nationwide ground stop caused by outdated tech", "standfirst": "The United States lifted a nationwide airp
-03:10:57   skipped
-03:10:57 writing explainer for: ‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story
-03:11:06   ✓ explainer: /news/why-are-ai-generated-bug-reports-overwhelming-software-developers/
-03:11:06 done — 1 stories
+11:24:46 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+11:24:46 collecting videos…
+11:24:46   video feed BBC News: 15 in feed, 5 kept
+11:24:46   video feed Al Jazeera English: 15 in feed, 5 kept
+11:24:47   video feed DW News: 15 in feed, 5 kept
+11:24:47   video feed FRANCE 24 English: 15 in feed, 5 kept
+11:24:47   video feed Sky News: 15 in feed, 5 kept
+11:24:47   video feed Reuters: 15 in feed, 5 kept
+11:24:47   video feed Associated Press: 15 in feed, 5 kept
+11:24:47 videos: saved 24
+11:24:47 collecting feeds…
+11:24:50 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+11:24:50 493 new items
+11:24:51 360 candidate stories
+11:24:51 categories needing stories: politics, health, sports, entertainment, business, world → reserved politics
+11:24:51 writing: Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican (3 sources)
+11:25:06   source text: 0 / 0 / 0 chars
+11:25:12   ✓ published: /news/democrat-wins-alaska-governorship-in-historic-political-shift/ [politics] image: wikimedia via idea "Alaska state capitol building"
+11:25:12 writing: Trump, Xi and Putin to hold unprecedented meeting, White House says (4 sources)
+11:25:13   source text: 0 / 3508 / 3206 / 6428 chars
+11:25:25   ✓ published: /news/trump-xi-and-putin-to-hold-unprecedented-joint-meeting-in-china/ [world] image: openverse via idea "Shenzhen China skyline"
+11:25:25 done — 2 stories
