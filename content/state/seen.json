@@ -1,18 +1,5 @@
 {
   "urls": {
-    "https://medicalxpress.com/news/2026-11-potential-driver-severe-early-onset.html": 1794084662257,
-    "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white": 1794084676964,
-    "https://deadline.com/2026/11/dana-white-donald-trump-1237216350/": 1794084676964,
-    "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html": 1794084676964,
-    "https://www.thehindu.com/news/international/trump-says-he-wants-ufc-chief-dana-white-for-white-house-press-secretary/article71679478.ece": 1794084676964,
-    "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html": 1794084676964,
-    "https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/": 1794084676964,
-    "https://variety.com/2026/biz/news/trump-press-secretary-ufc-dana-white-1236942110/": 1794084676964,
-    "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss": 1794084676964,
-    "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf": 1794084676964,
-    "https://www.scmp.com/news/world/united-states-canada/article/3373670/trump-asks-ufc-chief-dana-white-be-his-new-press-secretary-please-take-job": 1794084676964,
-    "https://timesofindia.indiatimes.com/world/us/who-is-ufc-boss-dana-white-who-gets-surprising-offer-from-donald-trump-to-be-white-house-press-secretary/articleshow/135645732.cms": 1794084676964,
-    "https://thehill.com/homenews/administration/6206117-trump-says-he-offered-white-house-press-secretary-job-to-dana-white/": 1794084676964,
     "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss": 1794097916946,
     "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html": 1794097916946,
     "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026": 1794097916946,
@@ -257,11 +244,16 @@
     "https://abcnews.com/International/wireStory/south-sudan-postpones-national-elections-february-2027-138138151": 1794679044876,
     "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss": 1794679044876,
     "https://www.thehindu.com/news/international/south-sudan-postpones-first-national-elections-until-february/article71701304.ece": 1794679044876,
-    "http://www.africanews.com/2026/11/14/south-sudanese-start-registering-to-vote-ahead-of-first-national-elections/": 1794679044877
+    "http://www.africanews.com/2026/11/14/south-sudanese-start-registering-to-vote-ahead-of-first-national-elections/": 1794679044877,
+    "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html": 1794694703063,
+    "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss": 1794694703063,
+    "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss": 1794694768919,
+    "https://www.scmp.com/news/world/europe/article/3374450/zelensky-says-us-floated-idea-ukraine-ceding-donbas-nato-membership": 1794694768919,
+    "https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188": 1794694768919,
+    "https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794694768919,
+    "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy": 1794694768919
   },
   "fps": {
-    "driver-early-identified-onset-potential-preeclampsia-severe": 1794084662257,
-    "chief-dana-fighter-offers-press-role-secretary-trump": 1794084676964,
     "day-match": 1794097916946,
     "chosen-eisenkot-form-government-israel-netanyahu-next": 1794097938010,
     "across-apple-devices-easier-music-syncing-think-you": 1794122260884,
@@ -304,6 +296,8 @@
     "faa-flights-ground-halt-lifts-live-nationwide-offs": 1794625857203,
     "alaska-democrat-governor-jonathan-kreiss-race-replaces-republican": 1794655511591,
     "hold-house-meeting-putin-trump-unprecedented-white": 1794655518629,
-    "delayed-election-first-national-south-sudan": 1794679044877
+    "delayed-election-first-national-south-sudan": 1794679044877,
+    "contractor-dot-duffy-followed-ground-l3harris-nationwide-stop": 1794694703063,
+    "ceding-donbas-floated-has-membership-nato-ukraine-zelensky": 1794694768919
   }
 }
