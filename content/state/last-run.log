@@ -1,23 +1,25 @@
-22:33:30 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-22:33:30 collecting videos…
-22:33:30   video feed BBC News: 15 in feed, 5 kept
-22:33:30   video feed Al Jazeera English: 15 in feed, 5 kept
-22:33:38   video feed DW News: 15 in feed, 5 kept
-22:33:38   video feed FRANCE 24 English: 15 in feed, 5 kept
-22:33:38   video feed Sky News: 15 in feed, 5 kept
-22:33:38   video feed Reuters: 15 in feed, 5 kept
-22:33:38   video feed Associated Press: 15 in feed, 5 kept
-22:33:38 videos: saved 24
-22:33:38 collecting feeds…
-22:33:43 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-22:33:43 800 new items
-22:33:45 619 candidate stories
-22:33:45 categories needing stories: science, health, sports, entertainment, business, world → reserved science
-22:33:45 writing: SpaceX to attempt double catch of huge Starship rocket (3 sources)
-22:33:45   source text: 2717 / 2717 / 2717 chars
-22:33:51   too close to source wording — rewriting
-22:33:58   ✓ published: /news/spacex-prepares-unprecedented-dual-midair-rocket-catch-in-texas/ [science] image: wikimedia via idea "SpaceX Starship rocket Starbase"
-22:33:58 writing: Here’s the latest. (12 sources)
-22:33:59   source text: 7000 / 7000 / 1660 chars
-22:34:04   ✓ published: /news/new-orleans-cruise-ship-collision-sparks-emergency-rescue-efforts/ [world] image: wikimedia via idea "Mississippi River New Orleans bridge"
-22:34:04 done — 2 stories
+03:08:06 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+03:08:06 collecting videos…
+03:08:33   video feed BBC News failed: Status code 404
+03:08:59   video feed Al Jazeera English failed: Status code 404
+03:09:07   video feed DW News: 15 in feed, 5 kept
+03:09:33   video feed FRANCE 24 English failed: Status code 404
+03:09:59   video feed Sky News failed: Status code 404
+03:10:26   video feed Reuters failed: Status code 404
+03:10:29   video feed Associated Press: 15 in feed, 5 kept
+03:10:29 videos: saved 24
+03:10:29 collecting feeds…
+03:10:36 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+03:10:36 697 new items
+03:10:37 530 candidate stories
+03:10:37 categories needing stories: technology, health, sports, entertainment, business, world → reserved technology
+03:10:37 writing: ‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story (2 sources)
+03:10:38   source text: 4393 / 3900 chars
+03:10:50   ✓ published: /news/ai-generated-code-floods-open-source-projects-as-maintainers-face/ [technology] image: wikimedia via name "Linux"
+03:10:50 writing: U.S. FAA ground stop LIVE updates: Flights resume as FAA lifts nationwide halt to take-offs (10 sources)
+03:10:51   source text: 7000 / 310 / 7000 / 4170 chars
+03:10:57 writer returned unusable output: { "headline": "U.S. air travel resumes after rare nationwide ground stop caused by outdated tech", "standfirst": "The United States lifted a nationwide airp
+03:10:57   skipped
+03:10:57 writing explainer for: ‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story
+03:11:06   ✓ explainer: /news/why-are-ai-generated-bug-reports-overwhelming-software-developers/
+03:11:06 done — 1 stories

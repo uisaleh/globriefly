@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-13T22:33:38.441Z",
+  "updatedAt": "2026-11-14T03:10:29.769Z",
   "videos": [
+    {
+      "id": "TjtEfnweRfc",
+      "title": "Air travel should recover ahead of Thanksgiving rush, Secretary Duffy says",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-14T02:47:34.000Z",
+      "description": "Transportation Secretary Sean Duffy said Friday that air travel should return to normal ahead of the Thanksgiving holiday rush, though it will take “some time” to restore full capacity following a nationwide ground stop."
+    },
+    {
+      "id": "ZkjJq6jweC0",
+      "title": "Europe wants in on Ukraine peace talks",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-14T01:30:35.000Z",
+      "description": "European are pushing for a place at future Ukraine peace talks. But after days of wrangling over who should represent Europe, the compromise is seven representatives: the EU's institutions and five member states. But the"
+    },
     {
       "id": "nRtP5JHGbtQ",
       "title": "BREAKING: All US flights grounded due to “safety and communication issues”",
@@ -8,22 +24,6 @@
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
       "publishedAt": "2026-11-13T22:13:49.000Z",
       "description": "All flights have been grounded across the US due to an air traffic control \"communication issue”. "
-    },
-    {
-      "id": "n1YFMadqs_0",
-      "title": "Protestors shout at Rep. Hakeem Jeffries\nat Democratic conference",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-13T22:05:07.000Z",
-      "description": "Protesters interrupted House Democratic leader Hakeem Jeffries as he began speaking at an event in Denver, demanding action on a Green New Deal and an arms embargo against Israel. The disruption came during the “What’s N"
-    },
-    {
-      "id": "YIYVI-ILfZc",
-      "title": "Why is everything getting hacked?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-13T22:00:13.000Z",
-      "description": "Hackers are using AI to widen the scope of their attacks to include shop fridges, shipping logistics,  bloodbanks and other crucial infrastructure. What, if anything can we do to protect ourselves? And do hackers still n"
     },
     {
       "id": "T612lPtqe8U",
@@ -58,6 +58,22 @@
       "description": "While this is SpaceX's latest launch in a string of more than a dozen test flights, there's more at stake this time."
     },
     {
+      "id": "VaeoXpx3Wsc",
+      "title": "Booster explosion prevents a double catch of SpaceX's Starship",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-14T02:13:31.000Z",
+      "description": "SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster fell into the Gulf of Mexico and exploded Friday, but the spacecraft still soared into orbit in its boldest test yet."
+    },
+    {
+      "id": "PHrKctUUQ9o",
+      "title": "US Federal Aviation Administration grounds all flights nationwide",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-13T23:18:00.000Z",
+      "description": "The US Federal Aviation Administration issued a nationwide ground stop on Friday due to communications problems at regional air traffic control centers. The ground stop was imposed \"due to extraordinary circumstances and"
+    },
+    {
       "id": "MWH295GmwpA",
       "title": "Nuclear watchdog for UN urges inspection of Iran nuclear site",
       "channel": "BBC News",
@@ -66,36 +82,12 @@
       "description": "The UN nuclear watchdog has said it is increasingly concerned about Iran's uranium enrichment plant at Isfahan."
     },
     {
-      "id": "VRag078yfl0",
-      "title": "NASA's Voyager 1 will be humanity's first object to reach an entire light-day from Earth",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-13T20:25:48.000Z",
-      "description": "NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth. That's a mind-blowing distance of more than 16 billion miles. (AP Video/Shelby Lum) "
-    },
-    {
-      "id": "EbwtNBDomDQ",
-      "title": "Russian strike on Zaporizhzhia apartments",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-13T21:06:02.000Z",
-      "description": "A Russian strike on a residential area in Zaporizhzhia injured at least 30 people, Ukrainian officials said. Ukrainian President Volodymyr Zelenskyy said Friday that throttled speeds on the Starshield satellite internet "
-    },
-    {
       "id": "AaNUbqoZT_A",
       "title": "OFFENSIVE LANGUAGE WARNING: Protesters disrupt Jeffries at event",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
       "publishedAt": "2026-11-13T21:37:44.000Z",
       "description": "THIS VIDEO CONTAINS LANGUAGE SOME PEOPLE MAY CONSIDER OFFENSIVE - Protesters repeatedly interrupted House Democratic Leader Hakeem Jeffries while he spoke at a post-midterms Democratic conference in Denver to debate the "
-    },
-    {
-      "id": "1vSTbVTSfSw",
-      "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-13T19:46:04.000Z",
-      "description": "On The World This Week with Gavin Lee, our panel distills the breaking news and global stories of the past 7 days into 45 minutes. "
     },
     {
       "id": "8TE1JlqqDe8",
@@ -114,6 +106,22 @@
       "description": "The Wrap with Barbara Serra will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
     },
     {
+      "id": "9uFoYg1ut90",
+      "title": "Cory Booker says it's time for Congress to 'check' Trump and 'hold him accountable'",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-14T01:55:03.000Z",
+      "description": "New Jersey Senator Cory Booker weighs in on the future of Senate leadership hours after Maryland Senator Chris Van Hollen  announced his bid for Senate majority leader, challenging the current leader, Chuck Schumer. He a"
+    },
+    {
+      "id": "YIYVI-ILfZc",
+      "title": "Why is everything getting hacked?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-13T22:00:13.000Z",
+      "description": "Hackers are using AI to widen the scope of their attacks to include shop fridges, shipping logistics,  bloodbanks and other crucial infrastructure. What, if anything can we do to protect ourselves? And do hackers still n"
+    },
+    {
       "id": "BLRsNd4FcLI",
       "title": "Download announces second EVER female-fronted headliner.",
       "channel": "BBC News",
@@ -122,36 +130,12 @@
       "description": ""
     },
     {
-      "id": "VXaHrB_ROgE",
-      "title": "Car bombing in Russia injures an adviser to Ukraine’s ex-prime minister",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-13T15:55:55.000Z",
-      "description": "A car bombing on Friday in Moscow badly injured an adviser to Ukraine’s former prime minister in the second such attack in as many days and part of a series linked to the conflict with Russia’s neighbor."
-    },
-    {
-      "id": "7Zz1ZxI9ldY",
-      "title": "Ukraine needs a Starshield alternative. Can Europe deliver?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-13T20:30:36.000Z",
-      "description": "Ukraine says renewed limits on Starshield are allowing more Russian drone attacks to get through. The service is the military-grade version of SpaceX’s Starlink satellite network, and Ukraine relies on it for battlefield"
-    },
-    {
       "id": "0aVcILduKq8",
       "title": "Kansans demand accountability after ICE raids hit local economy",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
       "publishedAt": "2026-11-13T13:56:09.000Z",
       "description": "Hispanic families in southwest Kansas bore the brunt of a September immigration sweep, and now they’re calling for accountability."
-    },
-    {
-      "id": "u-LVZcp6vD0",
-      "title": "Hurry up and wait: Europe wants a place at the table, ‘must make up its mind’ over Ukraine",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-13T18:57:28.000Z",
-      "description": "Gavin Lee is pleased to welcome Alexander Titov, Lecturer in Modern European History at Queen's University Belfast and a specialist on Russia. He's joined us to discuss high-level meetings in Abu Dhabi, Dublin and the pr"
     },
     {
       "id": "3exoFbEV3_c",
@@ -170,6 +154,22 @@
       "description": "David Walliams has been accused of sexual misconduct, just days after fellow entertainer Russell Brand, was sentenced to more than ten years in prison after being convicted of rape and sexual assault.  "
     },
     {
+      "id": "rBFP9gjmqVY",
+      "title": "Mullin says there is no indication that the FAA ground stop was an attack",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-14T00:42:36.000Z",
+      "description": "The U.S. Secretary of Homeland Security Markwayne Mullin said there are no indications of an attack against the nation, after the Federal Aviation Administration grounded all flights nationwide Friday afternoon due to co"
+    },
+    {
+      "id": "EbwtNBDomDQ",
+      "title": "Russian strike on Zaporizhzhia apartments",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-13T21:06:02.000Z",
+      "description": "A Russian strike on a residential area in Zaporizhzhia injured at least 30 people, Ukrainian officials said. Ukrainian President Volodymyr Zelenskyy said Friday that throttled speeds on the Starshield satellite internet "
+    },
+    {
       "id": "b9Qy0A38rQo",
       "title": "How a server failure brought much of the world to a standstill",
       "channel": "BBC News",
@@ -178,12 +178,12 @@
       "description": "Microsoft says it is deeply sorry for a global service outage that has disrupted millions of users, saying it is 'not related to cyber or AI/agents'."
     },
     {
-      "id": "FOPo_E8IGVA",
-      "title": "Backlash against ICE arrests helped flip southwest Kansas vote",
+      "id": "WcKM5SYgfeQ",
+      "title": "Who is Chris Van Hollen, the senator challenging Chuck Schumer to be majority leader?",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-13T14:00:06.000Z",
-      "description": "Residents in southwest Kansas made their voices heard at the ballot box following immigration enforcement operations in late September. \r"
+      "publishedAt": "2026-11-14T00:30:04.000Z",
+      "description": "Maryland Sen. Chris Van Hollen has emerged as a challenger to New York Sen. Chuck Schumer as the Democratic Party picks a Senate majority leader."
     },
     {
       "id": "0AnjtmPnjnY",
