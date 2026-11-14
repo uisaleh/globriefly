@@ -111,6 +111,9 @@
   "publishedAt": "2026-11-14T11:25:24.359Z",
   "updatedAt": "2026-11-14T11:25:24.359Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174539490681745",
+    "sharedAt": "2026-11-14T11:28:57.857Z"
+  },
   "ogImage": "/og/trump-xi-and-putin-to-hold-unprecedented-joint-meeting-in-china.jpg"
 }
