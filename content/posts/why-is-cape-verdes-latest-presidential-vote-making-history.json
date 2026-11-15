@@ -118,6 +118,9 @@
   "publishedAt": "2026-11-15T10:44:01.818Z",
   "updatedAt": "2026-11-15T10:44:01.818Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174621042681745",
+    "sharedAt": "2026-11-15T10:47:52.804Z"
+  },
   "ogImage": "/og/why-is-cape-verdes-latest-presidential-vote-making-history.jpg"
 }

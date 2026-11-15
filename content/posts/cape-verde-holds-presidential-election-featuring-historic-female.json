@@ -109,6 +109,9 @@
   "publishedAt": "2026-11-15T10:43:57.292Z",
   "updatedAt": "2026-11-15T10:43:57.292Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174620934681745",
+    "sharedAt": "2026-11-15T10:47:32.722Z"
+  },
   "ogImage": "/og/cape-verde-holds-presidential-election-featuring-historic-female.jpg"
 }
