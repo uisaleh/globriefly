@@ -1,10 +1,5 @@
 {
   "urls": {
-    "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/": 1794122260884,
-    "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-druski-impersonates-crazy-elizabeth-holmes-meta-documentary-1235654383/": 1794122276936,
-    "https://www.hollywoodreporter.com/tv/tv-news/druski-elizabeth-holmes-snl-you-can-see-everything-skit-1236750276/": 1794122276936,
-    "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/": 1794122276936,
-    "https://deadline.com/2026/11/druski-elizabeth-holmes-whiteface-dru-can-see-everything-snl-1237216571/": 1794122276936,
     "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html": 1794150362737,
     "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf": 1794150370832,
     "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss": 1794150370832,
@@ -246,11 +241,14 @@
     "\n                                                https://www.cbssports.com/ufc/news/ufc-334-best-bets-predictions-ciryl-gane-josh-hokit-amanda-nunes-kayla-harrison/\n                    ": 1794710342662,
     "\n                                                https://www.cbssports.com/betting/news/ufc-334-odds-predictions-fight-card-time-ciryl-gane-josh-hokit-picks-best-bets/\n                    ": 1794710342662,
     "https://www.rollingstone.com/tv-movies/tv-movie-news/how-to-watch-ufc-334-gane-vs-hokit-stream-free-1235658431/": 1794710342662,
-    "https://www.billboard.com/culture/product-recommendations/ufc-334-gane-vs-hokit-nov-2026-watch-mma-live-online-free-1236379461/": 1794710342662
+    "https://www.billboard.com/culture/product-recommendations/ufc-334-gane-vs-hokit-nov-2026-watch-mma-live-online-free-1236379461/": 1794710342662,
+    "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/": 1794739428200,
+    "https://timesofindia.indiatimes.com/world/rest-of-world/cape-verde-votes-in-election-that-could-deliver-first-woman-president/articleshow/135853022.cms": 1794739435062,
+    "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president": 1794739435062,
+    "https://abcnews.com/International/wireStory/cape-verde-elect-woman-president-gaining-independence-1975-138154009": 1794739435062,
+    "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece": 1794739435062
   },
   "fps": {
-    "across-apple-devices-easier-music-syncing-think-you": 1794122260884,
-    "crazy-documentary-druski-elizabeth-holmes-impersonates-meta-snl": 1794122276936,
     "black-dark-holes-large-matter-primordial-ruled-source": 1794150362737,
     "boat-killed-least-migrant-off-senegal-sinks": 1794150370832,
     "amp-blanche-counters-democrats-investigation-lawmakers-may-probe": 1794166802273,
@@ -293,6 +291,8 @@
     "contractor-dot-duffy-followed-ground-l3harris-nationwide-stop": 1794694703063,
     "ceding-donbas-floated-has-membership-nato-ukraine-zelensky": 1794694768919,
     "advent-beauty-calendars-can-cost-hundreds-money-they": 1794710320680,
-    "334-gane-highlights-hokit-live-results-ufc": 1794710342662
+    "334-gane-highlights-hokit-live-results-ufc": 1794710342662,
+    "cactuses-dry-even-getting-survive-too": 1794739428200,
+    "cape-deliver-election-first-president-verde-votes-woman": 1794739435062
   }
 }

@@ -1,0 +1,123 @@
+{
+  "slug": "why-is-cape-verdes-latest-presidential-vote-making-history",
+  "status": "published",
+  "type": "explainer",
+  "category": "world",
+  "region": "Africa",
+  "headline": "Why is Cape Verde's latest presidential vote making history?",
+  "standfirst": "Cape Verde goes to the polls in a historic presidential election that could see the island nation choose its first-ever female head of state.",
+  "keyPoints": [
+    "Voters in Cape Verde are casting ballots in a presidential election featuring six candidates.",
+    "Joana Rosa is the first woman to ever run for the presidency since independence in 1975.",
+    "She is challenging incumbent Jose Maria Neves, who is seeking a second term.",
+    "A runoff vote is scheduled for November 29 if no candidate wins an outright majority."
+  ],
+  "sections": [
+    {
+      "heading": "What is happening in Cape Verde?",
+      "paragraphs": [
+        "Citizens of Cape Verde are heading to the ballot boxes for a high-stakes presidential election. The Atlantic island nation, located off the coast of West Africa, has a population of around 500,000 people and a well-earned reputation for peaceful democratic transfers of power.",
+        "This year's election features six candidates vying for the top post. Among them is incumbent President Jose Maria Neves, who is running for a second term, and former justice minister Joana Rosa, who represents the opposition."
+      ]
+    },
+    {
+      "heading": "Why is this election historic?",
+      "paragraphs": [
+        "Joana Rosa has broken new ground by becoming the first female candidate to contest the presidency since the nation gained independence from Portugal in 1975. While women have previously served in senior cabinet positions, Cape Verde has never had a female president or prime minister.",
+        "Her candidacy challenges traditional expectations in a society that remains largely patriarchal. Analysts note that her historic run brings fresh visibility to women in national leadership, even as voters weigh deep-seated party loyalties against calls for change."
+      ]
+    },
+    {
+      "heading": "Who are the main contenders?",
+      "paragraphs": [
+        "Incumbent President Jose Maria Neves brings years of political experience to the race, having previously served a lengthy tenure as prime minister before winning the presidency in 2021. Backed by the African Party for the Independence of Cape Verde, Neves has campaigned on improving healthcare, education, housing, and job creation.",
+        "On the other side, Joana Rosa is backed by the opposition Movement for Democracy. Her campaign focuses heavily on creating better domestic opportunities to curb the steady exodus of young people seeking work abroad, as well as establishing a crucial political balance of power against the governing party."
+      ]
+    },
+    {
+      "heading": "How does the political system work?",
+      "paragraphs": [
+        "Cape Verde operates under a parliamentary-presidential system. The prime minister holds the majority of executive authority and directs government policy, whereas the president plays a more symbolic and mediating role, complete with vital veto powers over legislation.",
+        "Because nearly 77,000 citizens live abroad—largely in Portugal and the United States—overseas voters make up a significant chunk of the electorate. If no single candidate manages to secure more than fifty percent of the vote, the top two contenders will compete in a runoff election."
+      ]
+    }
+  ],
+  "highlight": "Joana Rosa has broken new ground by becoming the first female candidate to contest the presidency since the nation gained independence from Portugal in 1975.",
+  "timeline": [
+    {
+      "when": "1975",
+      "what": "Cape Verde gains independence from Portugal."
+    },
+    {
+      "when": "2021",
+      "what": "Jose Maria Neves wins the presidential election."
+    },
+    {
+      "when": "November 15, 2026",
+      "what": "Cape Verdeans head to the polls for the presidential election."
+    },
+    {
+      "when": "November 29, 2026",
+      "what": "Scheduled runoff election date if no candidate wins an outright majority."
+    }
+  ],
+  "tags": [
+    "Cape Verde",
+    "Joana Rosa",
+    "Jose Maria Neves",
+    "elections",
+    "politics"
+  ],
+  "socialSummary": "Cape Verde votes in a historic presidential election that could choose the island nation's first-ever female head of state.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Jose_Maria_Neves_profile.jpg/1920px-Jose_Maria_Neves_profile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "José Maria Neves, primeiro-ministro de Cabo Verde",
+    "credit": "Alvaro Ludgero Andrade (VOA) / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jose_Maria_Neves_profile.jpg",
+    "license": "Public domain",
+    "provider": "wikimedia",
+    "query": "Jose Maria Neves",
+    "matchedBy": "name"
+  },
+  "imageSearch": {
+    "query": "Joana Rosa Cape Verde",
+    "names": [
+      "Joana Rosa",
+      "Jose Maria Neves",
+      "Cape Verde"
+    ],
+    "subject": "voting ballot box election"
+  },
+  "sources": [
+    {
+      "name": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/cape-verde-votes-in-election-that-could-deliver-first-woman-president/articleshow/135853022.cms"
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president"
+    },
+    {
+      "name": "ABC News",
+      "url": "https://abcnews.com/International/wireStory/cape-verde-elect-woman-president-gaining-independence-1975-138154009"
+    },
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece"
+    }
+  ],
+  "sourceTitles": [
+    "Cape Verde votes in election that could deliver first woman president",
+    "Cape Verde could make election history with first female president",
+    "Cape Verde could elect first woman president since gaining independence in 1975",
+    "Cape Verde could elect first woman President since gaining independence in 1975"
+  ],
+  "sourceCount": 4,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-11-15T10:44:01.818Z",
+  "updatedAt": "2026-11-15T10:44:01.818Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-is-cape-verdes-latest-presidential-vote-making-history.jpg"
+}
