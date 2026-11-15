@@ -1,47 +1,25 @@
-22:18:07 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-22:18:07 collecting videos…
-22:18:07   video feed BBC News: 15 in feed, 5 kept
-22:18:07   video feed Al Jazeera English: 15 in feed, 5 kept
-22:18:07   video feed DW News: 15 in feed, 5 kept
-22:18:07   video feed FRANCE 24 English: 15 in feed, 5 kept
-22:18:07   video feed Sky News: 15 in feed, 5 kept
-22:18:07   video feed Reuters: 15 in feed, 5 kept
-22:18:07   video feed Associated Press: 15 in feed, 5 kept
-22:18:07 videos: saved 24
-22:18:07 collecting feeds…
-22:18:10 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-22:18:10 590 new items
-22:18:11 448 candidate stories
-22:18:11 categories needing stories: business, health, sports, entertainment, politics → reserved business
-22:18:11 writing: Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy (2 sources)
-22:18:11   source text: 5834 / 4148 chars
-22:18:12 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-22:18:23 writer returned unusable output: { "headline": "US blames contractor upgrade for massive nationwide flight ground stop", "standfirst": "A contractor upgrade to a telecommunications system c
-22:18:23   skipped
-22:18:23 writing: US has floated Ukraine ceding Donbas for Nato membership, Zelensky says (5 sources)
-22:18:23   source text: 4164 / 0 / 2119 / 0 / 2477 chars
-22:18:24 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-22:18:33 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-22:19:36   ✓ published: /news/us-negotiators-explore-donbas-territorial-trade-for-nato-membership/ [world] image: wikimedia via name "Volodymyr Zelensky"
-22:19:37 done — 1 stories
+02:35:57 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+02:35:57 collecting videos…
+02:36:23   video feed BBC News failed: Status code 404
+02:36:49   video feed Al Jazeera English failed: Status code 404
+02:37:14   video feed DW News failed: Status code 404
+02:37:40   video feed FRANCE 24 English failed: Status code 404
+02:38:06   video feed Sky News failed: Status code 404
+02:38:27 videos: saved 24
+02:38:27 collecting feeds…
+02:38:32   video feed Reuters failed: Status code 404
+02:38:34 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+02:38:34 529 new items
+02:38:34 382 candidate stories
+02:38:34 categories needing stories: business, science, health, sports, entertainment, politics → reserved business
+02:38:34 writing: Beauty advent calendars can cost hundreds - but are they value for money? (1 sources)
+02:38:35   source text: 5205 chars
+02:38:55   ✓ published: /news/shoppers-scrutinise-luxury-beauty-advent-calendars-for-genuine-value/ [business] image: none
+02:38:55 writing: LIVE UFC 334: Gane vs. Hokit Results & Highlights (4 sources)
+02:38:56   source text: 4342 / 4584 / 7000 chars
+02:38:58   video feed Associated Press failed: Status code 404
+02:39:02 writer returned unusable output: { "headline": "UFC 334 features heavyweight championship clash and women's title bouts in New York", "standfirst": "Madison Square Garden hosts UFC 334, hea
+02:39:02   skipped
+02:39:02 writing explainer for: Beauty advent calendars can cost hundreds - but are they value for money?
+02:39:05 writer returned unusable output: { "headline": "Are luxury beauty advent calendars actually worth the money?", "standfirst": "Beauty advent calendars cost upwards of £100, but savvy shopper
+02:39:05 done — 1 stories
