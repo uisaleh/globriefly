@@ -117,6 +117,9 @@
   "publishedAt": "2026-11-15T22:46:09.550Z",
   "updatedAt": "2026-11-15T22:46:09.550Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174661440681745",
+    "sharedAt": "2026-11-15T22:49:41.296Z"
+  },
   "ogImage": "/og/estonia-shuts-russian-frontier-following-foiled-drone-plant-raid.jpg"
 }
