@@ -1,11 +1,5 @@
 {
   "urls": {
-    "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html": 1794166802273,
-    "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia": 1794166824527,
-    "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says": 1794166824527,
-    "https://www.politico.eu/article/europe-will-be-represented-in-abu-dhabi-talks-on-ukraine-french-foreign-minister-jean-noel-barrot-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794166824527,
-    "https://www.thehindu.com/news/international/europe-will-be-represented-at-us-mediated-ukraine-talks-in-abu-dhabi-france/article71681017.ece": 1794166824527,
-    "https://www.channelnewsasia.com/world/europe-us-mediated-ukraine-russia-talks-abu-dhabi-6534261": 1794166824527,
     "https://thehill.com/policy/international/6206805-ukraine-nuclear-safety-threatened/": 1794181384745,
     "https://www.thehindu.com/news/international/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-external-power-supply/article71680948.ece": 1794181384745,
     "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html": 1794181391829,
@@ -246,11 +240,17 @@
     "https://sports.yahoo.com/articles/patriots-vs-lions-live-updates-134500587.html": 1794764446185,
     "https://sports.yahoo.com/articles/patriots-vs-lions-score-live-133002010.html": 1794764446185,
     "\n                                                https://www.cbssports.com/nfl/news/lions-jahmyr-gibbs-ties-nfl-record-germany-patriots/\n                    ": 1794764446185,
-    "https://www.cbsnews.com/video/photos-of-the-week-111526/": 1794764446185
+    "https://www.cbsnews.com/video/photos-of-the-week-111526/": 1794764446185,
+    "https://phys.org/news/2026-11-saudi-green-year-lakeside-reveals.html": 1794782742781,
+    "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker": 1794782768335,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss": 1794782768335,
+    "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf": 1794782768335,
+    "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss": 1794782768335,
+    "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory": 1794782768335,
+    "https://www.scmp.com/news/world/russia-central-asia/article/3374514/estonia-close-russia-border-after-sabotage-bid-foreign-minister-says": 1794782768335,
+    "https://www.politico.eu/article/estonia-accuses-russia-of-attempted-arson-attack-on-drone-maker/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794782768335
   },
   "fps": {
-    "amp-blanche-counters-democrats-investigation-lawmakers-may-probe": 1794166802273,
-    "abu-brokered-defying-dhabi-europe-join-kremlin-objections": 1794166824527,
     "final-generators-line-losing-nuclear-plant-power-switches": 1794181384745,
     "chinese-huang-investigation-jensen-nvidia-opens-relationship-spy": 1794181391829,
     "aigner-der-die-ilse": 1794204943747,
@@ -293,6 +293,8 @@
     "cactuses-dry-even-getting-survive-too": 1794739428200,
     "cape-deliver-election-first-president-verde-votes-woman": 1794739435062,
     "behind-can-cancel-contract-duffy-faa-firm-outage": 1794764439399,
-    "lions-live-nfl-patriots-week": 1794764446185
+    "lions-live-nfl-patriots-week": 1794764446185,
+    "000-125-desert-early-green-how-humans-lakeside": 1794782742781,
+    "all-attack-border-close-crossings-drone-estonia-maker": 1794782768335
   }
 }

@@ -1,22 +1,31 @@
-17:40:29 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-17:40:29 collecting videos…
-17:40:29   video feed BBC News: 15 in feed, 5 kept
-17:40:29   video feed Al Jazeera English: 15 in feed, 5 kept
-17:40:29   video feed DW News: 15 in feed, 5 kept
-17:40:29   video feed FRANCE 24 English: 15 in feed, 5 kept
-17:40:30   video feed Sky News: 15 in feed, 5 kept
-17:40:30   video feed Reuters: 15 in feed, 5 kept
-17:40:30   video feed Associated Press: 15 in feed, 5 kept
-17:40:30 videos: saved 24
-17:40:30 collecting feeds…
-17:40:33 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-17:40:33 583 new items
-17:40:34 422 candidate stories
-17:40:34 categories needing stories: politics, science, health, sports, entertainment, business, technology → reserved politics
-17:40:34 writing: Duffy says he ‘can’t cancel’ contract with firm behind FAA outage (1 sources)
-17:40:34   source text: 0 chars
-17:40:40   ✓ published: /news/sean-duffy-defends-transportation-contract-following-national-aviation/ [politics] image: wikimedia via idea "Sean Duffy US Department of Transportation"
-17:40:40 writing: NFL week 10: Patriots v Lions, and more – live (4 sources)
-17:40:41   source text: 7000 / 4706 / 4485 chars
-17:40:47   ✓ published: /news/detroit-lions-defeat-new-england-patriots-in-munich-international-nfl/ [sports] image: wikimedia via idea "Allianz Stadium Munich football"
-17:40:47 done — 2 stories
+22:45:28 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+22:45:28 collecting videos…
+22:45:28   video feed BBC News: 15 in feed, 5 kept
+22:45:28   video feed Al Jazeera English: 15 in feed, 5 kept
+22:45:28   video feed DW News: 15 in feed, 5 kept
+22:45:28   video feed FRANCE 24 English: 15 in feed, 5 kept
+22:45:28   video feed Sky News: 15 in feed, 5 kept
+22:45:28   video feed Reuters: 15 in feed, 5 kept
+22:45:28   video feed Associated Press: 15 in feed, 5 kept
+22:45:28 videos: saved 24
+22:45:28 collecting feeds…
+22:45:36 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+22:45:36 593 new items
+22:45:36 414 candidate stories
+22:45:36 categories needing stories: science, health, entertainment, politics, business, technology, sports, world → reserved science
+22:45:36 writing: When the Saudi desert was green: A 125,000-year-old lakeside reveals how early humans lived (1 sources)
+22:45:37   source text: 6784 chars
+22:45:47   ✓ published: /news/ancient-saudi-lake-yields-secrets-of-early-human-life/ [science] image: wikimedia via subject "desert archaeological excavation site"
+22:45:47 writing: Estonia to close all border crossings with Russia after attack on drone maker (6 sources)
+22:45:48   source text: 3538 / 262 / 1623 / 2654 chars
+22:45:51 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+22:46:02   too close to source wording — rewriting
+22:46:10   ✓ published: /news/estonia-shuts-russian-frontier-following-foiled-drone-plant-raid/ [world] image: wikimedia via name "Threod Systems"
+22:46:10 done — 2 stories
