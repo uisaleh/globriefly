@@ -92,6 +92,9 @@
   "publishedAt": "2026-11-15T17:40:39.831Z",
   "updatedAt": "2026-11-15T17:40:39.831Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174644892681745",
+    "sharedAt": "2026-11-15T17:43:58.516Z"
+  },
   "ogImage": "/og/sean-duffy-defends-transportation-contract-following-national-aviation.jpg"
 }
