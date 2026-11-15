@@ -1,24 +1,22 @@
-10:43:39 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-10:43:39 collecting videos…
-10:43:39   video feed BBC News: 15 in feed, 5 kept
-10:43:39   video feed Al Jazeera English: 15 in feed, 5 kept
-10:43:40   video feed DW News: 15 in feed, 5 kept
-10:43:40   video feed FRANCE 24 English: 15 in feed, 5 kept
-10:43:40   video feed Sky News: 15 in feed, 5 kept
-10:43:40   video feed Reuters: 15 in feed, 5 kept
-10:43:40   video feed Associated Press: 15 in feed, 5 kept
-10:43:40 videos: saved 24
-10:43:40 collecting feeds…
-10:43:43 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-10:43:43 452 new items
-10:43:43 353 candidate stories
-10:43:43 categories needing stories: technology, science, health, sports, entertainment, politics, business → reserved technology
-10:43:43 writing: It’s Getting Too Dry for Even Cactuses to Survive (1 sources)
-10:43:43   source text: 5767 chars
-10:43:49   ✓ published: /news/climate-change-and-intensifying-droughts-threaten-global-cactus/ [technology] image: wikimedia via idea "cactus desert landscape"
-10:43:49 writing: Cape Verde votes in election that could deliver first woman president (4 sources)
-10:43:50   source text: 2489 / 2899 / 2531 chars
-10:43:57   ✓ published: /news/cape-verde-holds-presidential-election-featuring-historic-female/ [world] image: wikimedia via name "Jose Maria Neves"
-10:43:57 writing explainer for: Cape Verde votes in election that could deliver first woman president
-10:44:02   ✓ explainer: /news/why-is-cape-verdes-latest-presidential-vote-making-history/
-10:44:02 done — 2 stories
+17:40:29 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+17:40:29 collecting videos…
+17:40:29   video feed BBC News: 15 in feed, 5 kept
+17:40:29   video feed Al Jazeera English: 15 in feed, 5 kept
+17:40:29   video feed DW News: 15 in feed, 5 kept
+17:40:29   video feed FRANCE 24 English: 15 in feed, 5 kept
+17:40:30   video feed Sky News: 15 in feed, 5 kept
+17:40:30   video feed Reuters: 15 in feed, 5 kept
+17:40:30   video feed Associated Press: 15 in feed, 5 kept
+17:40:30 videos: saved 24
+17:40:30 collecting feeds…
+17:40:33 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+17:40:33 583 new items
+17:40:34 422 candidate stories
+17:40:34 categories needing stories: politics, science, health, sports, entertainment, business, technology → reserved politics
+17:40:34 writing: Duffy says he ‘can’t cancel’ contract with firm behind FAA outage (1 sources)
+17:40:34   source text: 0 chars
+17:40:40   ✓ published: /news/sean-duffy-defends-transportation-contract-following-national-aviation/ [politics] image: wikimedia via idea "Sean Duffy US Department of Transportation"
+17:40:40 writing: NFL week 10: Patriots v Lions, and more – live (4 sources)
+17:40:41   source text: 7000 / 4706 / 4485 chars
+17:40:47   ✓ published: /news/detroit-lions-defeat-new-england-patriots-in-munich-international-nfl/ [sports] image: wikimedia via idea "Allianz Stadium Munich football"
+17:40:47 done — 2 stories

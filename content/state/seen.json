@@ -1,11 +1,5 @@
 {
   "urls": {
-    "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html": 1794150362737,
-    "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf": 1794150370832,
-    "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss": 1794150370832,
-    "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-21-dead-after-migrant-boat-sinks-off-senegals-northwestern-coast/articleshow/135659201.cms": 1794150370832,
-    "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say": 1794150370832,
-    "https://www.thehindu.com/news/international/migrant-boat-sinks-off-senegal-death-toll/article71680824.ece": 1794150370832,
     "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html": 1794166802273,
     "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia": 1794166824527,
     "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says": 1794166824527,
@@ -246,11 +240,15 @@
     "https://timesofindia.indiatimes.com/world/rest-of-world/cape-verde-votes-in-election-that-could-deliver-first-woman-president/articleshow/135853022.cms": 1794739435062,
     "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president": 1794739435062,
     "https://abcnews.com/International/wireStory/cape-verde-elect-woman-president-gaining-independence-1975-138154009": 1794739435062,
-    "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece": 1794739435062
+    "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece": 1794739435062,
+    "https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/": 1794764439399,
+    "https://www.theguardian.com/sport/live/2026/nov/15/nfl-week-10-lions-v-patriots-and-more-live": 1794764446185,
+    "https://sports.yahoo.com/articles/patriots-vs-lions-live-updates-134500587.html": 1794764446185,
+    "https://sports.yahoo.com/articles/patriots-vs-lions-score-live-133002010.html": 1794764446185,
+    "\n                                                https://www.cbssports.com/nfl/news/lions-jahmyr-gibbs-ties-nfl-record-germany-patriots/\n                    ": 1794764446185,
+    "https://www.cbsnews.com/video/photos-of-the-week-111526/": 1794764446185
   },
   "fps": {
-    "black-dark-holes-large-matter-primordial-ruled-source": 1794150362737,
-    "boat-killed-least-migrant-off-senegal-sinks": 1794150370832,
     "amp-blanche-counters-democrats-investigation-lawmakers-may-probe": 1794166802273,
     "abu-brokered-defying-dhabi-europe-join-kremlin-objections": 1794166824527,
     "final-generators-line-losing-nuclear-plant-power-switches": 1794181384745,
@@ -293,6 +291,8 @@
     "advent-beauty-calendars-can-cost-hundreds-money-they": 1794710320680,
     "334-gane-highlights-hokit-live-results-ufc": 1794710342662,
     "cactuses-dry-even-getting-survive-too": 1794739428200,
-    "cape-deliver-election-first-president-verde-votes-woman": 1794739435062
+    "cape-deliver-election-first-president-verde-votes-woman": 1794739435062,
+    "behind-can-cancel-contract-duffy-faa-firm-outage": 1794764439399,
+    "lions-live-nfl-patriots-week": 1794764446185
   }
 }
