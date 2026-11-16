@@ -104,6 +104,9 @@
   "publishedAt": "2026-11-16T20:59:20.391Z",
   "updatedAt": "2026-11-16T20:59:20.391Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174742368681745",
+    "sharedAt": "2026-11-16T21:04:01.572Z"
+  },
   "ogImage": "/og/uk-government-investigates-jailed-comedian-russell-brand-over-broadcast.jpg"
 }

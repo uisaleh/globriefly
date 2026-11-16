@@ -111,6 +111,9 @@
   "publishedAt": "2026-11-16T21:00:48.068Z",
   "updatedAt": "2026-11-16T21:00:48.068Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174742560681745",
+    "sharedAt": "2026-11-16T21:04:24.795Z"
+  },
   "ogImage": "/og/robert-pattinson-selected-to-star-as-the-next-james-bond.jpg"
 }
