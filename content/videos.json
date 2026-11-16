@@ -1,13 +1,109 @@
 {
-  "updatedAt": "2026-11-16T11:01:46.917Z",
+  "updatedAt": "2026-11-16T20:58:01.848Z",
   "videos": [
     {
-      "id": "FM2DOVn_Y88",
-      "title": "India's voter list deletion means some Muslims face deportation",
+      "id": "d77MzDg2MmQ",
+      "title": "November 17 blackout hoax: How a conspiracy theory went viral around the world • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-16T20:41:21.000Z",
+      "description": "A conspiracy theory claiming a worldwide “blackout” will hit on November 17 has spread across social media, cutting electricity, internet and banking services. The rumour stems from a routine US FEMA emergency alert test"
+    },
+    {
+      "id": "4fjLRGoPbAQ",
+      "title": "London Palestine Film Festival returns for 27th year",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-16T20:33:59.000Z",
+      "description": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen. Over the past three years, it has seen growing popularity, as more audiences turn to cinema to learn about Israel’s genoci"
+    },
+    {
+      "id": "ErpAqWX1LpY",
+      "title": "Protestors reject Trump's PAX Silica",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-16T20:30:05.000Z",
+      "description": "Trump brings his tech agenda to Manila, but demonstrators say only US interests will be served. Meanwhile, ASEAN leaders try to walk the line between wanting US tech, but keeping Beijing onside."
+    },
+    {
+      "id": "xfvxoX3G7yg",
+      "title": "Trump reacts to Huang affair allegations.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-16T20:15:18.000Z",
+      "description": ""
+    },
+    {
+      "id": "a4NuQc9jyEs",
+      "title": "Pope Leo hit by rosary as he waves to crowds in Lima",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-16T10:45:58.000Z",
-      "description": "Sahida Fakir says she was detained and deported to Bangladesh after being struck off India's revised voter rolls, whose removal of 130 million names has sparked concerns over possible effects on minority communities."
+      "publishedAt": "2026-11-16T20:11:15.000Z",
+      "description": "Pope Leo's run of successfully catching items tossed to him from crowds came to an end as what appeared to be a rosary thrown in his direction struck him near the eye as he arrived for a farewell Mass in Peru."
+    },
+    {
+      "id": "tWxT4AoVc5w",
+      "title": "Wake Forest cracks top 10 of AP Top 25 for first time in 4 years",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-16T20:02:58.000Z",
+      "description": "Wake Forest cracks the top 10, while LSU and three others fall out in this week’s AP Top 25 poll."
+    },
+    {
+      "id": "swW2jhY8DhA",
+      "title": "The Brexit question Johnson and Cameron agree on",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-16T20:00:11.000Z",
+      "description": "Watch The Cathy Newman Show from 7pm for politics, investigations, interviews and exclusives – on Sky News TV, YouTube and the Sky News app."
+    },
+    {
+      "id": "0kQgzQkHoW8",
+      "title": "Should Ukraine trade Donbas for NATO membership? • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-16T20:26:31.000Z",
+      "description": "President Volodymyr Zelensky asserting that the United States has asked him about a straight-up swap Russia gets the Donbas, the rest of Ukraine gets NATO membership, a guarantee against Moscow later having a second go a"
+    },
+    {
+      "id": "5wFk31mmdgg",
+      "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-16T20:18:41.000Z",
+      "description": "UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election. Despite Europe’s backing, French Football Federation chief Philippe Diallo faces an uphill battle in trying to unseat FI"
+    },
+    {
+      "id": "DCQDa3M8ZLk",
+      "title": "Are AI companies becoming more powerful than governments?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-16T20:08:59.000Z",
+      "description": "Jensen Huang is out as Nvidia CEO. But as Elon Musk and Donald Trump weigh in on his future, a bigger question is emerging: Have AI companies become more powerful than the governments supposed to regulate them?"
+    },
+    {
+      "id": "gmZyQy5P3Jk",
+      "title": "How big a threat is Russia to Europe?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-16T20:06:38.000Z",
+      "description": "Presenter Christian Fraser and resident analyst Mikey Kay answer your questions about the Russia Ukraine war. Post your comments and we’ll try to answer them."
+    },
+    {
+      "id": "-6odNwwiO58",
+      "title": "Warsh says AI boom brings opportunity and 'bad actors'",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-16T20:03:27.000Z",
+      "description": "Fed's Warsh said that emerging technologies will have a significant impact on the economy, but the possible scenarios range from rising growth with broadly shared gains to higher unemployment and a potential slowdown."
+    },
+    {
+      "id": "kCzK7NnOoRI",
+      "title": "Trump heads to Asia for talks with Xi and Putin and maybe Kim Jong Un",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-16T19:29:32.000Z",
+      "description": "President Donald Trump heads to Asia to regain momentum after bruising midterm setbacks at home. The agenda: a first-ever three-way summit with Xi Jinping and Vladimir Putin, a possible sit-down with Kim Jong Un, and tal"
     },
     {
       "id": "CtBuv8LpIfA",
@@ -18,12 +114,44 @@
       "description": "Coming to you live from the heart of London, Mornings brings you the day's essential stories - and drives the conversation with agenda-setting interviews."
     },
     {
-      "id": "oSwVB4TWg9k",
-      "title": "Somalia’s decades-long journey to stability",
+      "id": "mbRyn8rlCYY",
+      "title": "Verdict week in the Myanmar genocide case • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-16T09:51:55.000Z",
+      "description": "PRESS REVIEW – Monday, November 16: The international press looks ahead to a verdict that could find the state of Myanmar guilty of genocide against the Rohingya minority. In other news, French journalists lift the lid o"
+    },
+    {
+      "id": "dLyG_s7j5Dk",
+      "title": "Lebanon orphans live in fear as Israeli attacks persist",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-16T10:05:05.000Z",
-      "description": "Somalia’s State Minister for Foreign Affairs Ali Mohamed Omar says Somalia has come a long way since its government collapsed 30 years ago, plunging the country into civil war."
+      "publishedAt": "2026-11-16T20:00:12.000Z",
+      "description": "Southern Lebanon's orphaned children endure lifelong trauma as Israeli attacks persist despite a ceasefire, with no sense of safety."
+    },
+    {
+      "id": "QKco-39Zmnw",
+      "title": "El Nino and the polar vortex",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-16T19:31:50.000Z",
+      "description": "Could a change high above the North Pole affect the weather where you live? The polar vortex is breaking down earlier than ever recorded, and scientists are trying to understand why. "
+    },
+    {
+      "id": "j6XO4-u7CXM",
+      "title": "Why Israel is being urged to let more aid into Gaza by Trump's Board of Peace",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-16T20:00:00.000Z",
+      "description": "The UK, Australia, Canada and Italy have issued a joint statement urging Israel to \"allow immediate, rapid and unimpeded humanitarian access throughout Gaza\", where they say the situation on the ground is \"dire\" as winte"
+    },
+    {
+      "id": "qH3AqCeBNJ0",
+      "title": "Lindsay Clancy faces March retrial over killing of her children",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-16T19:51:29.000Z",
+      "description": "A Massachusetts judge set a second murder trial for Lindsay Clancy for March 29 after a jury ‌deadlocked in her initial trial on charges for killing her three young children at her home in 2023."
     },
     {
       "id": "S_Lc3HBVYYA",
@@ -34,60 +162,12 @@
       "description": "Dozens of mourners gathered in Jabaliya on Sunday for a mass funeral for 70 people killed during the war. The remains were recently recovered from beneath the rubble of destroyed buildings after more than a dozen familie"
     },
     {
-      "id": "mbRyn8rlCYY",
-      "title": "Verdict week in the Myanmar genocide case • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-16T09:51:55.000Z",
-      "description": "PRESS REVIEW – Monday, November 16: The international press looks ahead to a verdict that could find the state of Myanmar guilty of genocide against the Rohingya minority. In other news, French journalists lift the lid o"
-    },
-    {
-      "id": "QAQjYhiYSYY",
-      "title": "Deadly fire hits Thailand's Phuket",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-16T09:30:29.000Z",
-      "description": "Eleven people were killed and 17 others injured after a fire tore through a building near Phuket's popular Patong beach, trapping residents in thick smoke as flames spread. Authorities are investigating the cause of the "
-    },
-    {
-      "id": "8Mt51JTOFkI",
-      "title": "Why did GTA 6 take so long to be released?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-16T09:00:01.000Z",
-      "description": "Love may be a long road, but so has the road to release for Grand Theft Auto VI."
-    },
-    {
-      "id": "bzDk69IseY0",
-      "title": "Moulin Rouge can-can dancers bring holiday cheer to Paris",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-16T09:30:56.000Z",
-      "description": "Moulin Rouge can-can dancers and French Republican Guard musicians put on a show in Paris to kick off the festive illuminations in the Faubourg Saint-Honoré neighborhood."
-    },
-    {
-      "id": "7ShSXoNoOxc",
-      "title": "Burnham v Johnson and Cameron: Who wins?",
+      "id": "Or_QaCdU6bk",
+      "title": "Accuser waives anonymity to publicly accuse Russell Brand of raping her when she was 16",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-16T08:50:42.000Z",
-      "description": "Is the prime minister about to face three major battles in one week – and does he have the political capital to win them?"
-    },
-    {
-      "id": "Ut-cCqBu9og",
-      "title": "Sadiq Khan: Global North must take responsibility for climate change",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-16T09:49:12.000Z",
-      "description": "London Mayor Sadiq Khan says wealthy nations must do more to support countries in the Global South suffering the worst effects of climate change, despite contributing the least to the crisis. Speaking to Al Jazeera at th"
-    },
-    {
-      "id": "NdpDAqyhwdc",
-      "title": "Spain says nearly 2,200 migrants have reached Canary Islands in 2 days",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-16T08:20:28.000Z",
-      "description": "Nearly 2,200 migrants have arrived by boat in Spain’s Canary Islands over the past two days, Spain’s maritime rescue service said Sunday.\r"
+      "publishedAt": "2026-11-15T19:14:10.000Z",
+      "description": "A staggered age of consent law will probably be considered by the government, a senior minister has told Sky News."
     },
     {
       "id": "o48CDr2Nkns",
@@ -98,100 +178,20 @@
       "description": "In Egypt, a sexual revolution is quietly unfolding on social media. Accounts followed by tens of thousands of people, with posts attracting millions of views, are tackling a wide range of issues surrounding sexuality – f"
     },
     {
-      "id": "LxBCZpSzGb8",
-      "title": "Estonia to close Russia border after 'sabotage' attack",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-16T05:00:17.000Z",
-      "description": "Estonia will shut all border crossings with Russia from December 1. The move follows a suspected sabotage attack on a drone manufacturer, which Tallinn says was orchestrated by Russian military intelligence. "
-    },
-    {
-      "id": "Lt8w1KVrBoI",
-      "title": "Teen reunited with cat after Brooklyn building collapse.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-16T08:25:44.000Z",
-      "description": ""
-    },
-    {
-      "id": "jiQyhIM_9L8",
-      "title": "Proceed to check-in? US flight chaos seen easing",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-16T08:37:57.000Z",
-      "description": "US Transportation Secretary Sean Duffy predicted a return to normalcy after three days of air travel disruptions even as airlines scrambled to get back on schedule following a systemwide ground stop."
-    },
-    {
-      "id": "Or_QaCdU6bk",
-      "title": "Accuser waives anonymity to publicly accuse Russell Brand of raping her when she was 16",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-15T19:14:10.000Z",
-      "description": "A staggered age of consent law will probably be considered by the government, a senior minister has told Sky News."
-    },
-    {
-      "id": "VbF3psMldqo",
-      "title": "Yemen's Houthis Push Towards Aden, Threatening Key Shipping Route",
+      "id": "156eHG7Hqa0",
+      "title": "Investigate Trump or tackle living costs?",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-16T09:42:32.000Z",
-      "description": "Yemen's Houthi fighters are advancing towards Aden, as government forces lose territory in Lahj province."
+      "publishedAt": "2026-11-16T19:52:05.000Z",
+      "description": "Democrats have won control of Congress, propelled to power by voters demanding relief from the rising cost of living."
     },
     {
-      "id": "Qk06r-EUKK4",
-      "title": "AP Top 25 poll drop pushed to Monday after Ole Miss-Oklahoma postponement",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-15T18:41:41.000Z",
-      "description": "One game is changing the schedule for the AP Top 25. Here’s why this week’s poll won’t be released until Monday at 2 p.m. EST."
-    },
-    {
-      "id": "ErUFXj9YDH8",
-      "title": "Nations League: France defeat Turkey to advance to quarter-finals • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-16T07:54:15.000Z",
-      "description": "France struggled at times but defeated Turkey (2-1) in the Nations League matchday. France finished first in group A1 and qualified for the quarter-finals."
-    },
-    {
-      "id": "cs79tdkUW3I",
-      "title": "Why hundreds of thousands took to the streets of Prague",
+      "id": "9Dx3D9EZ308",
+      "title": "Houthi push toward Aden could reshape Yemen's war",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-16T03:00:20.000Z",
-      "description": "Organisers say it could be the largest demonstration since the Velvet Revolution of 1989. Hundreds of thousands gathered in Prague to oppose government plans to cut public media funding and overhaul how state broadcaster"
-    },
-    {
-      "id": "oDl0s5lcsc8",
-      "title": "Prince Harry praises war veterans on surprise visit to Ukraine.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-16T06:53:36.000Z",
-      "description": ""
-    },
-    {
-      "id": "4CfthJ7Updk",
-      "title": "US flight chaos, Starship catch, Alice in Wonderland",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-15T15:10:59.000Z",
-      "description": "The FAA says US air travel is not expected to return to normal ​schedules until late on Sunday. SpaceX's Starship returns to landing pad from orbit for the first time. World leaders are missing from the COP31 agenda. And"
-    },
-    {
-      "id": "ynJGEzBXf-8",
-      "title": "Kemi Badenoch and Laura Trott to announce plan to cut screen use in schools",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-15T11:32:06.000Z",
-      "description": "The Conservative Party leader Kemi Badenoch and shadow education secretary Laura Trott will hold a news conference to unveil the Conservatives' plan to cut screen use in schools. "
-    },
-    {
-      "id": "N15R2p6VAVc",
-      "title": "20 years of 101 East",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-16T08:57:15.000Z",
-      "description": "101 East celebrates 20 years of telling bold stories from across Asia and the Pacific, challenging perceptions, exposing injustice and giving a voice to the voiceless."
+      "publishedAt": "2026-11-16T19:04:41.000Z",
+      "description": "Houthi forces are making gains near the seat of Yemen's internationally recognized government. Middle East analyst Elisabeth Kendall explains what their advance could mean for the country's future – and for one of the wo"
     }
   ]
 }

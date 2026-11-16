@@ -1,25 +1,21 @@
-11:01:46 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-11:01:46 collecting videos…
-11:01:46   video feed BBC News: 15 in feed, 5 kept
-11:01:46   video feed Al Jazeera English: 15 in feed, 5 kept
-11:01:46   video feed DW News: 15 in feed, 5 kept
-11:01:46   video feed FRANCE 24 English: 15 in feed, 5 kept
-11:01:46   video feed Sky News: 15 in feed, 5 kept
-11:01:46   video feed Reuters: 15 in feed, 5 kept
-11:01:46   video feed Associated Press: 15 in feed, 5 kept
-11:01:46 videos: saved 24
-11:01:46 collecting feeds…
-11:01:55 feed failed: France 24 https://www.france24.com/en/rss — Status code 403
-11:01:55 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-11:01:55 602 new items
-11:01:55 466 candidate stories
-11:01:55 categories needing stories: technology, health, entertainment, politics, business, sports → reserved technology
-11:01:55 writing: ULA Vulcan rocket failure destroys 40 Amazon Leo satellites (2 sources)
-11:01:56   source text: 3437 / 4687 chars
-11:02:03   ✓ published: /news/vulcan-rocket-fails-mid-flight-destroying-forty-amazon-internet/ [technology] image: wikimedia via idea "Vulcan rocket launch pad"
-11:02:03 writing: Two mass shootings in South Africa leave 17 dead (5 sources)
-11:02:03   source text: 3084 / 1481 / 1489 chars
-11:02:05 gemini gemini-3.5-flash-lite failed (503): {
+20:58:01 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+20:58:01 collecting videos…
+20:58:01   video feed BBC News: 15 in feed, 5 kept
+20:58:01   video feed Al Jazeera English: 15 in feed, 5 kept
+20:58:01   video feed DW News: 15 in feed, 5 kept
+20:58:01   video feed FRANCE 24 English: 15 in feed, 5 kept
+20:58:01   video feed Sky News: 15 in feed, 5 kept
+20:58:01   video feed Reuters: 15 in feed, 5 kept
+20:58:01   video feed Associated Press: 15 in feed, 5 kept
+20:58:01 videos: saved 24
+20:58:01 collecting feeds…
+20:58:07 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+20:58:07 898 new items
+20:58:08 664 candidate stories
+20:58:08 categories needing stories: politics, health, sports, entertainment, business, technology → reserved politics
+20:58:08 writing: Russell Brand declares 'I am not guilty' in new statement from prison (3 sources)
+20:58:08   source text: 1833 / 7000 / 7000 chars
+20:58:15 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -27,6 +23,34 @@
   }
 }
 
-11:02:17   too close to source wording — rewriting
-11:02:21   skipped
-11:02:21 done — 1 stories
+20:58:23 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+20:59:14   too close to source wording — rewriting
+20:59:26   ✓ published: /news/uk-government-investigates-jailed-comedian-russell-brand-over-broadcast/ [politics] image: wikimedia via idea "HMP Littlehey prison Cambridgeshire"
+20:59:26 writing: Robert Pattinson Said in 2012 That He’d ‘Definitely’ Want to Be James Bond in ‘Like 20 Years’ When He’s Not So ‘Fresh-Faced’ (11 sources)
+20:59:27   source text: 2380 / 6031 / 1660 chars
+20:59:38 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+20:59:45 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+21:00:42   too close to source wording — rewriting
+21:00:48   ✓ published: /news/robert-pattinson-selected-to-star-as-the-next-james-bond/ [world] image: wikimedia via idea "Robert Pattinson"
+21:00:48 done — 2 stories
