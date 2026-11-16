@@ -1,31 +1,23 @@
-22:45:28 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-22:45:28 collecting videos…
-22:45:28   video feed BBC News: 15 in feed, 5 kept
-22:45:28   video feed Al Jazeera English: 15 in feed, 5 kept
-22:45:28   video feed DW News: 15 in feed, 5 kept
-22:45:28   video feed FRANCE 24 English: 15 in feed, 5 kept
-22:45:28   video feed Sky News: 15 in feed, 5 kept
-22:45:28   video feed Reuters: 15 in feed, 5 kept
-22:45:28   video feed Associated Press: 15 in feed, 5 kept
-22:45:28 videos: saved 24
-22:45:28 collecting feeds…
-22:45:36 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-22:45:36 593 new items
-22:45:36 414 candidate stories
-22:45:36 categories needing stories: science, health, entertainment, politics, business, technology, sports, world → reserved science
-22:45:36 writing: When the Saudi desert was green: A 125,000-year-old lakeside reveals how early humans lived (1 sources)
-22:45:37   source text: 6784 chars
-22:45:47   ✓ published: /news/ancient-saudi-lake-yields-secrets-of-early-human-life/ [science] image: wikimedia via subject "desert archaeological excavation site"
-22:45:47 writing: Estonia to close all border crossings with Russia after attack on drone maker (6 sources)
-22:45:48   source text: 3538 / 262 / 1623 / 2654 chars
-22:45:51 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-22:46:02   too close to source wording — rewriting
-22:46:10   ✓ published: /news/estonia-shuts-russian-frontier-following-foiled-drone-plant-raid/ [world] image: wikimedia via name "Threod Systems"
-22:46:10 done — 2 stories
+02:42:02 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+02:42:02 collecting videos…
+02:42:28   video feed BBC News failed: Status code 404
+02:42:54   video feed Al Jazeera English failed: Status code 404
+02:43:20   video feed DW News failed: Status code 404
+02:43:45   video feed FRANCE 24 English failed: Status code 404
+02:44:11   video feed Sky News failed: Status code 404
+02:44:33 videos: saved 24
+02:44:33 collecting feeds…
+02:44:37   video feed Reuters failed: Status code 404
+02:44:39 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+02:44:39 556 new items
+02:44:40 398 candidate stories
+02:44:40 categories needing stories: business, health, entertainment, politics, technology, sports → reserved business
+02:44:40 writing: Trump breaks silence about FAA nationwide ground stop, blames Biden administration (2 sources)
+02:44:40   source text: 1609 / 0 chars
+02:44:47   ✓ published: /news/trump-urges-congress-for-rapid-funding-after-massive-federal-aviation/ [business] image: openverse via idea "Donald Trump speaking at podium"
+02:44:47 writing: Hundreds of thousands of Czechs protest in Prague over public media funding plan (8 sources)
+02:44:48   source text: 3254 / 3077 / 2178 chars
+02:44:55   ✓ published: /news/massive-prague-protest-challenges-czech-government-media-funding/ [world] image: wikimedia via name "Andrej Babis"
+02:44:55 writing explainer for: Hundreds of thousands of Czechs protest in Prague over public media funding plan
+02:44:59   ✓ explainer: /news/why-are-hundreds-of-thousands-of-czechs-protesting-in-prague/
+02:44:59 done — 2 stories

@@ -1,18 +1,5 @@
 {
   "urls": {
-    "https://thehill.com/policy/international/6206805-ukraine-nuclear-safety-threatened/": 1794181384745,
-    "https://www.thehindu.com/news/international/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-external-power-supply/article71680948.ece": 1794181384745,
-    "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html": 1794181391829,
-    "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece": 1794181391829,
-    "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories": 1794181391829,
-    "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe": 1794181391829,
-    "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html": 1794181391829,
-    "https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html": 1794181391829,
-    "https://thehill.com/policy/technology/6206971-nvidia-investigates-jensen-huang/": 1794181391829,
-    "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/": 1794181391829,
-    "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation": 1794181391829,
-    "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/": 1794181391829,
-    "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy": 1794181391829,
     "https://www.politico.eu/podcast/berlin-playbook-podcast/die-kur-der-ilse-aigner/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794204943747,
     "https://timesofindia.indiatimes.com/world/europe/chancellor-merz-backs-ilse-aigner-as-germanys-first-female-president/articleshow/135669055.cms": 1794204943747,
     "https://www.thehindu.com/news/international/pope-leo-takes-milei-to-task-as-he-visits-divided-argentina/article71681249.ece": 1794204951895,
@@ -248,11 +235,19 @@
     "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss": 1794782768335,
     "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory": 1794782768335,
     "https://www.scmp.com/news/world/russia-central-asia/article/3374514/estonia-close-russia-border-after-sabotage-bid-foreign-minister-says": 1794782768335,
-    "https://www.politico.eu/article/estonia-accuses-russia-of-attempted-arson-attack-on-drone-maker/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794782768335
+    "https://www.politico.eu/article/estonia-accuses-russia-of-attempted-arson-attack-on-drone-maker/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794782768335,
+    "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html": 1794797085052,
+    "https://www.scmp.com/news/world/united-states-canada/article/3374509/trump-breaks-silence-us-ground-stop-demands-more-money-congress": 1794797085052,
+    "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan": 1794797092950,
+    "https://www.scmp.com/news/world/europe/article/3374518/czechs-stage-huge-rally-against-public-media-funding-overhaul": 1794797092950,
+    "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss": 1794797092950,
+    "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf": 1794797092950,
+    "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom": 1794797092950,
+    "https://www.channelnewsasia.com/world/czechs-stage-huge-rally-against-public-media-funding-overhaul-6553231": 1794797092950,
+    "https://www.thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece": 1794797092950,
+    "https://abcnews.com/International/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158812": 1794797092950
   },
   "fps": {
-    "final-generators-line-losing-nuclear-plant-power-switches": 1794181384745,
-    "chinese-huang-investigation-jensen-nvidia-opens-relationship-spy": 1794181391829,
     "aigner-der-die-ilse": 1794204943747,
     "argentina-divided-leo-milei-pope-takes-task-visits": 1794204951895,
     "climate-cop31-crisis-leaders-opens-pressure-tackle-under": 1794245170787,
@@ -295,6 +290,8 @@
     "behind-can-cancel-contract-duffy-faa-firm-outage": 1794764439399,
     "lions-live-nfl-patriots-week": 1794764446185,
     "000-125-desert-early-green-how-humans-lakeside": 1794782742781,
-    "all-attack-border-close-crossings-drone-estonia-maker": 1794782768335
+    "all-attack-border-close-crossings-drone-estonia-maker": 1794782768335,
+    "administration-biden-blames-breaks-faa-ground-nationwide-silence": 1794797085052,
+    "czechs-funding-hundreds-media-plan-prague-protest-public": 1794797092950
   }
 }

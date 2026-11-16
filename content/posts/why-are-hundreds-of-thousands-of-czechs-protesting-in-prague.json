@@ -1,0 +1,117 @@
+{
+  "slug": "why-are-hundreds-of-thousands-of-czechs-protesting-in-prague",
+  "status": "published",
+  "type": "explainer",
+  "category": "world",
+  "region": "Europe",
+  "headline": "Why are hundreds of thousands of Czechs protesting in Prague?",
+  "standfirst": "Massive crowds have filled Prague's streets to oppose a government plan to overhaul public media funding, fearing it threatens editorial independence.",
+  "keyPoints": [
+    "Hundreds of thousands of protesters gathered in Prague to oppose a media funding overhaul.",
+    "The government wants to scrap monthly broadcasting fees and fund public media through the state budget.",
+    "Critics argue the change would reduce budgets by 15% and expose broadcasters to political interference.",
+    "Prime Minister Andrej Babis insists the reform is designed to cut costs and will not impact editorial independence."
+  ],
+  "sections": [
+    {
+      "heading": "What is happening in Prague?",
+      "paragraphs": [
+        "Hundreds of thousands of people have poured into the streets of Prague, filling parks and clogging public transport in one of the largest demonstrations the country has seen in decades. Protesters traveled from all over Czechia to voice their intense opposition to a controversial government bill that would drastically alter how public television and radio are funded.",
+        "Organisers from civic groups like Million Moments for Democracy estimated that roughly 400,000 people attended the rally. Many carried signs warning against political interference and wore whimsical paper hats shaped like Vecernicek, a beloved animated character who has introduced children's bedtime stories on Czech television for generations."
+      ]
+    },
+    {
+      "heading": "Why is the government changing the funding?",
+      "paragraphs": [
+        "At the heart of the dispute is a government proposal to abolish the current monthly household broadcasting fee of 205 crowns. Instead of collecting this direct fee, the populist coalition led by billionaire Prime Minister Andrej Babis wants to move public media financing directly into the state budget.",
+        "The government insists the current funding model is outdated and argues that the change will help cut unnecessary costs while lightening the financial load on everyday citizens. Prime Minister Babis has repeatedly rejected claims of a political takeover, stating that his administration has no interest in nationalizing broadcasters or dictating their coverage."
+      ]
+    },
+    {
+      "heading": "Why are critics so worried?",
+      "paragraphs": [
+        "Despite government assurances, critics and media workers fear that relying on the state budget will leave public broadcasters vulnerable to political pressure and financial squeezing. The proposed legislation would also introduce a 15% funding cut, which broadcasters warn would cripple their operations.",
+        "Many protesters and opposition politicians have drawn alarming comparisons to Hungary, where former Prime Minister Viktor Orban built a heavily pro-government media landscape. International press freedom groups, along with domestic unions, have thrown their weight behind the protests, arguing that public media must remain financially independent to hold leaders accountable."
+      ]
+    },
+    {
+      "heading": "What happens next?",
+      "paragraphs": [
+        "The media bill has already passed its preliminary parliamentary vote, sparking mounting civil unrest that has included one-day strikes by television and radio employees. With public trust in public broadcasters remaining high despite intense political polarization, the standoff shows no signs of cooling down.",
+        "As opposition groups demand that the ruling coalition completely scrap the legislation, the protests carry deep symbolic weight. Taking place just ahead of a national holiday commemorating the Velvet Revolution of 1989, the massive turnout highlights deep public sensitivity around democratic institutions and freedom of expression."
+      ]
+    }
+  ],
+  "highlight": "An elected government has the right to govern but it does not have the right to do whatever it wants and to dismantle democratic institutions.",
+  "timeline": [
+    {
+      "when": "October 2026",
+      "what": "The Czech parliament passes the first draft of the public media funding bill."
+    },
+    {
+      "when": "November 2026",
+      "what": "Hundreds of thousands of citizens protest in Prague against the proposed media reform."
+    }
+  ],
+  "tags": [
+    "Prague",
+    "Czechia",
+    "media freedom",
+    "protest",
+    "Andrej Babis"
+  ],
+  "socialSummary": "Hundreds of thousands of Czechs have protested in Prague against government plans to alter public media funding.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Cumbre_de_Madrid_8_de_Febrero_-_Andrej_Babi%C5%A1.jpg/1920px-Cumbre_de_Madrid_8_de_Febrero_-_Andrej_Babi%C5%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Andrej Babiš in February 2025",
+    "credit": "Vox España / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Cumbre_de_Madrid_8_de_Febrero_-_Andrej_Babi%C5%A1.jpg",
+    "license": "CC0",
+    "provider": "wikimedia",
+    "query": "Andrej Babis",
+    "matchedBy": "name"
+  },
+  "imageSearch": {
+    "query": "Letna park Prague protest",
+    "names": [
+      "Prague",
+      "Andrej Babis",
+      "Czechia"
+    ],
+    "subject": "large crowd protest"
+  },
+  "sources": [
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan"
+    },
+    {
+      "name": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/europe/article/3374518/czechs-stage-huge-rally-against-public-media-funding-overhaul"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "name": "DW",
+      "url": "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf"
+    }
+  ],
+  "sourceTitles": [
+    "Hundreds of thousands of Czechs protest in Prague over public media funding plan",
+    "Czechs stage huge rally against public-media funding overhaul",
+    "Czechs rally against plan to switch funding of public media",
+    "Czechia: Scores protest against public media reform",
+    "Hundreds of thousands of Czechs protest in Prague over media freedom",
+    "Czechs stage huge rally against public-media funding overhaul"
+  ],
+  "sourceCount": 8,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-11-16T02:44:59.382Z",
+  "updatedAt": "2026-11-16T02:44:59.382Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-are-hundreds-of-thousands-of-czechs-protesting-in-prague.jpg"
+}
