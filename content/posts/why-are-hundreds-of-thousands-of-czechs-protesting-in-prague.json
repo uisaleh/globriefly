@@ -112,6 +112,9 @@
   "publishedAt": "2026-11-16T02:44:59.382Z",
   "updatedAt": "2026-11-16T02:44:59.382Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174679872681745",
+    "sharedAt": "2026-11-16T02:48:54.094Z"
+  },
   "ogImage": "/og/why-are-hundreds-of-thousands-of-czechs-protesting-in-prague.jpg"
 }
