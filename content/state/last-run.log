@@ -1,23 +1,22 @@
-13:13:09 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-13:13:09 collecting videos…
-13:13:09   video feed BBC News: 15 in feed, 5 kept
-13:13:09   video feed Al Jazeera English: 15 in feed, 5 kept
-13:13:09   video feed DW News: 15 in feed, 5 kept
-13:13:09   video feed FRANCE 24 English: 15 in feed, 5 kept
-13:13:09   video feed Sky News: 15 in feed, 5 kept
-13:13:09   video feed Reuters: 15 in feed, 5 kept
-13:13:09   video feed Associated Press: 15 in feed, 5 kept
-13:13:09 videos: saved 24
-13:13:09 collecting feeds…
-13:13:15 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-13:13:15 750 new items
-13:13:16 584 candidate stories
-13:13:16 categories needing stories: technology, science, health, sports, entertainment, world, politics → reserved technology
-13:13:16 writing: The Verge Best of 2026 (2 sources)
-13:13:16   source text: 7000 / 7000 chars
-13:13:23   ✓ published: /news/reviewers-reveal-top-gadgets-and-laptops-for-late-2026/ [technology] image: wikimedia via idea "Apple MacBook Air laptop"
-13:13:23 writing: Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea (5 sources)
-13:13:23   source text: 579 / 7000 / 1234 / 7000 chars
-13:13:28   too close to source wording — rewriting
-13:13:37   ✓ published: /news/ukraine-disables-kerch-strait-crossing-in-major-drone-and-missile/ [world] image: wikimedia via idea "Kerch Bridge damaged Crimea"
-13:13:37 done — 2 stories
+22:15:49 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+22:15:49 collecting videos…
+22:15:49   video feed BBC News: 15 in feed, 5 kept
+22:15:50   video feed Al Jazeera English: 15 in feed, 5 kept
+22:15:50   video feed DW News: 15 in feed, 5 kept
+22:15:50   video feed FRANCE 24 English: 15 in feed, 5 kept
+22:15:50   video feed Sky News: 15 in feed, 5 kept
+22:15:50   video feed Reuters: 15 in feed, 5 kept
+22:15:50   video feed Associated Press: 15 in feed, 5 kept
+22:15:50 videos: saved 24
+22:15:50 collecting feeds…
+22:15:53 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+22:15:53 937 new items
+22:15:55 746 candidate stories
+22:15:55 categories needing stories: politics, science, health, sports, entertainment, world, technology → reserved politics
+22:15:55 writing: Ukraine Talks Run Up Against Deep Enmity Between Russia and Europe (2 sources)
+22:15:55   source text: 0 / 697 chars
+22:16:06   ✓ published: /news/diplomatic-friction-surrounds-fresh-push-for-european-security-pact/ [politics] image: wikimedia via idea "peace talks diplomatic meeting"
+22:16:06 writing: U.S. officially loses its measles elimination status (8 sources)
+22:16:22   source text: 0 / 6199 / 5825 / 498 / 3956 chars
+22:16:30   ✓ published: /news/united-states-loses-measles-elimination-status-after-26-years/ [health] image: wikimedia via idea "vaccine clinic sign"
+22:16:30 done — 2 stories

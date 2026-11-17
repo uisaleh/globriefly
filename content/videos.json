@@ -1,13 +1,173 @@
 {
-  "updatedAt": "2026-11-17T13:13:09.330Z",
+  "updatedAt": "2026-11-17T22:15:50.527Z",
   "videos": [
     {
-      "id": "-T-1U9Xu8TQ",
-      "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+      "id": "VkPQuH68jVI",
+      "title": "WHO sounds the alarm on antimicrobial resistance threat • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-17T22:03:28.000Z",
+      "description": "The spread of antimicrobial resistance (AMR) is threatening modern medicine despite progress in combating drug-resistant bacteria, senior World Health Organization officials said Monday. WHO officials said countries had "
+    },
+    {
+      "id": "Wi9LEOddx-Y",
+      "title": "Jensen Huang suggests return to Nvidia",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-17T21:59:00.000Z",
+      "description": "Watch The World with Yalda Hakim for the latest global news, including former Nvidia CEO Jensen Huang acknowledging the \"serious mistakes\" behind his resignation."
+    },
+    {
+      "id": "MuT2tSl7NI0",
+      "title": "The US loses its measles-free status",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-17T21:44:18.000Z",
+      "description": "The U.S. has lost its measles-free status. The highly contagious virus has spread at the highest rate in over 30 years, mainly among the unvaccinated. (Production by Javier Arciga)"
+    },
+    {
+      "id": "UeMNsUkCiAE",
+      "title": "US aviation shutdown cause not yet determined, Duffy says",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-17T21:40:17.000Z",
+      "description": "No root cause has been determined for the router that failed on November 13, triggering an air traffic control breakdown that snarled hundreds of thousands of people's travel plans, US Transportation Secretary Sean Duffy"
+    },
+    {
+      "id": "jVmdRtGt9mQ",
+      "title": "Israeli forces push deeper into Syria, raiding villages near Damascus",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-17T21:30:22.000Z",
+      "description": "Israeli forces are expanding their military presence in Syrian territory, with raids reaching areas closer to Damascus. "
+    },
+    {
+      "id": "KpD2i6JLB9g",
+      "title": "Bangladesh garment workers clash with police",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-17T21:30:09.000Z",
+      "description": "Protesting textile workers clashed with police on the outskirts of Dhaka. The demonstrators are demanding higher wages to meet rising costs of living."
+    },
+    {
+      "id": "1ByjjL-UJRA",
+      "title": "BBC reports from Kyiv bridge hit by Russian attack.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-17T12:58:05.000Z",
-      "description": "A woman who has made allegations against Russell Brand says she finds it \"upsetting\" and \"really shocking\" he was able to claim innocence from prison, following his conviction for rape and sexual assault."
+      "publishedAt": "2026-11-17T21:15:38.000Z",
+      "description": ""
+    },
+    {
+      "id": "raW7F7mXdfk",
+      "title": "AI imagery complicates Nigeria's election prep • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-17T21:21:48.000Z",
+      "description": "In tonight's edition, concerns emerge that AI has been used to generate fake voting profiles ahead of Nigeria's high-stakes general election in January. Also, Nigeria's mining marshal heads underground to unearth some of"
+    },
+    {
+      "id": "8YWcidmqcC8",
+      "title": "Leah’s Law: Parents call for crackdown on repeat sex offenders",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-17T21:46:53.000Z",
+      "description": "Leah Croucher was 19 years old when she was murdered while walking to work in Milton Keynes. "
+    },
+    {
+      "id": "uV4PTPfhT-U",
+      "title": "Pope Leo explains why he’s open about his health",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-17T21:16:14.000Z",
+      "description": "Pope Leo XIV reflected on his American identity during an in-flight press conference on Monday, saying his directness and deep belief in democracy are part of what makes him North American."
+    },
+    {
+      "id": "VtOBRLC_kzI",
+      "title": "Africa's richest man plans to invest in Ghana's sugar and cocoa",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-17T18:07:07.000Z",
+      "description": "Nigerian billionaire Aliko Dangote has announced plans to invest in Ghana’s sugar and cocoa sectors as part of a proposed partnership with the Ghanaian government."
+    },
+    {
+      "id": "5zVc-k6dzYw",
+      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-17T21:28:08.000Z",
+      "description": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank, a move the British government says aims to protect the prospect of a two-state solution. "
+    },
+    {
+      "id": "HeCcdVcFHoM",
+      "title": "Why updating America's aging air traffic system won't be easy",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-17T21:00:17.000Z",
+      "description": "US air travel is slowly returning to normal after a nationwide shutdown, the longest ground stop in the US since 9/11. So what went so horribly wrong? Investigators are still looking at whether it was all caused by a sin"
+    },
+    {
+      "id": "Cl8sZNQedj4",
+      "title": "What happens to young people on benefits under Milburn's plan?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-17T21:00:37.000Z",
+      "description": "Alan Milburn's long awaited report into young people not in education, employment, or training - \"Neet\" - has been published."
+    },
+    {
+      "id": "2i-RWgmsfGY",
+      "title": "Major setbacks for Netanyahu ahead of vote to name new Knesset speaker • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-17T21:05:18.000Z",
+      "description": "Since suffering heavy losses in Israel’s Oct. 27 election, Prime Minister Benjamin Netanyahu's party has repeatedly claimed the vote was “stolen” by Arab-led parties, possibly with foreign assistance. Those claims appear"
+    },
+    {
+      "id": "G3lu4k9G-Mk",
+      "title": "Milburn review into youth unemployment published",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-17T13:18:08.000Z",
+      "description": "Join Anna Botting on The Wrap as Alan Milburn publishes his report into how to tackle the UK's youth unemployment crisis."
+    },
+    {
+      "id": "TaBTrhtd7_8",
+      "title": "Trump arrives in the Philippines before his meeting with Putin and Xi in China",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-17T20:56:23.000Z",
+      "description": "President Donald Trump arrived in the Philippines on Tuesday to kick off a trip to Asia. The trip is his first foreign trip after some setbacks at home, including his party's shellacking in the midterm elections. The tri"
+    },
+    {
+      "id": "LAIlTQvftWw",
+      "title": "Thousands march through Paris in cost of living protest",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-17T18:06:52.000Z",
+      "description": "Protests continued in France as thousands of demonstrators marched through the streets of Paris calling for action to deal with the rising cost of living."
+    },
+    {
+      "id": "CcCvKGq-ZWk",
+      "title": "Moment Russian military plane crashes in Siberia, killing 19",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-17T21:25:40.000Z",
+      "description": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region of southwestern Siberia, reportedly killing 19 people. The CCTV video shows the An-12 aircraft's final moments before impac"
+    },
+    {
+      "id": "a604iU6By4I",
+      "title": "Trump pushes big plans at Asia summits: Will regional leaders buy in?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-17T20:00:32.000Z",
+      "description": "US President Donald Trump is in Asia with a packed and ambitious agenda. His first stop is the Philippines where he'll attend the ASEAN summit.  Then he heads to China for the APEC meeting. Trump has his sights set on ec"
+    },
+    {
+      "id": "EoDOflVMcQA",
+      "title": "Met Police missed opportunities to stop predatory detective",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-17T20:15:19.000Z",
+      "description": "BBC Panorama can reveal the Metropolitan Police missed opportunities to stop predatory detective, Warren Arter, from sexually exploiting vulnerable victims of crime, whose cases he investigated."
     },
     {
       "id": "FWZzg6e-tkw",
@@ -16,22 +176,6 @@
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
       "publishedAt": "2026-11-17T12:54:25.000Z",
       "description": "Russia hit two major bridges in Kyiv while Ukraine struck Moscow's link to annexed Crimea for the second night in a row, officials said Tuesday, ahead of a historic meeting of Chinese, US and Russian leaders. Detals from"
-    },
-    {
-      "id": "ruT1sXB-IoE",
-      "title": "Pope Leo brushes off health concerns after intense South America tour",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-17T12:51:39.000Z",
-      "description": "Pope Leo, on a flight from Peru to Italy, laughed off concerns that his 12-day South America tour could have been too physically taxing after undergoing lung cancer surgery last month, saying God had granted him good sta"
-    },
-    {
-      "id": "ebom4BaXirM",
-      "title": "Guinea's gold mining crackdown leaves hundreds of thousands displaced",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-17T12:28:51.000Z",
-      "description": "Guinea's crackdown on illegal gold mining has forced hundreds of thousands of migrants to flee, triggering a humanitarian crisis in Mali."
     },
     {
       "id": "lBhsF4YU67c",
@@ -48,150 +192,6 @@
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
       "publishedAt": "2026-11-17T12:00:23.000Z",
       "description": "The last time the District of Columbia had a freshman delegate going through new member orientation on Capitol Hill, the Soviet Union still existed, George H.W. Bush was president. Now Robert White Jr. is stepping into t"
-    },
-    {
-      "id": "mADK1CWI_c0",
-      "title": "Is supporting Ukraine a win-win for Germany?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-17T11:00:04.000Z",
-      "description": "Is backing Ukraine in Germany's own interest? DW’s Nina Haase believes the relationship has become a win-win for both countries, while DW’s Michaela Küfner argues it’s not an easy sell to a public increasingly focused on"
-    },
-    {
-      "id": "uXEERcKXn_c",
-      "title": "Major report proposes welfare changes and tax cuts to help the UK's young people into work.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-17T12:18:29.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
-    },
-    {
-      "id": "FWez9-YXKmM",
-      "title": "La Francophonie 'waning in global influence': Linguistic institutions becoming 'less important'",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-16T22:20:27.000Z",
-      "description": "François Picard is pleased to welcome Phil Clark, professor of international politics at SOAS University of London. The diplomatic crisis between Rwanda and the Democratic Republic of Congo spilling out at the Francophon"
-    },
-    {
-      "id": "cfAcovPP48U",
-      "title": "Two trains collide in Prague, dozens injured",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-17T12:43:43.000Z",
-      "description": "Two trains collided in Prague, Czech Republic, injuring dozens of people, Prague rescue services said. Rail traffic on the affected line has been suspended and disruptions are expected to last several hours, affecting do"
-    },
-    {
-      "id": "_5t2I82UiYQ",
-      "title": "Trump addresses Quad leaders at first summit since 2024",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-17T12:23:55.000Z",
-      "description": "US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024, held on the sidelines of the ASEAN meeting in Manila. He announced new cooperation on maritime security, AI and criti"
-    },
-    {
-      "id": "NcOZ8dspkQE",
-      "title": "Landmark report on UK youth unemployment crisis",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-17T09:15:49.000Z",
-      "description": "Alan Milburn is set to deliver a short address on his final report into young people and work, followed by a Q&A. "
-    },
-    {
-      "id": "GdhjOae6aY0",
-      "title": "Some Afghan women quietly defy Taliban bans, by opening secret schools and running small businesses",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-17T10:30:36.000Z",
-      "description": "In the shadows of the Afghan capital’s bustling streets lies a hidden world: the world of women, quietly defying the draconian bans imposed when the Taliban seized power after the withdrawal of U.S.-led troops in August "
-    },
-    {
-      "id": "eoQfroUiLQk",
-      "title": "Could attacks on Ukraine's power grid trigger a nuclear disaster?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-17T10:19:42.000Z",
-      "description": "European regulators warn that a nationwide blackout could create cooling problems at several Ukrainian reactors simultaneously. How realistic is that scenario, and how well prepared are the plants?"
-    },
-    {
-      "id": "vXxO0A-3bC4",
-      "title": "Neets young people at risk of being 'lost generation', Alan Milburn says ahead of report",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-17T10:49:11.000Z",
-      "description": "A \"complete system reset\" is needed to get hundreds of thousands of young people into jobs or training, according to a former Labour minister."
-    },
-    {
-      "id": "4YK7LUDTuGM",
-      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-16T22:05:36.000Z",
-      "description": "As Europe's ​defence ministries look to limit dependency on American technology and major software company Palantir Technologies for critical military functions, a growing number of firms within the region are competing "
-    },
-    {
-      "id": "gu4D7-fZoBo",
-      "title": "Market Talk: 'Any cold snap' will make gas markets shiver",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-17T12:22:14.000Z",
-      "description": "Energy prices have been falling as shipments from the Gulf continue to recover. Aldo Spanjer of BNP Paribas told @Reuters energy supply to Europe is still very vulnerable and stocks are low, meaning cold weather could se"
-    },
-    {
-      "id": "msPJ8a4GBHg",
-      "title": "Ukrainian breaks world record for deepest competitive freedive",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-17T11:35:44.000Z",
-      "description": "Ukrainian freediver Nataliia Zharkova has broken the world record, reaching 124 metres in constant weight as she achieved the deepest competitive dive by a woman at the Blue Element competition in Dominica. Now she hopes"
-    },
-    {
-      "id": "swW2jhY8DhA",
-      "title": "The Brexit question Johnson and Cameron agree on",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-16T20:00:11.000Z",
-      "description": "Watch The Cathy Newman Show from 7pm for politics, investigations, interviews and exclusives – on Sky News TV, YouTube and the Sky News app."
-    },
-    {
-      "id": "9LkV_fPQf7I",
-      "title": "Isaac, a cat missing since the Brooklyn building collapse, has been reunited with his owner",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-17T09:15:27.000Z",
-      "description": "A cat missing since a deadly building collapse in Brooklyn has been found alive and reunited with his 13-year-old owner, Zariah Coleman, in a heartwarming moment amid the tragedy. Isaac was discovered inside a kitchen ca"
-    },
-    {
-      "id": "4GBAePgmW5Q",
-      "title": "Xi is the man in the middle hosting APEC",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-17T06:30:26.000Z",
-      "description": "The two-day, 2026 Asia-Pacific Economic Cooperation (APEC) Summit kicks off in China on November 18. DW’s Rik Glauert in Taipei offers a preview of what host, Xi Jinping, is hoping to achieve."
-    },
-    {
-      "id": "iSog3_bYIz0",
-      "title": "“Brexit hasn’t worked and Britain lost more that it gained” says Andy Burnham",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-16T23:23:35.000Z",
-      "description": "British PM Andy Burnham has said the UK has lost more than it has gained from leaving the European Union in a speech ahead of a UK-EU summit later this week."
-    },
-    {
-      "id": "n1RLsd2i4iQ",
-      "title": "Houthis release footage of destroyed government force vehicles",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-17T03:06:46.000Z",
-      "description": "Iran-allied Houthi military media released footage it said showed destroyed armored vehicles and equipment belonging to Saudi-backed Yemeni forces near the Bab el-Mandeb strait."
-    },
-    {
-      "id": "UK7RLa7IGVg",
-      "title": "From disasters to disappearances: Lucia Newman’s Al Jazeera journey",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-17T02:16:59.000Z",
-      "description": "Al Jazeera Latin America editor Lucia Newman reflects on 20 years with the network, recalling the challenges of joining a new broadcaster and the opportunity to bring deeper coverage of the region to international audien"
     }
   ]
 }
