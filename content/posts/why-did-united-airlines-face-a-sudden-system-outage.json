@@ -1,0 +1,113 @@
+{
+  "slug": "why-did-united-airlines-face-a-sudden-system-outage",
+  "status": "published",
+  "type": "explainer",
+  "category": "business",
+  "region": "Americas",
+  "headline": "Why did United Airlines face a sudden system outage?",
+  "standfirst": "United Airlines resolved a widespread technology issue that delayed departing flights, coming just days after a rare nationwide FAA ground stop.",
+  "keyPoints": [
+    "United Airlines fixed a technology issue that caused departing flight delays on Monday.",
+    "The airline stated there was no indication that the incident was a cyberattack.",
+    "The outage affected internal pilot applications, including crew communications and weight calculations.",
+    "The disruption followed a massive nationwide FAA ground stop that occurred just three days prior."
+  ],
+  "sections": [
+    {
+      "heading": "What caused the United Airlines disruption?",
+      "paragraphs": [
+        "United Airlines faced a sudden technology glitch that disrupted departing flights at the start of the week. The airline confirmed that a widespread system outage affected various internal applications, leading to departure delays while flights already in the air continued safely.",
+        "Company representatives quickly assured the public that there was no evidence pointing to a cyberattack or malicious security breach. Although the technical fault caused noticeable scheduling headaches, it was contained primarily to departing operations rather than airborne aircraft."
+      ]
+    },
+    {
+      "heading": "How did the outage affect pilots and operations?",
+      "paragraphs": [
+        "According to internal union communications, the web-based glitch knocked out several essential tools that pilots rely on right before takeoff. Most critically, the system failure prevented dispatchers from providing outbound flights with final and accurate aircraft weight calculations.",
+        "Before every takeoff, flight crews use specialized software to verify that planes can safely depart under current weather and runway conditions using precise weight data for fuel, baggage, and passengers. Without these automated checks readily available, operations faced temporary safety holds."
+      ]
+    },
+    {
+      "heading": "Are recent tech failures becoming more common?",
+      "paragraphs": [
+        "The United Airlines computer glitch arrived right on the heels of several other high-profile technology meltdowns affecting everyday consumers and major infrastructure. Just days earlier, aging equipment and routine maintenance issues triggered a rare nationwide ground stop for all US commercial flights.",
+        "In addition to the aviation sector, other major digital platforms and financial institutions recently suffered significant service interruptions, highlighting just how heavily modern transportation, banking, and communications rely on interconnected digital systems."
+      ]
+    }
+  ],
+  "highlight": "The disruption highlights how vulnerable air travel is to sudden tech failures.",
+  "timeline": [
+    {
+      "when": "November 13, 2026",
+      "what": "A massive Microsoft outage disrupts global services including Outlook and Teams."
+    },
+    {
+      "when": "November 14, 2026",
+      "what": "The Federal Aviation Administration issues a rare nationwide ground stop for US flights."
+    },
+    {
+      "when": "November 16, 2026",
+      "what": "United Airlines experiences a widespread system outage delaying departing flights."
+    }
+  ],
+  "tags": [
+    "United Airlines",
+    "aviation",
+    "technology",
+    "travel",
+    "Federal Aviation Administration"
+  ],
+  "socialSummary": "United Airlines resolves a technology outage that delayed departing flights, following a turbulent week of major tech disruptions across the US.",
+  "image": {
+    "src": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJhaXJwbGFuZV9oYW5lZGFfZXZlbmluZ19hc28taW1hZ2Uta3ljaWVsNGEuanBn.jpg",
+    "alt": "Airplane at airport gate",
+    "credit": "rawpixel / Rawpixel",
+    "creditUrl": "https://www.rawpixel.com/image/6072587/free-public-domain-cc0-photo",
+    "license": "CC0",
+    "provider": "openverse",
+    "query": "airplane at airport gate",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "airplane at airport gate",
+    "names": [
+      "United Airlines",
+      "Federal Aviation Administration"
+    ],
+    "subject": "commercial passenger airplane"
+  },
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
+    },
+    {
+      "name": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories"
+    }
+  ],
+  "sourceTitles": [
+    "United Airlines says ‘widespread’ system outage resolved",
+    "United Airlines Flights Resume After ‘Widespread System Outage’",
+    "United Airlines resolves system outage that affected departing flights",
+    "United Airlines resolves system outage that delayed flights Monday",
+    "United Airlines says system outage resolved",
+    "United Airlines resolves tech outage that delayed flights"
+  ],
+  "sourceCount": 9,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-11-17T03:46:19.803Z",
+  "updatedAt": "2026-11-17T03:46:19.803Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-did-united-airlines-face-a-sudden-system-outage.jpg"
+}

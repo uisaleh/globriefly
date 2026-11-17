@@ -1,0 +1,132 @@
+{
+  "slug": "united-airlines-fixes-technical-glitch-that-delayed-departures",
+  "status": "published",
+  "type": "news",
+  "category": "business",
+  "region": "Americas",
+  "headline": "United Airlines fixes technical glitch that delayed departures",
+  "standfirst": "United Airlines has resolved a system outage that disrupted flight departures across the carrier.",
+  "keyPoints": [
+    "United Airlines resolved a widespread system outage on Monday.",
+    "The technical issue delayed flight departures but did not affect airborne planes.",
+    "Officials stated there was no indication of a cyberattack.",
+    "The glitch followed a nationwide FAA ground stop on Friday."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "United Airlines announced on Monday that it successfully fixed a significant computer failure that delayed numerous flight departures. The carrier reported that the technology problem was resolved after temporarily halting outbound services for a brief period. Flights already in the air and regional United Express operations remained completely unaffected by the technical malfunction.",
+        "An internal memo from the pilots' union revealed that the company-wide digital disruption disabled several essential cockpit applications and crew communications. Because of the software failure, dispatchers were unable to calculate final aircraft weights required for safe departures. Pilots use these critical preflight programs to verify takeoff capabilities under prevailing weather and runway conditions.",
+        "Transportation authorities confirmed that the airline disturbance was entirely separate from a major aviation ground stop that occurred days earlier. Flight tracking data indicated that hundreds of aircraft experienced scheduling delays throughout Monday afternoon. Airline representatives emphasised that investigators found no evidence pointing toward a cybersecurity breach or malicious attack."
+      ]
+    },
+    {
+      "heading": "Recent technical vulnerabilities",
+      "paragraphs": [
+        "The aviation incident arrived during a difficult week marked by multiple high-profile technological failures across critical American infrastructure. Days prior, ageing equipment and a routine fiber maintenance upgrade triggered a rare nationwide ground stop that halted commercial flights for hours. Transportation officials subsequently explained that a router in Arkansas had overwhelmed vital air traffic control radar systems.",
+        "Beyond the aviation sector, other major industries experienced widespread digital disruptions affecting daily operations. Several prominent financial institutions and the money transfer service Zelle encountered technical difficulties that blocked customers from accessing online accounts. Furthermore, a massive software outage at Microsoft crippled enterprise applications and public services worldwide before being fully restored."
+      ]
+    },
+    {
+      "heading": "Airline and government response",
+      "paragraphs": [
+        "United leadership moved quickly to assure the travelling public that safety protocols remained uncompromised during the event. Company officials released public statements confirming the restoration of normal station operations without delay. The Air Line Pilots Association maintained active communication with members to navigate the station guidance procedures while systems recovered.",
+        "Government regulators monitored the situation closely as transportation networks struggled to regain full momentum following the weekend chaos. Transportation Secretary Sean Duffy addressed the preceding federal ground stop during television appearances while addressing public concerns over infrastructure reliability. Aviation administrators continue to review maintenance procedures to prevent similar system-wide bottlenecks in the future."
+      ]
+    },
+    {
+      "heading": "Broader implications for infrastructure",
+      "paragraphs": [
+        "These consecutive technological meltdowns highlight the extreme fragility of modern digital systems that govern global commerce and travel. Critical sectors such as banking, aviation, and software services rely heavily on interconnected networks where a single point of failure can trigger cascading effects. The simultaneous occurrence of multiple digital outages underscores an urgent need for robust infrastructure upgrades.",
+        "Travellers and business leaders alike face growing anxiety regarding the dependability of automated services and corporate digital architectures. As society becomes increasingly digitized, corporations and regulatory bodies face mounting pressure to fortify their networks against unexpected failures. Ensuring operational resilience remains a paramount challenge for corporate executives and government policy makers alike."
+      ]
+    },
+    {
+      "heading": "Looking ahead to stability",
+      "paragraphs": [
+        "Airlines and transportation authorities are working to restore complete stability to flight schedules following days of accumulated disruptions. Flight tracking metrics have shown a steady decrease in delayed departures as normal station operations resume across major hubs. Industry experts will continue to audit software dependencies to safeguard against recurring technical glitches.",
+        "Corporate technology teams are expected to conduct thorough reviews of internal applications and server capacities to prevent future incidents. Government oversight committees may also increase scrutiny on critical infrastructure maintenance schedules and software updates. Meanwhile, passengers are advised to monitor flight statuses closely while the transportation network stabilizes."
+      ]
+    }
+  ],
+  "highlight": "The disruption on Friday and Monday highlights how vulnerable air travel is to tech failures.",
+  "timeline": [
+    {
+      "when": "2025-08",
+      "what": "United temporarily grounded flights after a problem with its Unimatic system."
+    },
+    {
+      "when": "2026-11-13 to 2026-11-14",
+      "what": "A major Microsoft outage crippled global services including Outlook and Teams."
+    },
+    {
+      "when": "2026-11-14",
+      "what": "The FAA issued a rare nationwide ground stop on all US flights due to a router issue."
+    },
+    {
+      "when": "2026-11-17",
+      "what": "United Airlines resolved a widespread system outage that delayed departing flights."
+    }
+  ],
+  "tags": [
+    "United Airlines",
+    "aviation",
+    "technology",
+    "travel",
+    "Federal Aviation Administration"
+  ],
+  "socialSummary": "United Airlines has resolved a system outage that delayed flight departures, following a week of major tech disruptions.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/N909UA_B737-522_United_EWR_29APR00_%286318477576%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "alt": "A picture of an airplane",
+    "credit": "Ken Fielding / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:N909UA_B737-522_United_EWR_29APR00_(6318477576).jpg",
+    "license": "CC BY-SA 3.0",
+    "provider": "wikimedia",
+    "query": "United Airlines airplane Newark airport",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "United Airlines airplane Newark airport",
+    "names": [
+      "United Airlines",
+      "Newark Liberty International Airport"
+    ],
+    "subject": "commercial passenger airplane"
+  },
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
+    },
+    {
+      "name": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories"
+    }
+  ],
+  "sourceTitles": [
+    "United Airlines says ‘widespread’ system outage resolved",
+    "United Airlines Flights Resume After ‘Widespread System Outage’",
+    "United Airlines resolves system outage that affected departing flights",
+    "United Airlines resolves system outage that delayed flights Monday",
+    "United Airlines says system outage resolved",
+    "United Airlines resolves tech outage that delayed flights"
+  ],
+  "sourceCount": 9,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-11-17T03:46:10.556Z",
+  "updatedAt": "2026-11-17T03:46:10.556Z",
+  "readingMinutes": 3,
+  "facebook": null,
+  "ogImage": "/og/united-airlines-fixes-technical-glitch-that-delayed-departures.jpg"
+}

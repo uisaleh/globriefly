@@ -1,21 +1,21 @@
-20:58:01 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-20:58:01 collecting videos…
-20:58:01   video feed BBC News: 15 in feed, 5 kept
-20:58:01   video feed Al Jazeera English: 15 in feed, 5 kept
-20:58:01   video feed DW News: 15 in feed, 5 kept
-20:58:01   video feed FRANCE 24 English: 15 in feed, 5 kept
-20:58:01   video feed Sky News: 15 in feed, 5 kept
-20:58:01   video feed Reuters: 15 in feed, 5 kept
-20:58:01   video feed Associated Press: 15 in feed, 5 kept
-20:58:01 videos: saved 24
-20:58:01 collecting feeds…
-20:58:07 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-20:58:07 898 new items
-20:58:08 664 candidate stories
-20:58:08 categories needing stories: politics, health, sports, entertainment, business, technology → reserved politics
-20:58:08 writing: Russell Brand declares 'I am not guilty' in new statement from prison (3 sources)
-20:58:08   source text: 1833 / 7000 / 7000 chars
-20:58:15 gemini gemini-3.5-flash-lite failed (503): {
+03:45:42 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+03:45:42 collecting videos…
+03:45:42   video feed BBC News: 15 in feed, 5 kept
+03:45:42   video feed Al Jazeera English: 15 in feed, 5 kept
+03:45:42   video feed DW News: 15 in feed, 5 kept
+03:45:42   video feed FRANCE 24 English: 15 in feed, 5 kept
+03:45:42   video feed Sky News: 15 in feed, 5 kept
+03:45:42   video feed Reuters: 15 in feed, 5 kept
+03:45:42   video feed Associated Press: 15 in feed, 5 kept
+03:45:42 videos: saved 24
+03:45:42 collecting feeds…
+03:45:46 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+03:45:46 772 new items
+03:45:47 601 candidate stories
+03:45:47 categories needing stories: business, science, health, sports, entertainment, world, politics, technology → reserved business
+03:45:47 writing: Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (2 sources)
+03:45:48   source text: 7000 / 7000 / 7000 chars
+03:45:49 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -23,34 +23,10 @@
   }
 }
 
-20:58:23 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-20:59:14   too close to source wording — rewriting
-20:59:26   ✓ published: /news/uk-government-investigates-jailed-comedian-russell-brand-over-broadcast/ [politics] image: wikimedia via idea "HMP Littlehey prison Cambridgeshire"
-20:59:26 writing: Robert Pattinson Said in 2012 That He’d ‘Definitely’ Want to Be James Bond in ‘Like 20 Years’ When He’s Not So ‘Fresh-Faced’ (11 sources)
-20:59:27   source text: 2380 / 6031 / 1660 chars
-20:59:38 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-20:59:45 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-21:00:42   too close to source wording — rewriting
-21:00:48   ✓ published: /news/robert-pattinson-selected-to-star-as-the-next-james-bond/ [world] image: wikimedia via idea "Robert Pattinson"
-21:00:48 done — 2 stories
+03:46:04   ✓ published: /news/nvidia-board-rejects-former-chief-executive-comeback-despite/ [business] image: wikimedia via idea "Jensen Huang Nvidia"
+03:46:04 writing: United Airlines says ‘widespread’ system outage resolved (9 sources)
+03:46:05   source text: 3237 / 1740 / 0 / 1849 chars
+03:46:11   ✓ published: /news/united-airlines-fixes-technical-glitch-that-delayed-departures/ [business] image: wikimedia via idea "United Airlines airplane Newark airport"
+03:46:11 writing explainer for: United Airlines says ‘widespread’ system outage resolved
+03:46:20   ✓ explainer: /news/why-did-united-airlines-face-a-sudden-system-outage/
+03:46:20 done — 2 stories
