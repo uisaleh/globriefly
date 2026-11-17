@@ -99,6 +99,9 @@
   "publishedAt": "2026-11-17T22:16:02.849Z",
   "updatedAt": "2026-11-17T22:16:02.849Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174816324681745",
+    "sharedAt": "2026-11-17T22:19:44.723Z"
+  },
   "ogImage": "/og/diplomatic-friction-surrounds-fresh-push-for-european-security-pact.jpg"
 }
