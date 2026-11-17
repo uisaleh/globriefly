@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss": 1794303677922,
-    "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss": 1794303686753,
-    "https://www.euronews.com/2026/11/10/california-voters-reject-one-off-billionaire-wealth-tax-us-media-predicts": 1794303686753,
-    "https://www.scmp.com/news/world/united-states-canada/article/3373896/california-billionaire-tax-defeated-contentious-vote": 1794303686753,
-    "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/": 1794303686753,
-    "https://www.france24.com/en/americas/20261110-california-voters-reject-proposed-one-time-tax-on-billionaires-wealth": 1794303686753,
-    "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum": 1794303686753,
-    "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40": 1794303686753,
     "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html": 1794352425992,
     "https://www.scientificamerican.com/article/the-u-s-may-be-on-the-cusp-of-losing-its-measles-elimination-status/": 1794352425992,
     "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html": 1794352442776,
@@ -243,11 +235,17 @@
     "https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-rdf": 1794887169782,
     "https://www.scmp.com/news/world/united-states-canada/article/3374655/united-airlines-has-widespread-system-failure-just-days-after-nationwide-ground-stop": 1794887169782,
     "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures": 1794887169782,
-    "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/": 1794887169782
+    "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/": 1794887169782,
+    "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026": 1794921202023,
+    "https://www.wired.com/story/best-laptops/": 1794921202023,
+    "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html": 1794921215912,
+    "https://www.euronews.com/2026/11/17/moment-ukrainian-drones-strike-the-kerch-bridge-linking-crimea-to-russia": 1794921215912,
+    "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike": 1794921215912,
+    "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine": 1794921215912,
+    "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea": 1794921215912,
+    "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss": 1794921215912
   },
   "fps": {
-    "bags-banned-england-phones-pockets-pupils-rules-schools": 1794303677922,
-    "billionaire-california-reject-tax-voters": 1794303686753,
     "data-elimination-has-lost-measles-status-suggests": 1794352425992,
     "effort-hegseth-house-impeachment-torpedoed": 1794352442776,
     "bessent-china-compete-cooperate-harbor-illusions-should-they": 1794377081479,
@@ -290,6 +288,8 @@
     "brand-declares-guilty-prison-russell-statement": 1794862759800,
     "2012-bond-definitely-faced-fresh-james-like-pattinson": 1794862847558,
     "back-backs-bring-campaign-ceo-dismisses-effort-jensen": 1794887160150,
-    "airlines-outage-resolved-system-united-widespread": 1794887169782
+    "airlines-outage-resolved-system-united-widespread": 1794887169782,
+    "2026-best-verge": 1794921202023,
+    "attacks-bridge-crimea-kerch-linking-occupied-russia-ukraine": 1794921215912
   }
 }

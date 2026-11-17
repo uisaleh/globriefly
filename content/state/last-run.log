@@ -1,32 +1,23 @@
-03:45:42 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-03:45:42 collecting videos…
-03:45:42   video feed BBC News: 15 in feed, 5 kept
-03:45:42   video feed Al Jazeera English: 15 in feed, 5 kept
-03:45:42   video feed DW News: 15 in feed, 5 kept
-03:45:42   video feed FRANCE 24 English: 15 in feed, 5 kept
-03:45:42   video feed Sky News: 15 in feed, 5 kept
-03:45:42   video feed Reuters: 15 in feed, 5 kept
-03:45:42   video feed Associated Press: 15 in feed, 5 kept
-03:45:42 videos: saved 24
-03:45:42 collecting feeds…
-03:45:46 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-03:45:46 772 new items
-03:45:47 601 candidate stories
-03:45:47 categories needing stories: business, science, health, sports, entertainment, world, politics, technology → reserved business
-03:45:47 writing: Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO (2 sources)
-03:45:48   source text: 7000 / 7000 / 7000 chars
-03:45:49 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-03:46:04   ✓ published: /news/nvidia-board-rejects-former-chief-executive-comeback-despite/ [business] image: wikimedia via idea "Jensen Huang Nvidia"
-03:46:04 writing: United Airlines says ‘widespread’ system outage resolved (9 sources)
-03:46:05   source text: 3237 / 1740 / 0 / 1849 chars
-03:46:11   ✓ published: /news/united-airlines-fixes-technical-glitch-that-delayed-departures/ [business] image: wikimedia via idea "United Airlines airplane Newark airport"
-03:46:11 writing explainer for: United Airlines says ‘widespread’ system outage resolved
-03:46:20   ✓ explainer: /news/why-did-united-airlines-face-a-sudden-system-outage/
-03:46:20 done — 2 stories
+13:13:09 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+13:13:09 collecting videos…
+13:13:09   video feed BBC News: 15 in feed, 5 kept
+13:13:09   video feed Al Jazeera English: 15 in feed, 5 kept
+13:13:09   video feed DW News: 15 in feed, 5 kept
+13:13:09   video feed FRANCE 24 English: 15 in feed, 5 kept
+13:13:09   video feed Sky News: 15 in feed, 5 kept
+13:13:09   video feed Reuters: 15 in feed, 5 kept
+13:13:09   video feed Associated Press: 15 in feed, 5 kept
+13:13:09 videos: saved 24
+13:13:09 collecting feeds…
+13:13:15 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+13:13:15 750 new items
+13:13:16 584 candidate stories
+13:13:16 categories needing stories: technology, science, health, sports, entertainment, world, politics → reserved technology
+13:13:16 writing: The Verge Best of 2026 (2 sources)
+13:13:16   source text: 7000 / 7000 chars
+13:13:23   ✓ published: /news/reviewers-reveal-top-gadgets-and-laptops-for-late-2026/ [technology] image: wikimedia via idea "Apple MacBook Air laptop"
+13:13:23 writing: Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea (5 sources)
+13:13:23   source text: 579 / 7000 / 1234 / 7000 chars
+13:13:28   too close to source wording — rewriting
+13:13:37   ✓ published: /news/ukraine-disables-kerch-strait-crossing-in-major-drone-and-missile/ [world] image: wikimedia via idea "Kerch Bridge damaged Crimea"
+13:13:37 done — 2 stories
