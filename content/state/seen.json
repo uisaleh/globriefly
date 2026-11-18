@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html": 1794377081479,
-    "https://www.euronews.com/2026/11/11/us-republicans-block-efforts-to-impeach-us-defence-secretary-pete-hegseth-over-iran-war": 1794377103999,
-    "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss": 1794377103999,
-    "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html": 1794377103999,
-    "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates": 1794377103999,
-    "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf": 1794377103999,
-    "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss": 1794377103999,
-    "https://www.thehindu.com/news/international/us-republicans-derail-bid-to-impeach-hegseth/article71687959.ece": 1794377103999,
-    "https://news.sky.com/story/pete-hegseth-attempt-to-impeach-trumps-defence-secretary-blocked-13610811": 1794377103999,
     "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss": 1794406158728,
     "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs": 1794406158728,
     "https://www.france24.com/en/spain-s-first-general-strike-in-14-years-3-weeks-before-national-polls": 1794406158728,
@@ -254,11 +245,25 @@
     "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss": 1794975279837,
     "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan": 1794975279837,
     "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race": 1794975279837,
-    "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/": 1794975279837
+    "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/": 1794975279837,
+    "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html": 1795010032717,
+    "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai": 1795010032717,
+    "https://www.france24.com/en/video/20261118-democrat-mary-peltola-wins-us-senate-race-in-alaska": 1795010032717,
+    "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss": 1795010032717,
+    "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf": 1795010032717,
+    "https://www.euronews.com/2026/11/18/democrat-mary-peltola-unseats-republican-and-flips-us-senate-seat-in-tight-race-in-alaska": 1795010032717,
+    "https://www.channelnewsasia.com/world/us-midterms-mary-peltola-alaska-win-senate-majority-6561306": 1795010032717,
+    "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html": 1795010118382,
+    "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/": 1795010118382,
+    "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone": 1795010118382,
+    "https://www.engadget.com/2320267/nasa-voyager-1-space-probe-one-light-day-away-from-earth/": 1795010118382,
+    "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/": 1795010118382,
+    "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot": 1795010118382,
+    "https://www.scientificamerican.com/article/voyager-1-reaches-one-light-day-milestone/": 1795010118382,
+    "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/": 1795010118382,
+    "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece": 1795010118382
   },
   "fps": {
-    "bessent-china-compete-cooperate-harbor-illusions-should-they": 1794377081479,
-    "block-defence-efforts-hegseth-impeach-iran-pete-republicans": 1794377103999,
     "disruption-first-general-sees-spain-strike-widespread-years": 1794406158728,
     "76ers-beat-brown-celtics-former-frosty-gives-greeting": 1794406186209,
     "across-bomb-hoax-ireland-italy-schools-target-threats": 1794434038449,
@@ -303,6 +308,8 @@
     "between-deep-enmity-europe-run-russia-talks-ukraine": 1794953762156,
     "elimination-loses-measles-officially-status": 1794953788881,
     "ahead-behind-competition-falling-industry-losing-meeting-putin": 1794975245519,
-    "alaska-democrat-election-mary-peltola-senate-wins": 1794975279837
+    "alaska-democrat-election-mary-peltola-senate-wins": 1794975279837,
+    "alaska-how-mary-peltola-race-senate-triumphed": 1795010032717,
+    "blowing-day-earth-light-mind-one-voyager-years": 1795010118382
   }
 }

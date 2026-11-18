@@ -1,25 +1,87 @@
-04:13:54 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-04:13:54 collecting videos…
-04:13:54   video feed BBC News: 15 in feed, 5 kept
-04:13:54   video feed Al Jazeera English: 15 in feed, 5 kept
-04:13:54   video feed DW News: 15 in feed, 5 kept
-04:13:54   video feed FRANCE 24 English: 15 in feed, 5 kept
-04:13:54   video feed Sky News: 15 in feed, 5 kept
-04:13:54   video feed Reuters: 15 in feed, 5 kept
-04:13:54   video feed Associated Press: 15 in feed, 5 kept
-04:13:54 videos: saved 24
-04:13:54 collecting feeds…
-04:13:59 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-04:13:59 821 new items
-04:14:00 619 candidate stories
-04:14:00 categories needing stories: business, science, sports, entertainment, world, politics, technology → reserved business
-04:14:00 writing: Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi (2 sources)
-04:14:00   source text: 1584 / 6960 chars
-04:14:12   ✓ published: /news/global-leaders-converge-in-asia-for-high-stakes-diplomatic-summit/ [business] image: wikimedia via name "Donald Trump"
-04:14:12 writing: Democrat Mary Peltola wins Alaska Senate election (6 sources)
-04:14:28   source text: 3288 / 2962 / 0 / 5237 chars
-04:14:33   too close to source wording — rewriting
-04:14:39   skipped
-04:14:39 writing explainer for: Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi
-04:14:46   ✓ explainer: /news/why-are-global-leaders-gathering-in-asia-for-a-historic-summit/
-04:14:46 done — 1 stories
+13:52:40 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+13:52:40 collecting videos…
+13:52:40   video feed BBC News: 15 in feed, 5 kept
+13:52:41   video feed Al Jazeera English: 15 in feed, 5 kept
+13:52:41   video feed DW News: 15 in feed, 5 kept
+13:52:41   video feed FRANCE 24 English: 15 in feed, 5 kept
+13:52:41   video feed Sky News: 15 in feed, 5 kept
+13:52:41   video feed Reuters: 15 in feed, 5 kept
+13:52:41   video feed Associated Press: 15 in feed, 5 kept
+13:52:41 videos: saved 24
+13:52:41 collecting feeds…
+13:52:44 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+13:52:44 807 new items
+13:52:45 625 candidate stories
+13:52:45 categories needing stories: world, technology, science, sports, entertainment, politics → reserved world
+13:52:45 writing: How Mary Peltola Triumphed in Alaska’s Senate Race (7 sources)
+13:53:17   source text: 0 / 0 / 310 / 7000 / 2657 chars
+13:53:26 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+13:53:33 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+13:53:40 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+13:53:46 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+13:53:52   skipped
+13:53:52 writing: After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth (9 sources)
+13:53:53   source text: 7000 / 1609 / 1786 chars
+13:54:07   too close to source wording — rewriting
+13:54:16 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+13:54:32 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+13:54:38 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+13:55:12 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+13:55:18   skipped
+13:55:18 done — 0 stories
