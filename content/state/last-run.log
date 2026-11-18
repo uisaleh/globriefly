@@ -1,21 +1,21 @@
-13:52:40 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-13:52:40 collecting videos…
-13:52:40   video feed BBC News: 15 in feed, 5 kept
-13:52:41   video feed Al Jazeera English: 15 in feed, 5 kept
-13:52:41   video feed DW News: 15 in feed, 5 kept
-13:52:41   video feed FRANCE 24 English: 15 in feed, 5 kept
-13:52:41   video feed Sky News: 15 in feed, 5 kept
-13:52:41   video feed Reuters: 15 in feed, 5 kept
-13:52:41   video feed Associated Press: 15 in feed, 5 kept
-13:52:41 videos: saved 24
-13:52:41 collecting feeds…
-13:52:44 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-13:52:44 807 new items
-13:52:45 625 candidate stories
-13:52:45 categories needing stories: world, technology, science, sports, entertainment, politics → reserved world
-13:52:45 writing: How Mary Peltola Triumphed in Alaska’s Senate Race (7 sources)
-13:53:17   source text: 0 / 0 / 310 / 7000 / 2657 chars
-13:53:26 gemini gemini-3.5-flash-lite failed (503): {
+21:52:52 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+21:52:52 collecting videos…
+21:52:52   video feed BBC News: 15 in feed, 5 kept
+21:52:52   video feed Al Jazeera English: 15 in feed, 5 kept
+21:52:52   video feed DW News: 15 in feed, 5 kept
+21:52:52   video feed FRANCE 24 English: 15 in feed, 5 kept
+21:52:52   video feed Sky News: 15 in feed, 5 kept
+21:52:53   video feed Reuters: 15 in feed, 5 kept
+21:52:53   video feed Associated Press: 15 in feed, 5 kept
+21:52:53 videos: saved 24
+21:52:53 collecting feeds…
+21:52:55 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+21:52:55 955 new items
+21:52:57 764 candidate stories
+21:52:57 categories needing stories: world, technology, science, sports, entertainment, politics → reserved world
+21:52:57 writing: Democrats nominate Hakeem Jeffries to be US Speaker of the House (11 sources)
+21:53:00   source text: 3865 / 2651 / 352 / 1116 chars
+21:53:07 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -23,7 +23,12 @@
   }
 }
 
-13:53:33 gemini gemini-3.5-flash-lite failed (503): {
+21:53:20   too close to source wording — rewriting
+21:53:33   ✓ published: /news/house-democrats-pick-hakeem-jeffries-to-lead-chamber-as-speaker/ [world] image: wikimedia via name "Hakeem Jeffries"
+21:53:33 writing: Grand Theft Auto VI Enters the Gaming Pantheon With Rapturous Reviews (6 sources)
+21:53:33   source text: 2727 / 3818 / 3818 chars
+21:53:42   441 words — asking for a fuller article
+21:53:51 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -31,57 +36,5 @@
   }
 }
 
-13:53:40 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-13:53:46 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-13:53:52   skipped
-13:53:52 writing: After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth (9 sources)
-13:53:53   source text: 7000 / 1609 / 1786 chars
-13:54:07   too close to source wording — rewriting
-13:54:16 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-13:54:32 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-13:54:38 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-13:55:12 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-13:55:18   skipped
-13:55:18 done — 0 stories
+21:54:09   ✓ published: /news/grand-theft-auto-vi-arrives-to-record-acclaim-and-massive-global-hype/ [technology] image: wikimedia via name "Grand Theft Auto VI"
+21:54:09 done — 2 stories

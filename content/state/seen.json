@@ -1,16 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss": 1794406158728,
-    "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs": 1794406158728,
-    "https://www.france24.com/en/spain-s-first-general-strike-in-14-years-3-weeks-before-national-polls": 1794406158728,
-    "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss": 1794406158728,
-    "https://www.scmp.com/news/world/europe/article/3374082/spanish-workers-stage-huge-general-strike-1st-14-years-angry-over-housing": 1794406158728,
-    "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike": 1794406158728,
-    "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf": 1794406158728,
-    "https://www.thehindu.com/news/international/spains-first-general-strike-in-14-years-brings-clashing-social-and-political-desires-to-the-fore/article71688857.ece": 1794406158728,
-    "https://www.theguardian.com/sport/2026/nov/11/jayson-tatum-jaylen-brown-76ers-celtics-greeting-nba": 1794406186209,
-    "\n                                                https://www.cbssports.com/nba/news/celtics-76ers-winners-losers-jayson-tatum-jaylen-brown-paul-george/\n                    ": 1794406186209,
-    "https://www.japantimes.co.jp/sports/2026/11/11/basketball/nba/celtics-sixers-tatum-brown/": 1794406186209,
     "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss": 1794434038449,
     "https://www.france24.com/en/schools-evacuated-across-italy-after-bomb-threats": 1794434038449,
     "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss": 1794434038449,
@@ -261,11 +250,28 @@
     "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot": 1795010118382,
     "https://www.scientificamerican.com/article/voyager-1-reaches-one-light-day-milestone/": 1795010118382,
     "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/": 1795010118382,
-    "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece": 1795010118382
+    "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece": 1795010118382,
+    "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss": 1795038809348,
+    "https://thehill.com/policy/transportation/6226963-live-donald-trump-china-tech-outages-faa-modernization-alaska-senate-race/": 1795038809348,
+    "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker": 1795038809348,
+    "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html": 1795038809348,
+    "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker": 1795038809348,
+    "https://www.channelnewsasia.com/world/hakeem-jeffries-democrats-leader-us-house-first-black-speaker-6563476": 1795038809348,
+    "https://www.thehindu.com/news/international/democrats-nominatehakeem-jeffries-for-next-us-house-speaker/article71717202.ece": 1795038809348,
+    "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html": 1795038809348,
+    "https://www.scmp.com/news/world/united-states-canada/article/3374962/democrats-nominate-jeffries-be-first-black-us-house-speaker": 1795038809348,
+    "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes": 1795038809348,
+    "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf": 1795038809348,
+    "https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house": 1795038809348,
+    "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-reviews-metacritic-ocarina-of-time.html": 1795038847729,
+    "https://www.theguardian.com/games/2026/nov/18/tell-us-are-you-playing-grand-theft-auto-vi": 1795038847729,
+    "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss": 1795038847729,
+    "https://www.channelnewsasia.com/world/grand-theft-auto-goes-live-13-years-6562531": 1795038847729,
+    "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/": 1795038847729,
+    "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar": 1795038847729,
+    "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/": 1795038847729
   },
   "fps": {
-    "disruption-first-general-sees-spain-strike-widespread-years": 1794406158728,
-    "76ers-beat-brown-celtics-former-frosty-gives-greeting": 1794406186209,
     "across-bomb-hoax-ireland-italy-schools-target-threats": 1794434038449,
     "actor-dies-england-general-hospital-randall": 1794434057030,
     "feels-gop-huang-jensen-nvidia-resign-senator-should": 1794452232509,
@@ -310,6 +316,8 @@
     "ahead-behind-competition-falling-industry-losing-meeting-putin": 1794975245519,
     "alaska-democrat-election-mary-peltola-senate-wins": 1794975279837,
     "alaska-how-mary-peltola-race-senate-triumphed": 1795010032717,
-    "blowing-day-earth-light-mind-one-voyager-years": 1795010118382
+    "blowing-day-earth-light-mind-one-voyager-years": 1795010118382,
+    "democrats-hakeem-house-jeffries-nominate-speaker": 1795038809348,
+    "auto-enters-gaming-grand-pantheon-rapturous-reviews-theft": 1795038847729
   }
 }
