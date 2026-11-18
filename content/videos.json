@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-17T22:15:50.527Z",
+  "updatedAt": "2026-11-18T04:13:54.948Z",
   "videos": [
+    {
+      "id": "ZLYQBcSSdTI",
+      "title": "US loses measle-free status",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-18T04:08:19.000Z",
+      "description": "The US, Mexico and Bolivia have lost their status of having eradicated the measles virus, following a declaration by the Pan American Health Organization. Of the more than 5,400 cases recorded in the United States this y"
+    },
+    {
+      "id": "05pUeqFmynE",
+      "title": "Zelenskyy insists US has capacity to help Ukraine strike Russia's missile launchers",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-18T03:45:14.000Z",
+      "description": "Ukrainian President Volodymyr Zelenskyy stressed on Tuesday that the US has the capacity to assist Ukraine in striking Russia's missile launchers and eliminating the threat. Instead, he said, the opposite is happening, a"
+    },
+    {
+      "id": "MjAHw59cMNA",
+      "title": "Air strike destroys shoe factory in Yemen’s capital, trapping workers",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-18T03:39:09.000Z",
+      "description": "At least 16 civilians are killed after an airstrike destroys a shoe and textile factory in Sanaa’s Al-Thawrah district, according to the Houthi-run health ministry. Survivors dig out from rubble in an area of factories h"
+    },
+    {
+      "id": "ynr5xBdaNkk",
+      "title": "Nvidia 'not intending' to bring back ex-CEO Jensen Huang",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-18T02:15:26.000Z",
+      "description": "Nvidia's quarterly sales doubled to top $100bn (£75bn) for the first time as the company insisted it is not reinstating ousted co-founder Jensen Huang."
+    },
+    {
+      "id": "vqvVUlsNXBA",
+      "title": "Exposed at a baby's checkup: How RFK Jr let measles surge in America",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-18T01:21:31.000Z",
+      "description": "Janessa and Ryan Brunt’s daughter was one of dozens of babies exposed to measles at a Salt Lake City clinic. Their story is part of a Reuters special report on how the virus has spread under Health Secretary Robert F. Ke"
+    },
+    {
+      "id": "G3lu4k9G-Mk",
+      "title": "Milburn review into youth unemployment published",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-17T23:00:10.000Z",
+      "description": "Join Anna Botting on The Wrap as Alan Milburn publishes his report into how to tackle the UK's youth unemployment crisis."
+    },
     {
       "id": "VkPQuH68jVI",
       "title": "WHO sounds the alarm on antimicrobial resistance threat • FRANCE 24 English",
@@ -10,52 +58,52 @@
       "description": "The spread of antimicrobial resistance (AMR) is threatening modern medicine despite progress in combating drug-resistant bacteria, senior World Health Organization officials said Monday. WHO officials said countries had "
     },
     {
-      "id": "Wi9LEOddx-Y",
-      "title": "Jensen Huang suggests return to Nvidia",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-17T21:59:00.000Z",
-      "description": "Watch The World with Yalda Hakim for the latest global news, including former Nvidia CEO Jensen Huang acknowledging the \"serious mistakes\" behind his resignation."
-    },
-    {
-      "id": "MuT2tSl7NI0",
-      "title": "The US loses its measles-free status",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-17T21:44:18.000Z",
-      "description": "The U.S. has lost its measles-free status. The highly contagious virus has spread at the highest rate in over 30 years, mainly among the unvaccinated. (Production by Javier Arciga)"
-    },
-    {
-      "id": "UeMNsUkCiAE",
-      "title": "US aviation shutdown cause not yet determined, Duffy says",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-17T21:40:17.000Z",
-      "description": "No root cause has been determined for the router that failed on November 13, triggering an air traffic control breakdown that snarled hundreds of thousands of people's travel plans, US Transportation Secretary Sean Duffy"
-    },
-    {
-      "id": "jVmdRtGt9mQ",
-      "title": "Israeli forces push deeper into Syria, raiding villages near Damascus",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-17T21:30:22.000Z",
-      "description": "Israeli forces are expanding their military presence in Syrian territory, with raids reaching areas closer to Damascus. "
-    },
-    {
-      "id": "KpD2i6JLB9g",
-      "title": "Bangladesh garment workers clash with police",
+      "id": "qANzO-A3VVI",
+      "title": "Filipinos protest Trump visit to ASEAN summit",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-17T21:30:09.000Z",
-      "description": "Protesting textile workers clashed with police on the outskirts of Dhaka. The demonstrators are demanding higher wages to meet rising costs of living."
+      "publishedAt": "2026-11-18T00:45:37.000Z",
+      "description": "US President Donald Trump arrived in the Philippines to meet with regional partners amid local protests rallying against his visit. The trip comes just days before Trump is set to meet with his Russian and Chinese counte"
     },
     {
-      "id": "1ByjjL-UJRA",
-      "title": "BBC reports from Kyiv bridge hit by Russian attack.",
+      "id": "rIVyuv_zvmE",
+      "title": "Thousands in Haiti praise El Salvador’s president and troops as they fight gangs",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-18T02:45:33.000Z",
+      "description": "Thousands of people poured into the streets of Haiti’s capital and beyond on Tuesday to praise El Salvador’s president, Nayib Bukele, and his troops as they fight gangs in the troubled Caribbean country. (AP Video: Pierr"
+    },
+    {
+      "id": "CkJUwNmVRYo",
+      "title": "Hungary on the hunt for a football hero",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-18T02:28:56.000Z",
+      "description": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1. For the Hungarians, it’s been a seven-decade wait for a hero like Ferenc Puskas to pull them back into Europe’s top tier. Paul Rhys expla"
+    },
+    {
+      "id": "IR0XD-STRPU",
+      "title": "Concerns over US cybersecurity amid tech outages",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-17T21:15:38.000Z",
-      "description": ""
+      "publishedAt": "2026-11-18T01:30:52.000Z",
+      "description": "The head of US national intelligence says a string of tech outages sweeping the country over recent days is not a result of a cyber attack, but rather caused by flawed system upgrades."
+    },
+    {
+      "id": "-4pl3D6Ewa8",
+      "title": "Wall Street ends lower; Nvidia earnings beat estimates",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-18T01:14:18.000Z",
+      "description": "US stocks extended their tech-driven slide, while Nvidia's strong results brought huge relief to investors after former CEO Jensen Huang's exit."
+    },
+    {
+      "id": "3k20I6azZKQ",
+      "title": "No UK genocide prosecutions 12 years after ISIS massacre of Yazidis",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-17T22:47:19.000Z",
+      "description": "Yazidi survivors of the ISIS genocide say they are still waiting for justice 12 years on, with no one in Britain prosecuted for genocide."
     },
     {
       "id": "raW7F7mXdfk",
@@ -66,52 +114,52 @@
       "description": "In tonight's edition, concerns emerge that AI has been used to generate fake voting profiles ahead of Nigeria's high-stakes general election in January. Also, Nigeria's mining marshal heads underground to unearth some of"
     },
     {
+      "id": "AIVndWLo1pA",
+      "title": "Serbia's Student List takes control of parliament",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-17T23:45:13.000Z",
+      "description": "The Student List now has 90 days to name a prime minister after being sworn into Serbia's parliament. The group's victory in last month's elections ended 14 years of rule by Aleksandar Vučić's SNS party with its close ti"
+    },
+    {
+      "id": "V65dbnO-kdg",
+      "title": "The FAA ground stop is linked to this building in El Dorado, Arkansas",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-18T01:48:14.000Z",
+      "description": "A new router installed by a federal contractor at the South Arkansas Regional Airport was linked to widespread communications and radar disruptions that caused the Federal Aviation Administration to ground all planes las"
+    },
+    {
+      "id": "ApyoGVuoscw",
+      "title": "ICE agents shove and pepper-spray pregnant woman",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-18T02:15:45.000Z",
+      "description": "A pregnant American woman was shoved to the ground and pepper-sprayed by ICE agents despite telling them she was pregnant. She was detained for several hours and released without charges after protesting outside a prison"
+    },
+    {
+      "id": "hvOJMcjm7cM",
+      "title": "Millions of red crabs start annual migration on Christmas Island.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-18T00:36:16.000Z",
+      "description": ""
+    },
+    {
+      "id": "UeMNsUkCiAE",
+      "title": "US aviation shutdown cause not yet determined, Duffy says",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-17T21:40:17.000Z",
+      "description": "No root cause has been determined for the router that failed on November 13, triggering an air traffic control breakdown that snarled hundreds of thousands of people's travel plans, US Transportation Secretary Sean Duffy"
+    },
+    {
       "id": "8YWcidmqcC8",
       "title": "Leah’s Law: Parents call for crackdown on repeat sex offenders",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
       "publishedAt": "2026-11-17T21:46:53.000Z",
       "description": "Leah Croucher was 19 years old when she was murdered while walking to work in Milton Keynes. "
-    },
-    {
-      "id": "uV4PTPfhT-U",
-      "title": "Pope Leo explains why he’s open about his health",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-17T21:16:14.000Z",
-      "description": "Pope Leo XIV reflected on his American identity during an in-flight press conference on Monday, saying his directness and deep belief in democracy are part of what makes him North American."
-    },
-    {
-      "id": "VtOBRLC_kzI",
-      "title": "Africa's richest man plans to invest in Ghana's sugar and cocoa",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-17T18:07:07.000Z",
-      "description": "Nigerian billionaire Aliko Dangote has announced plans to invest in Ghana’s sugar and cocoa sectors as part of a proposed partnership with the Ghanaian government."
-    },
-    {
-      "id": "5zVc-k6dzYw",
-      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-17T21:28:08.000Z",
-      "description": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank, a move the British government says aims to protect the prospect of a two-state solution. "
-    },
-    {
-      "id": "HeCcdVcFHoM",
-      "title": "Why updating America's aging air traffic system won't be easy",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-17T21:00:17.000Z",
-      "description": "US air travel is slowly returning to normal after a nationwide shutdown, the longest ground stop in the US since 9/11. So what went so horribly wrong? Investigators are still looking at whether it was all caused by a sin"
-    },
-    {
-      "id": "Cl8sZNQedj4",
-      "title": "What happens to young people on benefits under Milburn's plan?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-17T21:00:37.000Z",
-      "description": "Alan Milburn's long awaited report into young people not in education, employment, or training - \"Neet\" - has been published."
     },
     {
       "id": "2i-RWgmsfGY",
@@ -122,76 +170,28 @@
       "description": "Since suffering heavy losses in Israel’s Oct. 27 election, Prime Minister Benjamin Netanyahu's party has repeatedly claimed the vote was “stolen” by Arab-led parties, possibly with foreign assistance. Those claims appear"
     },
     {
-      "id": "G3lu4k9G-Mk",
-      "title": "Milburn review into youth unemployment published",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-17T13:18:08.000Z",
-      "description": "Join Anna Botting on The Wrap as Alan Milburn publishes his report into how to tackle the UK's youth unemployment crisis."
-    },
-    {
-      "id": "TaBTrhtd7_8",
-      "title": "Trump arrives in the Philippines before his meeting with Putin and Xi in China",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-17T20:56:23.000Z",
-      "description": "President Donald Trump arrived in the Philippines on Tuesday to kick off a trip to Asia. The trip is his first foreign trip after some setbacks at home, including his party's shellacking in the midterm elections. The tri"
-    },
-    {
-      "id": "LAIlTQvftWw",
-      "title": "Thousands march through Paris in cost of living protest",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-17T18:06:52.000Z",
-      "description": "Protests continued in France as thousands of demonstrators marched through the streets of Paris calling for action to deal with the rising cost of living."
-    },
-    {
-      "id": "CcCvKGq-ZWk",
-      "title": "Moment Russian military plane crashes in Siberia, killing 19",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-17T21:25:40.000Z",
-      "description": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region of southwestern Siberia, reportedly killing 19 people. The CCTV video shows the An-12 aircraft's final moments before impac"
-    },
-    {
-      "id": "a604iU6By4I",
-      "title": "Trump pushes big plans at Asia summits: Will regional leaders buy in?",
+      "id": "KpD2i6JLB9g",
+      "title": "Bangladesh garment workers clash with police",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-17T20:00:32.000Z",
-      "description": "US President Donald Trump is in Asia with a packed and ambitious agenda. His first stop is the Philippines where he'll attend the ASEAN summit.  Then he heads to China for the APEC meeting. Trump has his sights set on ec"
+      "publishedAt": "2026-11-17T21:30:09.000Z",
+      "description": "Protesting textile workers clashed with police on the outskirts of Dhaka. The demonstrators are demanding higher wages to meet rising costs of living."
     },
     {
-      "id": "EoDOflVMcQA",
-      "title": "Met Police missed opportunities to stop predatory detective",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-17T20:15:19.000Z",
-      "description": "BBC Panorama can reveal the Metropolitan Police missed opportunities to stop predatory detective, Warren Arter, from sexually exploiting vulnerable victims of crime, whose cases he investigated."
-    },
-    {
-      "id": "FWZzg6e-tkw",
-      "title": "Ukraine: Two bridges in Kyiv heavily damaged by Russian strikes • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-17T12:54:25.000Z",
-      "description": "Russia hit two major bridges in Kyiv while Ukraine struck Moscow's link to annexed Crimea for the second night in a row, officials said Tuesday, ahead of a historic meeting of Chinese, US and Russian leaders. Detals from"
-    },
-    {
-      "id": "lBhsF4YU67c",
-      "title": "NATO member countries meet to discuss Ukraine war",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-17T12:05:34.000Z",
-      "description": "Live from NATO headquarters as ministers arrive for a meeting of the Ukraine Contact Group in Brussels. "
-    },
-    {
-      "id": "MvrChJ85li0",
-      "title": "First new DC delegate-elect since 1991 hopes democrats win helps statehood goal",
+      "id": "uV4PTPfhT-U",
+      "title": "Pope Leo explains why he’s open about his health",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-17T12:00:23.000Z",
-      "description": "The last time the District of Columbia had a freshman delegate going through new member orientation on Capitol Hill, the Soviet Union still existed, George H.W. Bush was president. Now Robert White Jr. is stepping into t"
+      "publishedAt": "2026-11-17T21:16:14.000Z",
+      "description": "Pope Leo XIV reflected on his American identity during an in-flight press conference on Monday, saying his directness and deep belief in democracy are part of what makes him North American."
+    },
+    {
+      "id": "jVmdRtGt9mQ",
+      "title": "Israeli forces push deeper into Syria, raiding villages near Damascus",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-17T21:30:22.000Z",
+      "description": "Israeli forces are expanding their military presence in Syrian territory, with raids reaching areas closer to Damascus. "
     }
   ]
 }

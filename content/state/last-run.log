@@ -1,22 +1,25 @@
-22:15:49 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-22:15:49 collecting videos…
-22:15:49   video feed BBC News: 15 in feed, 5 kept
-22:15:50   video feed Al Jazeera English: 15 in feed, 5 kept
-22:15:50   video feed DW News: 15 in feed, 5 kept
-22:15:50   video feed FRANCE 24 English: 15 in feed, 5 kept
-22:15:50   video feed Sky News: 15 in feed, 5 kept
-22:15:50   video feed Reuters: 15 in feed, 5 kept
-22:15:50   video feed Associated Press: 15 in feed, 5 kept
-22:15:50 videos: saved 24
-22:15:50 collecting feeds…
-22:15:53 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-22:15:53 937 new items
-22:15:55 746 candidate stories
-22:15:55 categories needing stories: politics, science, health, sports, entertainment, world, technology → reserved politics
-22:15:55 writing: Ukraine Talks Run Up Against Deep Enmity Between Russia and Europe (2 sources)
-22:15:55   source text: 0 / 697 chars
-22:16:06   ✓ published: /news/diplomatic-friction-surrounds-fresh-push-for-european-security-pact/ [politics] image: wikimedia via idea "peace talks diplomatic meeting"
-22:16:06 writing: U.S. officially loses its measles elimination status (8 sources)
-22:16:22   source text: 0 / 6199 / 5825 / 498 / 3956 chars
-22:16:30   ✓ published: /news/united-states-loses-measles-elimination-status-after-26-years/ [health] image: wikimedia via idea "vaccine clinic sign"
-22:16:30 done — 2 stories
+04:13:54 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+04:13:54 collecting videos…
+04:13:54   video feed BBC News: 15 in feed, 5 kept
+04:13:54   video feed Al Jazeera English: 15 in feed, 5 kept
+04:13:54   video feed DW News: 15 in feed, 5 kept
+04:13:54   video feed FRANCE 24 English: 15 in feed, 5 kept
+04:13:54   video feed Sky News: 15 in feed, 5 kept
+04:13:54   video feed Reuters: 15 in feed, 5 kept
+04:13:54   video feed Associated Press: 15 in feed, 5 kept
+04:13:54 videos: saved 24
+04:13:54 collecting feeds…
+04:13:59 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+04:13:59 821 new items
+04:14:00 619 candidate stories
+04:14:00 categories needing stories: business, science, sports, entertainment, world, politics, technology → reserved business
+04:14:00 writing: Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi (2 sources)
+04:14:00   source text: 1584 / 6960 chars
+04:14:12   ✓ published: /news/global-leaders-converge-in-asia-for-high-stakes-diplomatic-summit/ [business] image: wikimedia via name "Donald Trump"
+04:14:12 writing: Democrat Mary Peltola wins Alaska Senate election (6 sources)
+04:14:28   source text: 3288 / 2962 / 0 / 5237 chars
+04:14:33   too close to source wording — rewriting
+04:14:39   skipped
+04:14:39 writing explainer for: Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi
+04:14:46   ✓ explainer: /news/why-are-global-leaders-gathering-in-asia-for-a-historic-summit/
+04:14:46 done — 1 stories

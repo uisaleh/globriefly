@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html": 1794352425992,
-    "https://www.scientificamerican.com/article/the-u-s-may-be-on-the-cusp-of-losing-its-measles-elimination-status/": 1794352425992,
-    "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html": 1794352442776,
-    "https://deadline.com/2026/11/pete-hegseth-impeachment-trump-2-1237219386/": 1794352442776,
-    "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss": 1794352442776,
-    "https://www.channelnewsasia.com/world/hegseth-impeachment-house-vote-defence-trump-massie-6540321": 1794352442776,
-    "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort": 1794352442776,
-    "https://www.nytimes.com/2026/11/10/us/politics/trump-hegseth-impeachment.html": 1794352442776,
     "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html": 1794377081479,
     "https://www.euronews.com/2026/11/11/us-republicans-block-efforts-to-impeach-us-defence-secretary-pete-hegseth-over-iran-war": 1794377103999,
     "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss": 1794377103999,
@@ -254,11 +246,17 @@
     "https://timesofindia.indiatimes.com/world/us/us-loses-measles-elimination-status-amid-worst-outbreak-since-1991/articleshow/135935577.cms": 1794953788881,
     "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status": 1794953788881,
     "https://www.scientificamerican.com/article/u-s-officially-loses-measles-elimination-status-in-a-body-blow-to-public-health/": 1794953788881,
-    "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss": 1794953788881
+    "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss": 1794953788881,
+    "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html": 1794975245519,
+    "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/": 1794975245519,
+    "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html": 1794975279837,
+    "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html": 1794975279837,
+    "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss": 1794975279837,
+    "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan": 1794975279837,
+    "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race": 1794975279837,
+    "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/": 1794975279837
   },
   "fps": {
-    "data-elimination-has-lost-measles-status-suggests": 1794352425992,
-    "effort-hegseth-house-impeachment-torpedoed": 1794352442776,
     "bessent-china-compete-cooperate-harbor-illusions-should-they": 1794377081479,
     "block-defence-efforts-hegseth-impeach-iran-pete-republicans": 1794377103999,
     "disruption-first-general-sees-spain-strike-widespread-years": 1794406158728,
@@ -303,6 +301,8 @@
     "2026-best-verge": 1794921202023,
     "attacks-bridge-crimea-kerch-linking-occupied-russia-ukraine": 1794921215912,
     "between-deep-enmity-europe-run-russia-talks-ukraine": 1794953762156,
-    "elimination-loses-measles-officially-status": 1794953788881
+    "elimination-loses-measles-officially-status": 1794953788881,
+    "ahead-behind-competition-falling-industry-losing-meeting-putin": 1794975245519,
+    "alaska-democrat-election-mary-peltola-senate-wins": 1794975279837
   }
 }
