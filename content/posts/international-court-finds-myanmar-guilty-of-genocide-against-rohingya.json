@@ -128,6 +128,9 @@
   "publishedAt": "2026-11-19T12:56:14.049Z",
   "updatedAt": "2026-11-19T12:56:14.049Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174938844681745",
+    "sharedAt": "2026-11-19T12:59:50.429Z"
+  },
   "ogImage": "/og/international-court-finds-myanmar-guilty-of-genocide-against-rohingya.jpg"
 }
