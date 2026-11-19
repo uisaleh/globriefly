@@ -1,37 +1,69 @@
 {
-  "updatedAt": "2026-11-18T21:52:53.052Z",
+  "updatedAt": "2026-11-19T03:17:57.063Z",
   "videos": [
     {
-      "id": "dkQNf6kbtfU",
-      "title": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-18T21:45:48.000Z",
-      "description": "Ukraine struck the Kerch Bridge linking Russia to occupied Crimea, but not all the dramatic footage circulating online is real. Multiple AI-generated videos falsely show the bridge collapsed with extensive damage. Some e"
-    },
-    {
-      "id": "-6-b0hZXg-8",
-      "title": "Uncontacted tribe seen in Brazil",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-18T21:34:51.000Z",
-      "description": "Members of an uncontacted indigenous group were seen in the Brazilian northeastern region, where they asked for food."
-    },
-    {
-      "id": "eiDQLQUHQZU",
-      "title": "Who would gain from carving up Pakistan’s provinces?",
+      "id": "LqdEnypZL0A",
+      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-18T21:30:56.000Z",
-      "description": "Pakistan could divide its four provinces into as many as 12. Supporters say it could improve governance, but critics warn it could weaken political parties and strengthen military power. Al Jazeera’s Mikail Malik explain"
+      "publishedAt": "2026-11-19T03:00:47.000Z",
+      "description": "China’s Xi greets Putin and Trump at APEC before historic summit"
     },
     {
-      "id": "C6alWSatNL0",
-      "title": "What does Nvidia's future look like without Jensen Huang?",
+      "id": "ei488ldNDfI",
+      "title": "Drill digs 400 feet into bedrock for the new rail tunnel between New Jersey and New York",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-19T03:00:06.000Z",
+      "description": "Two massive tunnel-boring machines are excavating parallel rail tunnels beneath New Jersey’s Palisades. One has advanced about 400 feet into the bedrock, while the other, launched this month, has dug about 30 feet. (AP V"
+    },
+    {
+      "id": "AdagGOfK8yI",
+      "title": "Floodwaters surge through streets in South Florida",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-19T02:47:46.000Z",
+      "description": "Floodwaters surged through streets and parking lots in Davie, Florida, after heavy rain caused widespread flooding across parts of South Florida."
+    },
+    {
+      "id": "jtSxgfLcVZ4",
+      "title": "Why the GTA 6 launch is taking over the world",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-19T01:57:52.000Z",
+      "description": "After 13 years of waiting, Grand Theft Auto VI is finally here, and this is no ordinary launch. Players are taking time off work, internet networks are bracing for huge traffic spikes, and GTA 6 could become one of the b"
+    },
+    {
+      "id": "ID6lSrUtsXU",
+      "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-18T21:15:07.000Z",
-      "description": "The board of the US tech giant Nvidia has said it will not reinstate co-founder Jensen Huang as its CEO, despite calls from President Donald Trump, Elon Musk and several staff and investors. Mr Huang resigned last week a"
+      "publishedAt": "2026-11-19T01:14:19.000Z",
+      "description": ""
+    },
+    {
+      "id": "vf9pg_UfPpc",
+      "title": "Prince Harry says he would rejoin the military to fight Russia",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-18T23:08:18.000Z",
+      "description": "Prince Harry has said he would be willing to rejoin the military to fight Russia, in a Telegraph interview during a visit to Ukraine."
+    },
+    {
+      "id": "OBaRrFogr2k",
+      "title": "24-month matured Comté crowned world’s best cheese • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-18T22:32:22.000Z",
+      "description": "With its nutty flavour and smooth, supple texture, it was aged for two years in a former military fortress in eastern France. Comté, an unpasteurised cow’s milk cheese from the Jura Mountains, has beaten more than five t"
+    },
+    {
+      "id": "qSVbHQq5wCg",
+      "title": "Google’s driverless car hits a roadblock",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-19T02:56:57.000Z",
+      "description": "Waymo, Google's sister company under Alphabet, faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents. California has barred its vehicles from state highways, prompt"
     },
     {
       "id": "6rDMArLV1sk",
@@ -42,52 +74,52 @@
       "description": "Arman Izadi and fellow artists have transformed the Graffiti Mansion into a Grand Theft Auto marvel in Las Vegas. The mansion's design draws inspiration from different eras of the game, with the front paying homage to Sa"
     },
     {
-      "id": "ZY8p60BG7Sc",
-      "title": "How much political payback does America want?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-18T21:00:31.000Z",
-      "description": "As Democrats regain control of Congress, a debate is opening up inside the party itself. Should they use that power to investigate alleged corruption and abuses of power during the Trump years? Or focus on affordability,"
-    },
-    {
-      "id": "_4PHQyLFaD4",
-      "title": "Want to buy a genuine Batsuit? It'll cost at least $165,000",
+      "id": "AGOdfoNf40o",
+      "title": "Wall Street ends mixed after Nvidia earnings; Anthropic prices IPO",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-18T20:36:01.000Z",
-      "description": "Marie-Louise Gumuchian got a sneak preview of the goods on offer at Propstore's winter auction. Some of the items going under the hammer include retro superhero props from \"Batman\" and \"Superman\" franchises, as well as H"
+      "publishedAt": "2026-11-19T01:29:18.000Z",
+      "description": "US stocks ended on a mixed note as investors weighed Nvidia's earnings, Anthropic's IPO pricing and hawkish signals in the US Federal Reserve minutes."
     },
     {
-      "id": "jFiaKTB0vcA",
-      "title": "Bassirou Diomaye Faye excluded from Senegal's ruling party • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-18T21:22:26.000Z",
-      "description": "In tonight's edition, the political divorce between Senegal's president and the powerful former prime minister and mentor is official. Also, all of Nigeria's states have shown willingness for a push to create their own p"
+      "id": "yN5dnMZg9hI",
+      "title": "Chileans protest proposed cuts in 2027 budget",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-19T00:25:16.000Z",
+      "description": "Demonstrators in Chile took to the streets to protest proposed cuts in the 2027 budget, arguing they will compromise education, housing and public services for the broader population. Chile saw similar demonstrations led"
     },
     {
-      "id": "lHHrXHlbbVw",
-      "title": "Calls to stop NDAs silencing victims | The UK Tonight with Sarah-Jane Mee",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-18T21:00:40.000Z",
-      "description": "The UK Tonight with Sarah-Jane Mee will dig into the issues people across the country are talking about and explain and analyse the news stories they need to know in a dynamic hour of domestic news."
-    },
-    {
-      "id": "Krhqb6yAKdM",
-      "title": "Alpacas bring joy and companionship to elderly at care home in Germany",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-18T21:30:22.000Z",
-      "description": "Fluffy alpacas are bringing joy, companionship and gentle exercise to care home residents in Germany. The animals also help keep the lawns trimmed."
-    },
-    {
-      "id": "zvOtYfFCcnk",
-      "title": "“No indication” that recent outages are related to coordinated cyberattacks, officials say.",
+      "id": "uetghODqms4",
+      "title": "Waymo pulls driverless taxis from all US freeways.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-18T20:57:27.000Z",
+      "publishedAt": "2026-11-18T23:45:12.000Z",
       "description": ""
+    },
+    {
+      "id": "9t_QXcs6KOM",
+      "title": "UK government asks Google to deactivate Russell Brand's YouTube account",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-18T23:01:31.000Z",
+      "description": "Join Anna Botting on The Wrap, as the UK government calls on Google to take down Russell Brand's YouTube account after the convicted rapist was able to publish a message claiming his innocence."
+    },
+    {
+      "id": "wS8zkenM4dY",
+      "title": "Inside Limoges City Hall devastated by arson attack • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-18T22:24:24.000Z",
+      "description": "Work is underway to restore the city hall of Limoges, in central France, which was devastated by an arson attack during riots on October 17. More than €1.7 million has been raised through an online fundraising campaign i"
+    },
+    {
+      "id": "KRXhtrAGDUg",
+      "title": "Anthropic’s record-breaking IPO puts investor confidence in AI to the test",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-19T02:50:16.000Z",
+      "description": "AI firm Anthropic, maker of Claude, sets an $83 share price for a blockbuster IPO that could raise over $50bn despite heavy losses, testing investor faith in AI and wider tech valuations. "
     },
     {
       "id": "bM9592WFPH8",
@@ -98,52 +130,52 @@
       "description": "David Beckham’s company is suing a beauty firm after his “luxury” fragrances were allegedly found for sale in discount stores and a gas station bargain bin. DB Ventures is seeking at least $41 million in damages from Cot"
     },
     {
-      "id": "VywBS7-4wkk",
-      "title": "Gamers delight as long wait for GTA VI finally coming to an end",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-18T20:30:18.000Z",
-      "description": "The World's most anticipated video game is being released on November 19th. Gamers around the world are clearing their schedules to return to Grand Theft Auto's Vice City. Many might not understand the hype or how gaming"
-    },
-    {
-      "id": "mb4OsSkIUw0",
-      "title": "Barcelona hospital finds ICU patients benefit from visits to the sea",
+      "id": "-gjVcmI3kcM",
+      "title": "Fed's Barr says rate rises likely like ahead",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-18T20:20:55.000Z",
-      "description": "The clinical head of the ICU at Hospital del Mar in Barcelona, says taking patients out to see the sea has a positive impact on their anxiety and well-being compared to those who receive no intervention. Results from a s"
+      "publishedAt": "2026-11-19T01:29:15.000Z",
+      "description": "Federal Reserve Governor Michael Barr said he’s likely to be on board ‌with tighter monetary policy in an economy still beset by inflation pressures."
     },
     {
-      "id": "Fb-TsO4Uf0s",
-      "title": "Reconstruction begins at Limoges City Hall after devastating fire • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-18T20:31:39.000Z",
-      "description": "It's been a month since the nationwide protests that degenerated in violence across France. The dramatic pictures of the historic City Hall in the French city of Limoges set on fire made headlines worldwide. To the relie"
+      "id": "TA1VIfYlqpo",
+      "title": "The first ever formal trilateral meeting of Xi, Trump and Putin",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-18T23:00:12.000Z",
+      "description": "World leaders are gathering in the Chinese city of Shenzhen, where President Xi Jinping is hosting the Asia-Pacific Economic Cooperation, or APEC, summit. It brings together top executives and heads of government. But al"
     },
     {
-      "id": "-8wyZ_lSXzo",
-      "title": "Trump, Putin and Xi meet ahead of trilateral talks",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-18T14:42:33.000Z",
-      "description": "Watch The World with Yalda Hakim as Donald Trump, Vladimir Putin and Xi Jinping make diplomatic history as they meet in China for trilateral talks at the APEC summit."
-    },
-    {
-      "id": "mjiNNtvjtAU",
-      "title": "Floodwaters submerge cars and parking lots in Florida town",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-18T21:07:54.000Z",
-      "description": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, inundating roads, swallowing parking spaces, and leaving drivers facing dangerous conditions. Broward County has declared a state of emergency. "
-    },
-    {
-      "id": "A7eZjZsbjuc",
-      "title": "Why are the police talking about 'two-tier' policing?",
+      "id": "ZDZoZzN-1ms",
+      "title": "What we learned from William and Kate's visit to India.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-18T20:30:39.000Z",
-      "description": "Today, the Home Secretary Shabana Mahmood announced she has commissioned a new 'Impartiality in Policing' standard as part of her address to a conference of police chiefs."
+      "publishedAt": "2026-11-18T23:16:42.000Z",
+      "description": ""
+    },
+    {
+      "id": "4O0UeGbOyLY",
+      "title": "GTA VI fan uses AI to write 'do not disturb' contract with family",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-18T22:25:24.000Z",
+      "description": "Grand Theft Auto VI superfan Sean Little has taken his dedication to playing the highly anticipated game to the next level, using ChatGPT to create a joke 'do not disturb contract' with his family. "
+    },
+    {
+      "id": "dkQNf6kbtfU",
+      "title": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack • FRANCE 24",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-18T21:45:48.000Z",
+      "description": "Ukraine struck the Kerch Bridge linking Russia to occupied Crimea, but not all the dramatic footage circulating online is real. Multiple AI-generated videos falsely show the bridge collapsed with extensive damage. Some e"
+    },
+    {
+      "id": "Ix5q73PLJRE",
+      "title": "Hegseth unveils new US-Venezuela military deal",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-19T01:48:01.000Z",
+      "description": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the January US military raid to capture President Nicolas Maduro. The visit comes amid growing unease in Venezuela about the US’s infl"
     },
     {
       "id": "KmCPFrkOZ5s",
@@ -154,44 +186,12 @@
       "description": "Hakeem Jeffries vowed to fight hard for Americans after House Democrats nominated him to become the first Black House speaker. His leadership team also makes history, with Katherine Clark poised to become the first femal"
     },
     {
-      "id": "cdXdN-3Jb7k",
-      "title": "What Chancellor Merkel really thought of President Trump",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-18T20:00:14.000Z",
-      "description": "Former US President Joe Biden newly released memoir. \"Promise Me, America\" reveals what former German Chancellor Angela Merkel told him in private about Donald Trump. Merkel and Trump were poles apart on most foreign pol"
-    },
-    {
-      "id": "2nG8G0mc_lo",
-      "title": "Gamers ready to skip work and dive into GTA VI",
+      "id": "_4PHQyLFaD4",
+      "title": "Want to buy a genuine Batsuit? It'll cost at least $165,000",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-18T20:00:05.000Z",
-      "description": "The newest installment of the Grand Theft Auto video game launches on November 19. Fans of the franchise who have been waiting more than a decade for the release told Reuters they plan to spend all night in the virtual a"
-    },
-    {
-      "id": "Kp_ZTOfNBrQ",
-      "title": "'Extreme wealth can become a type of brain damage': Journalist Alexander Hurst • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-18T13:19:19.000Z",
-      "description": "An international journalist who poured his meagre savings into highly risky options trading at the start of the Covid-19 pandemic and quickly made $1.2 million, before losing it all again, has spoken to FRANCE 24 about h"
-    },
-    {
-      "id": "hOFw0Rw5KTI",
-      "title": "Can Burnham make hard choices?",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-18T13:45:12.000Z",
-      "description": "As negotiations over the next phase of the UK’s relationship with Europe go to the wire, are there already holes in the prime minister’s plans?"
-    },
-    {
-      "id": "ZV43YA0mJRg",
-      "title": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-18T21:00:19.000Z",
-      "description": "Cameron Bancroft, banned over the 2018 “Sandpapergate” ball-tampering scandal, has reopened old wounds by claiming the entire Australian team knew about the plot, not just the three players punished."
+      "publishedAt": "2026-11-18T20:36:01.000Z",
+      "description": "Marie-Louise Gumuchian got a sneak preview of the goods on offer at Propstore's winter auction. Some of the items going under the hammer include retro superhero props from \"Batman\" and \"Superman\" franchises, as well as H"
     }
   ]
 }

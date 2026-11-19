@@ -1,0 +1,106 @@
+{
+  "slug": "why-are-israeli-forces-launching-a-rare-ground-operation-in-central-gaza",
+  "status": "published",
+  "type": "explainer",
+  "category": "world",
+  "region": "Middle East",
+  "headline": "Why are Israeli forces launching a rare ground operation in central Gaza?",
+  "standfirst": "Israeli ground forces have launched a rare operation in central Gaza outside their usual control, sparking renewed displacement and sharp condemnation from Hamas.",
+  "keyPoints": [
+    "Israeli tanks advanced east of the Nuseirat refugee camp into an area outside direct military control.",
+    "The military stated the operation was a targeted effort to dismantle a threat and a 'terror tunnel' west of the Yellow Line.",
+    "Hamas condemned the incursion as a flagrant violation of the ongoing ceasefire agreement.",
+    "Evacuation orders forced numerous Palestinian residents to flee their shelters along the Salah al-Din road."
+  ],
+  "sections": [
+    {
+      "heading": "What is happening on the ground in central Gaza?",
+      "paragraphs": [
+        "Israeli military forces have launched a rare ground incursion into parts of the central Gaza Strip that sit outside territory under their direct control. Tanks and armored vehicles advanced under heavy artillery cover near the Nuseirat refugee camp, rolling onto the territory's vital north-to-south transport route, the Salah al-Din road.",
+        "The operation was preceded by urgent evacuation warnings issued by COGAT, the Israeli military body handling civilian affairs in the territories. Residents living north of Nuseirat and the Bureij refugee camp were told to clear out immediately for their own safety, while sections of the main highway were temporarily closed to all civilian traffic."
+      ]
+    },
+    {
+      "heading": "Why did the Israeli military launch this operation?",
+      "paragraphs": [
+        "According to the Israel Defense Forces and the Shin Bet security service, the joint operation was launched to dismantle a specific military threat. Officials pointed to a \"terror tunnel\" situated west of the Yellow Line—the boundary marking territory currently occupied by Israeli forces following a ceasefire arrangement.",
+        "The military maintained that the infrastructure posed an immediate danger to troops operating in the region. They stressed that forces are deployed in accordance with existing agreements and will continue to act to thwart any threats or attempts to harm Israeli personnel or civilians."
+      ]
+    },
+    {
+      "heading": "How have Hamas and local residents reacted?",
+      "paragraphs": [
+        "Palestinian group Hamas strongly denounced the incursion, labeling it a dangerous development and a flagrant violation of the October 2025 ceasefire agreement. Civil defense agencies also reported casualties from separate drone strikes accompanying the broader tensions in the area.",
+        "For ordinary civilians, the sudden escalation brought immediate distress. Countless families who had previously sought shelter in central Gaza were forced to pack up quickly and flee on foot or cart, expressing deep fears that the localized fighting could trigger a broader wave of displacement."
+      ]
+    },
+    {
+      "heading": "What is the wider context of the ceasefire?",
+      "paragraphs": [
+        "The latest military move unfolds against the backdrop of a fragile and strained ceasefire that has held through frequent flare-ups over the past year. While large-scale combat slowed following a US-brokered peace plan, periodic clashes, strikes, and mutual accusations of violations have remained common.",
+        "Larger political and structural questions, including the future disarmament of Hamas and the rebuilding of heavily damaged infrastructure across the enclave, continue to stall comprehensive long-term resolutions, leaving the humanitarian situation for millions of displaced residents persistently dire."
+      ]
+    }
+  ],
+  "highlight": "Countless families who had previously sought shelter in central Gaza were forced to pack up quickly and flee on foot or cart.",
+  "timeline": [],
+  "tags": [
+    "Israel",
+    "Gaza",
+    "Hamas",
+    "ceasefire",
+    "Nuseirat"
+  ],
+  "socialSummary": "Israeli forces launch a rare ground operation in central Gaza, prompting urgent evacuations and sharp condemnation from Hamas.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/A_Palestinian_refugee_carries_his_injured_grandchildren_from_the_Israeli_bombing_of_Nuseirat_Camp%2C_Gaza_Strip.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "alt": "A Palestinian refugee carries his injured grandchildren from the Israeli bombing of Nuseirat Camp, Gaza Strip",
+    "credit": "Ashraf Amra / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:A_Palestinian_refugee_carries_his_injured_grandchildren_from_the_Israeli_bombing_of_Nuseirat_Camp,_Gaza_Strip.jpg",
+    "license": "CC BY-SA 3.0 igo",
+    "provider": "wikimedia",
+    "query": "Nuseirat refugee camp Gaza",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "Nuseirat refugee camp Gaza",
+    "names": [
+      "Nuseirat"
+    ],
+    "subject": "refugee camp tents"
+  },
+  "sources": [
+    {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/19/world/israel-ground-operation-gaza/"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "name": "Sky News",
+      "url": "https://news.sky.com/story/israeli-troops-launch-ground-operation-in-central-gaza-13613724"
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza"
+    }
+  ],
+  "sourceTitles": [
+    "Israel launches ground operation in central Gaza as dozens flee",
+    "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "Israeli troops launch ground operation in central Gaza",
+    "Israeli army launches ground operation in Hamas-controlled area of Gaza",
+    "Israel army launches ground operation in Hamas-controlled area of Gaza",
+    "Israel launches new ground operation in Gaza"
+  ],
+  "sourceCount": 7,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-11-19T03:18:20.893Z",
+  "updatedAt": "2026-11-19T03:18:20.893Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-are-israeli-forces-launching-a-rare-ground-operation-in-central-gaza.jpg"
+}

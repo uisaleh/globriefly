@@ -1,40 +1,24 @@
-21:52:52 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-21:52:52 collecting videos…
-21:52:52   video feed BBC News: 15 in feed, 5 kept
-21:52:52   video feed Al Jazeera English: 15 in feed, 5 kept
-21:52:52   video feed DW News: 15 in feed, 5 kept
-21:52:52   video feed FRANCE 24 English: 15 in feed, 5 kept
-21:52:52   video feed Sky News: 15 in feed, 5 kept
-21:52:53   video feed Reuters: 15 in feed, 5 kept
-21:52:53   video feed Associated Press: 15 in feed, 5 kept
-21:52:53 videos: saved 24
-21:52:53 collecting feeds…
-21:52:55 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-21:52:55 955 new items
-21:52:57 764 candidate stories
-21:52:57 categories needing stories: world, technology, science, sports, entertainment, politics → reserved world
-21:52:57 writing: Democrats nominate Hakeem Jeffries to be US Speaker of the House (11 sources)
-21:53:00   source text: 3865 / 2651 / 352 / 1116 chars
-21:53:07 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-21:53:20   too close to source wording — rewriting
-21:53:33   ✓ published: /news/house-democrats-pick-hakeem-jeffries-to-lead-chamber-as-speaker/ [world] image: wikimedia via name "Hakeem Jeffries"
-21:53:33 writing: Grand Theft Auto VI Enters the Gaming Pantheon With Rapturous Reviews (6 sources)
-21:53:33   source text: 2727 / 3818 / 3818 chars
-21:53:42   441 words — asking for a fuller article
-21:53:51 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-21:54:09   ✓ published: /news/grand-theft-auto-vi-arrives-to-record-acclaim-and-massive-global-hype/ [technology] image: wikimedia via name "Grand Theft Auto VI"
-21:54:09 done — 2 stories
+03:17:56 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+03:17:56 collecting videos…
+03:17:56   video feed BBC News: 15 in feed, 5 kept
+03:17:56   video feed Al Jazeera English: 15 in feed, 5 kept
+03:17:57   video feed DW News: 15 in feed, 5 kept
+03:17:57   video feed FRANCE 24 English: 15 in feed, 5 kept
+03:17:57   video feed Sky News: 15 in feed, 5 kept
+03:17:57   video feed Reuters: 15 in feed, 5 kept
+03:17:57   video feed Associated Press: 15 in feed, 5 kept
+03:17:57 videos: saved 24
+03:17:57 collecting feeds…
+03:18:01 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+03:18:01 839 new items
+03:18:03 651 candidate stories
+03:18:03 categories needing stories: politics, science, health, sports, entertainment, world, technology → reserved politics
+03:18:03 writing: Brejoin? Is Andy Burnham going to reverse Brexit? – podcast (3 sources)
+03:18:03   source text: 934 / 1430 / 0 chars
+03:18:09   ✓ published: /news/andy-burnham-heads-to-brussels-to-finalise-a-package-of-agreements-with/ [politics] image: wikimedia via idea "Andy Burnham"
+03:18:09 writing: Israel launches ground operation in central Gaza as dozens flee (7 sources)
+03:18:11   source text: 4511 / 0 / 460 / 4402 / 3576 chars
+03:18:16   ✓ published: /news/israeli-military-forces-advance-into-central-gaza-amid-evacuation/ [world] image: wikimedia via idea "Nuseirat refugee camp Gaza"
+03:18:16 writing explainer for: Israel launches ground operation in central Gaza as dozens flee
+03:18:21   ✓ explainer: /news/why-are-israeli-forces-launching-a-rare-ground-operation-in-central-gaza/
+03:18:21 done — 2 stories
