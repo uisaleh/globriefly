@@ -94,6 +94,9 @@
   "publishedAt": "2026-11-19T21:27:02.235Z",
   "updatedAt": "2026-11-19T21:27:02.235Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174964638681745",
+    "sharedAt": "2026-11-19T21:30:28.472Z"
+  },
   "ogImage": "/og/new-study-reveals-how-trace-iron-impacts-hydrogen-production-systems.jpg"
 }

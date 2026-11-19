@@ -111,6 +111,9 @@
   "publishedAt": "2026-11-19T21:27:16.679Z",
   "updatedAt": "2026-11-19T21:27:16.679Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174964836681745",
+    "sharedAt": "2026-11-19T21:30:49.580Z"
+  },
   "ogImage": "/og/trump-xi-and-putin-hold-first-trilateral-summit-in-shenzhen.jpg"
 }
