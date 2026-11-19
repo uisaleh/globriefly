@@ -111,6 +111,9 @@
   "publishedAt": "2026-11-19T03:18:16.221Z",
   "updatedAt": "2026-11-19T03:18:16.221Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174908826681745",
+    "sharedAt": "2026-11-19T03:22:00.126Z"
+  },
   "ogImage": "/og/israeli-military-forces-advance-into-central-gaza-amid-evacuation.jpg"
 }

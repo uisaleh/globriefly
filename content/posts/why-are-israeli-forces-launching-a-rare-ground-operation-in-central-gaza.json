@@ -101,6 +101,9 @@
   "publishedAt": "2026-11-19T03:18:20.893Z",
   "updatedAt": "2026-11-19T03:18:20.893Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174908988681745",
+    "sharedAt": "2026-11-19T03:22:24.049Z"
+  },
   "ogImage": "/og/why-are-israeli-forces-launching-a-rare-ground-operation-in-central-gaza.jpg"
 }

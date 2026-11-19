@@ -104,6 +104,9 @@
   "publishedAt": "2026-11-19T03:18:08.802Z",
   "updatedAt": "2026-11-19T03:18:08.802Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122174908598681745",
+    "sharedAt": "2026-11-19T03:21:36.452Z"
+  },
   "ogImage": "/og/andy-burnham-heads-to-brussels-to-finalise-a-package-of-agreements-with.jpg"
 }
