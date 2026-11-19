@@ -1,24 +1,23 @@
-03:17:56 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-03:17:56 collecting videos…
-03:17:56   video feed BBC News: 15 in feed, 5 kept
-03:17:56   video feed Al Jazeera English: 15 in feed, 5 kept
-03:17:57   video feed DW News: 15 in feed, 5 kept
-03:17:57   video feed FRANCE 24 English: 15 in feed, 5 kept
-03:17:57   video feed Sky News: 15 in feed, 5 kept
-03:17:57   video feed Reuters: 15 in feed, 5 kept
-03:17:57   video feed Associated Press: 15 in feed, 5 kept
-03:17:57 videos: saved 24
-03:17:57 collecting feeds…
-03:18:01 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-03:18:01 839 new items
-03:18:03 651 candidate stories
-03:18:03 categories needing stories: politics, science, health, sports, entertainment, world, technology → reserved politics
-03:18:03 writing: Brejoin? Is Andy Burnham going to reverse Brexit? – podcast (3 sources)
-03:18:03   source text: 934 / 1430 / 0 chars
-03:18:09   ✓ published: /news/andy-burnham-heads-to-brussels-to-finalise-a-package-of-agreements-with/ [politics] image: wikimedia via idea "Andy Burnham"
-03:18:09 writing: Israel launches ground operation in central Gaza as dozens flee (7 sources)
-03:18:11   source text: 4511 / 0 / 460 / 4402 / 3576 chars
-03:18:16   ✓ published: /news/israeli-military-forces-advance-into-central-gaza-amid-evacuation/ [world] image: wikimedia via idea "Nuseirat refugee camp Gaza"
-03:18:16 writing explainer for: Israel launches ground operation in central Gaza as dozens flee
-03:18:21   ✓ explainer: /news/why-are-israeli-forces-launching-a-rare-ground-operation-in-central-gaza/
-03:18:21 done — 2 stories
+12:55:02 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+12:55:02 collecting videos…
+12:55:02   video feed BBC News: 15 in feed, 5 kept
+12:55:02   video feed Al Jazeera English: 15 in feed, 5 kept
+12:55:02   video feed DW News: 15 in feed, 5 kept
+12:55:02   video feed FRANCE 24 English: 15 in feed, 5 kept
+12:55:03   video feed Sky News: 15 in feed, 5 kept
+12:55:03   video feed Reuters: 15 in feed, 5 kept
+12:55:03   video feed Associated Press: 15 in feed, 5 kept
+12:55:03 videos: saved 24
+12:55:03 collecting feeds…
+12:55:14 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+12:55:14 762 new items
+12:55:15 553 candidate stories
+12:55:15 categories needing stories: business, science, health, sports, entertainment, politics, technology → reserved business
+12:55:15 writing: Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t? (2 sources)
+12:55:15   source text: 0 / 0 chars
+12:55:36   ✓ published: /news/anthropic-debuts-with-historic-initial-public-offering/ [business] image: wikimedia via subject "stock market trading floor screen"
+12:55:36 writing: Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya (14 sources)
+12:55:52   source text: 944 / 5040 / 0 / 4540 / 373 chars
+12:56:03   too close to source wording — rewriting
+12:56:14   ✓ published: /news/international-court-finds-myanmar-guilty-of-genocide-against-rohingya/ [world] image: wikimedia via idea "International Court of Justice The Hague"
+12:56:14 done — 2 stories

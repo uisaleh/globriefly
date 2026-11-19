@@ -1,21 +1,85 @@
 {
-  "updatedAt": "2026-11-19T03:17:57.063Z",
+  "updatedAt": "2026-11-19T12:55:03.075Z",
   "videos": [
     {
-      "id": "LqdEnypZL0A",
-      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+      "id": "EDDkLJ652Ho",
+      "title": "Can Anthropic afford to put AI safety first?",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-19T03:00:47.000Z",
-      "description": "China’s Xi greets Putin and Trump at APEC before historic summit"
+      "publishedAt": "2026-11-19T12:38:16.000Z",
+      "description": "As Anthropic begins selling shares as it trades publicly on the stock market, can it still put safety first while keeping investors happy? Al Jazeera’s @Lina_Serene explains."
     },
     {
-      "id": "ei488ldNDfI",
-      "title": "Drill digs 400 feet into bedrock for the new rail tunnel between New Jersey and New York",
+      "id": "INxP4hZhx40",
+      "title": "Nigeria: States set to get their own police forces • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-19T12:20:33.000Z",
+      "description": "Nigeria has moved a step closer to letting its 36 states set up their own police forces. The National Assembly has sent a constitutional amendment bill to the president, as authorities seek state-run police to complement"
+    },
+    {
+      "id": "WMGxuHjiJ2w",
+      "title": "Graduate unemployment reaches record high in Germany",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-19T12:16:09.000Z",
+      "description": "A university education was long regarded as a guarantee of employment in Germany. But with the economy stagnating, the labor market is feeling the squeeze, and young people are finding it harder to launch their careers."
+    },
+    {
+      "id": "v3xE1QI1jOE",
+      "title": "Russian nuclear briefcase follows Putin to China",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-19T12:08:52.000Z",
+      "description": "A member of President Vladimir Putin's delegation carried what is said to be Russia's nuclear briefcase, used to order a nuclear strike, during the APEC summit in China, visuals broadcast by Russian state television show"
+    },
+    {
+      "id": "jKC75ZC7O6s",
+      "title": "Myanmar committed acts of genocide against Rohingya population, Top UN court finds",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-19T12:06:24.000Z",
+      "description": "The International Court of Justice rules on whether Myanmar committed genocide of Rohingya Muslims, particularly in the military operation in Rakhine State. Myanmar denies the claim."
+    },
+    {
+      "id": "-TiyiVY2wPQ",
+      "title": "WATCH: Leaders arrive in Berlin for ‘coalition of the willing’ meeting on Ukraine",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-19T03:00:06.000Z",
-      "description": "Two massive tunnel-boring machines are excavating parallel rail tunnels beneath New Jersey’s Palisades. One has advanced about 400 feet into the bedrock, while the other, launched this month, has dug about 30 feet. (AP V"
+      "publishedAt": "2026-11-19T12:06:20.000Z",
+      "description": "Watch as Ukrainian President Volodymyr Zelenskyy and other leaders arrive for a meeting of Ukraine’s allies, dubbed ‘coalition of the willing,’ hosted in Berlin by German Chancellor Friedrich Merz."
+    },
+    {
+      "id": "zbd2pShpH3A",
+      "title": "How the first Grand Theft Auto was made",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-19T09:40:03.000Z",
+      "description": "Back in 1996, BBC Working Lunch went behind the scenes to visit the team making the first Grand Theft Auto."
+    },
+    {
+      "id": "zmdR8dRYM4E",
+      "title": "Brexit regret grows as UK politicians reconsider ties with EU",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-19T12:32:11.000Z",
+      "description": "Brexit regret is growing in Britain as politicians signal openness to closer EU ties. Exporters say leaving the bloc has hurt their businesses. Al Jazeera's Rory Challands reports."
+    },
+    {
+      "id": "EjCUa_iCFbE",
+      "title": "French 2027 presidential race: Green leader Tondelier draws closer to hard-left Mélenchon",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-19T12:09:43.000Z",
+      "description": "Six months before the first round of France’s presidential election, Green party leader Marine Tondelier is moving closer to Jean-Luc Mélenchon, the leader of the radical left. The move has caught the other candidates on"
+    },
+    {
+      "id": "l6-dNUopVvk",
+      "title": "Why Anthropic's IPO is a big deal!",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-19T10:53:03.000Z",
+      "description": "All eyes are on Anthropic's IPO. The fast-growing AI company has finally decided to go public. But its stock market debut comes at a time when Wall Street is growing increasingly concerned about the enormous spending beh"
     },
     {
       "id": "AdagGOfK8yI",
@@ -26,28 +90,36 @@
       "description": "Floodwaters surged through streets and parking lots in Davie, Florida, after heavy rain caused widespread flooding across parts of South Florida."
     },
     {
-      "id": "jtSxgfLcVZ4",
-      "title": "Why the GTA 6 launch is taking over the world",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-19T01:57:52.000Z",
-      "description": "After 13 years of waiting, Grand Theft Auto VI is finally here, and this is no ordinary launch. Players are taking time off work, internet networks are bracing for huge traffic spikes, and GTA 6 could become one of the b"
-    },
-    {
-      "id": "ID6lSrUtsXU",
-      "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-19T01:14:19.000Z",
-      "description": ""
-    },
-    {
-      "id": "vf9pg_UfPpc",
-      "title": "Prince Harry says he would rejoin the military to fight Russia",
+      "id": "DNjAuVbeDY4",
+      "title": "Putin says meeting with Trump and Xi could lead to further talks",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-18T23:08:18.000Z",
-      "description": "Prince Harry has said he would be willing to rejoin the military to fight Russia, in a Telegraph interview during a visit to Ukraine."
+      "publishedAt": "2026-11-19T08:13:06.000Z",
+      "description": "Watch live from Shenzhen, China as Russian President Vladimir Putin speaks at the conclusion of trilateral meeting with Xi Jinping and Donald Trump."
+    },
+    {
+      "id": "aJiBMHVahEI",
+      "title": "Trump, Xi and Putin hold an unprecedented three-way summit in China",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-19T11:30:02.000Z",
+      "description": "Chinese President Xi Jinping, U.S. President Donald Trump and Russian President Vladimir Putin met in Shenzhen on Thursday for an unprecedented trilateral summit. Xi called the meeting an event of “groundbreaking signifi"
+    },
+    {
+      "id": "3VNkxQoOpow",
+      "title": "Are homes at risk from flooded mines?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-19T07:00:17.000Z",
+      "description": "Communities around the UK could face the same fate as a flooded Welsh village if work is not done to manage the risk of underground mine water, the BBC has been told. "
+    },
+    {
+      "id": "AelYiBvJSts",
+      "title": "Van Gogh painting sells for $190 million after Nazi-era dispute resolved",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-19T12:31:55.000Z",
+      "description": "Subscribe to our channel: http://bit.ly/AJSubscribe"
     },
     {
       "id": "OBaRrFogr2k",
@@ -58,76 +130,12 @@
       "description": "With its nutty flavour and smooth, supple texture, it was aged for two years in a former military fortress in eastern France. Comté, an unpasteurised cow’s milk cheese from the Jura Mountains, has beaten more than five t"
     },
     {
-      "id": "qSVbHQq5wCg",
-      "title": "Google’s driverless car hits a roadblock",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-19T02:56:57.000Z",
-      "description": "Waymo, Google's sister company under Alphabet, faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents. California has barred its vehicles from state highways, prompt"
-    },
-    {
-      "id": "6rDMArLV1sk",
-      "title": "Artists transform the Graffiti Mansion in Las Vegas for GTA 6",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-18T21:11:08.000Z",
-      "description": "Arman Izadi and fellow artists have transformed the Graffiti Mansion into a Grand Theft Auto marvel in Las Vegas. The mansion's design draws inspiration from different eras of the game, with the front paying homage to Sa"
-    },
-    {
-      "id": "AGOdfoNf40o",
-      "title": "Wall Street ends mixed after Nvidia earnings; Anthropic prices IPO",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-19T01:29:18.000Z",
-      "description": "US stocks ended on a mixed note as investors weighed Nvidia's earnings, Anthropic's IPO pricing and hawkish signals in the US Federal Reserve minutes."
-    },
-    {
-      "id": "yN5dnMZg9hI",
-      "title": "Chileans protest proposed cuts in 2027 budget",
+      "id": "jtSxgfLcVZ4",
+      "title": "Why the GTA 6 launch is taking over the world",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-19T00:25:16.000Z",
-      "description": "Demonstrators in Chile took to the streets to protest proposed cuts in the 2027 budget, arguing they will compromise education, housing and public services for the broader population. Chile saw similar demonstrations led"
-    },
-    {
-      "id": "uetghODqms4",
-      "title": "Waymo pulls driverless taxis from all US freeways.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-18T23:45:12.000Z",
-      "description": ""
-    },
-    {
-      "id": "9t_QXcs6KOM",
-      "title": "UK government asks Google to deactivate Russell Brand's YouTube account",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-18T23:01:31.000Z",
-      "description": "Join Anna Botting on The Wrap, as the UK government calls on Google to take down Russell Brand's YouTube account after the convicted rapist was able to publish a message claiming his innocence."
-    },
-    {
-      "id": "wS8zkenM4dY",
-      "title": "Inside Limoges City Hall devastated by arson attack • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-18T22:24:24.000Z",
-      "description": "Work is underway to restore the city hall of Limoges, in central France, which was devastated by an arson attack during riots on October 17. More than €1.7 million has been raised through an online fundraising campaign i"
-    },
-    {
-      "id": "KRXhtrAGDUg",
-      "title": "Anthropic’s record-breaking IPO puts investor confidence in AI to the test",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-19T02:50:16.000Z",
-      "description": "AI firm Anthropic, maker of Claude, sets an $83 share price for a blockbuster IPO that could raise over $50bn despite heavy losses, testing investor faith in AI and wider tech valuations. "
-    },
-    {
-      "id": "bM9592WFPH8",
-      "title": "David Beckham sues for $41 million after his perfume is sold in gas stations",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-18T20:14:14.000Z",
-      "description": "David Beckham’s company is suing a beauty firm after his “luxury” fragrances were allegedly found for sale in discount stores and a gas station bargain bin. DB Ventures is seeking at least $41 million in damages from Cot"
+      "publishedAt": "2026-11-19T01:57:52.000Z",
+      "description": "After 13 years of waiting, Grand Theft Auto VI is finally here, and this is no ordinary launch. Players are taking time off work, internet networks are bracing for huge traffic spikes, and GTA 6 could become one of the b"
     },
     {
       "id": "-gjVcmI3kcM",
@@ -138,60 +146,52 @@
       "description": "Federal Reserve Governor Michael Barr said he’s likely to be on board ‌with tighter monetary policy in an economy still beset by inflation pressures."
     },
     {
-      "id": "TA1VIfYlqpo",
-      "title": "The first ever formal trilateral meeting of Xi, Trump and Putin",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-18T23:00:12.000Z",
-      "description": "World leaders are gathering in the Chinese city of Shenzhen, where President Xi Jinping is hosting the Asia-Pacific Economic Cooperation, or APEC, summit. It brings together top executives and heads of government. But al"
-    },
-    {
-      "id": "ZDZoZzN-1ms",
-      "title": "What we learned from William and Kate's visit to India.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-18T23:16:42.000Z",
-      "description": ""
-    },
-    {
-      "id": "4O0UeGbOyLY",
-      "title": "GTA VI fan uses AI to write 'do not disturb' contract with family",
+      "id": "vf9pg_UfPpc",
+      "title": "Prince Harry says he would rejoin the military to fight Russia",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-18T22:25:24.000Z",
-      "description": "Grand Theft Auto VI superfan Sean Little has taken his dedication to playing the highly anticipated game to the next level, using ChatGPT to create a joke 'do not disturb contract' with his family. "
+      "publishedAt": "2026-11-18T23:08:18.000Z",
+      "description": "Prince Harry has said he would be willing to rejoin the military to fight Russia, in a Telegraph interview during a visit to Ukraine."
     },
     {
-      "id": "dkQNf6kbtfU",
-      "title": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-18T21:45:48.000Z",
-      "description": "Ukraine struck the Kerch Bridge linking Russia to occupied Crimea, but not all the dramatic footage circulating online is real. Multiple AI-generated videos falsely show the bridge collapsed with extensive damage. Some e"
-    },
-    {
-      "id": "Ix5q73PLJRE",
-      "title": "Hegseth unveils new US-Venezuela military deal",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-19T01:48:01.000Z",
-      "description": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the January US military raid to capture President Nicolas Maduro. The visit comes amid growing unease in Venezuela about the US’s infl"
-    },
-    {
-      "id": "KmCPFrkOZ5s",
-      "title": "Hakeem Jeffries says it's a 'high honor' to be nominated for House speaker",
+      "id": "ei488ldNDfI",
+      "title": "Drill digs 400 feet into bedrock for the new rail tunnel between New Jersey and New York",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-18T19:42:46.000Z",
-      "description": "Hakeem Jeffries vowed to fight hard for Americans after House Democrats nominated him to become the first Black House speaker. His leadership team also makes history, with Katherine Clark poised to become the first femal"
+      "publishedAt": "2026-11-19T03:00:06.000Z",
+      "description": "Two massive tunnel-boring machines are excavating parallel rail tunnels beneath New Jersey’s Palisades. One has advanced about 400 feet into the bedrock, while the other, launched this month, has dug about 30 feet. (AP V"
     },
     {
-      "id": "_4PHQyLFaD4",
-      "title": "Want to buy a genuine Batsuit? It'll cost at least $165,000",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-18T20:36:01.000Z",
-      "description": "Marie-Louise Gumuchian got a sneak preview of the goods on offer at Propstore's winter auction. Some of the items going under the hammer include retro superhero props from \"Batman\" and \"Superman\" franchises, as well as H"
+      "id": "Ufx7KElJJow",
+      "title": "The £13-an-hour workers making life-or-death decisions in Britain's care system",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-19T06:00:33.000Z",
+      "description": "Every day, social care workers make decisions that can change lives, yet many earn little more than the minimum wage. "
+    },
+    {
+      "id": "qSVbHQq5wCg",
+      "title": "Google’s driverless car hits a roadblock",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-19T02:56:57.000Z",
+      "description": "Waymo, Google's sister company under Alphabet, faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents. California has barred its vehicles from state highways, prompt"
+    },
+    {
+      "id": "wS8zkenM4dY",
+      "title": "Inside Limoges City Hall devastated by arson attack • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-18T22:24:24.000Z",
+      "description": "Work is underway to restore the city hall of Limoges, in central France, which was devastated by an arson attack during riots on October 17. More than €1.7 million has been raised through an online fundraising campaign i"
+    },
+    {
+      "id": "yN5dnMZg9hI",
+      "title": "Chileans protest proposed cuts in 2027 budget",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-19T00:25:16.000Z",
+      "description": "Demonstrators in Chile took to the streets to protest proposed cuts in the 2027 budget, arguing they will compromise education, housing and public services for the broader population. Chile saw similar demonstrations led"
     }
   ]
 }

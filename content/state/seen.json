@@ -1,19 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss": 1794481034950,
-    "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp": 1794481034950,
-    "https://www.scmp.com/tech/big-tech/article/3374203/loyalty-vs-accountability-look-nvidia-board-deciding-ceo-jensen-huangs-fate": 1794481043469,
-    "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories": 1794481043469,
-    "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest": 1794481043469,
-    "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html": 1794481043469,
-    "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair": 1794481043469,
-    "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html": 1794481043469,
-    "https://www.thehindu.com/news/international/nvidia-preparing-to-oust-ceo-jensen-huang-us-media/article71692138.ece": 1794481043469,
-    "https://www.france24.com/en/americas/20261112-nvidia-board-weighs-ouster-of-ceo-jensen-huang-amid-spy-scandal": 1794481043469,
-    "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html": 1794481043469,
-    "https://www.cbsnews.com/video/nvidias-board-preparing-oust-ceo-jensen-huang-sources-say/": 1794481043469,
-    "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/": 1794481043469,
-    "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/": 1794481043469,
     "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss": 1794528903465,
     "https://fortune.com/2026/11/12/nvidia-next-ceo-the-outside-contenders-to-succeed-jensen-huang/": 1794528903465,
     "https://www.nytimes.com/2026/11/12/podcasts/hardfork-jensen-huang-resigns.html": 1794528903465,
@@ -256,11 +242,27 @@
     "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf": 1795058295865,
     "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza": 1795058295865,
     "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line": 1795058295865,
-    "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire": 1795058295865
+    "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire": 1795058295865,
+    "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories": 1795092921101,
+    "https://www.france24.com/en/tv-shows/business/20261119-ai-lab-anthropic-sets-stock-market-record-with-81-billion-ipo": 1795092921101,
+    "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide": 1795092973534,
+    "http://www.africanews.com/2026/11/19/myanmar-committed-genocide-against-rohingya-icj-finds/": 1795092973534,
+    "https://www.cbsnews.com/news/myanmar-genocide-rohingyas-un-top-court/": 1795092973534,
+    "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya": 1795092973534,
+    "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244": 1795092973534,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss": 1795092973534,
+    "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar": 1795092973534,
+    "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/myanmar-rohingya-genocide/": 1795092973534,
+    "https://www.euronews.com/2026/11/19/myanmar-guilty-of-genocide-against-rohingya-un-court-rules": 1795092973534,
+    "https://www.scmp.com/news/asia/southeast-asia/article/3375102/un-top-court-says-myanmar-committed-genocide-against-rohingya": 1795092973534,
+    "https://www.thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece": 1795092973534,
+    "https://www.thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece": 1795092973534,
+    "https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide": 1795092973534,
+    "https://www.dw.com/en/icj-myanmar-committed-genocide-against-rohingya/a-79987898?maca=en-rss-en-all-1573-rdf": 1795092973534,
+    "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss": 1795092973534,
+    "https://www.channelnewsasia.com/asia/myanmar-genocide-case-rohingya-international-court-justice-icj-un-6564571": 1795092973534
   },
   "fps": {
-    "economy-fastest-grows-rate-two-years": 1794481034950,
-    "accountability-board-ceo-deciding-fate-huang-jensen-look": 1794481043469,
     "ceo-chipmaking-giant-hit-huang-jensen-nvidia-plunging": 1794528903465,
     "deadliest-election-gaza-hospital-israeli-since-strike": 1794528916646,
     "affair-fight-huang-job-report-scandals-told-trump": 1794556511939,
@@ -303,6 +305,8 @@
     "democrats-hakeem-house-jeffries-nominate-speaker": 1795038809348,
     "auto-enters-gaming-grand-pantheon-rapturous-reviews-theft": 1795038847729,
     "andy-brejoin-brexit-burnham-going-podcast-reverse": 1795058288426,
-    "central-dozens-flee-gaza-ground-israel-launches-operation": 1795058295865
+    "central-dozens-flee-gaza-ground-israel-launches-operation": 1795058295865,
+    "anthropic-can-couldn-earnings-ipo-market-nvidia-stock": 1795092921101,
+    "committed-court-genocide-live-myanmar-rohingya-rules-updates": 1795092973535
   }
 }
