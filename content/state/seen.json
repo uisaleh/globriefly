@@ -1,31 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss": 1794528903465,
-    "https://fortune.com/2026/11/12/nvidia-next-ceo-the-outside-contenders-to-succeed-jensen-huang/": 1794528903465,
-    "https://www.nytimes.com/2026/11/12/podcasts/hardfork-jensen-huang-resigns.html": 1794528903465,
-    "https://thehill.com/homenews/analysis/6217604-nvidias-jensen-huang-resigned/": 1794528903465,
-    "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/": 1794528903465,
-    "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals": 1794528903465,
-    "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns": 1794528903465,
-    "https://www.channelnewsasia.com/world/nvidia-markets-jensen-huang-resigns-6547596": 1794528903465,
-    "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": 1794528903465,
-    "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html": 1794528903465,
-    "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html": 1794528903465,
-    "https://www.thehindu.com/news/international/nvidia-ceo-jensen-huang-resigns-amid-scandal/article71694271.ece": 1794528903465,
-    "https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html": 1794528903465,
-    "https://www.euronews.com/2026/11/12/nvidias-jensen-huang-resigns-over-relationship-with-suspected-chinese-spy": 1794528903465,
-    "https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo/": 1794528903465,
-    "https://www.channelnewsasia.com/world/nvidia-ceo-jensen-huang-resigns-6546526": 1794528903465,
-    "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/": 1794528903465,
-    "https://abcnews.com/International/wireStory/scandal-hit-jensen-huang-loses-shine-birthplace-taiwan-138073575": 1794528903465,
-    "https://www.channelnewsasia.com/world/israel-gaza-strike-nasser-hospital-11-killed-6547556": 1794528916646,
-    "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say": 1794528916646,
-    "https://www.scmp.com/news/world/middle-east/article/3374264/israeli-strike-gaza-hospital-kills-11-deadliest-attack-election": 1794528916646,
-    "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss": 1794528916646,
-    "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss": 1794528916646,
-    "http://www.africanews.com/2026/11/12/gaza-devastation-inside-nasser-hospital-after-deadly-israeli-strike/": 1794528916646,
-    "https://www.euronews.com/video/2026/11/12/gaza-devastation-inside-nasser-hospital-after-deadly-israeli-strike": 1794528916646,
-    "https://www.cbsnews.com/news/israel-strike-gaza-hospital-kills-several/": 1794528916646,
     "https://thehill.com/homenews/administration/6217994-trump-nvidia-ceo-huang-resignation/": 1794556511939,
     "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html": 1794556511939,
     "https://timesofindia.indiatimes.com/world/us/trump-backed-nvidias-jensen-huang-till-end-urged-him-to-fight-for-job-amid-spy-scandal-report/articleshow/135786217.cms": 1794556511939,
@@ -267,11 +241,16 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss": 1795123636141,
     "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote": 1795123636141,
     "https://www.scmp.com/news/china/diplomacy/article/3375122/power-plays-verbal-displays-xi-trump-putin-talk-historic-apec-summit-explained": 1795123636141,
-    "https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about": 1795123636141
+    "https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about": 1795123636141,
+    "https://www.billboard.com/culture/product-recommendations/prime-video-black-friday-cyber-monday-streaming-deals-2026-1236385908/": 1795143960224,
+    "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/": 1795143960224,
+    "https://www.wired.com/story/hatch-black-friday-deals-2026/": 1795143960224,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss": 1795143980563,
+    "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-rdf": 1795143980563,
+    "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss": 1795143980563,
+    "https://www.scmp.com/news/world/united-states-canada/article/3375134/world-famous-hippo-fiona-dies-us-days-after-swallowing-visitors-hat": 1795143980563
   },
   "fps": {
-    "ceo-chipmaking-giant-hit-huang-jensen-nvidia-plunging": 1794528903465,
-    "deadliest-election-gaza-hospital-israeli-since-strike": 1794528916646,
     "affair-fight-huang-job-report-scandals-told-trump": 1794556511939,
     "blue-challenge-chris-chuck-coming-hollen-leadership-majority": 1794556541085,
     "causing-day-disruption-microsoft-outage-outlook-second-stretches": 1794586509037,
@@ -316,6 +295,8 @@
     "anthropic-can-couldn-earnings-ipo-market-nvidia-stock": 1795092921101,
     "committed-court-genocide-live-myanmar-rohingya-rules-updates": 1795092973535,
     "abundant-can-crops-global-hydrogen-improving-production-support": 1795123621404,
-    "first-power-project-putin-seek-summit-trump": 1795123636141
+    "first-power-project-putin-seek-summit-trump": 1795123636141,
+    "add-amazon-big-black-cyber-deals-friday-monday": 1795143960224,
+    "beloved-days-dies-fiona-hat-hippo-swallowing-visitor": 1795143980563
   }
 }

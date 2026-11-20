@@ -1,13 +1,189 @@
 {
-  "updatedAt": "2026-11-19T21:26:32.397Z",
+  "updatedAt": "2026-11-20T03:05:26.691Z",
   "videos": [
     {
-      "id": "iEUXD7OFzYU",
-      "title": "PM says 'we've heard quite enough' from Russell Brand as YouTube urged to act",
+      "id": "iBuswb3dbFA",
+      "title": "Iraq oil smuggling: Showdown looms between government and Kataib Hezbollah",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-20T02:45:12.000Z",
+      "description": "Iraq orders Kataib Hezbollah to leave Jurf Al Nasr over alleged oil smuggling, threatening force if talks fail, as the group vows to resist and displaced families are kept from returning home. "
+    },
+    {
+      "id": "JGO264nZs88",
+      "title": "Nuclear plants at risk",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-20T02:30:17.000Z",
+      "description": "Nuclear safety regulators urge Russia to stop attacking Ukraine’s energy grid, warning of a potential nuclear disaster."
+    },
+    {
+      "id": "HnDseMK9VRE",
+      "title": "Mississippi Democrats want answers after a 60,000 spike in 'inactive' voters for the midterms",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-20T02:30:10.000Z",
+      "description": "Democratic lawmakers in Mississippi are calling for an investigation after a spike in the number of people listed as inactive on voter rolls before this year’s midterm elections — an increase of nearly 60,000 since the p"
+    },
+    {
+      "id": "fI9Yp6Uk6sA",
+      "title": "Wall Street ends sharply lower after Anthropic's stock market debut",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-20T01:42:47.000Z",
+      "description": "US stocks slumped after Anthropic's super-sized IPO failed to revitalize faded enthusiasm over artificial intelligence, as an early spike in its share price ebbed."
+    },
+    {
+      "id": "Ne3b3jJN8js",
+      "title": "Domestic abuse commissioner: 'Drug rape trial is the modern face of abuse'",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-19T21:13:23.000Z",
-      "description": "The prime minister has called on YouTube to take down Russell Brand's videos after a message on his channel said he is innocent."
+      "publishedAt": "2026-11-19T23:39:21.000Z",
+      "description": "Four men have been convicted for sexual abusing Joanne Young at the invitation of her husband, who advertised her online for sex and drugged her. "
+    },
+    {
+      "id": "vOpPMqxLUHg",
+      "title": "How South Korea is trying to catch cheats in ‘hardest exam in the world’",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-19T23:30:09.000Z",
+      "description": "Flights diverted, offices opening late and internet access cut off near exams halls. Some of the extraordinary measures South Korea is taking as it struggles with an AI cheating scandal that's threatening what's consider"
+    },
+    {
+      "id": "kWVQ9hGoQhE",
+      "title": "Voyager 1 spacecraft reaches one light-day milestone • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-19T22:38:33.000Z",
+      "description": "NASA's Voyager 1 probe, which has been traveling through space for nearly 50 years, hit a milestone distance of one light-day away from Earth on Wednesday. Already the most distant man-made object in the universe, the sp"
+    },
+    {
+      "id": "cq2sVXbvNC8",
+      "title": "Anthropic's record IPO puts AI safety promises to the test",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-20T02:33:03.000Z",
+      "description": "Anthropic’s record-breaking $1.8 trillion stock market debut draws huge investor interest but sparks fresh debate over AI risks, safety promises and long-term profits, as protesters urge a halt to development. "
+    },
+    {
+      "id": "rAZLwp8tCmo",
+      "title": "Myanmar's Rohingya case: What it takes to prove genocide",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-20T02:00:02.000Z",
+      "description": "For the first time, the ICJ found a state responsible for genocide, nearly a decade after the atrocities against the Rohingya. Why is the bar so high, and why did it take so long?  "
+    },
+    {
+      "id": "YaH4FkFwkWQ",
+      "title": "Jared Kushner says he believes Russia is ‘comfortable’ with security guarantees for Ukraine",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-20T01:30:02.000Z",
+      "description": "Ukrainian President Volodymyr Zelenskyy, British Prime Minister Andy Burnham, German Chancellor Friedrich Merz, French President Emmanuel Macron and US envoys Steve Witkoff and Jared Kushner met in Berlin on Thursday for"
+    },
+    {
+      "id": "P0PW4al76cI",
+      "title": "Anthropic shares soar, then wobble: What it means for AI trade",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-20T01:39:33.000Z",
+      "description": "Here's what Anthropic's long-awaited market debut could mean for the AI trade."
+    },
+    {
+      "id": "OU1bHZOMj0o",
+      "title": "Joanne Young tells other victims 'they are not alone'",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-19T23:12:48.000Z",
+      "description": "The Wrap with Anna Botting will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
+    },
+    {
+      "id": "4QJG9NZKoqU",
+      "title": "What we found out after Putin, Xi and Trump's historic meeting",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-19T22:45:13.000Z",
+      "description": "Nuclear deterrence, the future of AI, and the war in Ukraine were all on the table for Presidents Trump, Xi and Putins historic trilateral meeting in China. But what was actually up for grabs, and what did the three pres"
+    },
+    {
+      "id": "7471ryHXwlk",
+      "title": "Anthropic goes public after blockbuster IPO but fails to revive AI trade • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-19T22:22:36.000Z",
+      "description": "Anthropic has become the first pure-play AI developer to be publicly traded on the stock market, following a record-setting IPO. The stock opened 34% higher, briefly valuing the company at more than $2 trillion, before e"
+    },
+    {
+      "id": "pd-mGUY5phA",
+      "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-20T02:25:01.000Z",
+      "description": "Michael LoSapio, Trump’s nominee to lead the US agency responsible for election security, refused to describe the January 6 Capitol insurrection as an attack during his Senate confirmation hearing and declined to say who"
+    },
+    {
+      "id": "AR_e6SxcJeU",
+      "title": "Germany hosts Ukraine allies",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-20T01:45:30.000Z",
+      "description": "Berlin has hosted the largest summit yet of the Coalition of the Willing, a group of around 40 countries that remains steadfast in their support for Ukraine. New European commitments including more military support, air "
+    },
+    {
+      "id": "AK4DtJAgmW4",
+      "title": "Florida’s stormwater ponds become floating solar farms",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-20T00:00:16.000Z",
+      "description": "Florida is using stormwater ponds and other manmade bodies of water to expand solar generation without using costly and scarce available land. Floating solar is becoming less expensive and more established in the past tw"
+    },
+    {
+      "id": "D2ijczUT-K8",
+      "title": "Drought strands floating homes, boats on Brazil's Amazon lakes",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-20T01:28:52.000Z",
+      "description": "Residents of floating communities near Manaus in Brazil's Amazonas state struggled with receding water, as drought left floating houses and boats stuck in the mud."
+    },
+    {
+      "id": "fORAqPfewZo",
+      "title": "Husband drugged wife and invited strangers he met online to abuse her",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-19T23:00:06.000Z",
+      "description": "Joanne Young thought she was in a monogamous relationship with former Tory councillor Philip Young."
+    },
+    {
+      "id": "m5GeOALcaMM",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-19T22:28:38.000Z",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+    },
+    {
+      "id": "48wTg_8UPd8",
+      "title": "Kenyan marathon champion banned for doping • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-19T21:40:19.000Z",
+      "description": "In tonight's edition, Kenyan athletics superstar and reigning marathon world champion Peres Jepchirchir is banned for three years for doping. Also, South African judges leave the courtroom behind and tour a repatriation "
+    },
+    {
+      "id": "Kw8Jrgnb0l0",
+      "title": "Haiti police say 34 gang members killed in capital raid",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-20T00:28:43.000Z",
+      "description": "Haitian police say at least 34 gang members were killed in an operation in Martissant, a neighbourhood in the capital, Port-au-Prince. Haiti has cracked down on gangs since El Salvador sent roughly 2,500 troops in Octobe"
+    },
+    {
+      "id": "k2msPawck_A",
+      "title": "Can Europe-backed Diallo unseat Infantino as FIFA president?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-20T01:00:39.000Z",
+      "description": "France's Philippe Diallo will challenge Gianni Infantino in March's FIFA presidential election, promising to \"bring change.\" The 63-year-old already has Europe's backing. But can he convince the rest of the world? "
     },
     {
       "id": "CmIDY_XoymM",
@@ -16,182 +192,6 @@
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
       "publishedAt": "2026-11-19T21:12:02.000Z",
       "description": "Want to talk “Grand Theft Auto VI” with the gamer in your life? Here’s a primer."
-    },
-    {
-      "id": "IaqM-8cvyj4",
-      "title": "Ten killed in Pakistan as bus crashes into gas tanker",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-19T21:08:18.000Z",
-      "description": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker on a coastal highway in Pakistan. Both vehicles caught fire, trapping passengers inside the bus as rescue teams rushed"
-    },
-    {
-      "id": "x70CiWBG_Ps",
-      "title": "'We're seeing in real time the effects that AI is going to have on cybersecurity', expert says",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-19T21:06:11.000Z",
-      "description": "Speaking with FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the Brookings Institution, also former Director for Cybersecurity on the National Security Council under the Obama administration"
-    },
-    {
-      "id": "HPrVlD-WdGE",
-      "title": "Myanmar is guilty of genocide — what does that mean for international justice?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-19T21:00:07.000Z",
-      "description": "WARNING: This video contains descriptions of violence and sexual assault, which some people may find distressing. "
-    },
-    {
-      "id": "6SYpUBpQO2U",
-      "title": "NASA's Voyager 1 passes 'light-day' from Earth",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-19T20:34:08.000Z",
-      "description": "NASA confirmed that its Voyager 1 probe achieved an unprecedented distance milestone — ‌the first spacecraft to travel beyond a light-day from Earth — while flying into an uncertain future in interstellar space."
-    },
-    {
-      "id": "8QbDn0gPdN8",
-      "title": "DWVGENG261119 APEC Analysis RIK LTR VERTICAL",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-19T19:03:15.000Z",
-      "description": "The leaders of China, Russia and the US spoke of their ability to foster \"world peace\" during their unprecedented meeting, despite their involvement in disputes ranging from regional conflicts to a full-scale war in Ukra"
-    },
-    {
-      "id": "PP9fm0CNKrY",
-      "title": "Woman sexually assaulted by strangers tells other victims they have a voice",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-19T20:59:45.000Z",
-      "description": "The UK Tonight with Sarah-Jane Mee will dig into the issues people across the country are talking about and explain and analyse the news stories they need to know in a dynamic hour of domestic news."
-    },
-    {
-      "id": "AsGopOCchcE",
-      "title": "Xi personally welcomed Trump at the airport, but sent his chief of staff to greet Putin",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-19T19:45:04.000Z",
-      "description": "The meeting between U.S. President Donald Trump, China’s Xi Jinping and Russia’s Vladimir Putin on Thursday was the first-ever sit-down between the leaders of the three countries. The agreements were modest, but the rhet"
-    },
-    {
-      "id": "IDBG600iVBU",
-      "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-19T20:58:30.000Z",
-      "description": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators who joined protests outside the NASDAQ exchange. They are were protesting about the environmental impact of"
-    },
-    {
-      "id": "nOiF3AagW1c",
-      "title": "Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-19T20:41:05.000Z",
-      "description": "US envoy Jared Kushner said Thursday that President Donald Trump was open to extending to Ukraine a security guarantee similar to NATO's mutual defense clause, but stressed that Washington has to protect its interests to"
-    },
-    {
-      "id": "iUX0YKNXIVs",
-      "title": "Four men found guilty of abusing woman advertised by husband.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-19T19:36:17.000Z",
-      "description": ""
-    },
-    {
-      "id": "v3xE1QI1jOE",
-      "title": "Russian nuclear briefcase follows Putin to China",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-19T12:08:52.000Z",
-      "description": "A member of President Vladimir Putin's delegation carried what is said to be Russia's nuclear briefcase, used to order a nuclear strike, during the APEC summit in China, visuals broadcast by Russian state television show"
-    },
-    {
-      "id": "J6QwNrmaRjc",
-      "title": "What did Xi-Trump-Putin summit accomplish?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-19T18:17:31.000Z",
-      "description": "The leaders of China, the US and Russia sat down for the first-ever trilateral talks among their states at a summit in Shenzhen China.  Was the event history in the making, or a glorified photo-shoot?  When Xi Jinping ho"
-    },
-    {
-      "id": "jKC75ZC7O6s",
-      "title": "Myanmar committed acts of genocide against Rohingya population, Top UN court finds",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-19T12:06:24.000Z",
-      "description": "The International Court of Justice rules on whether Myanmar committed genocide of Rohingya Muslims, particularly in the military operation in Rakhine State. Myanmar denies the claim."
-    },
-    {
-      "id": "ei488ldNDfI",
-      "title": "Drill digs 400 feet into bedrock for the new rail tunnel between New Jersey and New York",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-19T03:00:06.000Z",
-      "description": "Two massive tunnel-boring machines are excavating parallel rail tunnels beneath New Jersey’s Palisades. One has advanced about 400 feet into the bedrock, while the other, launched this month, has dug about 30 feet. (AP V"
-    },
-    {
-      "id": "h7mWOdc2fKQ",
-      "title": "Doha Film Festival 2026 opens in Qatar, spotlighting regional cinema and emerging filmmakers",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-19T20:57:06.000Z",
-      "description": "The Doha Film Festival 2026 has opened in Qatar, showcasing 104 films from 60 countries and highlighting emerging filmmakers and regional cinema."
-    },
-    {
-      "id": "INxP4hZhx40",
-      "title": "Nigeria: States set to get their own police forces • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-19T12:20:33.000Z",
-      "description": "Nigeria has moved a step closer to letting its 36 states set up their own police forces. The National Assembly has sent a constitutional amendment bill to the president, as authorities seek state-run police to complement"
-    },
-    {
-      "id": "Fm8Ha9Q2hU8",
-      "title": "Was GTA 6 really worth the wait?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-19T18:53:50.000Z",
-      "description": "It's been 13 years in the making, but has it been worth the wait? "
-    },
-    {
-      "id": "AdagGOfK8yI",
-      "title": "Floodwaters surge through streets in South Florida",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-19T02:47:46.000Z",
-      "description": "Floodwaters surged through streets and parking lots in Davie, Florida, after heavy rain caused widespread flooding across parts of South Florida."
-    },
-    {
-      "id": "gMA1AKfbhIo",
-      "title": "Berlin hosts Coalition of the Willing summit",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-19T17:33:22.000Z",
-      "description": "European leaders are meeting with US envoys Jared Kushner and Steve Witkoff in Berlin today.  The 'Coalition of the Willing' summit of Ukraine's allies aims to support Kyiv in its almost five-year war against Russia and "
-    },
-    {
-      "id": "DNjAuVbeDY4",
-      "title": "Putin says meeting with Trump and Xi could lead to further talks",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-19T08:13:06.000Z",
-      "description": "Watch live from Shenzhen, China as Russian President Vladimir Putin speaks at the conclusion of trilateral meeting with Xi Jinping and Donald Trump."
-    },
-    {
-      "id": "lv_4LE8riOU",
-      "title": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-19T20:56:53.000Z",
-      "description": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya in its 2017 military crackdown. Survivor and activist Yasmin Ullah says the verdict must now lead to accountability, repar"
-    },
-    {
-      "id": "EjCUa_iCFbE",
-      "title": "French 2027 presidential race: Green leader Tondelier draws closer to hard-left Mélenchon",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-19T12:09:43.000Z",
-      "description": "Six months before the first round of France’s presidential election, Green party leader Marine Tondelier is moving closer to Jean-Luc Mélenchon, the leader of the radical left. The move has caught the other candidates on"
     }
   ]
 }

@@ -1,22 +1,21 @@
-21:26:32 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-21:26:32 collecting videos…
-21:26:32   video feed BBC News: 15 in feed, 5 kept
-21:26:32   video feed Al Jazeera English: 15 in feed, 5 kept
-21:26:32   video feed DW News: 15 in feed, 5 kept
-21:26:32   video feed FRANCE 24 English: 15 in feed, 5 kept
-21:26:32   video feed Sky News: 15 in feed, 5 kept
-21:26:32   video feed Reuters: 15 in feed, 5 kept
-21:26:32   video feed Associated Press: 15 in feed, 5 kept
-21:26:32 videos: saved 24
-21:26:32 collecting feeds…
-21:26:37 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-21:26:37 923 new items
-21:26:38 711 candidate stories
-21:26:38 categories needing stories: science, health, sports, entertainment, politics, business, technology → reserved science
-21:26:38 writing: Improving hydrogen production from water can support abundant global crops (1 sources)
-21:26:39   source text: 6412 chars
-21:26:43   too close to source wording — rewriting
-21:26:49 gemini gemini-3.5-flash-lite failed (503): {
+03:05:25 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+03:05:25 collecting videos…
+03:05:26   video feed BBC News: 15 in feed, 5 kept
+03:05:26   video feed Al Jazeera English: 15 in feed, 5 kept
+03:05:26   video feed DW News: 15 in feed, 5 kept
+03:05:26   video feed FRANCE 24 English: 15 in feed, 5 kept
+03:05:26   video feed Sky News: 15 in feed, 5 kept
+03:05:26   video feed Reuters: 15 in feed, 5 kept
+03:05:26   video feed Associated Press: 15 in feed, 5 kept
+03:05:26 videos: saved 24
+03:05:26 collecting feeds…
+03:05:29 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+03:05:29 823 new items
+03:05:30 645 candidate stories
+03:05:30 categories needing stories: technology, health, sports, entertainment, politics, business → reserved technology
+03:05:30 writing: Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More (2 sources)
+03:05:31   source text: 4460 / 7000 / 3461 chars
+03:05:40 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -24,9 +23,10 @@
   }
 }
 
-21:27:03   ✓ published: /news/new-study-reveals-how-trace-iron-impacts-hydrogen-production-systems/ [science] image: wikimedia via idea "scientific laboratory equipment"
-21:27:03 writing: Trump, Xi and Putin Seek to Project Power at Their First Summit (5 sources)
-21:27:03   source text: 296 / 5378 / 324 / 0 / 0 chars
-21:27:09   too close to source wording — rewriting
-21:27:17   ✓ published: /news/trump-xi-and-putin-hold-first-trilateral-summit-in-shenzhen/ [world] image: wikimedia via idea "Shenzhen skyline"
-21:27:17 done — 2 stories
+03:06:03   ✓ published: /news/major-retailers-launch-early-black-friday-tech-and-streaming-sales/ [technology] image: wikimedia via name "Prime Video"
+03:06:03 writing: Beloved hippo Fiona dies days after swallowing visitor’s hat (4 sources)
+03:06:05   source text: 225 / 1866 / 2459 / 0 chars
+03:06:22   ✓ published: /news/cincinnati-zoo-mourns-loss-of-viral-hippopotamus-fiona/ [world] image: wikimedia via name "Cincinnati Zoo"
+03:06:22 writing explainer for: Beloved hippo Fiona dies days after swallowing visitor’s hat
+03:06:32   ✓ explainer: /news/why-did-fiona-the-hippo-become-a-global-icon/
+03:06:32 done — 2 stories
