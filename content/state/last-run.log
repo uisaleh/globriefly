@@ -1,21 +1,21 @@
-03:05:25 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-03:05:25 collecting videos…
-03:05:26   video feed BBC News: 15 in feed, 5 kept
-03:05:26   video feed Al Jazeera English: 15 in feed, 5 kept
-03:05:26   video feed DW News: 15 in feed, 5 kept
-03:05:26   video feed FRANCE 24 English: 15 in feed, 5 kept
-03:05:26   video feed Sky News: 15 in feed, 5 kept
-03:05:26   video feed Reuters: 15 in feed, 5 kept
-03:05:26   video feed Associated Press: 15 in feed, 5 kept
-03:05:26 videos: saved 24
-03:05:26 collecting feeds…
-03:05:29 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-03:05:29 823 new items
-03:05:30 645 candidate stories
-03:05:30 categories needing stories: technology, health, sports, entertainment, politics, business → reserved technology
-03:05:30 writing: Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More (2 sources)
-03:05:31   source text: 4460 / 7000 / 3461 chars
-03:05:40 gemini gemini-3.5-flash-lite failed (503): {
+11:28:51 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+11:28:51 collecting videos…
+11:28:51   video feed BBC News: 15 in feed, 5 kept
+11:28:51   video feed Al Jazeera English: 15 in feed, 5 kept
+11:28:51   video feed DW News: 15 in feed, 5 kept
+11:28:51   video feed FRANCE 24 English: 15 in feed, 5 kept
+11:28:51   video feed Sky News: 15 in feed, 5 kept
+11:28:51   video feed Reuters: 15 in feed, 5 kept
+11:28:51   video feed Associated Press: 15 in feed, 5 kept
+11:28:51 videos: saved 24
+11:28:51 collecting feeds…
+11:28:55 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+11:28:55 734 new items
+11:28:56 581 candidate stories
+11:28:56 categories needing stories: politics, health, sports, entertainment, business, technology → reserved politics
+11:28:56 writing: Senate passes bipartisan energy bill amid environmental concerns (3 sources)
+11:29:12   source text: 0 / 7000 / 0 chars
+11:29:21 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -23,10 +23,25 @@
   }
 }
 
-03:06:03   ✓ published: /news/major-retailers-launch-early-black-friday-tech-and-streaming-sales/ [technology] image: wikimedia via name "Prime Video"
-03:06:03 writing: Beloved hippo Fiona dies days after swallowing visitor’s hat (4 sources)
-03:06:05   source text: 225 / 1866 / 2459 / 0 chars
-03:06:22   ✓ published: /news/cincinnati-zoo-mourns-loss-of-viral-hippopotamus-fiona/ [world] image: wikimedia via name "Cincinnati Zoo"
-03:06:22 writing explainer for: Beloved hippo Fiona dies days after swallowing visitor’s hat
-03:06:32   ✓ explainer: /news/why-did-fiona-the-hippo-become-a-global-icon/
-03:06:32 done — 2 stories
+11:29:35 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+11:30:16   too close to source wording — rewriting
+11:30:18 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+11:30:37   ✓ published: /news/senate-approves-major-energy-and-technology-permitting-overhaul-package/ [politics] image: wikimedia via idea "Altamont Pass wind farm"
+11:30:37 writing: White House replaces cyber director Sean Cairncross amid widespread tech outages (8 sources)
+11:30:38   source text: 2147 / 1221 / 1336 chars
+11:30:44   ✓ published: /news/us-national-cyber-director-removed-following-series-of-technology/ [world] image: wikimedia via idea "White House Washington DC"
+11:30:44 done — 2 stories

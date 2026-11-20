@@ -1,16 +1,5 @@
 {
   "urls": {
-    "https://thehill.com/homenews/administration/6217994-trump-nvidia-ceo-huang-resignation/": 1794556511939,
-    "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html": 1794556511939,
-    "https://timesofindia.indiatimes.com/world/us/trump-backed-nvidias-jensen-huang-till-end-urged-him-to-fight-for-job-amid-spy-scandal-report/articleshow/135786217.cms": 1794556511939,
-    "https://deadline.com/2026/11/chris-van-hollen-schumer-senate-majority-leader-1237222569/": 1794556541085,
-    "https://www.euronews.com/2026/11/13/us-senator-chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader": 1794556541085,
-    "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html": 1794556541085,
-    "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader": 1794556541085,
-    "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump": 1794556541085,
-    "https://thehill.com/homenews/senate/6217923-van-hollen-challenges-schumer/": 1794556541085,
-    "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss": 1794556541085,
-    "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader": 1794556541085,
     "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories": 1794586509037,
     "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html": 1794586509037,
     "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage": 1794586509037,
@@ -248,11 +237,20 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss": 1795143980563,
     "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-rdf": 1795143980563,
     "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss": 1795143980563,
-    "https://www.scmp.com/news/world/united-states-canada/article/3375134/world-famous-hippo-fiona-dies-us-days-after-swallowing-visitors-hat": 1795143980563
+    "https://www.scmp.com/news/world/united-states-canada/article/3375134/world-famous-hippo-fiona-dies-us-days-after-swallowing-visitors-hat": 1795143980563,
+    "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill": 1795174236208,
+    "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html": 1795174236208,
+    "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html": 1795174236208,
+    "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html": 1795174243539,
+    "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss": 1795174243539,
+    "https://www.thehindu.com/news/international/white-house-fires-cybersecurity-chief-after-widespread-outages/article71722952.ece": 1795174243539,
+    "https://www.euronews.com/2026/11/20/white-house-national-cyber-director-fired-after-wave-of-tech-outages": 1795174243539,
+    "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-rdf": 1795174243539,
+    "https://www.scmp.com/news/world/united-states-canada/article/3375152/white-house-fires-cybersecurity-chief-after-tech-chaos-rattles-us": 1795174243539,
+    "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages": 1795174243539,
+    "https://www.channelnewsasia.com/world/white-house-fires-cybersecurity-chief-widespread-outages-6567801": 1795174243539
   },
   "fps": {
-    "affair-fight-huang-job-report-scandals-told-trump": 1794556511939,
-    "blue-challenge-chris-chuck-coming-hollen-leadership-majority": 1794556541085,
     "causing-day-disruption-microsoft-outage-outlook-second-stretches": 1794586509037,
     "bahrain-iran-military-radar-struck": 1794586532089,
     "attempt-catch-double-huge-rocket-spacex-starship": 1794609237344,
@@ -297,6 +295,8 @@
     "abundant-can-crops-global-hydrogen-improving-production-support": 1795123621404,
     "first-power-project-putin-seek-summit-trump": 1795123636141,
     "add-amazon-big-black-cyber-deals-friday-monday": 1795143960224,
-    "beloved-days-dies-fiona-hat-hippo-swallowing-visitor": 1795143980563
+    "beloved-days-dies-fiona-hat-hippo-swallowing-visitor": 1795143980563,
+    "bill-bipartisan-concerns-energy-environmental-passes-senate": 1795174236208,
+    "cairncross-cyber-director-house-outages-replaces-sean-tech": 1795174243539
   }
 }
