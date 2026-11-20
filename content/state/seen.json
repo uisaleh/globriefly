@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories": 1794586509037,
-    "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html": 1794586509037,
-    "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage": 1794586509037,
-    "https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece": 1794586532089,
-    "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-rdf": 1794586532089,
-    "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz": 1794586532089,
-    "http://www.africanews.com/2026/11/13/iran-showcases-missiles-as-military-targets-us-army-radar-in-bahrain/": 1794586532089,
-    "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran": 1794586532089,
     "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss": 1794609237344,
     "https://www.scientificamerican.com/article/can-spacex-catch-its-starship/": 1794609237344,
     "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex": 1794609237344,
@@ -248,11 +240,18 @@
     "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-rdf": 1795174243539,
     "https://www.scmp.com/news/world/united-states-canada/article/3375152/white-house-fires-cybersecurity-chief-after-tech-chaos-rattles-us": 1795174243539,
     "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages": 1795174243539,
-    "https://www.channelnewsasia.com/world/white-house-fires-cybersecurity-chief-widespread-outages-6567801": 1795174243539
+    "https://www.channelnewsasia.com/world/white-house-fires-cybersecurity-chief-widespread-outages-6567801": 1795174243539,
+    "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss": 1795205053729,
+    "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html": 1795205053729,
+    "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html": 1795205053729,
+    "https://thehill.com/homenews/administration/6233765-trump-threatens-data-center-tax-overseas/": 1795205053729,
+    "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss": 1795205079690,
+    "https://timesofindia.indiatimes.com/world/us/our-nation-has-a-mass-incarceration-problem-mamdani-sets-2032-deadline-to-close-notorious-rikers-island-jail/articleshow/136035337.cms": 1795205079690,
+    "https://www.scmp.com/news/world/united-states-canada/article/3375293/mamdani-unveils-plan-close-new-yorks-notorious-rikers-island-jail": 1795205079690,
+    "https://www.euronews.com/2026/11/20/nyc-mayor-unveils-plan-to-close-notorious-rikers-island-jail-by-2032": 1795205079690,
+    "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model": 1795205079690
   },
   "fps": {
-    "causing-day-disruption-microsoft-outage-outlook-second-stretches": 1794586509037,
-    "bahrain-iran-military-radar-struck": 1794586532089,
     "attempt-catch-double-huge-rocket-spacex-starship": 1794609237344,
     "here-latest": 1794609243249,
     "another-bugs-easy-finding-fixing-linux-need-now": 1794625843882,
@@ -297,6 +296,8 @@
     "add-amazon-big-black-cyber-deals-friday-monday": 1795143960224,
     "beloved-days-dies-fiona-hat-hippo-swallowing-visitor": 1795143980563,
     "bill-bipartisan-concerns-energy-environmental-passes-senate": 1795174236208,
-    "cairncross-cyber-director-house-outages-replaces-sean-tech": 1795174243539
+    "cairncross-cyber-director-house-outages-replaces-sean-tech": 1795174243539,
+    "ban-building-centres-data-firms-overseas-threatens-trump": 1795205053729,
+    "2032-close-island-jail-mamdani-plan-rikers-unveils": 1795205079690
   }
 }

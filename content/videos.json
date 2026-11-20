@@ -1,13 +1,133 @@
 {
-  "updatedAt": "2026-11-20T11:28:51.935Z",
+  "updatedAt": "2026-11-20T20:04:03.748Z",
   "videos": [
     {
-      "id": "zqK0Yaop8LA",
-      "title": "Sky Kids Investigates: Being A Boy",
+      "id": "POpOkVg2Q0o",
+      "title": "Abusers found guilty after woman was drugged and advertised for sex by her husband",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-20T20:00:16.000Z",
+      "description": "Warning: This story discusses sexual violence and abuse,"
+    },
+    {
+      "id": "PRJ_5bf_VHg",
+      "title": "Poland says Russian missile struck near Ukraine border",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-20T19:42:28.000Z",
+      "description": "Polish officials said a Russian missile landed in the country's east near the Ukrainian border. Two other incursions are also being investigated. NATO chief Mark Rutte said the alliance's jets were scrambled in response."
+    },
+    {
+      "id": "WNJqZfRBcD4",
+      "title": "Trump, Xi, Putin: 'Friends' But Who Benefits? • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-20T19:41:03.000Z",
+      "description": "Welcome to the World This Week with Gavin Lee. You give us 45 minutes, we'll give you 7 days worth of crystal clear analysis. As ever, alongside a handpicked panel of four distinguished foreign correspondents. In a week "
+    },
+    {
+      "id": "fR-s4grmnUA",
+      "title": "Nepal cricket fans celebrate their team’s global rise",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-20T19:23:03.000Z",
+      "description": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years."
+    },
+    {
+      "id": "RWpwsga5uHE",
+      "title": "Is the law on consent outdated?",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-20T11:02:46.000Z",
-      "description": "Sixteen-year-old Josh goes undercover in the manosphere to uncover how online influencers are targeting boys with promises of money, muscles and success. "
+      "publishedAt": "2026-11-20T19:13:14.000Z",
+      "description": "'It felt like the lights had been switched out'. "
+    },
+    {
+      "id": "Trd7TxLqgj0",
+      "title": "WATCH: An explosion is heard in Chmielek as Russian missiles land in Poland",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-20T19:11:57.000Z",
+      "description": "A Russian missile came down in Poland on Friday in what Polish Prime Minister Donald Tusk said was likely a deliberate provocation coinciding with European military exercises in the country, part of preparations for a po"
+    },
+    {
+      "id": "Bdu6RU43Ab0",
+      "title": "Security convoy flying Iraqi flags deploys in Iran-backed militia stronghold",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-20T18:48:23.000Z",
+      "description": "Iraqi security forces deployed in Jurf al-Sakhar, a stronghold of the Kataib Hezbollah armed group, under a deal that seeks to limit the reach of Iran's most powerful Shi'ite militia ally in the country without provoking"
+    },
+    {
+      "id": "RvpOzs6M3xM",
+      "title": "The secret UK operation we couldn't tell you about",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-20T18:45:30.000Z",
+      "description": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers across major UK supermarkets, warehouses, restaurants, petrol stations and stadiums from hackers, the BBC h"
+    },
+    {
+      "id": "m_XsEDFRr7Y",
+      "title": "Hostage Diplomacy: Putin's next bargaining chip?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-20T19:02:24.000Z",
+      "description": "A Japanese journalist has been arrested in Russia on suspicion of spying, days after former Russian President Dmitry Medvedev suggested detaining more foreigners for prisoner swaps. But could this be about something bigg"
+    },
+    {
+      "id": "9v_UWZl1ggM",
+      "title": "🦛 USA: Fiona, Cincinnati Zoo’s famous hippo, has died • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-20T17:35:30.000Z",
+      "description": "🦛Fiona, Cincinnati Zoo’s beloved hippo, has died aged just 9, after swallowing a knitted hat that fell into her enclosure. Born prematurely and weighing only 13kg, she captured millions of hearts around the world and be"
+    },
+    {
+      "id": "trgDQG9CkNE",
+      "title": "Ukraine looks to close its 2027 budget deficit. How long can Europe keep up its support?",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-20T19:06:40.000Z",
+      "description": "The European Commission has proposed lending Kyiv up to $50bn as Ukraine looks to close its 2027 budget deficit. Europe is now Ukraine’s biggest source of economic and military support, but questions remain about how lon"
+    },
+    {
+      "id": "rrTMOy0dQ-U",
+      "title": "Donald Trump speaks at White House after meeting Xi and Putin",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-20T19:05:52.000Z",
+      "description": "US President Donald Trump holds a news conference in the White House briefing room after holding a trilateral meeting with Russian President Vladimir Putin and Chinese President Xi Jinping. "
+    },
+    {
+      "id": "v4zBMoxcEuQ",
+      "title": "UK and EU pledge to rebuild ties 10 years after Brexit",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-20T18:50:55.000Z",
+      "description": "Britain and the European Union agreed Friday to remove barriers to trade and expand travel opportunities for young people as they pledged to rebuild their strained ties with an “ambitious and dynamic” relationship. But t"
+    },
+    {
+      "id": "TAygaRy9rR4",
+      "title": "'Justice' finally served: Rohingya widow on genocide ruling",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-20T18:20:45.000Z",
+      "description": "From her ramshackle hut, surrounded by the makeshift homes of more than a million Rohingya refugees like her, Rahama Khatun watched quietly on her smartphone as judges at the United Nations' top court read out a judgment"
+    },
+    {
+      "id": "ufsSNiqaMv0",
+      "title": "Former MP Jordan Lane proposes to girlfriend in Parliament.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-20T18:00:17.000Z",
+      "description": ""
+    },
+    {
+      "id": "yn_LtwTWO1Q",
+      "title": "UK-EU relations warm up",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-20T18:55:50.000Z",
+      "description": "Ten years after the Brexit vote, London and Brussels are rebuilding their relationship. A new deal will ease food trade and expand opportunities for young people to live, work and study across the Channel. The warmer atm"
     },
     {
       "id": "AZYWCt2D-e0",
@@ -18,36 +138,28 @@
       "description": "A French prosecutor on Thursday urged a court to jail three policemen who beat up a black music producer to four to six years, in a rare case of alleged police brutality to go to criminal court. The assault on Michel Zec"
     },
     {
+      "id": "gwrdWAAMLyg",
+      "title": "Israeli police violently disperse ultra-Orthodox protesters",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-20T18:54:50.000Z",
+      "description": "Subscribe to our channel: http://bit.ly/AJSubscribe"
+    },
+    {
+      "id": "CQKGTNco_AM",
+      "title": "Nigel Farage hits out at new EU-UK agreement",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-20T16:40:24.000Z",
+      "description": "Reform UK leader Nigel Farage has strongly criticised the new agreements announced at today’s UK-EU summit in Brussels."
+    },
+    {
       "id": "6v9Yd296Weo",
       "title": "Air raid alert in Poland after suspected violation of country's airspace",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
       "publishedAt": "2026-11-20T10:30:29.000Z",
       "description": "The Polish military said after Russian attacks in Ukraine that it was looking into a “suspected violation” of the country’s airspace on Friday morning. \r"
-    },
-    {
-      "id": "FVIj_1KQLxg",
-      "title": "Why is the US glitching, Mr. Trump?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-20T10:07:34.000Z",
-      "description": "Many Americans are feeling unsettled after a string of technical outages disrupted flights, banking services and government communications. Officials said the incidents were isolated and not the result of a cyberattack. "
-    },
-    {
-      "id": "guz5cCAME5o",
-      "title": "Searching for the next Messi at the Under-17 World Cup",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-20T09:58:37.000Z",
-      "description": "Nearly 100 football scouts are in Qatar, searching for the next global superstar among more than 1,000 young players at the FIFA Under-17 World Cup. Al Jazeera’s David Stokes is there. "
-    },
-    {
-      "id": "3TZ-zPJVdQU",
-      "title": "PM Andy Burnham pledges to get 'best deal for Britain' at UK-EU summit.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-20T09:07:02.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
     },
     {
       "id": "X92BwhZZKOU",
@@ -58,68 +170,20 @@
       "description": "US President Donald Trump hailed his unprecedented three-way summit with Chinese President Xi Jinping and Russian President Vladimir Putin as a success. But beyond the historic optics, what did the meeting actually achie"
     },
     {
-      "id": "smg_4SEdgm8",
-      "title": "PM arrives in Brussels for long-awaited EU summit",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-20T10:18:27.000Z",
-      "description": "Prime Minister Andy Burnham arrives in Brussels for the second formal EU-UK Summit since Brexit."
-    },
-    {
-      "id": "6o416_diZMo",
-      "title": "'Coalition of the Willing': Ukraine's allies meet in Berlin after Trump-Putin-Xi talks • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-20T10:41:23.000Z",
-      "description": "Ukraine's allies met Thursday for a \"Coalition of the Willing\" summit in Berlin with President Volodymyr Zelensky to stress solid wartime support for Kyiv and to push for a European role in any future peace talks. The me"
-    },
-    {
-      "id": "nMc6aNn-4u0",
-      "title": "Trump’s proposed arch casts a shadow over Arlington cemetery",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-20T09:00:04.000Z",
-      "description": "President Donald Trump’s proposed arch near Arlington National Cemetery is drawing opposition from veterans and grieving families who fear it will disrupt the burial ground’s serenity. (AP Video/Nathan Ellgren)\r"
-    },
-    {
-      "id": "DbDaSpjOnHo",
-      "title": "Zelenskyy says Europe must be at the negotiating table in any talks with Russia",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-20T08:40:58.000Z",
-      "description": "Ukraine's allies met for a \"Coalition of the Willing\" summit in Berlin with President Volodymyr Zelenskyy to stress solid wartime support for Kyiv and to push for a European role in any future peace talks. US special env"
-    },
-    {
-      "id": "boog5gcgQKM",
-      "title": "Hegseth pushes for greater US military presence across Latin America",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-20T09:33:27.000Z",
-      "description": "US Defense Secretary Pete Hegseth visits four Latin American countries to strengthen military ties and expand Washington's regional influence."
-    },
-    {
-      "id": "mVxvuYXZkos",
-      "title": "How the killer of a 12-year-old was finally put behind bars",
+      "id": "3TZ-zPJVdQU",
+      "title": "PM Andy Burnham pledges to get 'best deal for Britain' at UK-EU summit.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-20T08:22:59.000Z",
-      "description": "A 12-year-old boy is killed by a speeding driver. What follows is a two-year fight for justice by his family. "
+      "publishedAt": "2026-11-20T09:07:02.000Z",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
     },
     {
-      "id": "F3D3Pch9iWg",
-      "title": "Colombians march against president's tax plan",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-20T04:49:16.000Z",
-      "description": "Hundreds of people marched in Colombia’s Bogota in a national strike called by unions and left-wing groups against President Abelardo de la Espriella's government and a tax reform that raises taxes for much of the middle"
-    },
-    {
-      "id": "mT_oMyFx0f0",
-      "title": "PM in Brussels for Brexit reset talks with EU leaders",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-20T10:09:20.000Z",
-      "description": "Join Anna Jones and Kamali Melbourne on Mornings as Andy Burnham prepares to attend a long-awaited UK-EU summit in Brussels today, where he is hoping to achieve deals on areas such as food and drink, youth mobility and a"
+      "id": "ty6DqKm14Qg",
+      "title": "Was Moscow testing Europe with airspace violations?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-20T17:53:22.000Z",
+      "description": "Warsaw says the objects that landed on Polish territory – reportedly two missiles and a jet-powered drone - came from Russia. The incident occurred as Russia was carrying out a wide-ranging attack on Ukraine. But it is a"
     },
     {
       "id": "kWVQ9hGoQhE",
@@ -128,70 +192,6 @@
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
       "publishedAt": "2026-11-19T22:38:33.000Z",
       "description": "NASA's Voyager 1 probe, which has been traveling through space for nearly 50 years, hit a milestone distance of one light-day away from Earth on Wednesday. Already the most distant man-made object in the universe, the sp"
-    },
-    {
-      "id": "HnDseMK9VRE",
-      "title": "Mississippi Democrats want answers after a 60,000 spike in 'inactive' voters for the midterms",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-20T02:30:10.000Z",
-      "description": "Democratic lawmakers in Mississippi are calling for an investigation after a spike in the number of people listed as inactive on voter rolls before this year’s midterm elections — an increase of nearly 60,000 since the p"
-    },
-    {
-      "id": "yWWAKIfCZp0",
-      "title": "Amid Tensions in India, Sikhs and Hindus are building mosques for Muslims",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-20T06:00:26.000Z",
-      "description": "In India, disputes over historic mosques have become a flashpoint between Hindus and Muslims. But in the northern state of Punjab, something very different is happening. Sikh and Hindu villagers are giving land and money"
-    },
-    {
-      "id": "CxU5YP49hRg",
-      "title": "Russia’s day-long attack on Kyiv damages embassies",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-20T08:50:28.000Z",
-      "description": "Russia carried out a day-long aerial attack on Kyiv, damaging key bridges, European embassies, and a historic cathedral. Al Jazeera’s crew witnessed the barrage overhead."
-    },
-    {
-      "id": "MiyHbGSuOVU",
-      "title": "How will the trilateral meeting affect the Iran war?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-20T07:47:06.000Z",
-      "description": "A historic meeting has taken place between President Xi, President Trump and President Putin. Following the summit a \"joint declaration on peace\" was released, in which they say \"nuclear war cannot be won and must never "
-    },
-    {
-      "id": "fI9Yp6Uk6sA",
-      "title": "Wall Street ends sharply lower after Anthropic's stock market debut",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-20T01:42:47.000Z",
-      "description": "US stocks slumped after Anthropic's super-sized IPO failed to revitalize faded enthusiasm over artificial intelligence, as an early spike in its share price ebbed."
-    },
-    {
-      "id": "Ne3b3jJN8js",
-      "title": "Domestic abuse commissioner: 'Drug rape trial is the modern face of abuse'",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-19T23:39:21.000Z",
-      "description": "Four men have been convicted for sexual abusing Joanne Young at the invitation of her husband, who advertised her online for sex and drugged her. "
-    },
-    {
-      "id": "7471ryHXwlk",
-      "title": "Anthropic goes public after blockbuster IPO but fails to revive AI trade • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-19T22:22:36.000Z",
-      "description": "Anthropic has become the first pure-play AI developer to be publicly traded on the stock market, following a record-setting IPO. The stock opened 34% higher, briefly valuing the company at more than $2 trillion, before e"
-    },
-    {
-      "id": "YaH4FkFwkWQ",
-      "title": "Jared Kushner says he believes Russia is ‘comfortable’ with security guarantees for Ukraine",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-20T01:30:02.000Z",
-      "description": "Ukrainian President Volodymyr Zelenskyy, British Prime Minister Andy Burnham, German Chancellor Friedrich Merz, French President Emmanuel Macron and US envoys Steve Witkoff and Jared Kushner met in Berlin on Thursday for"
     }
   ]
 }
