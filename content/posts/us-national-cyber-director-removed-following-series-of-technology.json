@@ -112,6 +112,9 @@
   "publishedAt": "2026-11-20T11:30:44.062Z",
   "updatedAt": "2026-11-20T11:30:44.062Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175010394681745",
+    "sharedAt": "2026-11-20T11:34:24.519Z"
+  },
   "ogImage": "/og/us-national-cyber-director-removed-following-series-of-technology.jpg"
 }
