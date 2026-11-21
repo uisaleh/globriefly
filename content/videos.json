@@ -1,37 +1,85 @@
 {
-  "updatedAt": "2026-11-21T01:27:38.544Z",
+  "updatedAt": "2026-11-21T09:40:35.288Z",
   "videos": [
     {
-      "id": "Kf1HVU6qBMc",
-      "title": "Dakar Biennale turns Senegal’s former colonial courthouse into an art space",
+      "id": "UO9YjaIceQE",
+      "title": "The war in Yemen threatens fishing livelihoods in Aden",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-21T01:00:25.000Z",
-      "description": "An abandoned colonial courthouse in Senegal’s capital, Dakar, has found a new purpose as a space for artistic expression."
+      "publishedAt": "2026-11-21T09:31:51.000Z",
+      "description": "The war in Yemen is threatening a fishing trade passed down through generations in the southern port city of Aden. Rising fuel prices are making trips more expensive, while a sunset-to-dawn curfew keeps fishers ashore du"
     },
     {
-      "id": "Xx2NDXGOPWU",
-      "title": "Trump calls Jeffries and Schumer 'smart' and hopes to get 'more done'",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-21T00:54:54.000Z",
-      "description": "President Donald Trump offered an unexpectedly positive assessment of Hakeem Jeffries on Friday, praising the New York Democrat as “smart” and “streetwise” as he prepares to become speaker of the House under the incoming"
-    },
-    {
-      "id": "doZk9afnGpc",
-      "title": "Exit from Brexit?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-21T00:30:36.000Z",
-      "description": "It has been more than a decade since the UK voted in a referendum to leave the European Union. Now the EU and the UK have hit the reset button on their relationship, reaching several agreements around trade, emissions an"
-    },
-    {
-      "id": "abVmO5PAN2A",
-      "title": "Is the US under cyber attack?",
+      "id": "DcBQnQ0Pad8",
+      "title": "Donald Trump defends calling Vladimir Putin a 'friend'.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-21T00:00:12.000Z",
-      "description": "After a week of tech chaos with flights grounded, plus outages at Microsoft, Apple, US banks, and the National Security Agency, questions continue to be asked about the cause of the disruption and whether it’s more than "
+      "publishedAt": "2026-11-21T09:23:22.000Z",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+    },
+    {
+      "id": "vQNnHuBB7Ng",
+      "title": "All 146 plane passengers and crew safe after emergency landing in Philippines",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-21T08:43:02.000Z",
+      "description": "An Air Niugini plane carrying 146 passengers and crew from Hong Kong to Papua New Guinea safely made an emergency landing Saturday in a southern Philippine city due to an indication of a possible engine fire, Philippine "
+    },
+    {
+      "id": "CxfTpfhqRGs",
+      "title": "Sunday Morning with... Michael Gove",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-21T08:32:31.000Z",
+      "description": "This week's host of Sunday Morning is Editor of the Spectator and former Conservative minister Michael Gove."
+    },
+    {
+      "id": "3ovPh0m9NQU",
+      "title": "How Dortmund fans helped kill Rheinmetall sponsor deal",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-21T08:00:17.000Z",
+      "description": "Borussia Dortmund will not renew its sponsorship deal with German weapons maker Rheinmetall once it expires in June 2027. Many fans protested throughout the partnership, arguing that promoting an arms manufacturer contra"
+    },
+    {
+      "id": "JWMoNXxmt-w",
+      "title": "Poland slams Russian 'provocation' as missiles land near European military drills • FRANCE 24",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-21T06:01:07.000Z",
+      "description": "Two Russian missiles and a suspected drone came down in Poland on Friday in what Prime Minister Donald Tusk said was likely an \"intentional provocation\" timed to coincide with European military exercises in the country f"
+    },
+    {
+      "id": "py9uIgX8UyM",
+      "title": "Illustrating a year of turmoil inside Iran",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-21T06:00:19.000Z",
+      "description": "On this week’s episode of On Assignment, host Jonah Green speaks with Reuters correspondent John Davison about Under Fire, a graphic memoir by Reuters that tells the story of one Iranian woman through a year of protests,"
+    },
+    {
+      "id": "FCYMaUBpAdk",
+      "title": "Fire sprinkler sprays water at flame-covered sign in China",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-21T09:19:49.000Z",
+      "description": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort, sparking online jokes that it had mistaken the image for a real fire. The resort said the system was trigge"
+    },
+    {
+      "id": "9amRYIIb5GM",
+      "title": "Can these new sensors save lives in landslides?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-21T09:00:10.000Z",
+      "description": "Could AI help save lives by giving communities more warning of dangerous landslides and debris flows?"
+    },
+    {
+      "id": "QQ1U-prpius",
+      "title": "Endurance athlete swims in Strait of Hormuz to highlight the war's impact on wildlife",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-21T05:32:15.000Z",
+      "description": "British endurance swimmer Lewis Pugh has swum the Strait of Hormuz to highlight environmental threats amid ongoing conflict. Pugh, a United Nations Patron of the Oceans, completed the swim this week despite nearby attack"
     },
     {
       "id": "Usw32rhBMVw",
@@ -42,6 +90,22 @@
       "description": "US correspondent David Blevins looks at a 90-minute speech from Donald Trump which bounced between many different topics, and at times, lacked a coherent message. "
     },
     {
+      "id": "jDKOvndNANU",
+      "title": "German defense minister urges caution over Russia peace talks",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-21T07:00:17.000Z",
+      "description": "During a visit to Poland, German Defense Minister Boris Pistorius welcomed the prospect of new talks with Russia but warned that they must produce tangible results."
+    },
+    {
+      "id": "IPEx0bHCdsk",
+      "title": "Paris police officers sentenced to prison over 2020 beating of Black man • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-21T06:00:14.000Z",
+      "description": "A Paris court on Friday sentenced three policemen to serve time over the 2020 beating of Black music producer Michel Zecler, a rare such ruling. The assault, which was captured on camera, sparked nationwide outrage and r"
+    },
+    {
       "id": "2yc7ULWfKHo",
       "title": "Can Anthropic’s IPO revive the AI trade amid a tech selloff?",
       "channel": "Reuters",
@@ -50,44 +114,28 @@
       "description": "Wall Street dives, as Anthropic fails to maintain day-one strength. Trump vows to veto Democrats in his first speech after returning from China. Congress faces a pre-Christmas government shutdown as the Iran war splits l"
     },
     {
-      "id": "PK8q-qiYEoI",
-      "title": "House of Cards: America's enemies \"no longer fear it, its allies no longer trust it' • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-20T22:09:46.000Z",
-      "description": "The Economist's deputy editor Tom Standage joins us for a futuristic retrospective, taking us back to the future as we spotlight The World Ahead 2027. We begin with the \"leader of the free world\", the FIFA Peace Prize re"
-    },
-    {
-      "id": "PovO2MmCFjw",
-      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+      "id": "yOQQSvEa8b8",
+      "title": "Can mediation succeed in a war-torn world?",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-20T23:19:29.000Z",
-      "description": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong strategic and defence ties with Israel. Gandhi is a leading challenger to PM Modi, the latter of whom has deepened the relationshi"
+      "publishedAt": "2026-11-21T09:16:07.000Z",
+      "description": "As war escalates across the Middle East and Ukraine, global peace talks are under the spotlight."
     },
     {
-      "id": "ABxSsKi1nrk",
-      "title": "Father of fallen Marine is against Trump’s proposed arch",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-21T00:49:49.000Z",
-      "description": "For many veterans and their families, and the loved ones of others buried at Arlington National Cemetery, President Donald Trump’s proposed 250-foot (76-meter) arch has no place so close to the burial grounds. Bart Colla"
-    },
-    {
-      "id": "SbVo2JWUwNc",
-      "title": "Paid to Make You Angry: Indonesia's 'buzzers'",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-21T00:16:27.000Z",
-      "description": "Prepared videos. Hidden funders. Clickworkers. Indonesia's  Buzzers industry reveals how fake grassroots support gets built on social media – and how your opinion is manipulated."
-    },
-    {
-      "id": "LOGSmFiVePI",
-      "title": "Donald Trump stands by his decision to attack Iran",
+      "id": "MjI5gE46H4w",
+      "title": "Is social media ruining my relationship?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-20T23:00:08.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+      "publishedAt": "2026-11-21T06:00:40.000Z",
+      "description": "The internet is full of other people’s relationships. But how much of the advice out there is actually reliable? What are people being told online, and what impact is it having on their real-life relationships? "
+    },
+    {
+      "id": "xYtlatmj1rk",
+      "title": "Magnitude 6.7 earthquake shakes Peru’s Andes",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-21T03:39:23.000Z",
+      "description": "The U.S. Geological Survey said the earthquake struck at 7:09 p.m. local time (0900 GMT Saturday). Its epicenter was in the Andes, 34 kilometers (21 miles) north of Junin, at a depth of 108 kilometers (67 miles).\r"
     },
     {
       "id": "8NLDKDTsmXQ",
@@ -98,6 +146,22 @@
       "description": "The Wrap with Gillian Joseph will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
     },
     {
+      "id": "1MQ0WnDAKls",
+      "title": "Indian man jailed for over 19 years for failed plot to kill Sikh leader",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-21T04:00:37.000Z",
+      "description": "A US court sentenced an Indian man to more than 19.5 years in prison after he admitted to hiring a hitman to assassinate a NY-based Sikh separatist leader. The \"hitman\" turned out to be an undercover law enforcement agen"
+    },
+    {
+      "id": "PK8q-qiYEoI",
+      "title": "House of Cards: America's enemies \"no longer fear it, its allies no longer trust it' • FRANCE 24",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-20T22:09:46.000Z",
+      "description": "The Economist's deputy editor Tom Standage joins us for a futuristic retrospective, taking us back to the future as we spotlight The World Ahead 2027. We begin with the \"leader of the free world\", the FIFA Peace Prize re"
+    },
+    {
       "id": "j2a15xkFKxY",
       "title": "Capitol Christmas Tree arrives in Washington",
       "channel": "Reuters",
@@ -106,92 +170,28 @@
       "description": "The 2026 US Capitol Christmas Tree, a 76-foot Engelmann Spruce from the Nez Perce-Clearwater National Forests in Idaho, was lifted into place before the US Capitol in Washington, DC, to kick off the holiday season."
     },
     {
-      "id": "K_0koJU3KQM",
-      "title": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-20T21:52:35.000Z",
-      "description": "Tensions rise between Guinea and Burkina Faso after Conakry bans Burkinabe broadcaster RTB, amid a diplomatic dispute over gold miners and a caricature of President Mamadi Doumbouya. Meanwhile, fighting erupts between Co"
-    },
-    {
-      "id": "fCa3uBpd4Yo",
-      "title": "From Gaza to the occupied West Bank: Nour Odeh's Al Jazeera journey",
+      "id": "p-_cZpjJXrs",
+      "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-20T22:47:02.000Z",
-      "description": "As Al Jazeera English marks 20 years of covering Gaza and the occupied West Bank, we look back at the journeys of some of our longest-serving correspondents. This is Nour Odeh’s story."
+      "publishedAt": "2026-11-21T08:37:42.000Z",
+      "description": "As tankers burned and explosions shook the Strait of Hormuz, endurance swimmer Lewis Pugh entered the water to expose another casualty of the US-Israeli war on Iran: marine life. He warns that oil pollution could take de"
     },
     {
-      "id": "nnCr-io3atU",
-      "title": "Trump says the recent outages are ‘separate events' but are ‘under control’",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-20T23:32:39.000Z",
-      "description": "President Donald Trump said recent technology outages affecting banks and government agencies were “separate events,” blaming routine upgrades. He distinguished the FAA disruption, attributing it to an “ancient” air traf"
-    },
-    {
-      "id": "miaREoBO7Oc",
-      "title": "What Anthropic's record IPO reveals about the AI bubble",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-20T22:59:13.000Z",
-      "description": "Anthropic's record-breaking stock market debut has put investor confidence in artificial intelligence to the test. But can the company turn soaring revenues into sustainable profits, or are investors fuelling a dangerous"
-    },
-    {
-      "id": "p-NbJyWKPPU",
-      "title": "Sales of tins and UHT milk INCREASE after UK stockpiling campaign.",
+      "id": "abVmO5PAN2A",
+      "title": "Is the US under cyber attack?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-20T22:50:55.000Z",
-      "description": ""
+      "publishedAt": "2026-11-21T00:00:12.000Z",
+      "description": "After a week of tech chaos with flights grounded, plus outages at Microsoft, Apple, US banks, and the National Security Agency, questions continue to be asked about the cause of the disruption and whether it’s more than "
     },
     {
-      "id": "RWpwsga5uHE",
-      "title": "Is the law on consent outdated?",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-20T19:13:14.000Z",
-      "description": "'It felt like the lights had been switched out'. "
-    },
-    {
-      "id": "fR_YkO-ufgg",
-      "title": "Five key moments from Trump's post-Asia trip media briefing",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-20T20:58:13.000Z",
-      "description": "President Donald Trump held a briefing after his trip to Asia, covering his meetings with Chinese President Xi Jinping and Russian President Vladimir Putin, the sale of chips to China and the recent tech outages in the U"
-    },
-    {
-      "id": "WNJqZfRBcD4",
-      "title": "Trump, Xi, Putin: 'Friends', but who benefits? • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-20T19:41:03.000Z",
-      "description": "Welcome to the World This Week with Gavin Lee. You give us 45 minutes, we'll give you seven days' worth of crystal-clear analysis alongside a handpicked panel of four distinguished foreign correspondents. In a week where"
-    },
-    {
-      "id": "fR-s4grmnUA",
-      "title": "Nepal cricket fans celebrate their team’s global rise",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-20T19:23:03.000Z",
-      "description": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years."
-    },
-    {
-      "id": "Trd7TxLqgj0",
-      "title": "WATCH: An explosion is heard in Chmielek as Russian missiles land in Poland",
+      "id": "Xx2NDXGOPWU",
+      "title": "Trump calls Jeffries and Schumer 'smart' and hopes to get 'more done'",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-20T19:11:57.000Z",
-      "description": "A Russian missile came down in Poland on Friday in what Polish Prime Minister Donald Tusk said was likely a deliberate provocation coinciding with European military exercises in the country, part of preparations for a po"
-    },
-    {
-      "id": "PRJ_5bf_VHg",
-      "title": "Poland says Russian missile struck near Ukraine border",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-20T19:42:28.000Z",
-      "description": "Polish officials said a Russian missile landed in the country's east near the Ukrainian border. Two other incursions are also being investigated. NATO chief Mark Rutte said the alliance's jets were scrambled in response."
+      "publishedAt": "2026-11-21T00:54:54.000Z",
+      "description": "President Donald Trump offered an unexpectedly positive assessment of Hakeem Jeffries on Friday, praising the New York Democrat as “smart” and “streetwise” as he prepares to become speaker of the House under the incoming"
     }
   ]
 }

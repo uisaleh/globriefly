@@ -1,0 +1,99 @@
+{
+  "slug": "quest-for-robotic-hands-tests-the-limits-of-artificial-intelligence",
+  "status": "published",
+  "type": "news",
+  "category": "technology",
+  "region": "Global",
+  "headline": "Quest for robotic hands tests the limits of artificial intelligence",
+  "standfirst": "Engineers race to replicate the human hand, a technological hurdle that could reshape the global workforce.",
+  "keyPoints": [
+    "Replicating human hand dexterity remains a major challenge in robotics.",
+    "Major technology firms and governments are investing heavily in humanoid robots.",
+    "Human hands combine 27 bones with complex sensory feedback loops.",
+    "Artificial dexterity could impact jobs that currently require physical human labour."
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "Inside a massive fulfillment facility near Luton, automated systems and human employees operate side by side to process retail orders. Robotic transport units move yellow shelving pods across the floor while workers handle items brought directly to their workstations. Although computers manage decisions regarding item storage and packaging sizes, human hands remain essential for physical tasks.",
+        "Public tours of these distribution centres often highlight collaborative working environments designed to blend human judgment with machine endurance. However, a significant technological barrier persists on the warehouse floor and across the wider automation industry. Current machinery cannot yet match the versatile physical capabilities that people use effortlessly every single day.",
+        "Experts note that while artificial intelligence has advanced rapidly, hardware capable of replicating human dexterity is still in development. Until engineers solve this physical challenge, human workers will continue to play a vital role in operations that require fine motor skills. The quest to build functional humanoid robots is now accelerating across multiple global industries."
+      ]
+    },
+    {
+      "heading": "Anatomy and evolution",
+      "paragraphs": [
+        "The human hand serves as a primary link between internal thought and external action. Medical professionals emphasise that evolutionary success stems from the interplay between cognitive power and physical dexterity. Specialized joints and opposable thumbs allowed early humans to manipulate objects and develop tools millions of years ago.",
+        "A dense network of nerves and sensory receptors constantly relays detailed environmental data back to the brain. This continuous feedback loop allows people to instantly adjust grip force when handling delicate or slippery items. Replicating this biological complexity in synthetic hardware represents a formidable engineering obstacle."
+      ]
+    },
+    {
+      "heading": "Industry investments",
+      "paragraphs": [
+        "Financial backers are wagering that general-purpose humanoid robots will soon become commonplace alongside text-based artificial intelligence models. Government initiatives and private automotive companies are channeling substantial capital into high-tech manufacturing and robotics development. Industry leaders assert that mastering robotic manipulation is a prerequisite for creating versatile autonomous machines.",
+        "Firms view physical automation as the next logical frontier following years of digital software advancements. By shifting factory focus toward humanoid prototypes, corporations aim to overcome current limitations in automated physical labor. These commercial investments drive ongoing research into advanced sensors and mechanical actuators."
+      ]
+    },
+    {
+      "heading": "Implications for employment",
+      "paragraphs": [
+        "The convergence of artificial intelligence and artificial dexterity carries profound consequences for the global labour market. If machines eventually master the full range of physical tasks performed by people, traditional job security could diminish significantly. Occupations that rely on manual dexterity might face unprecedented competition from automated systems.",
+        "Observers question the long-term viability of human employment sectors once machines acquire the ability to manipulate objects with human-like precision. While warehouse operators currently depend on human staff to provide physical interaction, future advancements could reduce this reliance. The societal adjustment to widespread robotic labor remains an open question."
+      ]
+    },
+    {
+      "heading": "Looking ahead",
+      "paragraphs": [
+        "Research laboratories continue to test novel actuator designs and tactile sensor arrays to improve robotic manipulation. Engineers are working to shorten the response times of mechanical feedback loops to better mimic biological reflexes. Progress in this field depends on simultaneous breakthroughs in both materials science and neural network programming.",
+        "As development continues, policymakers and industry analysts monitor the pace of commercial robotics deployment. The timeline for achieving true artificial dexterity remains uncertain, but the potential ramifications for daily life ensure sustained global interest. Future milestones will depend on overcoming remaining anatomical and computational roadblocks."
+      ]
+    }
+  ],
+  "highlight": "Replicating the breadth of function of the human hand is one of the biggest remaining challenges in robotics.",
+  "timeline": [],
+  "tags": [
+    "robotics",
+    "artificial intelligence",
+    "automation",
+    "labour",
+    "technology"
+  ],
+  "socialSummary": "Engineers race to replicate the human hand, a technological hurdle that could reshape the global workforce.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Humanoid_robot_and_woman_retrieve_infomation_-_includes_a_visible_typical_error_of_recent_AI_generated_pictures.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "alt": "Ein humanoider Roboter und eine Frau rufen Informationen von einem Laptop ab. Das Bild ist AI generiert mit an den \"Autor\"…",
+    "credit": "Polimorph / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Humanoid_robot_and_woman_retrieve_infomation_-_includes_a_visible_typical_error_of_recent_AI_generated_pictures.png",
+    "license": "Public domain",
+    "provider": "wikimedia",
+    "query": "humanoid robot hand",
+    "matchedBy": "idea"
+  },
+  "imageSearch": {
+    "query": "humanoid robot hand",
+    "names": [
+      "Elon Musk",
+      "Tesla",
+      "Amazon"
+    ],
+    "subject": "robotic hand mechanism"
+  },
+  "sources": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai"
+    }
+  ],
+  "sourceTitles": [
+    "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?"
+  ],
+  "sourceCount": 1,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-11-21T09:41:06.136Z",
+  "updatedAt": "2026-11-21T09:41:06.136Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/quest-for-robotic-hands-tests-the-limits-of-artificial-intelligence.jpg"
+}

@@ -1,26 +1,48 @@
-01:27:38 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-01:27:38 collecting videos…
-01:27:38   video feed BBC News: 15 in feed, 5 kept
-01:27:38   video feed Al Jazeera English: 15 in feed, 5 kept
-01:27:38   video feed DW News: 15 in feed, 5 kept
-01:27:38   video feed FRANCE 24 English: 15 in feed, 5 kept
-01:27:38   video feed Sky News: 15 in feed, 5 kept
-01:27:38   video feed Reuters: 15 in feed, 5 kept
-01:27:38   video feed Associated Press: 15 in feed, 5 kept
-01:27:38 videos: saved 24
-01:27:38 collecting feeds…
-01:27:40 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-01:27:40 777 new items
-01:27:42 589 candidate stories
-01:27:42 categories needing stories: science, health, sports, entertainment, politics, business, technology → reserved science
-01:27:42 writing: Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude (6 sources)
-01:27:42   source text: 4015 / 706 / 4101 / 0 / 3937 chars
-01:27:47   too close to source wording — rewriting
-01:27:57   ✓ published: /news/researcher-claims-breakthrough-on-century-old-math-problem-using-ai/ [science] image: wikimedia via name "Riemann hypothesis"
-01:27:57 writing: Indian man jailed over US murder plot against Sikh separatist (5 sources)
-01:27:57   source text: 1764 / 3247 / 4406 chars
-01:28:02   too close to source wording — rewriting
-01:28:10   skipped
-01:28:10 writing explainer for: Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude
-01:28:17   ✓ explainer: /news/how-did-an-ai-chatbot-help-crack-a-160-year-old-math-puzzle/
-01:28:17 done — 1 stories
+09:40:34 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+09:40:34 collecting videos…
+09:40:34   video feed BBC News: 15 in feed, 5 kept
+09:40:34   video feed Al Jazeera English: 15 in feed, 5 kept
+09:40:34   video feed DW News: 15 in feed, 5 kept
+09:40:34   video feed FRANCE 24 English: 15 in feed, 5 kept
+09:40:34   video feed Sky News: 15 in feed, 5 kept
+09:40:35   video feed Reuters: 15 in feed, 5 kept
+09:40:35   video feed Associated Press: 15 in feed, 5 kept
+09:40:35 videos: saved 24
+09:40:35 collecting feeds…
+09:40:39 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+09:40:39 492 new items
+09:40:39 379 candidate stories
+09:40:39 categories needing stories: technology, health, sports, entertainment, politics, business, world → reserved technology
+09:40:39 writing: ‘The doom of humanity’: will the quest to make robotic hands render us obsolete? (1 sources)
+09:40:39   source text: 7000 chars
+09:40:41 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+09:40:53   too close to source wording — rewriting
+09:40:54 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+09:41:08   ✓ published: /news/quest-for-robotic-hands-tests-the-limits-of-artificial-intelligence/ [technology] image: wikimedia via idea "humanoid robot hand"
+09:41:08 writing: Harry Kane out for a ‘few months’ as Bayern Munich confirm ankle ligament tear (3 sources)
+09:41:09   source text: 373 / 2518 / 4714 chars
+09:41:10 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+09:41:21   too close to source wording — rewriting
+09:41:30   ✓ published: /news/bayern-munich-lose-harry-kane-for-months-following-ankle-ligament-tear/ [sports] image: wikimedia via name "Harry Kane"
+09:41:30 done — 2 stories
