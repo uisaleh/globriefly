@@ -108,6 +108,9 @@
   "publishedAt": "2026-11-21T17:25:18.651Z",
   "updatedAt": "2026-11-21T17:25:18.651Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175108530681745",
+    "sharedAt": "2026-11-21T17:29:05.114Z"
+  },
   "ogImage": "/og/un-discussions-on-autonomous-weapons-delay-binding-rules-until-2028.jpg"
 }
