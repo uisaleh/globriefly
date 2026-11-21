@@ -111,6 +111,9 @@
   "publishedAt": "2026-11-21T01:27:56.414Z",
   "updatedAt": "2026-11-21T01:27:56.414Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175052736681745",
+    "sharedAt": "2026-11-21T01:31:28.987Z"
+  },
   "ogImage": "/og/researcher-claims-breakthrough-on-century-old-math-problem-using-ai.jpg"
 }

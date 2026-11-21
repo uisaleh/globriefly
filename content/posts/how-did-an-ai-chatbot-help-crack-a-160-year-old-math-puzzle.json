@@ -102,6 +102,9 @@
   "publishedAt": "2026-11-21T01:28:16.934Z",
   "updatedAt": "2026-11-21T01:28:16.934Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175053048681745",
+    "sharedAt": "2026-11-21T01:31:54.569Z"
+  },
   "ogImage": "/og/how-did-an-ai-chatbot-help-crack-a-160-year-old-math-puzzle.jpg"
 }
