@@ -1,39 +1,22 @@
-17:24:56 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-17:24:56 collecting videos…
-17:24:56   video feed BBC News: 15 in feed, 5 kept
-17:24:56   video feed Al Jazeera English: 15 in feed, 5 kept
-17:24:56   video feed DW News: 15 in feed, 5 kept
-17:24:57   video feed FRANCE 24 English: 15 in feed, 5 kept
-17:24:57   video feed Sky News: 15 in feed, 5 kept
-17:24:57   video feed Reuters: 15 in feed, 5 kept
-17:24:57   video feed Associated Press: 15 in feed, 5 kept
-17:24:57 videos: saved 24
-17:24:57 collecting feeds…
-17:25:00 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-17:25:00 596 new items
-17:25:01 470 candidate stories
-17:25:01 categories needing stories: politics, health, entertainment, world, business, technology, sports → reserved politics
-17:25:01 writing: Effort to regulate ‘killer robots’ delayed to 2028 (2 sources)
-17:25:01   source text: 2630 / 3833 chars
-17:25:06 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:25:20   ✓ published: /news/un-discussions-on-autonomous-weapons-delay-binding-rules-until-2028/ [politics] image: wikimedia via idea "Geneva United Nations building"
-17:25:20 writing: Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico? (4 sources)
-17:25:21   source text: 3724 / 2408 / 4737 chars
-17:25:23 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-17:25:36   too close to source wording — rewriting
-17:25:52   ✓ published: /news/mexican-forces-capture-high-profile-cartel-fugitive-in-sinaloa-raid/ [world] image: wikimedia via name "Sinaloa"
-17:25:52 done — 2 stories
+23:07:59 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+23:07:59 collecting videos…
+23:07:59   video feed BBC News: 15 in feed, 5 kept
+23:07:59   video feed Al Jazeera English: 15 in feed, 5 kept
+23:07:59   video feed DW News: 15 in feed, 5 kept
+23:07:59   video feed FRANCE 24 English: 15 in feed, 5 kept
+23:07:59   video feed Sky News: 15 in feed, 5 kept
+23:08:00   video feed Reuters: 15 in feed, 5 kept
+23:08:00   video feed Associated Press: 15 in feed, 5 kept
+23:08:00 videos: saved 24
+23:08:00 collecting feeds…
+23:08:01 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+23:08:01 582 new items
+23:08:02 445 candidate stories
+23:08:02 categories needing stories: business, health, entertainment, world, politics, technology, sports → reserved business
+23:08:02 writing: I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary? (1 sources)
+23:08:02   source text: 0 chars
+23:08:02   skipped: only paywalled sources, not enough readable text
+23:08:02 writing: Match of the Day (9 sources)
+23:08:02   source text: 2154 / 2154 / 3249 chars
+23:08:10   ✓ published: /news/nelly-korda-charges-into-contention-at-cme-group-tour-championship/ [sports] image: wikimedia via name "Nelly Korda"
+23:08:10 done — 1 stories
