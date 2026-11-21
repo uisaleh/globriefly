@@ -1,31 +1,26 @@
-20:04:02 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-20:04:02 collecting videos…
-20:04:03   video feed BBC News: 15 in feed, 5 kept
-20:04:03   video feed Al Jazeera English: 15 in feed, 5 kept
-20:04:03   video feed DW News: 15 in feed, 5 kept
-20:04:03   video feed FRANCE 24 English: 15 in feed, 5 kept
-20:04:03   video feed Sky News: 15 in feed, 5 kept
-20:04:03   video feed Reuters: 15 in feed, 5 kept
-20:04:03   video feed Associated Press: 15 in feed, 5 kept
-20:04:03 videos: saved 24
-20:04:03 collecting feeds…
-20:04:07 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-20:04:07 890 new items
-20:04:09 713 candidate stories
-20:04:09 categories needing stories: business, health, sports, entertainment, politics, technology → reserved business
-20:04:09 writing: Trump threatens ban on US firms building AI data centres overseas (4 sources)
-20:04:09   source text: 2863 / 2863 / 2863 chars
-20:04:19   ✓ published: /news/trump-floats-potential-ban-and-heavy-taxes-on-foreign-ai-data-centre/ [business] image: wikimedia via idea "Donald Trump press briefing"
-20:04:19 writing: Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032 (5 sources)
-20:04:19   source text: 3137 / 3035 / 1941 chars
-20:04:24   too close to source wording — rewriting
-20:04:28 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-20:04:40   ✓ published: /news/new-york-mayor-sets-2032-target-to-shut-down-rikers-island-jail/ [world] image: wikimedia via idea "Rikers Island New York"
-20:04:40 done — 2 stories
+01:27:38 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+01:27:38 collecting videos…
+01:27:38   video feed BBC News: 15 in feed, 5 kept
+01:27:38   video feed Al Jazeera English: 15 in feed, 5 kept
+01:27:38   video feed DW News: 15 in feed, 5 kept
+01:27:38   video feed FRANCE 24 English: 15 in feed, 5 kept
+01:27:38   video feed Sky News: 15 in feed, 5 kept
+01:27:38   video feed Reuters: 15 in feed, 5 kept
+01:27:38   video feed Associated Press: 15 in feed, 5 kept
+01:27:38 videos: saved 24
+01:27:38 collecting feeds…
+01:27:40 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+01:27:40 777 new items
+01:27:42 589 candidate stories
+01:27:42 categories needing stories: science, health, sports, entertainment, politics, business, technology → reserved science
+01:27:42 writing: Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude (6 sources)
+01:27:42   source text: 4015 / 706 / 4101 / 0 / 3937 chars
+01:27:47   too close to source wording — rewriting
+01:27:57   ✓ published: /news/researcher-claims-breakthrough-on-century-old-math-problem-using-ai/ [science] image: wikimedia via name "Riemann hypothesis"
+01:27:57 writing: Indian man jailed over US murder plot against Sikh separatist (5 sources)
+01:27:57   source text: 1764 / 3247 / 4406 chars
+01:28:02   too close to source wording — rewriting
+01:28:10   skipped
+01:28:10 writing explainer for: Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude
+01:28:17   ✓ explainer: /news/how-did-an-ai-chatbot-help-crack-a-160-year-old-math-puzzle/
+01:28:17 done — 1 stories

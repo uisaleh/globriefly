@@ -1,0 +1,107 @@
+{
+  "slug": "how-did-an-ai-chatbot-help-crack-a-160-year-old-math-puzzle",
+  "status": "published",
+  "type": "explainer",
+  "category": "science",
+  "region": "Global",
+  "headline": "How did an AI chatbot help crack a 160-year-old math puzzle?",
+  "standfirst": "A researcher claims to have solved the famous Riemann hypothesis using an AI assistant, sparking excitement and debate across the scientific world.",
+  "keyPoints": [
+    "A researcher announced a proof for the 160-year-old Riemann hypothesis with the help of Claude.",
+    "The Riemann hypothesis is one of seven Millennium Prize Problems carrying a $1 million reward.",
+    "The claim has not yet been independently verified or reviewed by outside experts.",
+    "The proof was written in Lean, a programming language that allows computer verification of math."
+  ],
+  "sections": [
+    {
+      "heading": "What is the Riemann hypothesis and why does it matter?",
+      "paragraphs": [
+        "First proposed by German mathematician Bernhard Riemann in 1859, the Riemann hypothesis is one of the most famous and important unsolved problems in pure mathematics. At its core, the problem concerns the distribution of prime numbers—the fundamental building blocks of all numbers.",
+        "Because prime numbers appear to follow no simple, predictable pattern, understanding them has baffled thinkers for generations. Solving the hypothesis would unlock profound secrets about how numbers work, which is why the Clay Mathematics Institute named it one of seven Millennium Prize Problems in 2000, offering a $1 million reward for a verified solution."
+      ]
+    },
+    {
+      "heading": "How did an artificial intelligence help solve it?",
+      "paragraphs": [
+        "A researcher working at artificial intelligence company Anthropic announced that he used the firm's Claude chatbot to discover a proof for the historic problem. The researcher released a preliminary note outlining the breakthrough and stated that the method also resolves broader versions of the hypothesis.",
+        "Rather than just writing out text, the proof was produced in Lean, a specialized programming language designed to let computers rigorously check mathematical arguments. The researcher noted that he has not yet fully mastered all the intricate mathematics involved, highlighting a new dynamic where humans guide AI tools to explore complex territories."
+      ]
+    },
+    {
+      "heading": "Has the mathematical community accepted the proof?",
+      "paragraphs": [
+        "Not yet. While leading mathematicians have called the announcement a monumental and surprising moment, the claim has not yet undergone the rigorous independent verification required by the scientific community.",
+        "Under the rules of the Clay Mathematics Institute, any proposed solution to a Millennium Prize Problem must be published in a peer-reviewed journal and withstand at least two years of intense scrutiny and general acceptance by global experts before the prize can be awarded."
+      ]
+    },
+    {
+      "heading": "What does this mean for the future of mathematics?",
+      "paragraphs": [
+        "This announcement follows other recent AI breakthroughs in advanced math, creating a rapidly shifting landscape for researchers. As artificial intelligence models tackle increasingly complex problems, experts are beginning to rethink how mathematical expertise is evaluated and rewarded.",
+        "While some view these developments with caution, many scientists see the technology functioning as a powerful tool rather than an independent mastermind, pushing human curiosity and collaboration into uncharted scientific territory."
+      ]
+    }
+  ],
+  "highlight": "As artificial intelligence models tackle increasingly complex problems, experts are beginning to rethink how mathematical expertise is evaluated and rewarded.",
+  "timeline": [],
+  "tags": [
+    "mathematics",
+    "artificial intelligence",
+    "Riemann hypothesis",
+    "Claude",
+    "Anthropic"
+  ],
+  "socialSummary": "A researcher claims to have solved math's greatest riddle using an AI assistant, kicking off a major debate over verification.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%22Honk_If_You_Believe_the_Riemann_Hypothesis%22_%2851707272497%29.jpg/1920px-%22Honk_If_You_Believe_the_Riemann_Hypothesis%22_%2851707272497%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "In the University of Michigan Mathematics Department, Ann Arbor, MI",
+    "credit": "Chris Rycroft from Madison, Wisconsin, United States / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:%22Honk_If_You_Believe_the_Riemann_Hypothesis%22_(51707272497).jpg",
+    "license": "CC BY 2.0",
+    "provider": "wikimedia",
+    "query": "Riemann hypothesis",
+    "matchedBy": "name"
+  },
+  "imageSearch": {
+    "query": "digital math formulas screen",
+    "names": [
+      "Claude",
+      "Riemann hypothesis"
+    ],
+    "subject": "computer screen showing complex mathematical equations"
+  },
+  "sources": [
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html"
+    },
+    {
+      "name": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/dueling-claims-of-riemann-hypothesis-proofs-emerge/"
+    },
+    {
+      "name": "Phys.org",
+      "url": "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html"
+    },
+    {
+      "name": "Live Science",
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion"
+    }
+  ],
+  "sourceTitles": [
+    "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
+    "Dueling claims of Riemann hypothesis proofs emerge",
+    "Anthropic researcher says he and Claude proved the Riemann hypothesis, first posed in 1859",
+    "An Anthropic mathematician claims to have proven the Riemann hypothesis. We have to rethink how we reward expertise.",
+    "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis"
+  ],
+  "sourceCount": 6,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-11-21T01:28:16.934Z",
+  "updatedAt": "2026-11-21T01:28:16.934Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/how-did-an-ai-chatbot-help-crack-a-160-year-old-math-puzzle.jpg"
+}
