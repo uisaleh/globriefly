@@ -1,21 +1,21 @@
-09:40:34 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-09:40:34 collecting videos…
-09:40:34   video feed BBC News: 15 in feed, 5 kept
-09:40:34   video feed Al Jazeera English: 15 in feed, 5 kept
-09:40:34   video feed DW News: 15 in feed, 5 kept
-09:40:34   video feed FRANCE 24 English: 15 in feed, 5 kept
-09:40:34   video feed Sky News: 15 in feed, 5 kept
-09:40:35   video feed Reuters: 15 in feed, 5 kept
-09:40:35   video feed Associated Press: 15 in feed, 5 kept
-09:40:35 videos: saved 24
-09:40:35 collecting feeds…
-09:40:39 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-09:40:39 492 new items
-09:40:39 379 candidate stories
-09:40:39 categories needing stories: technology, health, sports, entertainment, politics, business, world → reserved technology
-09:40:39 writing: ‘The doom of humanity’: will the quest to make robotic hands render us obsolete? (1 sources)
-09:40:39   source text: 7000 chars
-09:40:41 gemini gemini-3.5-flash-lite failed (503): {
+17:24:56 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+17:24:56 collecting videos…
+17:24:56   video feed BBC News: 15 in feed, 5 kept
+17:24:56   video feed Al Jazeera English: 15 in feed, 5 kept
+17:24:56   video feed DW News: 15 in feed, 5 kept
+17:24:57   video feed FRANCE 24 English: 15 in feed, 5 kept
+17:24:57   video feed Sky News: 15 in feed, 5 kept
+17:24:57   video feed Reuters: 15 in feed, 5 kept
+17:24:57   video feed Associated Press: 15 in feed, 5 kept
+17:24:57 videos: saved 24
+17:24:57 collecting feeds…
+17:25:00 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+17:25:00 596 new items
+17:25:01 470 candidate stories
+17:25:01 categories needing stories: politics, health, entertainment, world, business, technology, sports → reserved politics
+17:25:01 writing: Effort to regulate ‘killer robots’ delayed to 2028 (2 sources)
+17:25:01   source text: 2630 / 3833 chars
+17:25:06 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -23,8 +23,10 @@
   }
 }
 
-09:40:53   too close to source wording — rewriting
-09:40:54 gemini gemini-3.5-flash-lite failed (503): {
+17:25:20   ✓ published: /news/un-discussions-on-autonomous-weapons-delay-binding-rules-until-2028/ [politics] image: wikimedia via idea "Geneva United Nations building"
+17:25:20 writing: Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico? (4 sources)
+17:25:21   source text: 3724 / 2408 / 4737 chars
+17:25:23 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -32,17 +34,6 @@
   }
 }
 
-09:41:08   ✓ published: /news/quest-for-robotic-hands-tests-the-limits-of-artificial-intelligence/ [technology] image: wikimedia via idea "humanoid robot hand"
-09:41:08 writing: Harry Kane out for a ‘few months’ as Bayern Munich confirm ankle ligament tear (3 sources)
-09:41:09   source text: 373 / 2518 / 4714 chars
-09:41:10 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-09:41:21   too close to source wording — rewriting
-09:41:30   ✓ published: /news/bayern-munich-lose-harry-kane-for-months-following-ankle-ligament-tear/ [sports] image: wikimedia via name "Harry Kane"
-09:41:30 done — 2 stories
+17:25:36   too close to source wording — rewriting
+17:25:52   ✓ published: /news/mexican-forces-capture-high-profile-cartel-fugitive-in-sinaloa-raid/ [world] image: wikimedia via name "Sinaloa"
+17:25:52 done — 2 stories

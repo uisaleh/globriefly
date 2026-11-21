@@ -1,45 +1,141 @@
 {
-  "updatedAt": "2026-11-21T09:40:35.288Z",
+  "updatedAt": "2026-11-21T17:24:57.093Z",
   "videos": [
     {
-      "id": "UO9YjaIceQE",
-      "title": "The war in Yemen threatens fishing livelihoods in Aden",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-21T09:31:51.000Z",
-      "description": "The war in Yemen is threatening a fishing trade passed down through generations in the southern port city of Aden. Rising fuel prices are making trips more expensive, while a sunset-to-dawn curfew keeps fishers ashore du"
+      "id": "NxJMVcQyyss",
+      "title": "Suffolk village 'votes to leave UK' over asylum plans",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-21T16:52:13.000Z",
+      "description": "Villagers in Barnham have voted in favour of leaving the UK in a symbolic vote."
     },
     {
-      "id": "DcBQnQ0Pad8",
-      "title": "Donald Trump defends calling Vladimir Putin a 'friend'.",
+      "id": "FJfB7BbB3_Y",
+      "title": "How antibiotic resistance threatens cancer care and routine surgery",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-21T16:45:23.000Z",
+      "description": "Thousands of people across the globe are diagnosed with potentially life-threatening infections that are resistant to antibiotics, known as Antimicrobial Resistance or AMR."
+    },
+    {
+      "id": "7gurkzVE2Eo",
+      "title": "Mexico detains top cartel boss 'El Chapo Isidro,' one of FBI's 10 most wanted fugitives",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-21T16:42:42.000Z",
+      "description": "Mexican authorities captured top cartel boss Fausto Isidro Meza Flores, known as “El Chapo Isidro,” in the state of Sinaloa overnight, resulting in a burst of violence that rattled civilians.\r"
+    },
+    {
+      "id": "fO6dgP8hSf8",
+      "title": "French police officers convicted of racist assault • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-21T16:42:24.000Z",
+      "description": "A French court on Friday sentenced three policemen to serve time over the beating of a black music producer in 2020.  It also recognized the assault on Michelle Zecler was racially motivated."
+    },
+    {
+      "id": "pstAeJjUF64",
+      "title": "Why has COP31 been branded the 'worst ever'?",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-21T16:28:45.000Z",
+      "description": "COP31 slipped into overtime as negotiators from nearly 200 countries struggled to bridge deep divisions over fossil fuels and climate finance in a two-week conference that was scheduled to end on November 20."
+    },
+    {
+      "id": "VP-lxRPUTeE",
+      "title": "The real-life Miami locations that inspired GTA 6's Vice City.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-21T09:23:22.000Z",
+      "publishedAt": "2026-11-21T16:00:37.000Z",
+      "description": ""
+    },
+    {
+      "id": "00cqUbuWkv8",
+      "title": "Activist swims in the Strait of Hormuz as blasts rock the waterway",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-21T14:30:35.000Z",
+      "description": "A British endurance athlete swam in the Strait of Hormuz to highlight the impact the US-Iran war is having on wildlife. Lewis Pugh, a United Nations Patron of the Oceans, said he heard several loud explosions and smelled"
+    },
+    {
+      "id": "IXYhpyMExzU",
+      "title": "'You can't convince me women don't want to be educated'",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-21T16:02:26.000Z",
+      "description": "'You can't convince me women don't want to be educated.'"
+    },
+    {
+      "id": "zKnJxhBm4T4",
+      "title": "French presidential candidate blames media for racist attack",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-21T15:44:10.000Z",
+      "description": "French presidential candidate Jean-Luc Melenchon has blamed TV coverage for fueling a racist attack in October that killed a 26-year-old Black man and injured seven others, including an 11-year-old girl."
+    },
+    {
+      "id": "xf42RSJ9g4I",
+      "title": "Voters oust several sheriffs who aided Trump's immigration enforcement efforts",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-21T14:32:49.000Z",
+      "description": "Sheriffs in several states who aided President Donald Trump’s immigration crackdown have been ousted from office by voters, all losing to challengers opposed to cooperative agreements with Immigration, Customs and Enforc"
+    },
+    {
+      "id": "JmBXEiBnylE",
+      "title": "France: Demonstrations losing steam as movement enters sixth week • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-21T16:00:01.000Z",
+      "description": "Around 2,200 people took part in protests across France by 2pm local time, according to the Interior Ministry, which recorded 44 demonstrations nationwide and seven arrests, with the situation described as generally calm"
+    },
+    {
+      "id": "GdVfmjOb5v4",
+      "title": "NYC mayor Mamdani unveils plan to close Rikers Island jail complex",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-21T15:31:12.000Z",
+      "description": "New York City Mayor Zohran Mamdani unveiled his plan to close the city's infamous Rikers Island jail complex by 2032, five years after a previously set ​deadline, and replace it with four borough-based jails."
+    },
+    {
+      "id": "kYWf1hwxVPI",
+      "title": "Tips to ensure your baby's sleeping bag is safe, according a to registered NHS health visitor.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-21T14:43:38.000Z",
       "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
     },
     {
-      "id": "vQNnHuBB7Ng",
-      "title": "All 146 plane passengers and crew safe after emergency landing in Philippines",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-21T08:43:02.000Z",
-      "description": "An Air Niugini plane carrying 146 passengers and crew from Hong Kong to Papua New Guinea safely made an emergency landing Saturday in a southern Philippine city due to an indication of a possible engine fire, Philippine "
-    },
-    {
-      "id": "CxfTpfhqRGs",
-      "title": "Sunday Morning with... Michael Gove",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-21T08:32:31.000Z",
-      "description": "This week's host of Sunday Morning is Editor of the Spectator and former Conservative minister Michael Gove."
-    },
-    {
-      "id": "3ovPh0m9NQU",
-      "title": "How Dortmund fans helped kill Rheinmetall sponsor deal",
+      "id": "p0RULM77beM",
+      "title": "Why is the US president pushing a year-end peace deal?",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-21T08:00:17.000Z",
-      "description": "Borussia Dortmund will not renew its sponsorship deal with German weapons maker Rheinmetall once it expires in June 2027. Many fans protested throughout the partnership, arguing that promoting an arms manufacturer contra"
+      "publishedAt": "2026-11-21T13:48:57.000Z",
+      "description": "The Trump administration reportedly wants a Ukraine-Russia peace deal by January, according to the Financial Times. But with just weeks remaining and fighting still raging, how realistic is that ambition? Alex Forrest Wh"
+    },
+    {
+      "id": "i9t5Une4Jlo",
+      "title": "Wes Streeting: 'Putin is a cold-blooded killer.'",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-21T14:59:14.000Z",
+      "description": "The UK's defence secretary has met with Volodymyr Zelenskyy for talks in Kyiv today where he compared the Ukrainian president to Winston Churchill."
+    },
+    {
+      "id": "SyGtGzQZDNY",
+      "title": "Fighting intensifies in Yemen’s Taiz as aid funding falls",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-21T15:20:39.000Z",
+      "description": "Fighting has intensified in Yemen’s Taiz province, with Saudi-led coalition air strikes targeting Ansar Allah Houthi positions and missile launch platforms across several areas. "
+    },
+    {
+      "id": "LfByaquRfgg",
+      "title": "UK defense secretary reaffirms support for Ukraine at meeting with Zelenskyy in Kyiv",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-21T14:27:49.000Z",
+      "description": "Ukrainian President Volodymyr Zelenskyy met with UK Defense Secretary Wes Streeting on Saturday in Kyiv. Streeting reaffirmed the U.K's readiness to support Ukraine during the talks.\r"
     },
     {
       "id": "JWMoNXxmt-w",
@@ -50,148 +146,52 @@
       "description": "Two Russian missiles and a suspected drone came down in Poland on Friday in what Prime Minister Donald Tusk said was likely an \"intentional provocation\" timed to coincide with European military exercises in the country f"
     },
     {
-      "id": "py9uIgX8UyM",
-      "title": "Illustrating a year of turmoil inside Iran",
+      "id": "-QRBzxT_Hcw",
+      "title": "Wall Street plunges, climate talks run over, and Republicans position for 2028",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-21T06:00:19.000Z",
-      "description": "On this week’s episode of On Assignment, host Jonah Green speaks with Reuters correspondent John Davison about Under Fire, a graphic memoir by Reuters that tells the story of one Iranian woman through a year of protests,"
+      "publishedAt": "2026-11-21T14:36:33.000Z",
+      "description": "Wall Street has its worst week since the Covid-19 pandemic as investors lose faith that billions of dollars spent on AI will pay off. Climate talks in Turkey run into extra time as countries can't agree on whether to men"
     },
     {
-      "id": "FCYMaUBpAdk",
-      "title": "Fire sprinkler sprays water at flame-covered sign in China",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-21T09:19:49.000Z",
-      "description": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort, sparking online jokes that it had mistaken the image for a real fire. The resort said the system was trigge"
-    },
-    {
-      "id": "9amRYIIb5GM",
-      "title": "Can these new sensors save lives in landslides?",
+      "id": "c8zhXMtyat4",
+      "title": "Can lessons in eye contact prepare you for getting a job?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-21T09:00:10.000Z",
-      "description": "Could AI help save lives by giving communities more warning of dangerous landslides and debris flows?"
+      "publishedAt": "2026-11-21T14:00:07.000Z",
+      "description": ""
     },
     {
-      "id": "QQ1U-prpius",
-      "title": "Endurance athlete swims in Strait of Hormuz to highlight the war's impact on wildlife",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-21T05:32:15.000Z",
-      "description": "British endurance swimmer Lewis Pugh has swum the Strait of Hormuz to highlight environmental threats amid ongoing conflict. Pugh, a United Nations Patron of the Oceans, completed the swim this week despite nearby attack"
-    },
-    {
-      "id": "Usw32rhBMVw",
-      "title": "Trump is back from China. What's his big takeaway?",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-21T00:00:09.000Z",
-      "description": "US correspondent David Blevins looks at a 90-minute speech from Donald Trump which bounced between many different topics, and at times, lacked a coherent message. "
-    },
-    {
-      "id": "jDKOvndNANU",
-      "title": "German defense minister urges caution over Russia peace talks",
+      "id": "w90JkdOX2os",
+      "title": "Which jobs are still safe from AI?",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-21T07:00:17.000Z",
-      "description": "During a visit to Poland, German Defense Minister Boris Pistorius welcomed the prospect of new talks with Russia but warned that they must produce tangible results."
+      "publishedAt": "2026-11-21T12:00:32.000Z",
+      "description": "AI and AI-powered robots are advancing rapidly. Entry-level jobs are already disappearing in offices. Which jobs are truly secure, and who might be replaced next?"
     },
     {
-      "id": "IPEx0bHCdsk",
-      "title": "Paris police officers sentenced to prison over 2020 beating of Black man • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-21T06:00:14.000Z",
-      "description": "A Paris court on Friday sentenced three policemen to serve time over the 2020 beating of Black music producer Michel Zecler, a rare such ruling. The assault, which was captured on camera, sparked nationwide outrage and r"
-    },
-    {
-      "id": "2yc7ULWfKHo",
-      "title": "Can Anthropic’s IPO revive the AI trade amid a tech selloff?",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-20T23:06:50.000Z",
-      "description": "Wall Street dives, as Anthropic fails to maintain day-one strength. Trump vows to veto Democrats in his first speech after returning from China. Congress faces a pre-Christmas government shutdown as the Iran war splits l"
-    },
-    {
-      "id": "yOQQSvEa8b8",
-      "title": "Can mediation succeed in a war-torn world?",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-21T09:16:07.000Z",
-      "description": "As war escalates across the Middle East and Ukraine, global peace talks are under the spotlight."
-    },
-    {
-      "id": "MjI5gE46H4w",
-      "title": "Is social media ruining my relationship?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-21T06:00:40.000Z",
-      "description": "The internet is full of other people’s relationships. But how much of the advice out there is actually reliable? What are people being told online, and what impact is it having on their real-life relationships? "
-    },
-    {
-      "id": "xYtlatmj1rk",
-      "title": "Magnitude 6.7 earthquake shakes Peru’s Andes",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-21T03:39:23.000Z",
-      "description": "The U.S. Geological Survey said the earthquake struck at 7:09 p.m. local time (0900 GMT Saturday). Its epicenter was in the Andes, 34 kilometers (21 miles) north of Junin, at a depth of 108 kilometers (67 miles).\r"
-    },
-    {
-      "id": "8NLDKDTsmXQ",
-      "title": "UK and EU agree new deal on three areas",
+      "id": "CxfTpfhqRGs",
+      "title": "Sunday Morning with... Michael Gove",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-20T22:58:28.000Z",
-      "description": "The Wrap with Gillian Joseph will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
+      "publishedAt": "2026-11-21T08:32:31.000Z",
+      "description": "This week's host of Sunday Morning is Editor of the Spectator and former Conservative minister Michael Gove."
     },
     {
-      "id": "1MQ0WnDAKls",
-      "title": "Indian man jailed for over 19 years for failed plot to kill Sikh leader",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-21T04:00:37.000Z",
-      "description": "A US court sentenced an Indian man to more than 19.5 years in prison after he admitted to hiring a hitman to assassinate a NY-based Sikh separatist leader. The \"hitman\" turned out to be an undercover law enforcement agen"
-    },
-    {
-      "id": "PK8q-qiYEoI",
-      "title": "House of Cards: America's enemies \"no longer fear it, its allies no longer trust it' • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-20T22:09:46.000Z",
-      "description": "The Economist's deputy editor Tom Standage joins us for a futuristic retrospective, taking us back to the future as we spotlight The World Ahead 2027. We begin with the \"leader of the free world\", the FIFA Peace Prize re"
-    },
-    {
-      "id": "j2a15xkFKxY",
-      "title": "Capitol Christmas Tree arrives in Washington",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-20T23:06:10.000Z",
-      "description": "The 2026 US Capitol Christmas Tree, a 76-foot Engelmann Spruce from the Nez Perce-Clearwater National Forests in Idaho, was lifted into place before the US Capitol in Washington, DC, to kick off the holiday season."
-    },
-    {
-      "id": "p-_cZpjJXrs",
-      "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
+      "id": "lTMkIoqvhwg",
+      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-21T08:37:42.000Z",
-      "description": "As tankers burned and explosions shook the Strait of Hormuz, endurance swimmer Lewis Pugh entered the water to expose another casualty of the US-Israeli war on Iran: marine life. He warns that oil pollution could take de"
+      "publishedAt": "2026-11-21T14:01:12.000Z",
+      "description": "Israeli strikes kill at least three Palestinians in Gaza, where displaced families face worsening conditions. An Israeli settler calls for settlements to be built in Gaza. And in the occupied West Bank, raids and attacks"
     },
     {
-      "id": "abVmO5PAN2A",
-      "title": "Is the US under cyber attack?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-21T00:00:12.000Z",
-      "description": "After a week of tech chaos with flights grounded, plus outages at Microsoft, Apple, US banks, and the National Security Agency, questions continue to be asked about the cause of the disruption and whether it’s more than "
-    },
-    {
-      "id": "Xx2NDXGOPWU",
-      "title": "Trump calls Jeffries and Schumer 'smart' and hopes to get 'more done'",
+      "id": "vQNnHuBB7Ng",
+      "title": "All 146 plane passengers and crew safe after emergency landing in Philippines",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-21T00:54:54.000Z",
-      "description": "President Donald Trump offered an unexpectedly positive assessment of Hakeem Jeffries on Friday, praising the New York Democrat as “smart” and “streetwise” as he prepares to become speaker of the House under the incoming"
+      "publishedAt": "2026-11-21T08:43:02.000Z",
+      "description": "An Air Niugini plane carrying 146 passengers and crew from Hong Kong to Papua New Guinea safely made an emergency landing Saturday in a southern Philippine city due to an indication of a possible engine fire, Philippine "
     }
   ]
 }
