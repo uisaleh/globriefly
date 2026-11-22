@@ -1,53 +1,181 @@
 {
-  "updatedAt": "2026-11-22T06:36:38.145Z",
+  "updatedAt": "2026-11-22T15:14:26.867Z",
   "videos": [
     {
-      "id": "eAshcLzGd0E",
-      "title": "Everyone is panicking about cyberattacks. But something doesn't add up",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-22T06:00:09.000Z",
-      "description": "Are cyberattacks and internet outages really spiralling out of control? "
-    },
-    {
-      "id": "ILo22hYC8Gs",
-      "title": "How a group of young architects fights to save a forgotten European landmark",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-22T05:30:28.000Z",
-      "description": "Once a jewel of the Austro-Hungarian Empire, Romania's Neptune Baths in Baile Herculane are now falling apart. Architect Oana Chirila has spent years fighting to save the landmark, despite bureaucratic obstacles and poli"
-    },
-    {
-      "id": "SUh_vBSIqsM",
-      "title": "ICE agents detain two people at Seattle airport",
+      "id": "q3OE_T201xo",
+      "title": "Indonesia candy factory fire kills at least three, dozens missing",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-22T05:03:59.000Z",
-      "description": "Masked ICE agents detained two people on a crowded airport jet bridge in Seattle as people were boarding a flight. Alaska Airlines said ICE officers gave them no advance notice of the operation."
+      "publishedAt": "2026-11-22T15:00:29.000Z",
+      "description": "Rescue crews are continuing to search for 30 people missing after a fire at a candy factory in Indonesia."
     },
     {
-      "id": "lWiKn5x0OXM",
-      "title": "Fire at Indonesian candy factory leaves at least  3 dead and dozens of workers unaccounted for",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-22T05:02:38.000Z",
-      "description": "A fire has swept through a candy factory in Indonesia’s Banten province, leaving at least three people dead and rescue teams searching for 36 workers who remained unaccounted for. Officials said the blaze broke out at th"
+      "id": "FNU40lY1Oo8",
+      "title": "Riot police in Paris fire tear gas, charge at protesters",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-22T14:42:42.000Z",
+      "description": "Riot police charged protesters and deployed tear gas to clear a Paris square at the end of a demonstration that remained peaceful for most of the day. "
     },
     {
-      "id": "HNU63uQw0Rc",
-      "title": "UN climate talks could end without agreement",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-22T00:01:28.000Z",
-      "description": "Negotiations at the COP31 UN climate summit in Turkey are in deadlock and have been suspended for the night, after running more than a day over time, as countries have been unable to agree on a new global climate deal."
+      "id": "dZ8Qp04giC4",
+      "title": "ICE agents condemned for airport arrests",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-22T14:18:23.000Z",
+      "description": "ICE has been condemned after masked agents detained two people as passengers boarded an Alaska Airlines flight."
     },
     {
-      "id": "iwRdrS1n0lU",
-      "title": "EU-Indonesia agreement sees the light after ten years of negotiations • FRANCE 24 English",
+      "id": "fvN_vCRuBec",
+      "title": "\"Where do we go next?\" Mathematics after AI cracks the Riemann hypothesis • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-21T22:23:02.000Z",
-      "description": "The European Union and Indonesia have signed a major trade deal, ten years after talks began.The agreement removes almost all tariffs between the EU and Southeast Asia's biggest economy: 98.5 per cent of them. For Europe"
+      "publishedAt": "2026-11-22T14:17:48.000Z",
+      "description": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, one of maths' $1 million Millennium Prize problems, in 17 million lines of code no human has read in full. Physicist Tony Padilla"
+    },
+    {
+      "id": "24948lY16HM",
+      "title": "Russian attack destroys section of residential apartment building in Kyiv region",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-22T14:13:07.000Z",
+      "description": "A Russian attack struck an apartment building in a village near Ukraine's capital on Sunday, killing at least two people and wounding four others, authorities said. (AP video shot by: Dan Bashakov)\r"
+    },
+    {
+      "id": "isqKv2r2LHQ",
+      "title": "Comedian Bob Mortimer doesn't think he is a national treasure",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-22T13:30:22.000Z",
+      "description": "The comedian and author Bob Mortimer gives BBC Media and Arts Correspondent David Sillito a tour of his home town. "
+    },
+    {
+      "id": "RIgsb-I0e84",
+      "title": "Is becoming an energy hub Turkey’s next big flex?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-22T13:15:02.000Z",
+      "description": "Turkey helped turn coffee it doesn't grow into a global brand. Now it's hoping to do something similar with energy. Fresh off hosting COP31, Ankara is positioning itself as an energy hub linking Asia and Europe. What's d"
+    },
+    {
+      "id": "99T7-xaIJBY",
+      "title": "Why lifesaving antibiotics are failing",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-22T14:46:00.000Z",
+      "description": "The challenges posed by antimicrobial resistance show where its impact is most acutely and tragically manifested: infant mortality in the developing world, specifically in sub-Saharan Africa. This film shows what these b"
+    },
+    {
+      "id": "hbn3SLuc9D4",
+      "title": "Thousands protest in Croatia over psychiatric-hospital death",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-22T14:36:39.000Z",
+      "description": "Thousands gathered in Croatia's capital to protest over the death of 32-year-old Kristian Josip Peris in a psychiatric hospital, demanding accountability for those responsible and better regulation of treatments in hospi"
+    },
+    {
+      "id": "Wm1X9hzhVhc",
+      "title": "Ukraine emergency services search for missing in rubble after Russian strike",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-22T13:56:20.000Z",
+      "description": "A five-storey building in the Kyiv region partially collapsed after being struck by a Russian drone overnight. "
+    },
+    {
+      "id": "OYbTnKDmHJQ",
+      "title": "Israel investigates West Bank fires • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-22T13:47:03.000Z",
+      "description": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks local activists say were carried out by Is"
+    },
+    {
+      "id": "rJkJ373TcK4",
+      "title": "Finnish rescuers battle fire aboard Russian cargo ship",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-22T14:04:43.000Z",
+      "description": "Emergency services tried to extinguish a fire aboard a Russian cargo ship in the Gulf of Finland on Sunday morning, authorities said.\r"
+    },
+    {
+      "id": "Qla1B9VVjG0",
+      "title": "What is the Pip disability benefit and how does it work?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-22T11:30:13.000Z",
+      "description": "The disability benefit Personal Independence Payment, also known as Pip, is being looked at by disability minister Sir Stephen Timms as part of a review into whether Pip is fit for purpose."
+    },
+    {
+      "id": "TWhr_M5u-FI",
+      "title": "Replaced by AI: Creatives fear for their jobs",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-22T13:00:10.000Z",
+      "description": "An interpreter has lost a client to AI, while a graphic designer has lost his job. A voice-over artist is suing Netflix. But they're fighting back. "
+    },
+    {
+      "id": "ATr-Xy4czQE",
+      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-22T14:29:25.000Z",
+      "description": "Israeli settlers set Palestinian vehicles on fire near Ramallah, while a settler is filmed spitting at an Armenian monastery in occupied Jerusalem."
+    },
+    {
+      "id": "TroK5Ul13oI",
+      "title": "In Kyiv, restaurants are closing as war pressures mount",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-22T14:12:11.000Z",
+      "description": "On Kyiv’s once-bustling main street, the sounds of Russian drones and air-raid sirens have replaced the buzz of conversation and the clink of glasses in cafes and restaurants."
+    },
+    {
+      "id": "UYSd7LvFIbo",
+      "title": "'Butcher' Putin is 'no friend' of UK, minister says",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-22T11:31:46.000Z",
+      "description": "The prime minister is \"in no way pulling his punches\" with Donald Trump over Russia's invasion of Ukraine, minister for European relations Hamish Falconer says."
+    },
+    {
+      "id": "9HquwgmgXfI",
+      "title": "EU and Panama reject Cop31 deal • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-22T13:46:05.000Z",
+      "description": "COP31 in Turkey has gone into overtime, with disagreements over fossil fuels leaving climate negotiations deadlocked. EU member states on Sunday rejected an 11th-hour deal that made no explicit reference to fossil fuels,"
+    },
+    {
+      "id": "CAFQFW0JCeA",
+      "title": "Adults fight loneliness by playing board games with strangers in Colorado",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-22T12:32:19.000Z",
+      "description": "What if playing a board game could help you build connections with people you don’t know? In Denver, what started as a way for Matt Martinez to find people to play board games has become a bi-monthly meet-up with over 40"
+    },
+    {
+      "id": "S5ZSUtnz_B0",
+      "title": "How will new scheme to help first-time buyers in England work?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-22T10:30:08.000Z",
+      "description": ""
+    },
+    {
+      "id": "VVMcYLUW7og",
+      "title": "Indian Youth Congress members protest Meta account restrictions",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-22T12:23:14.000Z",
+      "description": "The youth wing of India's opposition Congress party scuffled with police as they protested at Meta offices, in footage provided by the party youth members. They are demanding that the company restore the Instagram accoun"
+    },
+    {
+      "id": "GngvwbEm_1I",
+      "title": "Yemen’s besieged city of Taiz faces food shortages as fighting escalates",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-22T14:19:26.000Z",
+      "description": "The conflict between Yemen's government and the Ansar Allah Houthis has intensified near Taiz."
     },
     {
       "id": "HSu_IW2YI0c",
@@ -58,140 +186,12 @@
       "description": "Mexican military forces captured one of the ​most wanted suspected drug lords, Fausto Isidro Meza Flores, known as 'El Chapo Isidro,' as well as two other leaders of his drug-trafficking organization following a major op"
     },
     {
-      "id": "LqUJYm-O8DQ",
-      "title": "Barnham residents 'vote to leave UK' in symbolic referendum",
+      "id": "eAshcLzGd0E",
+      "title": "Everyone is panicking about cyberattacks. But something doesn't add up",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-21T23:05:35.000Z",
-      "description": "The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight. "
-    },
-    {
-      "id": "V-f2hnjsTCk",
-      "title": "Former FBI cyber official warns of growing threats to US systems",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-22T04:00:26.000Z",
-      "description": "The FBI is investigating a suspected breach of its National Crime Information Center (NCIC), a database used by law enforcement agencies across the United States. The investigation comes amid a succession of major techno"
-    },
-    {
-      "id": "lSe3aDgNhno",
-      "title": "Bessent confirms he’s living on US military base over Iran fears",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-22T04:06:17.000Z",
-      "description": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning sent him into hiding. It’s the second known Israeli warning that has forced US officials to take extrao"
-    },
-    {
-      "id": "6TruNnFbhg8",
-      "title": "Princess Catherine reflects on life after cancer diagnosis in a new documentary",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-22T01:56:17.000Z",
-      "description": "Britain's Catherine, Princess of Wales opens up about finding hope and joy amid uncertainty in a new documentary exploring life since her cancer diagnosis in 2024.\r"
-    },
-    {
-      "id": "UqBXxwJcQWc",
-      "title": "All EU options on the table, says UK foreign secretary",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-21T17:30:12.000Z",
-      "description": "UK Foreign Secretary Ed Miliband has said that “all the options will be on the table\" as the government considers the future relationship with the European Union."
-    },
-    {
-      "id": "lAatMz0qzhs",
-      "title": "'Worst Ever' COP Summit? • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-21T20:04:05.000Z",
-      "description": "Is this the worst COP summit on record?"
-    },
-    {
-      "id": "Zp07qhhmOG0",
-      "title": "National Guard fan boat rescues stranded woman in Florida",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-21T18:52:44.000Z",
-      "description": "Florida Army National Guard troops used fan boats and military vehicles to rescue residents stranded by flooding in Cocoa as high water inundated neighborhoods and left some homes inaccessible by road."
-    },
-    {
-      "id": "NxJMVcQyyss",
-      "title": "Suffolk village 'votes to leave UK' over asylum plans",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-21T16:52:13.000Z",
-      "description": "Villagers in Barnham have voted in favour of leaving the UK in a symbolic vote."
-    },
-    {
-      "id": "3PG4r4TTW4c",
-      "title": "Activist wins long legal struggle to overturn anti-gay laws in Trinidad and Tobago",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-22T03:30:31.000Z",
-      "description": "The Judicial Committee of the Privy Council, the highest court of appeal for Trinidad and Tobago, recently struck down colonial-era laws criminalizing same-sex intimacy. The decision ends an 11-year legal battle led by L"
-    },
-    {
-      "id": "Pbm17499SxE",
-      "title": "Berlin nurse on why she is striking over understaffing and inequality",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-21T22:33:27.000Z",
-      "description": "Nurses at a hospital in Berlin are on strike, protesting against understaffing and poor working conditions. Among them is 26-year-old Schirin. This is her story."
-    },
-    {
-      "id": "t7WSPa2c8p4",
-      "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-22T00:40:38.000Z",
-      "description": "Gunfire rang out, trucks burned and Mexican forces clashed with cartel gunmen in the state of Sinaloa overnight as Mexican authorities captured cartel boss Fausto Isidro Meza Flores, known as “El Chapo Isidro.\". Meza Flo"
-    },
-    {
-      "id": "mdo1U40GF2s",
-      "title": "Catherine talks openly about how cancer changed her.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-21T17:00:03.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
-    },
-    {
-      "id": "poBneBVESYc",
-      "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-21T19:55:05.000Z",
-      "description": "A Russian ballistic missile attack on President Volodymyr Zelensky’s hometown in central Ukraine on Saturday killed two people and wounded dozens. Hours later, Zelensky reiterated his country's determination to join NATO"
-    },
-    {
-      "id": "RyHP22FFG4w",
-      "title": "Protesters march in Barcelona over housing and education",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-21T17:59:39.000Z",
-      "description": "A fresh wave of protests took place in Spain with demonstrators in Barcelona demanding more affordable housing and better education."
-    },
-    {
-      "id": "IXYhpyMExzU",
-      "title": "'You can't convince me women don't want to be educated'",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-21T16:02:26.000Z",
-      "description": "'You can't convince me women don't want to be educated.'"
-    },
-    {
-      "id": "rpQuHPWT4mg",
-      "title": "What the attack on a Russian cargo ship means for Baltic security",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-22T03:00:23.000Z",
-      "description": "A Russian cargo ship, the Sparta II, caught fire after being struck by drones in the Baltic Sea, according to Finnish and Russian officials. The vessel, which was heading towards Russia’s Kaliningrad region, drifted into"
-    },
-    {
-      "id": "9C-DloJr6ls",
-      "title": "‘The Station’ film shows a side of Yemen rarely seen on screen",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-21T22:00:28.000Z",
-      "description": "Set around a women-only petrol station in Yemen, “The Station” is the first fiction film by Yemeni Scottish director Sara Ishak. "
+      "publishedAt": "2026-11-22T06:00:09.000Z",
+      "description": "Are cyberattacks and internet outages really spiralling out of control? "
     }
   ]
 }
