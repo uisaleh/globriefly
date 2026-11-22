@@ -1,16 +1,5 @@
 {
   "urls": {
-    "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/": 1794739428200,
-    "https://timesofindia.indiatimes.com/world/rest-of-world/cape-verde-votes-in-election-that-could-deliver-first-woman-president/articleshow/135853022.cms": 1794739435062,
-    "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president": 1794739435062,
-    "https://abcnews.com/International/wireStory/cape-verde-elect-woman-president-gaining-independence-1975-138154009": 1794739435062,
-    "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece": 1794739435062,
-    "https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/": 1794764439399,
-    "https://www.theguardian.com/sport/live/2026/nov/15/nfl-week-10-lions-v-patriots-and-more-live": 1794764446185,
-    "https://sports.yahoo.com/articles/patriots-vs-lions-live-updates-134500587.html": 1794764446185,
-    "https://sports.yahoo.com/articles/patriots-vs-lions-score-live-133002010.html": 1794764446185,
-    "\n                                                https://www.cbssports.com/nfl/news/lions-jahmyr-gibbs-ties-nfl-record-germany-patriots/\n                    ": 1794764446185,
-    "https://www.cbsnews.com/video/photos-of-the-week-111526/": 1794764446185,
     "https://phys.org/news/2026-11-saudi-green-year-lakeside-reveals.html": 1794782742781,
     "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker": 1794782768335,
     "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss": 1794782768335,
@@ -227,13 +216,23 @@
     "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-rdf": 1795329429769,
     "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss": 1795329429769,
     "https://www.thehindu.com/news/international/rescuers-say-many-missing-after-indonesia-factory-fire/article71730558.ece": 1795329429769,
-    "https://abcnews.com/International/wireStory/fire-indonesian-candy-factory-leaves-3-dead-dozens-138354030": 1795329429769
+    "https://abcnews.com/International/wireStory/fire-indonesian-candy-factory-leaves-3-dead-dozens-138354030": 1795329429769,
+    "https://www.thehindu.com/news/international/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece": 1795383841019,
+    "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss": 1795383841019,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss": 1795383841019,
+    "https://thehill.com/policy/international/6235913-cop31-climate-talks-fail-consensus/": 1795383841019,
+    "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss": 1795383841019,
+    "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected": 1795383841019,
+    "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/": 1795383841019,
+    "https://www.scmp.com/news/world/article/3375393/cop31-climate-talks-collapse-eu-and-others-reject-deal": 1795383841019,
+    "https://www.channelnewsasia.com/world/cop31-climate-talk-collapse-eu-final-draft-political-deal-6572946": 1795383841019,
+    "https://www.politico.eu/article/climate-deal-collapses-amid-fossil-fuel-rows/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1795383841019,
+    "https://sports.yahoo.com/articles/liverpool-fans-savagely-heckled-mauricio-213534207.html": 1795383847222,
+    "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss": 1795383847222,
+    "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live": 1795383847222,
+    "\n                                                https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-collapse-liverpool/\n                    ": 1795383847222
   },
   "fps": {
-    "cactuses-dry-even-getting-survive-too": 1794739428200,
-    "cape-deliver-election-first-president-verde-votes-woman": 1794739435062,
-    "behind-can-cancel-contract-duffy-faa-firm-outage": 1794764439399,
-    "lions-live-nfl-patriots-week": 1794764446185,
     "000-125-desert-early-green-how-humans-lakeside": 1794782742781,
     "all-attack-border-close-crossings-drone-estonia-maker": 1794782768335,
     "administration-biden-blames-breaks-faa-ground-nationwide-silence": 1794797085052,
@@ -274,6 +273,8 @@
     "alleged-arrested-boss-cartel-chapo-isidro-mexico-who": 1795281941773,
     "day-match": 1795302487345,
     "come-computing-discovery-drug-energy-first-may-payoff": 1795329406125,
-    "candy-deadly-dozens-factory-fire-hits-indonesian-missing": 1795329429769
+    "candy-deadly-dozens-factory-fire-hits-indonesian-missing": 1795329429769,
+    "any-climate-cop31-deal-fail-fossil-fuel-language": 1795383841019,
+    "debut-fans-heckled-liverpool-manchester-mauricio-pochettino-rough": 1795383847222
   }
 }
