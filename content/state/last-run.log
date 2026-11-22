@@ -1,22 +1,33 @@
-23:07:59 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-23:07:59 collecting videos…
-23:07:59   video feed BBC News: 15 in feed, 5 kept
-23:07:59   video feed Al Jazeera English: 15 in feed, 5 kept
-23:07:59   video feed DW News: 15 in feed, 5 kept
-23:07:59   video feed FRANCE 24 English: 15 in feed, 5 kept
-23:07:59   video feed Sky News: 15 in feed, 5 kept
-23:08:00   video feed Reuters: 15 in feed, 5 kept
-23:08:00   video feed Associated Press: 15 in feed, 5 kept
-23:08:00 videos: saved 24
-23:08:00 collecting feeds…
-23:08:01 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-23:08:01 582 new items
-23:08:02 445 candidate stories
-23:08:02 categories needing stories: business, health, entertainment, world, politics, technology, sports → reserved business
-23:08:02 writing: I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary? (1 sources)
-23:08:02   source text: 0 chars
-23:08:02   skipped: only paywalled sources, not enough readable text
-23:08:02 writing: Match of the Day (9 sources)
-23:08:02   source text: 2154 / 2154 / 3249 chars
-23:08:10   ✓ published: /news/nelly-korda-charges-into-contention-at-cme-group-tour-championship/ [sports] image: wikimedia via name "Nelly Korda"
-23:08:10 done — 1 stories
+06:36:37 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+06:36:37 collecting videos…
+06:36:38   video feed BBC News: 15 in feed, 5 kept
+06:36:38   video feed Al Jazeera English: 15 in feed, 5 kept
+06:36:38   video feed DW News: 15 in feed, 5 kept
+06:36:38   video feed FRANCE 24 English: 15 in feed, 5 kept
+06:36:38   video feed Sky News: 15 in feed, 5 kept
+06:36:38   video feed Reuters: 15 in feed, 5 kept
+06:36:38   video feed Associated Press: 15 in feed, 5 kept
+06:36:38 videos: saved 24
+06:36:38 collecting feeds…
+06:36:39 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+06:36:39 458 new items
+06:36:40 354 candidate stories
+06:36:40 categories needing stories: business, science, health, entertainment, world, politics, technology → reserved business
+06:36:40 writing: Quantum computing’s first real-world payoff may come in energy, not drug discovery (1 sources)
+06:36:40   source text: 3935 chars
+06:36:55   ✓ published: /news/quantum-software-targets-energy-sector-for-early-practical-gains/ [business] image: wikimedia via subject "quantum computer processor"
+06:36:55 writing: Dozens missing as deadly fire hits Indonesian candy factory (4 sources)
+06:36:56   source text: 1848 / 1817 / 2175 chars
+06:37:02   too close to source wording — rewriting
+06:37:09   skipped
+06:37:09 writing explainer for: Quantum computing’s first real-world payoff may come in energy, not drug discovery
+06:37:11 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+06:37:23   ✓ explainer: /news/why-is-energy-becoming-quantum-computings-first-big-test/
+06:37:23 done — 1 stories

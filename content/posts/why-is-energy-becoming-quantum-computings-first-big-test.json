@@ -1,0 +1,104 @@
+{
+  "slug": "why-is-energy-becoming-quantum-computings-first-big-test",
+  "status": "published",
+  "type": "explainer",
+  "category": "business",
+  "region": "Global",
+  "headline": "Why is energy becoming quantum computing's first big test?",
+  "standfirst": "While curing diseases and designing drugs are still years away, quantum software is already tackling the massive, complex challenges of modern power grids and green energy.",
+  "keyPoints": [
+    "Quantum software is being tested on immediate challenges like energy grids and solar cell materials.",
+    "Companies like Phasecraft are helping manage power exchanges up to 1,000 times faster than conventional computers.",
+    "Firms are also using quantum tech to discover novel catalysts that reduce reliance on scarce metals for hydrogen production.",
+    "Major energy players like BP and government agencies are heavily backing these early real-world applications."
+  ],
+  "sections": [
+    {
+      "heading": "What is quantum computing actually doing for energy?",
+      "paragraphs": [
+        "For years, the promise of quantum computing sounded like science fiction. People talked about simulating complex molecules to cure diseases, or completely rewriting how global supply chains operate. While those grand medical breakthroughs are still years or even decades away, a more practical shift is happening quietly behind the scenes.",
+        "Instead of waiting for hardware to catch up to the most distant dreams of science, developers are writing specialized quantum software. This software is designed to run complex algorithms much faster than traditional computers. Rather than starting with medicine, these innovators are pointing their tools directly at the energy sector, helping manage power grids and design better materials for green energy."
+      ]
+    },
+    {
+      "heading": "Why start with power grids and solar cells?",
+      "paragraphs": [
+        "Managing a modern electricity network is a logistical nightmare. Power systems have to constantly balance unpredictable supplies from renewable sources like wind and solar against fluctuating consumer demand. When an emergency hits, operators need to isolate network sections and route power instantly to prevent widespread blackouts.",
+        "Specialized quantum software is uniquely suited to handle these massive optimization puzzles. Developers have partnered with energy system planners to test software that can complete grid tasks significantly faster than conventional computing. This ability to instantly balance supply and demand is becoming vital as electrification spreads rapidly across the globe."
+      ]
+    },
+    {
+      "heading": "Which companies are leading the charge?",
+      "paragraphs": [
+        "Several specialized firms are already turning these theoretical concepts into commercial reality. For example, Phasecraft, a software company originally founded in Bristol, England, has been working closely with network operators to optimize power exchanges and manage grid resilience during emergencies.",
+        "Other players are tackling the physical materials that power our future. Quantinuum is using quantum modeling to improve hydrogen fuel cells for transportation. Meanwhile, companies like ORCA Computing have partnered with energy giants to understand how biofuels burn more efficiently, proving that the technology has plenty of practical applications outside of traditional computing labs."
+      ]
+    },
+    {
+      "heading": "How are governments and giant corporations getting involved?",
+      "paragraphs": [
+        "This is not just a playground for small tech startups. Major energy corporations and government bodies are watching closely and putting serious money behind quantum energy projects. For instance, energy giant BP has teamed up with technology developers to better understand chemical properties and optimize generator schedules.",
+        "Governments are also stepping in to fund research through specialized agencies. Collaborative projects are currently underway to discover novel catalysts that reduce reliance on rare, expensive metals like iridium, which are currently critical for green hydrogen production. By tackling these commercial and environmental roadblocks today, quantum computing is proving its worth where it matters most."
+      ]
+    }
+  ],
+  "highlight": "Instead of waiting for hardware to catch up to the most distant dreams of science, developers are writing specialized quantum software.",
+  "timeline": [
+    {
+      "when": "2019",
+      "what": "Phasecraft is founded in Bristol, England."
+    },
+    {
+      "when": "2025",
+      "what": "Phasecraft raises $34 million in Series B funding."
+    },
+    {
+      "when": "June 2026",
+      "what": "Quantinuum lists on Nasdaq following a major corporate merger."
+    },
+    {
+      "when": "September 2026",
+      "what": "Phasecraft announces plans to set up U.S. headquarters in Arlington, Virginia."
+    }
+  ],
+  "tags": [
+    "quantum computing",
+    "energy transition",
+    "power grid",
+    "technology",
+    "software"
+  ],
+  "socialSummary": "Quantum computing's first real-world payoff is happening in energy, helping stabilize power grids and build better solar cells.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Minister_Sir_Patrick_Vallance_officially_opens_the_National_Quantum_Computing_Centre_at_Harwell_Science_and_Innovation_Campus%2C_Oxfordshire%2C_United_Kingdom_on_25_October_2024_-_11.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "25/10/2024. Minister Sir Patrick Vallance officially opens the National Quantum Computing Centre. Picture by Zoe-Rose…",
+    "credit": "Department for Science, Innovation &amp; Technology / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Minister_Sir_Patrick_Vallance_officially_opens_the_National_Quantum_Computing_Centre_at_Harwell_Science_and_Innovation_Campus,_Oxfordshire,_United_Kingdom_on_25_October_2024_-_11.jpg",
+    "license": "CC BY 2.0",
+    "provider": "wikimedia",
+    "query": "quantum computing lab",
+    "matchedBy": "subject"
+  },
+  "imageSearch": {
+    "query": "quantum computing server lab",
+    "names": [],
+    "subject": "quantum computing lab"
+  },
+  "sources": [
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html"
+    }
+  ],
+  "sourceTitles": [
+    "Quantum computing’s first real-world payoff may come in energy, not drug discovery"
+  ],
+  "sourceCount": 1,
+  "importance": 7,
+  "breaking": false,
+  "publishedAt": "2026-11-22T06:37:22.627Z",
+  "updatedAt": "2026-11-22T06:37:22.627Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-is-energy-becoming-quantum-computings-first-big-test.jpg"
+}
