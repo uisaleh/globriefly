@@ -109,6 +109,9 @@
   "publishedAt": "2026-11-22T21:44:07.818Z",
   "updatedAt": "2026-11-22T21:44:07.818Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175197210681745",
+    "sharedAt": "2026-11-22T21:47:19.967Z"
+  },
   "ogImage": "/og/mauricio-pochettino-suffers-nightmare-manchester-united-debut-in.jpg"
 }
