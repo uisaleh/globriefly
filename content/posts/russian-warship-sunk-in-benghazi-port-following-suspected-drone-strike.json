@@ -115,6 +115,9 @@
   "publishedAt": "2026-11-23T02:39:37.293Z",
   "updatedAt": "2026-11-23T02:39:37.293Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175212642681745",
+    "sharedAt": "2026-11-23T02:43:08.338Z"
+  },
   "ogImage": "/og/russian-warship-sunk-in-benghazi-port-following-suspected-drone-strike.jpg"
 }

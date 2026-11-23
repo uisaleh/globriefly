@@ -106,6 +106,9 @@
   "publishedAt": "2026-11-23T02:39:56.467Z",
   "updatedAt": "2026-11-23T02:39:56.467Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175212942681745",
+    "sharedAt": "2026-11-23T02:43:54.080Z"
+  },
   "ogImage": "/og/why-did-a-russian-warship-sink-in-a-libyan-port.jpg"
 }
