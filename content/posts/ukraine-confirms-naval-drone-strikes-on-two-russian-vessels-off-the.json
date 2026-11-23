@@ -116,6 +116,9 @@
   "publishedAt": "2026-11-23T12:21:17.576Z",
   "updatedAt": "2026-11-23T12:21:17.576Z",
   "readingMinutes": 4,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175244316681745",
+    "sharedAt": "2026-11-23T12:24:49.483Z"
+  },
   "ogImage": "/og/ukraine-confirms-naval-drone-strikes-on-two-russian-vessels-off-the.jpg"
 }
