@@ -1,23 +1,25 @@
-21:43:50 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-21:43:50 collecting videos…
-21:43:50   video feed BBC News: 15 in feed, 5 kept
-21:43:50   video feed Al Jazeera English: 15 in feed, 5 kept
-21:43:50   video feed DW News: 15 in feed, 5 kept
-21:43:50   video feed FRANCE 24 English: 15 in feed, 5 kept
-21:43:50   video feed Sky News: 15 in feed, 5 kept
-21:43:50   video feed Reuters: 15 in feed, 5 kept
-21:43:50   video feed Associated Press: 12 in feed, 5 kept
-21:43:50 videos: saved 24
-21:43:50 collecting feeds…
-21:43:53 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-21:43:53 605 new items
-21:43:54 444 candidate stories
-21:43:54 categories needing stories: world, politics, technology, science, health, entertainment, sports → reserved world
-21:43:54 writing: COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out (9 sources)
-21:43:55   source text: 5378 / 704 / 704 / 311 / 0 chars
-21:44:01 writer returned unusable output: { "headline": "COP31 climate summit collapses in Turkey after fossil fuel deadlock", "standfirst": "The United Nations climate talks in Antalya concluded wi
-21:44:01   skipped
-21:44:01 writing: Liverpool fans savagely heckled Mauricio Pochettino in rough Manchester United debut (4 sources)
-21:44:01   source text: 5739 / 7000 / 7000 chars
-21:44:09   ✓ published: /news/mauricio-pochettino-suffers-nightmare-manchester-united-debut-in/ [sports] image: wikimedia via idea "Anfield stadium Liverpool"
-21:44:09 done — 1 stories
+02:39:23 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+02:39:23 collecting videos…
+02:39:24   video feed BBC News: 15 in feed, 5 kept
+02:39:24   video feed Al Jazeera English: 15 in feed, 5 kept
+02:39:24   video feed DW News: 15 in feed, 5 kept
+02:39:24   video feed FRANCE 24 English: 15 in feed, 5 kept
+02:39:24   video feed Sky News: 15 in feed, 5 kept
+02:39:24   video feed Reuters: 15 in feed, 5 kept
+02:39:24   video feed Associated Press: 15 in feed, 5 kept
+02:39:24 videos: saved 24
+02:39:24 collecting feeds…
+02:39:28 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+02:39:28 531 new items
+02:39:29 381 candidate stories
+02:39:29 categories needing stories: world, politics, technology, science, health, entertainment, sports → reserved world
+02:39:29 writing: Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say (6 sources)
+02:39:30   source text: 3927 / 6092 / 3552 chars
+02:39:38   ✓ published: /news/russian-warship-sunk-in-benghazi-port-following-suspected-drone-strike/ [world] image: wikimedia via name "Merkury"
+02:39:38 writing: China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame (3 sources)
+02:39:38   source text: 2356 / 0 / 0 / 7000 chars
+02:39:44   too close to source wording — rewriting
+02:39:53   ✓ published: /news/hunger-games-prequel-dominates-box-office-with-strong-225-million/ [entertainment] image: wikimedia via name "Francis Lawrence"
+02:39:53 writing explainer for: Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say
+02:39:57   ✓ explainer: /news/why-did-a-russian-warship-sink-in-a-libyan-port/
+02:39:57 done — 2 stories

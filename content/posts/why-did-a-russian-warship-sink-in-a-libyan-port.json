@@ -1,0 +1,111 @@
+{
+  "slug": "why-did-a-russian-warship-sink-in-a-libyan-port",
+  "status": "published",
+  "type": "explainer",
+  "category": "world",
+  "region": "Africa",
+  "headline": "Why did a Russian warship sink in a Libyan port?",
+  "standfirst": "A Russian naval corvette docked in Benghazi was struck and sunk by suspected Ukrainian sea drones, marking a dramatic expansion of the ongoing conflict into North Africa.",
+  "keyPoints": [
+    "A Russian navy corvette, the Merkury, was hit and sunk at the Benghazi Naval Base in eastern Libya.",
+    "Libyan military officials reported that several Ukrainian sea drones were launched from western Libya in the attack.",
+    "A second vessel, the cargo ship Ascalon, was also reportedly struck by a sea drone off the coast of Benghazi.",
+    "The incident highlights the growing global reach of drone warfare and longstanding rivalries playing out in North Africa."
+  ],
+  "sections": [
+    {
+      "heading": "What happened at the Benghazi naval base?",
+      "paragraphs": [
+        "A Russian naval warship docked at the Benghazi Naval Base in eastern Libya suffered a catastrophic explosion and sank following a suspected sea drone attack. Satellite imagery and local footage confirmed that the Russian navy corvette Merkury was severely damaged and subsequently capsized after being struck in the Mediterranean port.",
+        "According to Libyan military officials, multiple unmanned sea drones were deployed toward the vessel. While local forces reportedly intercepted and destroyed several incoming drones, at least two managed to hit the warship, triggering a massive night-time fire and explosion. The ship had reportedly stopped at the facility to refuel and take on supplies as part of cooperation agreements between Moscow and eastern Libyan authorities."
+      ]
+    },
+    {
+      "heading": "Why are Ukrainian drones operating in North Africa?",
+      "paragraphs": [
+        "Although the conflict between Russia and Ukraine is centered in Eastern Europe, Kyiv has increasingly developed advanced long-range drone capabilities to target Russian military assets far beyond traditional frontlines. Ukrainian drone experts and special forces units have previously operated covertly in parts of western Libya, coordinating strikes against Russian logistics and supply tankers in the Mediterranean.",
+        "This incident represents a significant geographic expansion of the war, bringing hostilities thousands of miles away from the Black Sea. Russian naval vessels regularly utilize North African ports to support operations and supply mercenary forces across the African continent, making them prime targets for asymmetric warfare."
+      ]
+    },
+    {
+      "heading": "How has Libya reacted to the strike?",
+      "paragraphs": [
+        "Libya remains politically divided between a UN-supported administration in the west and a rival government controlling the east, leaving the oil-rich nation vulnerable to competing external influences. Officials from the eastern-based government announced a joint investigation with Russia to determine the exact circumstances and origin of the attack.",
+        "Meanwhile, leaders in western Libya expressed deep concern over foreign powers dragging local ports and civilian infrastructure into external conflicts. The United Nations mission in Libya also voiced serious alarm, calling for an immediate, transparent investigation to prevent the country from becoming a proxy battleground for international scores."
+      ]
+    }
+  ],
+  "highlight": "The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern government.",
+  "timeline": [
+    {
+      "when": "March 2026",
+      "what": "Ukrainian forces operating in western Libya reportedly struck a Russian tanker in the Mediterranean."
+    },
+    {
+      "when": "November 21-22, 2026",
+      "what": "Suspected Ukrainian sea drones hit and sank the Russian warship Merkury at the Benghazi naval base in Libya."
+    }
+  ],
+  "tags": [
+    "Russia",
+    "Ukraine",
+    "Libya",
+    "Benghazi",
+    "military",
+    "drones"
+  ],
+  "socialSummary": "A Russian warship was sunk by suspected Ukrainian sea drones in Benghazi, expanding the Russia-Ukraine war to North Africa.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Merkury_2005_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "alt": "Merkury",
+    "credit": "Ministerstwo Obrony Narodowej / Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Merkury_2005_23.jpg",
+    "license": "Attribution",
+    "provider": "wikimedia",
+    "query": "Merkury",
+    "matchedBy": "name"
+  },
+  "imageSearch": {
+    "query": "Benghazi naval base Libya",
+    "names": [
+      "Merkury",
+      "Benghazi",
+      "Libya"
+    ],
+    "subject": "naval base harbor"
+  },
+  "sources": [
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/suspected-ukrainian-sea-drones-hit-russian-warship-at-benghazi-naval-base-libyan-officials-say/article71733178.ece"
+    },
+    {
+      "name": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/africa/article/3375407/suspected-ukrainian-sea-drones-hit-russian-warship-libyan-naval-base-officials-say"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+    },
+    {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/"
+    }
+  ],
+  "sourceTitles": [
+    "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say",
+    "Russian warship docked at a Libya base hit in sea drone attack",
+    "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+    "Russian warship struck by suspected Ukrainian drones at Libya naval base",
+    "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
+    "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say"
+  ],
+  "sourceCount": 6,
+  "importance": 8,
+  "breaking": false,
+  "publishedAt": "2026-11-23T02:39:56.467Z",
+  "updatedAt": "2026-11-23T02:39:56.467Z",
+  "readingMinutes": 2,
+  "facebook": null,
+  "ogImage": "/og/why-did-a-russian-warship-sink-in-a-libyan-port.jpg"
+}
