@@ -1,25 +1,24 @@
-02:39:23 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-02:39:23 collecting videos…
-02:39:24   video feed BBC News: 15 in feed, 5 kept
-02:39:24   video feed Al Jazeera English: 15 in feed, 5 kept
-02:39:24   video feed DW News: 15 in feed, 5 kept
-02:39:24   video feed FRANCE 24 English: 15 in feed, 5 kept
-02:39:24   video feed Sky News: 15 in feed, 5 kept
-02:39:24   video feed Reuters: 15 in feed, 5 kept
-02:39:24   video feed Associated Press: 15 in feed, 5 kept
-02:39:24 videos: saved 24
-02:39:24 collecting feeds…
-02:39:28 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-02:39:28 531 new items
-02:39:29 381 candidate stories
-02:39:29 categories needing stories: world, politics, technology, science, health, entertainment, sports → reserved world
-02:39:29 writing: Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say (6 sources)
-02:39:30   source text: 3927 / 6092 / 3552 chars
-02:39:38   ✓ published: /news/russian-warship-sunk-in-benghazi-port-following-suspected-drone-strike/ [world] image: wikimedia via name "Merkury"
-02:39:38 writing: China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame (3 sources)
-02:39:38   source text: 2356 / 0 / 0 / 7000 chars
-02:39:44   too close to source wording — rewriting
-02:39:53   ✓ published: /news/hunger-games-prequel-dominates-box-office-with-strong-225-million/ [entertainment] image: wikimedia via name "Francis Lawrence"
-02:39:53 writing explainer for: Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say
-02:39:57   ✓ explainer: /news/why-did-a-russian-warship-sink-in-a-libyan-port/
-02:39:57 done — 2 stories
+12:20:33 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+12:20:33 collecting videos…
+12:20:33   video feed BBC News: 15 in feed, 5 kept
+12:20:33   video feed Al Jazeera English: 15 in feed, 5 kept
+12:20:33   video feed DW News: 15 in feed, 5 kept
+12:20:33   video feed FRANCE 24 English: 15 in feed, 5 kept
+12:20:33   video feed Sky News: 15 in feed, 5 kept
+12:20:33   video feed Reuters: 15 in feed, 5 kept
+12:20:33   video feed Associated Press: 15 in feed, 5 kept
+12:20:33 videos: saved 24
+12:20:33 collecting feeds…
+12:20:36 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+12:20:36 616 new items
+12:20:37 500 candidate stories
+12:20:37 categories needing stories: politics, business, technology, science, health, sports, world → reserved politics
+12:20:37 writing: Democrats reveal aggressive debate plan for 2028 presidential race (2 sources)
+12:20:37   source text: 7000 / 7000 / 2798 chars
+12:20:43   too close to source wording — rewriting
+12:20:50   ✓ published: /news/democratic-national-committee-schedules-twelve-debates-for-2028/ [politics] image: wikimedia via idea "Democratic National Committee logo"
+12:20:50 writing: Ukraine confirms it used naval drones to strike two Russian ships off Libya (8 sources)
+12:20:51   source text: 4709 / 5300 / 6625 chars
+12:20:57   too close to source wording — rewriting
+12:21:18   ✓ published: /news/ukraine-confirms-naval-drone-strikes-on-two-russian-vessels-off-the/ [world] image: wikimedia via name "Volodymyr Zelenskyy"
+12:21:18 done — 2 stories
