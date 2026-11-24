@@ -1,24 +1,49 @@
-12:20:33 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-12:20:33 collecting videos…
-12:20:33   video feed BBC News: 15 in feed, 5 kept
-12:20:33   video feed Al Jazeera English: 15 in feed, 5 kept
-12:20:33   video feed DW News: 15 in feed, 5 kept
-12:20:33   video feed FRANCE 24 English: 15 in feed, 5 kept
-12:20:33   video feed Sky News: 15 in feed, 5 kept
-12:20:33   video feed Reuters: 15 in feed, 5 kept
-12:20:33   video feed Associated Press: 15 in feed, 5 kept
-12:20:33 videos: saved 24
-12:20:33 collecting feeds…
-12:20:36 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-12:20:36 616 new items
-12:20:37 500 candidate stories
-12:20:37 categories needing stories: politics, business, technology, science, health, sports, world → reserved politics
-12:20:37 writing: Democrats reveal aggressive debate plan for 2028 presidential race (2 sources)
-12:20:37   source text: 7000 / 7000 / 2798 chars
-12:20:43   too close to source wording — rewriting
-12:20:50   ✓ published: /news/democratic-national-committee-schedules-twelve-debates-for-2028/ [politics] image: wikimedia via idea "Democratic National Committee logo"
-12:20:50 writing: Ukraine confirms it used naval drones to strike two Russian ships off Libya (8 sources)
-12:20:51   source text: 4709 / 5300 / 6625 chars
-12:20:57   too close to source wording — rewriting
-12:21:18   ✓ published: /news/ukraine-confirms-naval-drone-strikes-on-two-russian-vessels-off-the/ [world] image: wikimedia via name "Volodymyr Zelenskyy"
-12:21:18 done — 2 stories
+00:46:29 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+00:46:29 collecting videos…
+00:46:29   video feed BBC News: 15 in feed, 5 kept
+00:46:29   video feed Al Jazeera English: 15 in feed, 5 kept
+00:46:29   video feed DW News: 15 in feed, 5 kept
+00:46:29   video feed FRANCE 24 English: 15 in feed, 5 kept
+00:46:29   video feed Sky News: 15 in feed, 5 kept
+00:46:29   video feed Reuters: 15 in feed, 5 kept
+00:46:30   video feed Associated Press: 15 in feed, 5 kept
+00:46:30 videos: saved 24
+00:46:30 collecting feeds…
+00:46:33 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+00:46:33 809 new items
+00:46:34 609 candidate stories
+00:46:34 categories needing stories: business, technology, science, health, sports, politics → reserved business
+00:46:34 writing: Jensen Huang Returns to Nvidia After President Trump Intervenes (10 sources)
+00:46:35   source text: 6507 / 3308 / 7000 chars
+00:46:41   ✓ published: /news/jensen-huang-reclaims-nvidia-chief-role-following-decisive-white-house/ [business] image: wikimedia via idea "Jensen Huang Nvidia"
+00:46:41 writing: 24 Killed After Fire Rips Through Candy Factory in Indonesia (3 sources)
+00:46:41   source text: 1335 / 0 / 0 chars
+00:46:46   too close to source wording — rewriting
+00:46:50 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+00:46:56 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+00:47:39   ✓ published: /news/at-least-24-dead-and-dozens-missing-after-fire-at-indonesian-candy/ [world] image: wikimedia via name "Banten"
+00:47:39 writing explainer for: Jensen Huang Returns to Nvidia After President Trump Intervenes
+00:47:40 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+00:47:51   ✓ explainer: /news/why-did-donald-trump-intervene-to-bring-jensen-huang-back-to-nvidia/
+00:47:51 done — 2 stories

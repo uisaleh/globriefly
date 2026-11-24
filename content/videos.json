@@ -1,21 +1,101 @@
 {
-  "updatedAt": "2026-11-23T12:20:33.433Z",
+  "updatedAt": "2026-11-24T00:46:30.078Z",
   "videos": [
     {
-      "id": "aW6O9Z-D08o",
-      "title": "Woman rescued 22 hours after a Russian strike near Kyiv kills at least 11",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-23T12:15:25.000Z",
-      "description": "The death toll from a Russian strike on Sunday on an apartment building in a village near Ukraine's capital has risen to 11, according to the State Emergency Service. The agency said an elderly woman was rescued after 22"
+      "id": "aXEekmPDoD0",
+      "title": "Reports: Russia ready to launch nuclear-capable satellite into space",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-24T00:33:45.000Z",
+      "description": "Western military intelligence services believe Russia is planning to station a nuclear weapon in space by the end of this year, German media reported on Monday morning. According to public broadcasters NDR and WDR, intel"
     },
     {
-      "id": "zTgNo9Fyf-g",
-      "title": "The World with Yalda Hakim",
+      "id": "G8dvdkfCims",
+      "title": "Turns out it wasn’t a lion afterall",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-24T00:33:31.000Z",
+      "description": "The animal that sparked panic in Istanbul on Sunday because people thought it was a lion, was not a lion afterall. New footage reviewed by Turkish authorities shows the mystery animal in the garden of a private residence"
+    },
+    {
+      "id": "4DFPcAsAjzs",
+      "title": "The collapse of UN climate talks, over fossil fuels, was years in the making",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-24T00:29:20.000Z",
+      "description": "Going into this year’s U.N. climate talks in Turkey, expectations were notably low. Still, the outcome was even worse than expected—a failure to reach an overall agreement at a time of frequent extreme weather events fue"
+    },
+    {
+      "id": "_CrJv4dIauY",
+      "title": "Nvidia employee \"speechless\" as Huang returns to the office.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-24T00:15:27.000Z",
+      "description": ""
+    },
+    {
+      "id": "PLt8f2rNKks",
+      "title": "Jensen Huang back with a bang",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-23T12:12:53.000Z",
-      "description": "Watch The World with Yalda Hakim as she scrutinises the latest international news headlines and hears from the big names shaping the global outlook."
+      "publishedAt": "2026-11-23T23:43:02.000Z",
+      "description": "The Wrap with Anna Botting will focus on debating, analysing and making sense of the day's news, not just reporting it."
+    },
+    {
+      "id": "IZRHyl8RvKM",
+      "title": "Africa disappointed with COP31 outcome • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-23T22:14:55.000Z",
+      "description": "In tonight's edition, the COP31 climate summit in Turkey has failed to reach an agreement, exposing deep divisions over fossil fuels and climate finance. Also, DR Congo's Félix Tshisekedi and Kenya's William Ruto agree t"
+    },
+    {
+      "id": "HIIsYCYnGpw",
+      "title": "😹 Bill Hader and America Ferrera on 'The Cat in the Hat'",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-23T21:43:41.000Z",
+      "description": "Actors Bill Hader and America Ferrera were among the stars at the special screening of \"The Cat in the Hat\" in London."
+    },
+    {
+      "id": "evY8wPlilEo",
+      "title": "What Ukraine’s Libya strike reveals about its new strategy",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-23T23:30:23.000Z",
+      "description": "The Ukraine war may be entering a more dangerous phase. Kyiv has claimed an attack on Russian vessels in Libya, while a separate strike in the Gulf of Finland remains unclaimed. Could these operations weaken Russia, or p"
+    },
+    {
+      "id": "JO-rxaBlbOk",
+      "title": "Iran says three oil tankers hit by naval mines in Strait of Hormuz",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-23T23:05:09.000Z",
+      "description": "Iran's Islamic Revolutionary Guard Corps (IRGC) says three oil tankers were struck by naval mines in the Strait of Hormuz, causing explosions and fires. The IRGC described the vessels as “non-compliant” and said they wer"
+    },
+    {
+      "id": "ZB989Sj9ey8",
+      "title": "Greece’s oldest modern-era museum reopens on the Acropolis after a hi-tech makeover",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-23T22:52:27.000Z",
+      "description": "Greece’s oldest modern-era museum has reopened on the Acropolis in Athens after a seven-year, 6.2 million-euro ($6.8 million) restoration. Closed since 2007, the historic museum has been transformed with digital displays"
+    },
+    {
+      "id": "3i4eI7l0BFE",
+      "title": "Iran says it won't tolerate US blockade and sanctions",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-23T21:45:06.000Z",
+      "description": "Iran vows to use 'all available means' to counter the US blockade after President Trump said Iranian ships trying to break it would go \"to the bottom of the sea\"."
+    },
+    {
+      "id": "ybUqWKU57nA",
+      "title": "Mornings with Ridge and Frost",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-23T23:02:52.000Z",
+      "description": "Join Sky's Sophy Ridge and Wilfred Frost live from the heart of London as they bring you the day's essential stories - and drive the conversation with agenda-setting interviews."
     },
     {
       "id": "ZDwr0VhDcJ0",
@@ -26,52 +106,52 @@
       "description": "The governor of Washington state called US federal immigration agents \"out of control\" after they arrested two people at Seattle's main airport on Saturday. ICE officers have conducted raids across the United States, par"
     },
     {
-      "id": "wRUe2L-_1yE",
-      "title": "AI stocks tumble as doubts grow over spending and debt",
+      "id": "0wnG0LgmWTI",
+      "title": "Ukraine sinks Russian warship in Libya, Zelenskiy says",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-23T12:05:55.000Z",
-      "description": "Wall Street futures rebound after a brutal selloff, but questions remain over AI revenues, financing and debt. Investors await Wednesday's PCE inflation report for fresh clues on the Fed's next move. And from Black Frida"
+      "publishedAt": "2026-11-23T21:31:30.000Z",
+      "description": "Ukraine sank a Russian naval corvette in a Libyan port using maritime drones, the day after a drone strike on a Russian military-linked cargo ship in the Gulf of Finland, President Volodymyr Zelenskiy said."
     },
     {
-      "id": "9-fPv52ohrQ",
-      "title": "‘Major incident’ declared during Manchester concert",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-23T11:53:15.000Z",
-      "description": "Thousands of people were evacuated from a concert in Manchester after an \"unknown substance\" was released into the crowd."
-    },
-    {
-      "id": "tqSPjkw6deA",
-      "title": "Gaza's sewage crisis turns Khan Younis into a toxic wasteland, Oxfam warns",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-23T11:38:39.000Z",
-      "description": "Oxfam warns Gaza is becoming a “toxic wasteland”. Destroyed sewage systems and mounting rubbish are exposing residents to disease and pollution that could last for decades."
-    },
-    {
-      "id": "PTYORszOD1Q",
-      "title": "Fact check: How Iranian disinformation goes viral",
+      "id": "A_71h-fQWMs",
+      "title": "Could cyberattacks become part of daily life?",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-23T10:02:05.000Z",
-      "description": "DW Fact check looks at how pro-Iran networks are using AI-generated videos during the Iran war to shape online narratives, how these networks operate, and the signs that can help users identify them."
+      "publishedAt": "2026-11-23T22:30:35.000Z",
+      "description": "Supermarkets, banks and even the European Commission have all been recent targets of cyberattacks by unidentified groups and actors. Could this disruption become the new norm, and what can be done to stop it? We ask Robe"
     },
     {
-      "id": "K3wcjjDjjL0",
-      "title": "Ukrainian drones hit Russian warship at naval base in Libya",
+      "id": "ZuA0vOFiHIE",
+      "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-23T22:53:38.000Z",
+      "description": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa after a court suspended its environmental permit, saying the operation will depend on reaching an agreeme"
+    },
+    {
+      "id": "wil2-IVdjTM",
+      "title": "There’s new menopause guidance to manage and treat symptoms",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-23T12:07:59.000Z",
-      "description": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said Monday, claiming that sea drones sank the navy vessel in a surprise assault the previous day."
+      "publishedAt": "2026-11-23T22:35:07.000Z",
+      "description": "You do not have to suffer through menopause symptoms anymore. For the first time in a dozen years, the guidance from experts on managing hot flashes, night sweats, sleep changes and other menopause symptoms have changed."
     },
     {
-      "id": "Ezvoaikn3U0",
-      "title": "The UK Tonight with Sarah-Jane Mee",
+      "id": "lbB9nyfTZ8o",
+      "title": "First Lady Melania Trump welcomes this year's White House Christmas Tree.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-23T20:58:37.000Z",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+    },
+    {
+      "id": "zTgNo9Fyf-g",
+      "title": "The World with Yalda Hakim",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-23T12:08:25.000Z",
-      "description": "The UK Tonight with Sarah-Jane Mee will dig into the issues people across the country are talking about and explain and analyse the news stories they need to know in a dynamic hour of domestic news."
+      "publishedAt": "2026-11-23T12:12:53.000Z",
+      "description": "Watch The World with Yalda Hakim as she scrutinises the latest international news headlines and hears from the big names shaping the global outlook."
     },
     {
       "id": "CO5GdQKWBC8",
@@ -82,116 +162,36 @@
       "description": "Thousands of people flocked to Copacabana Beach in Rio Sunday for the 31st annual Pride Parade. The event marked 15 years since Brazil's Supreme Court unanimously recognized same sex unions. Ophelie Jacobson explains wha"
     },
     {
-      "id": "-lkjO6_RFSU",
-      "title": "AI Weekly: Anthropic's debut falters, Paris Hilton shows Defiance",
+      "id": "wRUe2L-_1yE",
+      "title": "AI stocks tumble as doubts grow over spending and debt",
       "channel": "Reuters",
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-23T11:57:58.000Z",
-      "description": "From Anthropic's IPO faltering to Paris Hilton demanding US Congress pass the Defiance Act targeting deepfakes, Francis Maguire reports on the latest in the AI revolution"
+      "publishedAt": "2026-11-23T12:05:55.000Z",
+      "description": "Wall Street futures rebound after a brutal selloff, but questions remain over AI revenues, financing and debt. Investors await Wednesday's PCE inflation report for fresh clues on the Fed's next move. And from Black Frida"
     },
     {
-      "id": "5hlsOP2daAw",
-      "title": "Who is behind the street violence in France?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-23T10:53:04.000Z",
-      "description": "The streets of France have been rocked by protests and violence in recent weeks."
-    },
-    {
-      "id": "QNtfMzuz810",
-      "title": "Lebanese families return to ruins after Israeli attacks in south",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-23T10:49:25.000Z",
-      "description": "In southern Lebanon’s Nabatieh, displaced families have been returning to ruins and widespread destruction. Israeli attacks in the region are continuing despite an April ceasefire, raising questions about Lebanon’s sover"
-    },
-    {
-      "id": "DH2cAF18h3w",
-      "title": "People try to push the Washington Monument",
+      "id": "HWNmm0J2UNw",
+      "title": "Why is rebuilding Gaza so difficult?",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-23T06:05:04.000Z",
-      "description": "Bothered by the apparent \"misalignment\" of the Washington Monument, these people decided to do something about it — defying logic and laws of nature. #dwnews"
+      "publishedAt": "2026-11-23T20:52:23.000Z",
+      "description": "Around 1.4 million people in Gaza are still living in tents or makeshift shelters. Before homes, schools and hospitals can be rebuilt, an estimated 61 million tons of rubble must be safely managed. Jaco Cilliers of the U"
     },
     {
-      "id": "bgK6hGFF2SA",
-      "title": "Don Toliver UK concert evacuated after unknown substance released in crowd",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-23T11:01:22.000Z",
-      "description": "On Sunday, more than 12,000 fans were evacuated from a concert in Manchester by American rapper Don Toliver after an unknown substance was released in the crowd. (Nov 23)\r"
-    },
-    {
-      "id": "Ab2Do9UZFOU",
-      "title": "Rutte urges NATO allies to 'stay ahead of danger'",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-23T10:39:41.000Z",
-      "description": "NATO Secretary General Mark Rutte has spoken to the German parliament in Berlin, warning allies of 'unrelentless’ cyber threats and risks to critical infrastructure whilst calling for sustained support for Ukraine ahead "
-    },
-    {
-      "id": "g17xg-Xaz74",
-      "title": "Christmas market returns to Paris' Champs Elysées • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-23T00:46:46.000Z",
-      "description": "France 24's Jamie Smith-Maillet reports from the opening of the Paris Christmas market on the Champs Elysées."
-    },
-    {
-      "id": "fL-rw_luGjM",
-      "title": "AI selloff sparks global market jitters",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-23T11:56:01.000Z",
-      "description": "US stock futures rose sharply, while Asia authorities moved to support markets after last week's wipeout in AI-linked stocks sparked a global selloff in riskier assets. Investors are questioning whether the vast sums of "
-    },
-    {
-      "id": "oyao_32wS60",
-      "title": "Boy pulled alive from rubble after Russian strike on Ukraine.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-23T10:03:27.000Z",
-      "description": ""
-    },
-    {
-      "id": "rU2zaKkm1SE",
-      "title": "Doha art installation highlights the impact of war on millions of children",
+      "id": "tqSPjkw6deA",
+      "title": "Gaza's sewage crisis turns Khan Younis into a toxic wasteland, Oxfam warns",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-23T09:43:22.000Z",
-      "description": "20,000 bottles and paper doves highlight the millions of children affected by war at ‘Unfinished Beginnings’ in Doha. Ali Hashem reports."
+      "publishedAt": "2026-11-23T11:38:39.000Z",
+      "description": "Oxfam warns Gaza is becoming a “toxic wasteland”. Destroyed sewage systems and mounting rubbish are exposing residents to disease and pollution that could last for decades."
     },
     {
-      "id": "wc0_xSLc_OU",
-      "title": "Drone strike damages Russian ship in Benghazi, say Libyan officials",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-23T02:33:51.000Z",
-      "description": "Officials in Eastern Libyan say a Russian ship was damaged in a suspected drone attack at the port of Benghazi, where it stopped to refuel on its way back to Russia. No one has claimed responsibility for the suspected at"
-    },
-    {
-      "id": "_v5u2KaH10U",
-      "title": "UN climate talks end without an overarching agreement after fossil fuel dispute",
+      "id": "aW6O9Z-D08o",
+      "title": "Woman rescued 22 hours after a Russian strike near Kyiv kills at least 11",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-22T19:52:09.000Z",
-      "description": "United Nations climate talks in Turkey have failed to reach an overarching agreement due to disagreements over mentioning fossil fuels. The two-week negotiations known as COP31 ended Sunday without a main agreement. (AP "
-    },
-    {
-      "id": "LBcXoX5LxZU",
-      "title": "New climate deal rejected as talks collapse at COP31",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-22T23:05:03.000Z",
-      "description": "The Wrap will focus on debating, analysing and making sense of the day's news, not just reporting it, and will run from 10pm until midnight."
-    },
-    {
-      "id": "GisThkINhEU",
-      "title": "France's  far-right leader Le Pen denies receiving secrets from civil servant • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-23T00:46:02.000Z",
-      "description": "French far-right leader Marine Le Pen Sunday denied receiving confidential information from a civil servant suspected of leaking details of investigations to her National Rally (RN) party, while acknowledging she could n"
+      "publishedAt": "2026-11-23T12:15:25.000Z",
+      "description": "The death toll from a Russian strike on Sunday on an apartment building in a village near Ukraine's capital has risen to 11, according to the State Emergency Service. The agency said an elderly woman was rescued after 22"
     }
   ]
 }
