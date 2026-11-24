@@ -1,25 +1,21 @@
-00:46:29 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-00:46:29 collecting videos…
-00:46:29   video feed BBC News: 15 in feed, 5 kept
-00:46:29   video feed Al Jazeera English: 15 in feed, 5 kept
-00:46:29   video feed DW News: 15 in feed, 5 kept
-00:46:29   video feed FRANCE 24 English: 15 in feed, 5 kept
-00:46:29   video feed Sky News: 15 in feed, 5 kept
-00:46:29   video feed Reuters: 15 in feed, 5 kept
-00:46:30   video feed Associated Press: 15 in feed, 5 kept
-00:46:30 videos: saved 24
-00:46:30 collecting feeds…
-00:46:33 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-00:46:33 809 new items
-00:46:34 609 candidate stories
-00:46:34 categories needing stories: business, technology, science, health, sports, politics → reserved business
-00:46:34 writing: Jensen Huang Returns to Nvidia After President Trump Intervenes (10 sources)
-00:46:35   source text: 6507 / 3308 / 7000 chars
-00:46:41   ✓ published: /news/jensen-huang-reclaims-nvidia-chief-role-following-decisive-white-house/ [business] image: wikimedia via idea "Jensen Huang Nvidia"
-00:46:41 writing: 24 Killed After Fire Rips Through Candy Factory in Indonesia (3 sources)
-00:46:41   source text: 1335 / 0 / 0 chars
-00:46:46   too close to source wording — rewriting
-00:46:50 gemini gemini-3.5-flash-lite failed (503): {
+10:51:33 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+10:51:33 collecting videos…
+10:51:34   video feed BBC News: 15 in feed, 5 kept
+10:51:34   video feed Al Jazeera English: 15 in feed, 5 kept
+10:51:34   video feed DW News: 15 in feed, 5 kept
+10:51:34   video feed FRANCE 24 English: 15 in feed, 5 kept
+10:51:34   video feed Sky News: 15 in feed, 5 kept
+10:51:34   video feed Reuters: 15 in feed, 5 kept
+10:51:34   video feed Associated Press: 15 in feed, 5 kept
+10:51:34 videos: saved 24
+10:51:34 collecting feeds…
+10:51:37 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+10:51:37 655 new items
+10:51:38 511 candidate stories
+10:51:38 categories needing stories: technology, science, health, sports, entertainment, politics, world → reserved technology
+10:51:38 writing: OpenAI employee who secretly recorded meetings allegedly affiliated with the Saudi government (2 sources)
+10:51:38   source text: 1791 / 0 chars
+10:51:40 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -27,23 +23,9 @@
   }
 }
 
-00:46:56 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-00:47:39   ✓ published: /news/at-least-24-dead-and-dozens-missing-after-fire-at-indonesian-candy/ [world] image: wikimedia via name "Banten"
-00:47:39 writing explainer for: Jensen Huang Returns to Nvidia After President Trump Intervenes
-00:47:40 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-00:47:51   ✓ explainer: /news/why-did-donald-trump-intervene-to-bring-jensen-huang-back-to-nvidia/
-00:47:51 done — 2 stories
+10:52:07   ✓ published: /news/former-artificial-intelligence-researcher-faces-allegations-over-secret/ [technology] image: wikimedia via name "San Francisco"
+10:52:07 writing: Bangladesh's ousted leader Hasina plans to return home from exile on Dec 16 (6 sources)
+10:52:08   source text: 4473 / 1934 / 2831 chars
+10:52:13   too close to source wording — rewriting
+10:52:21   ✓ published: /news/ousted-former-leader-sheikh-hasina-announces-plan-to-return-to/ [world] image: wikimedia via idea "Sheikh Hasina portrait"
+10:52:21 done — 2 stories

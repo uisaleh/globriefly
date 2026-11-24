@@ -1,16 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss": 1794887160150,
-    "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo": 1794887160150,
-    "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage": 1794887169782,
-    "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html": 1794887169782,
-    "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html": 1794887169782,
-    "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories": 1794887169782,
-    "https://thehill.com/policy/transportation/6223837-united-airlines-resolves-tech-outage/": 1794887169782,
-    "https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-rdf": 1794887169782,
-    "https://www.scmp.com/news/world/united-states-canada/article/3374655/united-airlines-has-widespread-system-failure-just-days-after-nationwide-ground-stop": 1794887169782,
-    "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures": 1794887169782,
-    "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/": 1794887169782,
     "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026": 1794921202023,
     "https://www.wired.com/story/best-laptops/": 1794921202023,
     "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html": 1794921215912,
@@ -232,11 +221,17 @@
     "https://www.channelnewsasia.com/world/nvidia-jensen-huang-ceo-reinstated-6575201": 1795481200400,
     "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html": 1795481241081,
     "https://www.euronews.com/2026/11/23/at-least-24-people-killed-in-indonesia-factory-fire-police-say": 1795481241081,
-    "https://www.scmp.com/news/asia/southeast-asia/article/3375508/indonesia-says-24-killed-factory-fire-rescuers-search-dozens-missing": 1795481241081
+    "https://www.scmp.com/news/asia/southeast-asia/article/3375508/indonesia-says-24-killed-factory-fire-rescuers-search-dozens-missing": 1795481241081,
+    "https://www.engadget.com/2326288/openai-employee-recorded-meetings-allegedly-affiliated-saudi-government/": 1795517511787,
+    "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html": 1795517511787,
+    "https://abcnews.com/International/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398785": 1795517540358,
+    "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece": 1795517540358,
+    "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss": 1795517540358,
+    "https://www.dw.com/en/exiled-leader-sheikh-hasina-plans-to-return-to-bangladesh-on-dec-16/a-80028083?maca=en-rss-en-all-1573-rdf": 1795517540358,
+    "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss": 1795517540358,
+    "https://www.channelnewsasia.com/asia/bangladesh-sheikh-hasina-december-return-6576891": 1795517540358
   },
   "fps": {
-    "back-backs-bring-campaign-ceo-dismisses-effort-jensen": 1794887160150,
-    "airlines-outage-resolved-system-united-widespread": 1794887169782,
     "2026-best-verge": 1794921202023,
     "attacks-bridge-crimea-kerch-linking-occupied-russia-ukraine": 1794921215912,
     "between-deep-enmity-europe-run-russia-talks-ukraine": 1794953762156,
@@ -275,6 +270,8 @@
     "2028-aggressive-debate-democrats-plan-presidential-race-reveal": 1795436449175,
     "confirms-drones-libya-naval-off-russian-ships-strike": 1795436464760,
     "huang-intervenes-jensen-nvidia-president-returns-trump": 1795481200400,
-    "candy-factory-fire-indonesia-killed-rips-through": 1795481241081
+    "candy-factory-fire-indonesia-killed-rips-through": 1795481241081,
+    "affiliated-allegedly-employee-government-meetings-openai-recorded-saudi": 1795517511787,
+    "bangladesh-dec-exile-hasina-home-leader-ousted-plans": 1795517540358
   }
 }
