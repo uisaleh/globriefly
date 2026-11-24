@@ -1,13 +1,5 @@
 {
   "urls": {
-    "https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026": 1794921202023,
-    "https://www.wired.com/story/best-laptops/": 1794921202023,
-    "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html": 1794921215912,
-    "https://www.euronews.com/2026/11/17/moment-ukrainian-drones-strike-the-kerch-bridge-linking-crimea-to-russia": 1794921215912,
-    "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike": 1794921215912,
-    "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine": 1794921215912,
-    "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea": 1794921215912,
-    "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss": 1794921215912,
     "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html": 1794953762156,
     "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794953762156,
     "https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status": 1794953788881,
@@ -229,11 +221,27 @@
     "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss": 1795517540358,
     "https://www.dw.com/en/exiled-leader-sheikh-hasina-plans-to-return-to-bangladesh-on-dec-16/a-80028083?maca=en-rss-en-all-1573-rdf": 1795517540358,
     "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss": 1795517540358,
-    "https://www.channelnewsasia.com/asia/bangladesh-sheikh-hasina-december-return-6576891": 1795517540358
+    "https://www.channelnewsasia.com/asia/bangladesh-sheikh-hasina-december-return-6576891": 1795517540358,
+    "https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html": 1795554456007,
+    "https://www.scmp.com/news/world/united-states-canada/article/3375672/trump-awards-rudy-giuliani-medal-freedom-highest-us-civilian-honour": 1795554456007,
+    "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss": 1795554524962,
+    "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece": 1795554524962,
+    "\n                                                https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-mavericks-vs-nuggets-louisville-vs-texas-tech-and-more/\n                    ": 1795554524962,
+    "https://www.theguardian.com/us-news/2026/nov/24/georgia-tech-football-couple-arguing-espn": 1795554524962,
+    "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline": 1795554524962,
+    "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang": 1795554524962,
+    "https://timesofindia.indiatimes.com/world/us/huang-in-there-trumps-bra-zen-tribute-to-tech-bro-he-rescued/articleshow/136137187.cms": 1795554524962,
+    "https://www.thehindu.com/news/international/brazil-turns-heat-on-big-tech-and-bolsonaro-camp-over-foreign-interference-in-elections/article71714470.ece": 1795554524962,
+    "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html": 1795554524962,
+    "https://www.thehindu.com/news/international/lula-takes-to-streets-with-peoples-demands-as-flavio-leans-on-big-tech-in-brazils-presidential-race/article71603422.ece": 1795554524962,
+    "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html": 1795554524962,
+    "https://www.scmp.com/week-asia/economics/article/3375656/indonesia-puts-skin-game-lure-chinese-tech-amid-us-rivalry": 1795554524962,
+    "https://www.wired.com/story/gifts-for-friends/": 1795554524962,
+    "https://www.bbc.co.uk/news/videos/cqvg2d2gkldpo?at_medium=RSS&at_campaign=rss": 1795554524962,
+    "https://www.wired.com/story/wish-list-2026/": 1795554524962,
+    "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html": 1795554524962
   },
   "fps": {
-    "2026-best-verge": 1794921202023,
-    "attacks-bridge-crimea-kerch-linking-occupied-russia-ukraine": 1794921215912,
     "between-deep-enmity-europe-run-russia-talks-ukraine": 1794953762156,
     "elimination-loses-measles-officially-status": 1794953788881,
     "ahead-behind-competition-falling-industry-losing-meeting-putin": 1794975245519,
@@ -272,6 +280,7 @@
     "huang-intervenes-jensen-nvidia-president-returns-trump": 1795481200400,
     "candy-factory-fire-indonesia-killed-rips-through": 1795481241081,
     "affiliated-allegedly-employee-government-meetings-openai-recorded-saudi": 1795517511787,
-    "bangladesh-dec-exile-hasina-home-leader-ousted-plans": 1795517540358
+    "bangladesh-dec-exile-hasina-home-leader-ousted-plans": 1795517540358,
+    "life-tech": 1795554524962
   }
 }

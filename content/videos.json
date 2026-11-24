@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-11-24T10:51:34.089Z",
+  "updatedAt": "2026-11-24T21:07:30.064Z",
   "videos": [
+    {
+      "id": "uVsX62wQxeg",
+      "title": "Inmate admits to murdering Soham killer Ian Huntley | The UK Tonight with Sarah-Jane Mee",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-24T21:03:17.000Z",
+      "description": "The UK Tonight with Sarah-Jane Mee will dig into the issues people across the country are talking about and explain and analyse the news stories they need to know in a dynamic hour of domestic news."
+    },
+    {
+      "id": "v9B_hB6s9yk",
+      "title": "Bob Woodward on a lifetime of reporting: “This is a great job”",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-24T20:37:42.000Z",
+      "description": "Bob Woodward is reflecting on his decades-long career in his new memoir, “Secrets: A Reporter’s Memoir.” The 83-year-old journalist, who helped Carl Bernstein uncover the Watergate scandal, says he still knocks on doors "
+    },
+    {
+      "id": "JdHpXLovHU0",
+      "title": "Will storms disrupt your Thanksgiving travel plans?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-24T20:36:10.000Z",
+      "description": ""
+    },
+    {
+      "id": "xNqXg7brkg8",
+      "title": "Turkey, flights and fuel: the rising cost of Thanksgiving",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-24T20:31:26.000Z",
+      "description": "As Americans get ready for their holiday season – Thanksgiving and Christmas, they face increasingly expensive household costs. "
+    },
+    {
+      "id": "WSgkLp1BQ8M",
+      "title": "Russian nuclear satellites plan 'foolhardy', expert says • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-24T20:31:16.000Z",
+      "description": "NATO chief Mark Rutte said Monday the alliance would defend against threats in space when asked about German media reports that Russia may be preparing to launch a nuclear-armed satellite. Speaking with FRANCE 24's Jenni"
+    },
+    {
+      "id": "AJuGAzA3ong",
+      "title": "Anthropic falls below $83 IPO price in swift reversal after record listing",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-24T20:27:54.000Z",
+      "description": "Anthropic's shares dropped below their $83 initial public offering price and were on course to erase close to $200 billion in market value, a striking reversal just days after the Claude developer's record-breaking Nasda"
+    },
+    {
+      "id": "MhCMsmjiGMw",
+      "title": "Poll suggests only a minority of Germans want to keep supporting Ukraine’s defense",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-24T20:23:03.000Z",
+      "description": "A new poll has revealed some changing attitudes here in Germany about people's support for Ukraine. The annual Berlin Pulse Report shows only 46 percent of Germans now support more military aid for Ukraine. That's a big "
+    },
+    {
+      "id": "Tt7l1PPAZV0",
+      "title": "The World with Yalda Hakim",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-24T15:03:28.000Z",
+      "description": "Watch The World with Yalda Hakim as she scrutinises the latest international news headlines and hears from the big names shaping the global outlook."
+    },
+    {
+      "id": "bNYN36Zwv2g",
+      "title": "Armed men take hostages at a supermarket in Cartagena, Colombia",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-24T19:13:33.000Z",
+      "description": "A group of armed men with their faces covered seized a supermarket in the Colombian city of Cartagena on Tuesday and are holding an unknown number of hostages, Colombian police said.  "
+    },
+    {
+      "id": "XZ966rNQsi4",
+      "title": "What does China think of Nvidia, Jensen Huang and Trump?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-24T20:27:46.000Z",
+      "description": "President Donald Trump is facing questions from Washington to Wall Street about his role in having Jensen Huang reinstated as CEO of the AI chipmaker Nvidia. Mr Trump - who has a close relationship with Mr Huang and owns"
+    },
+    {
+      "id": "OjBioOi8QYk",
+      "title": "CCTV captures deadly restaurant explosion in Vietnam",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-24T20:21:28.000Z",
+      "description": "CCTV footage captured a deadly explosion at a restaurant in Vietnam’s capital, Hanoi, killing at least six people and injuring 10 others. Police suspect a gas leak caused the blast, as rescue teams continue searching for"
+    },
+    {
+      "id": "qs5UYx13S-8",
+      "title": "Will Salvadoran leader's strong-arm tactics work for Haiti? • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-24T19:57:52.000Z",
+      "description": "Haitians are hailing the Bukele method. Citizens of the Americas’ poorest nation cheering the Salvadoran president’s ’shoot first, ask questions later’ method of dealing with the gangs that have overrun their country the"
+    },
+    {
+      "id": "Mc1zYgG7Nvk",
+      "title": "Lanterns illuminate the sky at Thailand festival",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-24T19:24:48.000Z",
+      "description": "Thousands of lanterns lit up the night sky over Chiang Mai as tourists and locals gathered for Thailand's Yee Peng Lanna festival to observe the Buddhist tradition of offering light to the Buddha during the full moon cel"
+    },
+    {
+      "id": "a4nSOs0iyCU",
+      "title": "Can a political reinvention keep Pedro Sanchez in power?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-24T19:15:25.000Z",
+      "description": "Spain's snap election campaign has become a battle for the political survival of Prime Minister Pedro Sanchez. Facing corruption allegations surrounding people close to him, a housing crisis and growing public frustratio"
+    },
     {
       "id": "ybUqWKU57nA",
       "title": "Trump under scrutiny after securing Nvidia CEO's return",
@@ -8,46 +120,6 @@
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
       "publishedAt": "2026-11-24T10:06:53.000Z",
       "description": "Join Sky's Sophy Ridge and Wilfred Frost live from the heart of London as they bring you the day's essential stories - and drive the conversation with agenda-setting interviews."
-    },
-    {
-      "id": "Th9C3lR8L1s",
-      "title": "Russian attack in Ukraine's Zaporizhzhia kills multiple",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-24T10:06:46.000Z",
-      "description": "A Russian attack killed at least two people and injured 40 more, including two children, in Ukraine's Zaporizhzhia overnight, local officials said. "
-    },
-    {
-      "id": "9wDm1Qitd5o",
-      "title": "'I cried for hours after losing UK university place'",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-24T10:00:38.000Z",
-      "description": "Afghan students say they've been left devastated after the UK stopped accepting new study visa applications from Afghanistan. #Afghanistan #Taliban #Women #Education #University #BBCNews"
-    },
-    {
-      "id": "3QpQaTL7gOQ",
-      "title": "Pakistani astronaut joins China space mission",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-24T09:30:36.000Z",
-      "description": "Pakistan's Muhammad Zeeshan Ali is set to become the first foreign astronaut to fly on a Chinese space mission. He will travel to China's Tiangong space station aboard Shenzhou-24, which is scheduled to launch on Wednesd"
-    },
-    {
-      "id": "0KuNuWjW200",
-      "title": "Iran says two oil tankers catch fire after hitting mines in Strait of Hormuz",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-24T09:29:05.000Z",
-      "description": "Iran's Navy says two oil tankers have caught fire after striking naval mines in the Strait of Hormuz."
-    },
-    {
-      "id": "AGF78Fav4NM",
-      "title": "'Nothing will ever be the same' for Jensen Huang and Nvidia after his return • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-24T07:48:04.000Z",
-      "description": "PRESS REVIEW - Tuesday, November 24: Jensen Huang's return to Nvidia dominates the papers. In other news, leaked records shed new light on Russian military losses in Ukraine. Also, the UK will host the 2035 Women's World"
     },
     {
       "id": "i3uibgvd0r4",
@@ -58,44 +130,20 @@
       "description": "The CMP (Committee on Missing Persons) has employed a bicommunal forensic team of more than 60 archaeologists, anthropologists and geneticists, who have spent two decades unearthing and identifying bodies from the 1960s "
     },
     {
-      "id": "V8lG36ZvL6s",
-      "title": "Nigel Farage delivers speech on Brexit",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-24T08:29:52.000Z",
-      "description": "Reform UK leader Nigel Farage holds a news conference on Brexit, one day after the PM unveiled the details of his \"landmark\" new agreement with the European Union in the House of Commons."
-    },
-    {
-      "id": "rrZkvN9q1RM",
-      "title": "Singapore investigating whether Megaspeed broke laws",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-24T09:10:17.000Z",
-      "description": "Singapore Prime Minister Lawrence Wong said that his country would continue to investigate cloud company Megaspeed, an Nvidia-linked firm alleged by US authorities to have diverted advanced AI chips to China."
-    },
-    {
-      "id": "NnchtVgLdlY",
-      "title": "Why is the UK revoking university offers for Afghan students?",
+      "id": "CrNGZJIDgGs",
+      "title": "Why didn't the Met stop the predator in its ranks?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-24T09:10:50.000Z",
-      "description": "Afghan students say they've been left devastated after the UK stopped accepting new study visa applications from Afghanistan."
+      "publishedAt": "2026-11-24T19:45:08.000Z",
+      "description": "Warren Arter was seen as a star detective in the Metropolitan Police, but he was also a sexual predator."
     },
     {
-      "id": "3wFWW31BC7Q",
-      "title": "Google & Meta's Submarine Cable Power Grab: Why Big Tech wants the ocean",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-24T08:30:07.000Z",
-      "description": "US tech giants like Meta and Google are increasingly investing in, and in some cases fully owning, submarine cable systems that form the backbone of global internet connectivity. As their influence over the internet’s ph"
-    },
-    {
-      "id": "LRuQ4tjsmyo",
-      "title": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
+      "id": "tofYDDCvkTY",
+      "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-24T08:11:16.000Z",
-      "description": "Mexico's Defense Secretariat has released bodycam video showing the moment cartel boss and one of the FBI’s most wanted suspects ‘El Chapo Isidro’ was captured. "
+      "publishedAt": "2026-11-24T20:18:38.000Z",
+      "description": "Iraq's Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields and border crossings in Kurdish-controlled areas, as Baghdad steps up its crackdown on alleged oil smuggling. "
     },
     {
       "id": "OOiRS2PEI-c",
@@ -106,6 +154,30 @@
       "description": "Angela Diffley is pleased to welcome Claudia Gazzini, International Crisis Group's Senior Analyst for Libya. The Ukrainian attack on a Russian warship off the coast of eastern Libya has raised questions about Russian and"
     },
     {
+      "id": "VINEWv3G37Y",
+      "title": "🥚Chefs compete in France's egg mayo world championship",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-24T19:11:25.000Z",
+      "description": "More than a dozen cooks competed in France's World Egg Mayo Championship near Paris, cooking the humble ingredient to perfection and piping mayonnaise with their own spin on the French classic."
+    },
+    {
+      "id": "iVqnqKrLVUA",
+      "title": "NATO to boost Polish air defenses after missile and drone incursions",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-24T18:08:16.000Z",
+      "description": "NATO's \"eyes in the sky\" are heading to Poland following allegations of deliberate missile and drone incursions by Russia. The early-warning aircraft, or AWACS, are equipped with radars that can track warplanes and missi"
+    },
+    {
+      "id": "V8lG36ZvL6s",
+      "title": "Nigel Farage delivers speech on Brexit",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-24T08:29:52.000Z",
+      "description": "Reform UK leader Nigel Farage holds a news conference on Brexit, one day after the PM unveiled the details of his \"landmark\" new agreement with the European Union in the House of Commons."
+    },
+    {
       "id": "9jamGzqdUPo",
       "title": "Mexico releases bodycam footage of cartel leader's capture in Sinaloa",
       "channel": "Associated Press",
@@ -114,84 +186,12 @@
       "description": "The video shows troops entering a house and capturing Fausto Isidro Meza Flores, known as \"El Chapo Isidro\", over the weekend. Meanwhile, security officials on Monday said that the United States flew a surveillance drone"
     },
     {
-      "id": "zTgNo9Fyf-g",
-      "title": "The World with Yalda Hakim",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-23T12:12:53.000Z",
-      "description": "Watch The World with Yalda Hakim as she scrutinises the latest international news headlines and hears from the big names shaping the global outlook."
-    },
-    {
-      "id": "yYMF9wK6Src",
-      "title": "The Trump effect? Breaking down Huang's Nvidia comeback",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-24T08:50:31.000Z",
-      "description": "Nvidia reinstated Jensen Huang 11 days after his resignation, a dramatic turnaround following pressure from President Donald Trump and US assurances that Huang posed no national security risk. Jeffrey Dastin breaks down "
-    },
-    {
-      "id": "ruIpNUa_w84",
-      "title": "Nvidia employees cheer and applaud as Jensen Huang returns to office as CEO.",
+      "id": "9wDm1Qitd5o",
+      "title": "'I cried for hours after losing UK university place'",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-24T09:10:48.000Z",
-      "description": ""
-    },
-    {
-      "id": "44w5YKp9rKo",
-      "title": "Bayern bosses criticized over Musiala injury comments",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-24T06:35:28.000Z",
-      "description": "Bayern Munich bosses have been criticized for putting pressure on Jamal Musiala as he manages a neurological disorder and returns from injury. Three senior figures at the club questioned whether Musiala's lucrative contr"
-    },
-    {
-      "id": "qGAigxl5x4A",
-      "title": "The revolt of the Cockroaches",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-24T08:03:19.000Z",
-      "description": "Watch our special on the Cockroach Janta Party in full here: https://youtu.be/ygc9MJxJLjY"
-    },
-    {
-      "id": "rHXRvBuciRU",
-      "title": "Collapse of COP31: 'This deal was a bad deal and better no deal than a bad deal' • FRANCE 24",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-24T06:49:59.000Z",
-      "description": "François Picard is joined by Ireland's former environment minister Eamon Ryan following the collapse of COP31 in Antalya, Turkey. \"Political science trumps climate science still,\" Ryan reacted. The talks failed after the"
-    },
-    {
-      "id": "PnE1D2HFTm0",
-      "title": "Park ranger reveals details of Alzheimer patient's rescue in Amazon rainforest",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-24T03:45:20.000Z",
-      "description": "An elderly man with Alzheimer’s disease who survived 11 days on his own in the Amazon rainforest is currently recovering at a hospital in the Brazilian city of Macapá, as rescue workers reveal more details about his surp"
-    },
-    {
-      "id": "HIIsYCYnGpw",
-      "title": "😹 Bill Hader and America Ferrera on 'The Cat in the Hat'",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-23T21:43:41.000Z",
-      "description": "Actors Bill Hader and America Ferrera were among the stars at the special screening of \"The Cat in the Hat\" in London."
-    },
-    {
-      "id": "lbB9nyfTZ8o",
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas Tree.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-23T20:58:37.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
-    },
-    {
-      "id": "aXEekmPDoD0",
-      "title": "Reports: Russia ready to launch nuclear-capable satellite into space",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-24T00:33:45.000Z",
-      "description": "Western military intelligence services believe Russia is planning to station a nuclear weapon in space by the end of this year, German media reported on Monday morning. According to public broadcasters NDR and WDR, intel"
+      "publishedAt": "2026-11-24T10:00:38.000Z",
+      "description": "Afghan students say they've been left devastated after the UK stopped accepting new study visa applications from Afghanistan. #Afghanistan #Taliban #Women #Education #University #BBCNews"
     }
   ]
 }
