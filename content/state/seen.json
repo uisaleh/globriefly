@@ -1,21 +1,5 @@
 {
   "urls": {
-    "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html": 1795010032717,
-    "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai": 1795010032717,
-    "https://www.france24.com/en/video/20261118-democrat-mary-peltola-wins-us-senate-race-in-alaska": 1795010032717,
-    "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss": 1795010032717,
-    "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf": 1795010032717,
-    "https://www.euronews.com/2026/11/18/democrat-mary-peltola-unseats-republican-and-flips-us-senate-seat-in-tight-race-in-alaska": 1795010032717,
-    "https://www.channelnewsasia.com/world/us-midterms-mary-peltola-alaska-win-senate-majority-6561306": 1795010032717,
-    "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html": 1795010118382,
-    "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/": 1795010118382,
-    "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone": 1795010118382,
-    "https://www.engadget.com/2320267/nasa-voyager-1-space-probe-one-light-day-away-from-earth/": 1795010118382,
-    "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/": 1795010118382,
-    "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot": 1795010118382,
-    "https://www.scientificamerican.com/article/voyager-1-reaches-one-light-day-milestone/": 1795010118382,
-    "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/": 1795010118382,
-    "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece": 1795010118382,
     "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss": 1795038809348,
     "https://thehill.com/policy/transportation/6226963-live-donald-trump-china-tech-outages-faa-modernization-alaska-senate-race/": 1795038809348,
     "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker": 1795038809348,
@@ -227,11 +211,18 @@
     "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html": 1795582405755,
     "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/australia-solomon-islands-pact-china/": 1795582405755,
     "https://www.thehindu.com/news/international/solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/article71741038.ece": 1795582405755,
-    "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence": 1795582405755
+    "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence": 1795582405755,
+    "https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival/": 1795620697550,
+    "https://timesofindia.indiatimes.com/world/us/who-is-kilmar-abrego-garcia-salvadoran-man-whose-deportation-sparked-legal-battle-moves-to-spain/articleshow/136162987.cms": 1795620697550,
+    "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html": 1795620697550,
+    "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates": 1795620724968,
+    "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe": 1795620724968,
+    "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-rdf": 1795620724968,
+    "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss": 1795620724968,
+    "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html": 1795620724968,
+    "https://www.channelnewsasia.com/world/trump-new-tariffs-us-midterms-6581566": 1795620724968
   },
   "fps": {
-    "alaska-how-mary-peltola-race-senate-triumphed": 1795010032717,
-    "blowing-day-earth-light-mind-one-voyager-years": 1795010118382,
     "democrats-hakeem-house-jeffries-nominate-speaker": 1795038809348,
     "auto-enters-gaming-grand-pantheon-rapturous-reviews-theft": 1795038847729,
     "andy-brejoin-brexit-burnham-going-podcast-reverse": 1795058288426,
@@ -267,6 +258,8 @@
     "bangladesh-dec-exile-hasina-home-leader-ousted-plans": 1795517540358,
     "life-tech": 1795554524962,
     "agencies-breach-information-some-spy-suffer-unclassified": 1795582399366,
-    "australia-china-islands-pact-sign-solomon-stymieing-sweeping": 1795582405755
+    "australia-china-islands-pact-sign-solomon-stymieing-sweeping": 1795582405755,
+    "abrego-arrives-deporting-garcia-kilmar-self-spain": 1795620697550,
+    "business-china-including-japan-live-partners-proposes-tariffs": 1795620724968
   }
 }

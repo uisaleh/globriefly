@@ -1,21 +1,21 @@
-04:52:42 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-04:52:42 collecting videos…
-04:52:43   video feed BBC News: 15 in feed, 5 kept
-04:52:43   video feed Al Jazeera English: 15 in feed, 5 kept
-04:52:43   video feed DW News: 15 in feed, 5 kept
-04:52:43   video feed FRANCE 24 English: 15 in feed, 5 kept
-04:52:44   video feed Sky News: 15 in feed, 5 kept
-04:52:44   video feed Reuters: 15 in feed, 5 kept
-04:52:44   video feed Associated Press: 15 in feed, 5 kept
-04:52:44 videos: saved 24
-04:52:44 collecting feeds…
-04:52:48 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-04:52:48 739 new items
-04:52:49 567 candidate stories
-04:52:49 categories needing stories: politics, business, science, health, sports, entertainment, technology, world → reserved politics
-04:52:49 writing: U.S. Spy Agencies Suffer Breach of Some Unclassified Information (2 sources)
-04:52:50   source text: 1508 / 0 chars
-04:52:53 gemini gemini-3.5-flash-lite failed (503): {
+15:30:38 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+15:30:38 collecting videos…
+15:30:38   video feed BBC News: 15 in feed, 5 kept
+15:30:38   video feed Al Jazeera English: 15 in feed, 5 kept
+15:30:38   video feed DW News: 15 in feed, 5 kept
+15:30:38   video feed FRANCE 24 English: 15 in feed, 5 kept
+15:30:38   video feed Sky News: 15 in feed, 5 kept
+15:30:38   video feed Reuters: 15 in feed, 5 kept
+15:30:38   video feed Associated Press: 15 in feed, 5 kept
+15:30:38 videos: saved 24
+15:30:38 collecting feeds…
+15:30:41 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+15:30:41 811 new items
+15:30:43 637 candidate stories
+15:30:43 categories needing stories: politics, business, technology, science, health, sports, entertainment, world → reserved politics
+15:30:43 writing: Kilmar Abrego Garcia arrives in Spain after self-deporting (3 sources)
+15:30:43   source text: 0 / 4425 / 0 chars
+15:30:44 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -23,8 +23,7 @@
   }
 }
 
-04:53:03   too close to source wording — rewriting
-04:53:06 gemini gemini-3.5-flash-lite failed (503): {
+15:30:51 gemini gemini-3.5-flash-lite failed (503): {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
@@ -32,11 +31,41 @@
   }
 }
 
-04:53:19 writer returned unusable output: { "headline": "American intelligence agencies face unclassified network data breach", "standfirst": "The CIA and the Office of the Director of National Inte
-04:53:19   skipped
-04:53:19 writing: Australia, Solomon Islands sign sweeping pact stymieing China (5 sources)
-04:53:19   source text: 4835 / 2863 / 4622 chars
-04:53:27   ✓ published: /news/solomon-islands-and-australia-sign-historic-security-treaty-to-limit/ [world] image: wikimedia via idea "Parliament House Canberra"
-04:53:27 writing explainer for: Australia, Solomon Islands sign sweeping pact stymieing China
-04:53:30 writer returned unusable output: { "headline": "Why did Solomon Islands and Australia just sign a major security pact?", "standfirst": "Solomon Islands has signed a sweeping new treaty with
-04:53:30 done — 1 stories
+15:31:37 writer returned unusable output: { "headline": "Salvadoran man arrives in Spain after self-deporting following US legal battle", "standfirst": "Kilmar Abrego Garcia has arrived in Madrid on
+15:31:37   skipped
+15:31:37 writing: US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live (5 sources)
+15:31:38   source text: 7000 / 3038 / 5474 chars
+15:31:39 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+15:31:46 gemini gemini-3.5-flash-lite failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+15:31:52 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+15:31:58 gemini gemini-3.6-flash failed (503): {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+15:32:04   skipped
+15:32:04 done — 0 stories

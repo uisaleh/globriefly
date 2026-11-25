@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-11-25T04:52:44.344Z",
+  "updatedAt": "2026-11-25T15:30:38.490Z",
   "videos": [
+    {
+      "id": "PuJcJLpPmo8",
+      "title": "Kilmar Ábrego García arrives in Madrid after leaving US voluntarily",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-25T15:13:48.000Z",
+      "description": "Kilmar Ábrego García, a Salvadoran national who fought his mistaken deportation, left the U.S. voluntarily for Spain on Tuesday, officials and his attorneys said, in what could bring an end to a defining saga of the Trum"
+    },
+    {
+      "id": "Z78kwufLXME",
+      "title": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-25T15:05:52.000Z",
+      "description": "A Jewish activist has confronted former Mossad chief David Barnea in Germany's parliament, accusing him of responsibility for the 2024 Lebanon pager attacks. Barnea was attending a closed-door parliamentary breakfast wit"
+    },
+    {
+      "id": "bGwVFd2SvY4",
+      "title": "America’s spending paradox",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-25T15:00:08.000Z",
+      "description": "Consumers are gloomy about the economy, but they keep spending. Joanne Hsu, director of the University of Michigan’s Surveys of Consumers, joins host Carmel Crimmins to explain the disconnect between how the economy look"
+    },
+    {
+      "id": "GRaAqq0a5Y4",
+      "title": "French Mayors Conference: 2027 Elysée hopeful Lisnard reelected association president • FRANCE 24",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-25T14:54:49.000Z",
+      "description": "The Mayor of Cannes, David Lisnard, has been re-elected president of the Association of Mayors of France, securing a comfortable victory in a vote announced on Wednesday. Lisnard is also a candidate in next year's French"
+    },
+    {
+      "id": "nzB8DqCwjGM",
+      "title": "Can modular housing help tackle Europe’s affordability crisis?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-25T14:45:16.000Z",
+      "description": "A German start-up is building apartments with factory-made components and automated production. Supporters say the approach could cut costs and speed up housing delivery."
+    },
+    {
+      "id": "xiQAW65qLsc",
+      "title": "Nigel Farage launches 'Keep Britain Out' campaign",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-25T14:44:59.000Z",
+      "description": "Arron Banks and Reform UK Leader Nigel Farage MP will hold a press conference in London to launch their campaign to Keep Britain Out."
+    },
+    {
+      "id": "uNeewIUmdRs",
+      "title": "Puerto Rico's Jennifer Barreto becomes first mother to win Miss Universe.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-25T13:30:27.000Z",
+      "description": ""
+    },
+    {
+      "id": "IAsNz6dkhTk",
+      "title": "China pushes back against US plans for new tariffs on Chinese goods",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-25T13:21:05.000Z",
+      "description": "China is pushing back against the Trump administration’s proposed measures to impose an additional 20% tariff on Chinese goods. Beijing has warned that a trade war would hurt both countries and urged Washington to resolv"
+    },
+    {
+      "id": "D1MtGhaPtBg",
+      "title": "Knesset advances October 7 probe despite Netanyahu's objections",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-25T14:52:53.000Z",
+      "description": "The Israeli Knesset has voted to advance a proposed state inquiry into the October 7 attacks, despite opposition from Prime Minister Benjamin Netanyahu. The legislation seeks to investigate the government failures surrou"
+    },
+    {
+      "id": "gvJL2qwNeSo",
+      "title": "Bangladeshi garment workers protest minimum wage",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-25T14:49:50.000Z",
+      "description": "Bangladesh approved a minimum wage hike of 36% for garment workers, the smallest in four decades, despite weeks of protests and calls for the sum to be doubled, prompting fresh clashes between police and workers on the o"
+    },
+    {
+      "id": "XXyahjWqWy4",
+      "title": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-25T14:52:05.000Z",
+      "description": "Iran-backed Houthi rebels have advanced to within about 60 kilometers of the seat of Yemen’s internationally recognized government in the southern city of Aden, but the forces fighting them have set up a fortified line t"
+    },
+    {
+      "id": "nN60m8pUChs",
+      "title": "Who could pay the price for new US trade tariffs",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-25T13:35:34.000Z",
+      "description": "Donald Trump's \"Liberation Day\" tariffs were struck down by the US Supreme Court, but a new trade battle may be on the horizon. Reports suggest the Trump administration is preparing fresh tariffs targeting China, the Eur"
+    },
+    {
+      "id": "Un05HAAmrog",
+      "title": "How will Putin escalate war after Ukraine sank warship?",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-25T13:39:37.000Z",
+      "description": "Do you want to attend an evening with Deborah Haynes and Michael Clarke, plus special guests?"
+    },
+    {
+      "id": "iv5aG4_e4ws",
+      "title": "Sterling given suspended sentence for dangerous driving and nitrous oxide possession.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-25T12:26:19.000Z",
+      "description": ""
+    },
     {
       "id": "fAuEcorPOgA",
       "title": "China launches Shenzhou 24 with its first foreign astronaut from Pakistan",
@@ -10,12 +122,12 @@
       "description": "China on Wednesday launched the Shenzhou-24 spacecraft with three astronauts, two Chinese and a Pakistani, sending the first foreign crew member to its space station. The launch marked the first joint flight involving Ch"
     },
     {
-      "id": "5vOxNcDTRb4",
-      "title": "Protesters clash with police over Venezuela's poor minimum wage",
+      "id": "htmoBhVwao4",
+      "title": "Would you live in a ‘billionaire’s’ tax free country?",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-25T04:26:23.000Z",
-      "description": "Labour organisers shared videos of police violently clashing with protesters near Venezuela’s Miraflores presidential palace, as they staged a demonstration over the country’s meagre minimum wages. Despite promised incre"
+      "publishedAt": "2026-11-25T14:42:41.000Z",
+      "description": "A Croatian police boat. A river in the Balkans. A country that doesn’t exist on any map. Welcome to Liberland. "
     },
     {
       "id": "X0M1QY5mv-M",
@@ -26,36 +138,36 @@
       "description": "Thomas Markle, the estranged father of Britain's Duchess of Sussex, Meghan, and father-in-law of Britain's Prince Harry, was indicted in US federal court in Los Angeles on two counts of possessing child sexual abuse mate"
     },
     {
-      "id": "vcNBGoVG_tg",
-      "title": "Another military helicopter crashes in Turkey",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-25T03:50:24.000Z",
-      "description": "Five Turkish soldiers have died in a helicopter crash in Turkey, the second in two weeks. The AS-532 \"Cougar\" transport helicopter took off from a base in Eskisehir before it went down. The reasons for the crash are stil"
-    },
-    {
-      "id": "AVbDU1GVVis",
-      "title": "Moment Chinese rocket blasts off into space with Pakistani astronaut.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-25T02:30:40.000Z",
-      "description": ""
-    },
-    {
-      "id": "imk63nKKxl8",
-      "title": "Ex-PM calls for European troops to be on the ground in Ukraine",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-24T23:00:26.000Z",
-      "description": "The Wrap with Anna Botting will focus on debating, analysing and making sense of the day's news, not just reporting it."
-    },
-    {
-      "id": "-wKyN6YLhBw",
-      "title": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
+      "id": "4DIBbjuq8qQ",
+      "title": "Moldova issues emergency kit guide, prepares citizens for possible expansion of Ukraine war",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-24T21:57:37.000Z",
-      "description": "Speaking with FRANCE 24's Sharon Gaffney, The Hill Senior Technology Reporter Miranda Nazzaro says that the reinstatement of Jensen Huang at Nvidia represents \"the culmination of a two-year push of tech executives to get"
+      "publishedAt": "2026-11-25T14:50:48.000Z",
+      "description": "As the war in Ukraine has highlighted the importance of civilian preparedness, Moldova has launched its own emergency readiness programme. Medicine, batteries and three days' worth of food are among the essentials citize"
+    },
+    {
+      "id": "vqNhEb-Nh9g",
+      "title": "Hostages rescued after 17-hour siege in Colombia",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-25T11:15:54.000Z",
+      "description": "A 17-hour hostage siege in Colombia's city of Cartagena has ended after security forces stormed a supermarket overnight. Authorities say all hostages were rescued and one hostage-taker was killed. #dwnews"
+    },
+    {
+      "id": "kgRgognLLJw",
+      "title": "Badenoch attacks PM over 'disgusting and pejorative' language used by influencer outside No 10",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-25T13:16:31.000Z",
+      "description": "Kemi Badenoch challenges Andy Burnham over EU student tuition fees, questioning who would pay if fees are reduced and accusing him of offering \"vibes\" rather than detail."
+    },
+    {
+      "id": "49b8u_Gah7s",
+      "title": "Why did China send a Pakistani astronaut into space?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-25T08:49:30.000Z",
+      "description": "China has launched its Shenzhou-24 space mission, carrying three astronauts to its Tiangong space station, including Pakistan's Muhammad Zeeshan Ali, the first foreigner to join a Chinese crewed space mission."
     },
     {
       "id": "bUhDEP7xoUA",
@@ -66,12 +178,12 @@
       "description": "Ukrainian President Volodymyr Zelenskyy and Hungarian Prime Minister Peter Magyar engaged in a spot of volleyball on Tuesday during the latter's visit to Ukraine. In Zakarpattia, the two leaders also met the medical staf"
     },
     {
-      "id": "WzGhdcvD2KA",
-      "title": "Protests over wages and spending cuts turn violent in Venezuela and Chile",
+      "id": "XytLTMuFVrw",
+      "title": "Scotland braces for higher energy bills this winter",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-25T04:24:02.000Z",
-      "description": "Riot police clash with protesters in Venezuela and Chile as demonstrations over wages and planned cuts to education and public services turn violent, with unions warning livelihoods and community needs are at risk. "
+      "publishedAt": "2026-11-25T14:08:20.000Z",
+      "description": "Energy bills for a typical household in Great Britain are set to rise by more than 25% in January as the energy price cap goes up. "
     },
     {
       "id": "3E7-nu75SHA",
@@ -80,118 +192,6 @@
       "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
       "publishedAt": "2026-11-25T01:31:45.000Z",
       "description": "Estonia's Foreign Minister Margus Tsahkna dismissed what he called ‘Russian propaganda’ after Russia's Foreign Ministry accused the NATO and European Union member state of a range of hostile actions ‘on the verge of trig"
-    },
-    {
-      "id": "MhCMsmjiGMw",
-      "title": "Poll suggests only a minority of Germans want to keep supporting Ukraine’s defense",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-24T20:23:03.000Z",
-      "description": "A new poll has revealed some changing attitudes here in Germany about people's support for Ukraine. The annual Berlin Pulse Report shows only 46 percent of Germans now support more military aid for Ukraine. That's a big "
-    },
-    {
-      "id": "UEvzoHpUuaM",
-      "title": "Woman jumps into stranger's car after being chased by flock of turkeys.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-25T00:45:09.000Z",
-      "description": ""
-    },
-    {
-      "id": "rdFXIS3EcjM",
-      "title": "TikTok star 'Tube Girl' speaks out after rare brain disorder diagnosis",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-24T23:00:15.000Z",
-      "description": "Three years after becoming an internet sensation as 'Tube Girl', Sabrinah Bahsoon reveals how a rare autoimmune brain disorder turned her life upside down. "
-    },
-    {
-      "id": "ZJ_xigE-m_8",
-      "title": "'Quid pro quo’: Nvidia too big to fail or ‘too close to personal interest of people around Trump’?",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-24T21:43:06.000Z",
-      "description": "Angela Diffley is pleased to welcome Bernard Benhamou, Secretary General of the Institute of Digital Sovereignty and Senior Lecturer in Internet Governance at Paris 1 Panthéon-Sorbonne University. What does Jensen Huang'"
-    },
-    {
-      "id": "9ItDbnzECis",
-      "title": "Jensen Huang is back, but Nvidia still has to deal with his baggage",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-25T03:00:10.000Z",
-      "description": "Jensen Huang has returned. The next few weeks could determine whether Nvidia’s decision to reinstate him as CEO was the prudent one that cheering employees, shareholders and President Donald Trump made it out to be — or "
-    },
-    {
-      "id": "-P58j8Q84hA",
-      "title": "Israeli strike kills four people in Gaza",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-25T04:11:30.000Z",
-      "description": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people and wounded several others. "
-    },
-    {
-      "id": "MmgelvwaiaU",
-      "title": "Trump pardons Thanksgiving turkeys 'Freedom' and 'Feathers'",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-24T21:45:32.000Z",
-      "description": "🦃 President Trump pardoned two giant white-plumed turkeys named Freedom and Feathers, sparing them from Thanksgiving dinner tables and adding to more than 1,700 pardons he has granted this term."
-    },
-    {
-      "id": "a4nSOs0iyCU",
-      "title": "Can a political reinvention keep Pedro Sanchez in power?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-24T19:15:25.000Z",
-      "description": "Spain's snap election campaign has become a battle for the political survival of Prime Minister Pedro Sanchez. Facing corruption allegations surrounding people close to him, a housing crisis and growing public frustratio"
-    },
-    {
-      "id": "XgFrNPVzItU",
-      "title": "Meta's Muse AI promises to change your life",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-24T23:45:08.000Z",
-      "description": "It can pay your bills, plan your holidays and order your groceries - if you give access to the deepest corners of your life. "
-    },
-    {
-      "id": "j1rBUjc_O5g",
-      "title": "US markets open for day two after Nvidia CEO return",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-24T22:32:41.000Z",
-      "description": "Live coverage from the New York Stock Exchange (NYSE) opening bell as Wall Street continues to react to Jensen Huang's sudden reinstatement as CEO of Nvidia (NVDA)."
-    },
-    {
-      "id": "kQzlTp5JQk0",
-      "title": "Senegal reinstated as AFCON 2025 winners • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-24T21:15:41.000Z",
-      "description": "In tonight's edition, Senegal were reinstated as 2025 Africa Cup of Nations winners after the sport's highest court upheld their appeal against being stripped of the title."
-    },
-    {
-      "id": "v9B_hB6s9yk",
-      "title": "Bob Woodward on a lifetime of reporting: “This is a great job”",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-24T20:37:42.000Z",
-      "description": "Bob Woodward is reflecting on his decades-long career in his new memoir, “Secrets: A Reporter’s Memoir.” The 83-year-old journalist, who helped Carl Bernstein uncover the Watergate scandal, says he still knocks on doors "
-    },
-    {
-      "id": "KhZHHpDtwZ0",
-      "title": "Galatasaray says Israel complained to UEFA over Palestine banners",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-25T04:11:07.000Z",
-      "description": "Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners. The Turkish footballing giants could face penalties, but so far, it does not appear that UEFA have t"
-    },
-    {
-      "id": "AJuGAzA3ong",
-      "title": "Anthropic falls below $83 IPO price in swift reversal after record listing",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-24T20:27:54.000Z",
-      "description": "Anthropic's shares dropped below their $83 initial public offering price and were on course to erase close to $200 billion in market value, a striking reversal just days after the Claude developer's record-breaking Nasda"
     }
   ]
 }
