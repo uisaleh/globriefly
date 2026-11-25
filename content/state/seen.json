@@ -1,24 +1,5 @@
 {
   "urls": {
-    "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html": 1794953762156,
-    "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1794953762156,
-    "https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status": 1794953788881,
-    "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss": 1794953788881,
-    "https://www.channelnewsasia.com/world/us-loses-measles-free-states-mexico-bolivia-6560296": 1794953788881,
-    "https://www.rollingstone.com/politics/politics-features/robert-f-kennedy-jr-us-loses-measles-elimination-status-1235659756/": 1794953788881,
-    "https://www.theguardian.com/us-news/video/2026/nov/17/us-loses-measles-elimination-status-major-setback-for-us-public-health-video": 1794953788881,
-    "https://timesofindia.indiatimes.com/world/us/us-loses-measles-elimination-status-amid-worst-outbreak-since-1991/articleshow/135935577.cms": 1794953788881,
-    "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status": 1794953788881,
-    "https://www.scientificamerican.com/article/u-s-officially-loses-measles-elimination-status-in-a-body-blow-to-public-health/": 1794953788881,
-    "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss": 1794953788881,
-    "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html": 1794975245519,
-    "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/": 1794975245519,
-    "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html": 1794975279837,
-    "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html": 1794975279837,
-    "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss": 1794975279837,
-    "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan": 1794975279837,
-    "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race": 1794975279837,
-    "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/": 1794975279837,
     "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html": 1795010032717,
     "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai": 1795010032717,
     "https://www.france24.com/en/video/20261118-democrat-mary-peltola-wins-us-senate-race-in-alaska": 1795010032717,
@@ -239,13 +220,16 @@
     "https://www.wired.com/story/gifts-for-friends/": 1795554524962,
     "https://www.bbc.co.uk/news/videos/cqvg2d2gkldpo?at_medium=RSS&at_campaign=rss": 1795554524962,
     "https://www.wired.com/story/wish-list-2026/": 1795554524962,
-    "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html": 1795554524962
+    "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html": 1795554524962,
+    "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html": 1795582399366,
+    "https://www.thehindu.com/news/international/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports/article71740185.ece": 1795582399366,
+    "https://www.channelnewsasia.com/world/australia-solomon-islands-pact-china-6580656": 1795582405755,
+    "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html": 1795582405755,
+    "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/australia-solomon-islands-pact-china/": 1795582405755,
+    "https://www.thehindu.com/news/international/solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/article71741038.ece": 1795582405755,
+    "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence": 1795582405755
   },
   "fps": {
-    "between-deep-enmity-europe-run-russia-talks-ukraine": 1794953762156,
-    "elimination-loses-measles-officially-status": 1794953788881,
-    "ahead-behind-competition-falling-industry-losing-meeting-putin": 1794975245519,
-    "alaska-democrat-election-mary-peltola-senate-wins": 1794975279837,
     "alaska-how-mary-peltola-race-senate-triumphed": 1795010032717,
     "blowing-day-earth-light-mind-one-voyager-years": 1795010118382,
     "democrats-hakeem-house-jeffries-nominate-speaker": 1795038809348,
@@ -281,6 +265,8 @@
     "candy-factory-fire-indonesia-killed-rips-through": 1795481241081,
     "affiliated-allegedly-employee-government-meetings-openai-recorded-saudi": 1795517511787,
     "bangladesh-dec-exile-hasina-home-leader-ousted-plans": 1795517540358,
-    "life-tech": 1795554524962
+    "life-tech": 1795554524962,
+    "agencies-breach-information-some-spy-suffer-unclassified": 1795582399366,
+    "australia-china-islands-pact-sign-solomon-stymieing-sweeping": 1795582405755
   }
 }
