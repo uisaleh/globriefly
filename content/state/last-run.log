@@ -1,62 +1,25 @@
-09:27:28 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-09:27:28 collecting videos…
-09:27:28   video feed BBC News: 15 in feed, 5 kept
-09:27:28   video feed Al Jazeera English: 15 in feed, 5 kept
-09:27:28   video feed DW News: 15 in feed, 5 kept
-09:27:28   video feed FRANCE 24 English: 15 in feed, 5 kept
-09:27:28   video feed Sky News: 15 in feed, 5 kept
-09:27:28   video feed Reuters: 15 in feed, 5 kept
-09:27:28   video feed Associated Press: 15 in feed, 5 kept
-09:27:28 videos: saved 24
-09:27:28 collecting feeds…
-09:27:31 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-09:27:31 663 new items
-09:27:31 506 candidate stories
-09:27:31 categories needing stories: world, business, technology, science, health, sports, politics → reserved world
-09:27:31 writing: Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 31 people (7 sources)
-09:27:32   source text: 1857 / 703 / 2837 / 2406 chars
-09:27:32 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-09:27:39 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-09:27:47 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-09:27:54 gemini gemini-3.6-flash failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-09:28:00   skipped
-09:28:00 writing: Australian Open chief officially confirms Jannik Sinner will miss 2027 event after speaking to his team (3 sources)
-09:28:00   source text: 474 / 1876 / 2772 chars
-09:28:06 gemini gemini-3.5-flash-lite failed (503): {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-    "status": "UNAVAILABLE"
-  }
-}
-
-09:28:20   ✓ published: /news/jannik-sinner-misses-australian-open-after-undergoing-knee-surgery/ [sports] image: wikimedia via idea "Jannik Sinner tennis"
-09:28:20 done — 1 stories
+19:34:29 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+19:34:29 collecting videos…
+19:34:29   video feed BBC News: 15 in feed, 5 kept
+19:34:29   video feed Al Jazeera English: 15 in feed, 5 kept
+19:34:29   video feed DW News: 15 in feed, 5 kept
+19:34:29   video feed FRANCE 24 English: 15 in feed, 5 kept
+19:34:29   video feed Sky News: 15 in feed, 5 kept
+19:34:29   video feed Reuters: 15 in feed, 5 kept
+19:34:29   video feed Associated Press: 15 in feed, 5 kept
+19:34:29 videos: saved 24
+19:34:29 collecting feeds…
+19:34:32 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+19:34:32 793 new items
+19:34:34 620 candidate stories
+19:34:34 categories needing stories: world, business, technology, science, health, politics, sports → reserved world
+19:34:34 writing: Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say (6 sources)
+19:34:34   source text: 7000 / 2544 / 2207 chars
+19:34:54 image source error: The operation was aborted due to timeout
+19:35:25 image source error: The operation was aborted due to timeout
+19:36:03   ✓ published: /news/two-italian-technicians-killed-in-drone-strike-on-kuwaiti-facility/ [world] image: openverse via subject "military installation"
+19:36:03 writing: ‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch (3 sources)
+19:36:04   source text: 7000 / 4215 / 4762 chars
+19:36:09 writer returned unusable output: { "headline": "Hunger Games prequel dominates Thanksgiving box office as new releases debut", "standfirst": "Lionsgate’s Hunger Games prequel leads the holi
+19:36:09   skipped
+19:36:09 done — 1 stories
