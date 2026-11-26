@@ -99,6 +99,9 @@
   "publishedAt": "2026-11-26T00:15:19.243Z",
   "updatedAt": "2026-11-26T00:15:19.243Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175428966681745",
+    "sharedAt": "2026-11-26T00:18:59.997Z"
+  },
   "ogImage": "/og/us-army-completes-controlled-destruction-of-volatile-munitions-in-iowa.jpg"
 }
