@@ -103,6 +103,9 @@
   "publishedAt": "2026-11-26T09:28:18.508Z",
   "updatedAt": "2026-11-26T09:28:18.508Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175472376681745",
+    "sharedAt": "2026-11-26T09:31:30.099Z"
+  },
   "ogImage": "/og/jannik-sinner-misses-australian-open-after-undergoing-knee-surgery.jpg"
 }
