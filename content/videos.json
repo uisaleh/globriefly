@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-11-26T00:15:06.397Z",
+  "updatedAt": "2026-11-26T09:27:28.520Z",
   "videos": [
+    {
+      "id": "XD3UnJxWbgw",
+      "title": "French far-right leader Jordan Bardella's \"anti-Semitic torrent\" revealed by Mediapart and Le Monde",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-26T09:00:41.000Z",
+      "description": "PRESS REVIEW - Thursday, November 26: Mediapart and Le Monde publish an additional trove of messages revealing Jordan Bardella's rampant anti-Semitic thoughts as a young member of the party in 2013. Also: France holds th"
+    },
+    {
+      "id": "zhrtwrnVUv4",
+      "title": "🎥 'Cliff Booth' cast say it was pressuring but fun",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-26T09:00:08.000Z",
+      "description": "Brad Pitt reunites with Quentin Tarantino and David Fincher to bring another eventful episode of stuntman Cliff Booth's life to the screen in the spin-off movie \"The Further Mis-Adventures of Cliff Booth.\" Pitt won an Os"
+    },
+    {
+      "id": "a7_cq7x2m_Q",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-26T08:46:53.000Z",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+    },
+    {
+      "id": "FDvdCudclsM",
+      "title": "Breaking News: Explosion and fire reported at Bangkok oil refinery, residents warned to evacuate",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-26T08:45:41.000Z",
+      "description": "Authorities in Thailand's capital, Bangkok, say an explosion has occurred at the Bangchak oil refinery, with a large fire sending plumes of black smoke into the air."
+    },
+    {
+      "id": "zvws49oisek",
+      "title": "Army blows up bomb chemicals in Iowa despite fears of a toxic plume",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-26T08:37:50.000Z",
+      "description": "The U.S. Army carried out a controlled detonation of its entire 5-ton stockpile of degraded lead azide at the Iowa Army Ammunition Plant in southeastern Iowa on Wednesday. Residents within 5 miles (8 kilometers) were urg"
+    },
+    {
+      "id": "OiQfeQ6T74k",
+      "title": "The Cathy Newman Show",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-26T08:22:33.000Z",
+      "description": "Watch The Cathy Newman Show from 7pm for politics, investigations, interviews and exclusives – on Sky News TV, YouTube and the Sky News app."
+    },
+    {
+      "id": "xqSeK3D2J9o",
+      "title": "Merz defends record jump in German defense spending",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-26T07:49:49.000Z",
+      "description": "Merz defends Germany’s record €560.9 billion budget against criticism of too much debt and too little reform. Merz insists the jump in defense spending is necessary to deter Russia."
+    },
+    {
+      "id": "vYaePVQu29E",
+      "title": "'We are not fighting culture, we fight to end FGM: It's a human rights violation of women and girls'",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-26T08:39:25.000Z",
+      "description": "“We fight to end FGM because it is a human rights violation of women and girls. We are not fighting culture.” Caroline Lagat, Legal Advisor at Equality Now’s Africa office in Nairobi, discusses the challenges of ending f"
+    },
+    {
+      "id": "fzzA5sqKIaw",
+      "title": "Musk promises SpaceX shares to every US child",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-26T08:59:08.000Z",
+      "description": "Elon Musk, the world's richest man, said that every child in the US will receive two shares in SpaceX, the space and AI company he runs, pledging a gift worth more than $18 billion. https://reut.rs/4j1WfsL"
+    },
+    {
+      "id": "i6jmroFromM",
+      "title": "The US pastor who wants to see women's right to vote overturned.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-26T02:15:03.000Z",
+      "description": ""
+    },
+    {
+      "id": "doPm4neXW10",
+      "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-26T08:27:52.000Z",
+      "description": "‘Everybody in the world should criticise a government that has killed 20,000 kids’. US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide."
+    },
+    {
+      "id": "1LvuxKgfwTM",
+      "title": "Mexico steps up its cartel crackdown, but criminal groups retain their power",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-26T07:45:21.000Z",
+      "description": "Mexico is intensifying its crackdown on drug cartels, but the capture of leading figures has yet to break the criminal groups' power. (AP/ Martin Silva Rey) \r"
+    },
+    {
+      "id": "S7pjx7J_PEU",
+      "title": "The UK Tonight with Sarah-Jane Mee",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-26T08:19:52.000Z",
+      "description": "The UK Tonight will dig into the issues people across the country are talking about and explain and analyse the news stories they need to know in a dynamic hour of domestic news."
+    },
+    {
+      "id": "vYX_MnWSNoE",
+      "title": "Taiwan comedian stands up despite Beijing attack",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-26T04:49:24.000Z",
+      "description": "He called Xi Jinping an idiot on stage. Then, someone in China allegedly paid to have his arms and legs broken. DW’s Rik Glauert talks to the Taiwanese comedian who refuses to stop joking."
+    },
+    {
+      "id": "tJ9IJ6WKu38",
+      "title": "Injury-hit PSG drop first points of Champions League campaign against Roma • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-26T08:34:39.000Z",
+      "description": "After kicking off their Champions League title defence with four consecutive wins, Luis Enrique's men were held to a draw at home by the Italian side Roma. Real Madrid are now two points clear at the top of the standings"
+    },
+    {
+      "id": "PxE_PQogusU",
+      "title": "Hong Kong marks one year since deadly tower fire",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-26T08:30:09.000Z",
+      "description": "Mourners laid flowers and bowed in prayer near the burned-out towers of Wang Fuk Court, one year after one of Hong Kong's deadliest fires killed 168 people and left thousands without homes. https://reut.rs/48CnfZR"
+    },
     {
       "id": "J2SiPlDxiLs",
       "title": "Macy's postpones Thanksgiving parade in New York due to weather",
@@ -10,36 +138,12 @@
       "description": "Macy's has postponed its 100th annual Thanksgiving Day Parade in New York to Saturday because of severe weather."
     },
     {
-      "id": "RoYi_Ws2Q3c",
-      "title": "Haftar meets Erdogan in landmark visit as Turkiye deepens Libya ties",
+      "id": "Zl7vwZieja4",
+      "title": "Iraq's Kurds protest Baghdad's move to take control of oil and border crossings",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-25T23:22:15.000Z",
-      "description": "Libyan commander Khalifa Haftar holds his first talks in Ankara with Turkish President Erdogan, signalling a reset in relations as both sides discuss security, energy and reconstruction while seeking to break Libya’s pol"
-    },
-    {
-      "id": "f6TrK1llMQA",
-      "title": "US army destroys toxic chemicals in controlled blasts",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-25T23:13:39.000Z",
-      "description": "The US army detonated five tons of degraded explosive material in Iowa after experts warned it could explode on its own. Officials say the operation was a success, but environmental testing is underway amid concerns abou"
-    },
-    {
-      "id": "_weeBZ0KBxY",
-      "title": "'King tides' pound California coast amid flood warnings",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-25T23:13:17.000Z",
-      "description": "Large waves crashed against shoreline homes in California and so-called 'king tides' and building surf prompted a coastal flood warning for Orange County."
-    },
-    {
-      "id": "hlyZ8Mz5GAo",
-      "title": "More than 10,000 jobs at risk after Poundland enters administration",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-25T23:01:27.000Z",
-      "description": "The Wrap with Gillian Joseph will focus on debating, analysing and making sense of the day's news, not just reporting it."
+      "publishedAt": "2026-11-26T08:23:18.000Z",
+      "description": "Protests in Erbil as Iraq's Kurdish region rejects Baghdad's move to take control of oil infrastructure and border crossings."
     },
     {
       "id": "9IVoxGcG2D4",
@@ -50,6 +154,22 @@
       "description": "Coastal properties in the San Francisco area were battered by a king tide, amplified by the ongoing super El Niño, on Wednesday, flooding streets and sending seawater into homes. King tides are the highest tides of the y"
     },
     {
+      "id": "Y1HTf5gRiZQ",
+      "title": "The World with Yalda Hakim",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-26T08:17:01.000Z",
+      "description": "Watch The World with Yalda Hakim as she scrutinises the latest international news headlines and hears from the big names shaping the global outlook."
+    },
+    {
+      "id": "T6U1-03RYQs",
+      "title": "New footage shows how humanity altered the course of an asteroid",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-26T03:52:01.000Z",
+      "description": "In 2022, NASA crashed a spacecraft into an asteroid to test whether humans can change the trajectory of an object headed toward Earth. Now, new images of the impact site show the extent of its effects. But the achievemen"
+    },
+    {
       "id": "mihEgM8sty8",
       "title": "Le Pen party leaks: prefect dismissed, Paris deputy prosecutor placed under investigation",
       "channel": "FRANCE 24 English",
@@ -58,140 +178,20 @@
       "description": "Two senior figures in France have been caught up in an investigation into suspected leaks to the far-right party of Marine Le Pen, the National Rally. The prefect of the Loiret, Hugues Moutouh, a former top official at t"
     },
     {
+      "id": "_weeBZ0KBxY",
+      "title": "'King tides' pound California coast amid flood warnings",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-25T23:13:17.000Z",
+      "description": "Large waves crashed against shoreline homes in California and so-called 'king tides' and building surf prompted a coastal flood warning for Orange County."
+    },
+    {
       "id": "AXMxLrMQ5iU",
       "title": "Is this the future of US power? Bukele's Haiti experiment?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
       "publishedAt": "2026-11-25T23:15:21.000Z",
       "description": "El Salvador’s President Nayib Bukele has embarked on a military operation in Haiti, deploying troops on the ground, armed robot dogs and posting flashy videos on social media of air strikes, in an effort to help Haiti ta"
-    },
-    {
-      "id": "FEGRk8l7jbU",
-      "title": "Deadly truck fire is latest of Egypt’s transport disasters",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-25T22:47:47.000Z",
-      "description": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road, just miles from the Great Pyramids of Giza. The disaster follows a deadly train collision in Giza, highlighting wider"
-    },
-    {
-      "id": "AnwXNls2pAU",
-      "title": "Lawmakers try to block meeting of ex-Mossad boss in Berlin",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-25T20:30:39.000Z",
-      "description": "\"Why are you not arresting him?\" Lawmakers confronted a former Mossad chief during a visit to Berlin. A human rights group filed a criminal complaint accusing the ex-spy boss, David Barnea, of committing a war crime."
-    },
-    {
-      "id": "bGwVFd2SvY4",
-      "title": "America’s spending paradox",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-25T15:00:08.000Z",
-      "description": "Consumers are gloomy about the economy, but they keep spending. Joanne Hsu, director of the University of Michigan’s Surveys of Consumers, joins host Carmel Crimmins to explain the disconnect between how the economy look"
-    },
-    {
-      "id": "afhKCVpN5G0",
-      "title": "Ofcom needs to 'shape up', Nandy says",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-25T22:14:42.000Z",
-      "description": "Culture secretary Lisa Nandy has told Sky's Cathy Newman that the \"jury's out\" on whether Ofcom can regulate both broadcast and the online world, adding it was being asked to do an \"awful lot\"."
-    },
-    {
-      "id": "8J8seB0ZSXc",
-      "title": "Why did the US army need to detonate 5 tons of lead azide?",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-25T22:36:22.000Z",
-      "description": "The U.S. Army detonated the nation’s entire stockpile of lead azide — a chemical used in explosives — in Iowa after it became too dangerous to move. Officials said early signs showed no toxic dust had spread to nearby ho"
-    },
-    {
-      "id": "dfjOVpbu_5w",
-      "title": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-25T22:26:39.000Z",
-      "description": "Israel's new parliament on Wednesday took a first step to set up a state commission of inquiry into the security failures that led to Hamas's unprecedented October 7, 2023 attack, a move long opposed by caretaker Prime M"
-    },
-    {
-      "id": "07W4hiTBEaU",
-      "title": "US Army says controlled blast of explosives in Iowa was “huge success”.",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-25T22:30:31.000Z",
-      "description": ""
-    },
-    {
-      "id": "gsZd4zPSbvc",
-      "title": "ISIL blamed for deadly attack on security post in northeastern Syria",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-25T22:15:52.000Z",
-      "description": "At least two members of Syria's internal security forces have been killed and five people injured in an attack on a security post in the northeastern city of Hasakah. Authorities have attributed the attack to ISIL (ISIS)"
-    },
-    {
-      "id": "EFKUsrj16cE",
-      "title": "Were the Ukrainian strikes off Libya's coast illegal?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-25T19:49:36.000Z",
-      "description": "Ukraine's military has hit a Russian naval and cargo ship in Libyan waters. Did these drone strikes breach international law? "
-    },
-    {
-      "id": "gvJL2qwNeSo",
-      "title": "Bangladeshi garment workers protest minimum wage",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-25T14:49:50.000Z",
-      "description": "Bangladesh approved a minimum wage hike of 36% for garment workers, the smallest in four decades, despite weeks of protests and calls for the sum to be doubled, prompting fresh clashes between police and workers on the o"
-    },
-    {
-      "id": "5sN37a23c9Q",
-      "title": "Donald Trump to hike import tariffs on 14 trading partners",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-25T22:01:04.000Z",
-      "description": "Watch The World with Yalda Hakim as she scrutinises the latest international news headlines and hears from the big names shaping the global outlook."
-    },
-    {
-      "id": "yWiC6AOBqdA",
-      "title": "Jets LB Demario Davis on why Aaron Glenn is the right man to lead them into the future",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-25T22:15:08.000Z",
-      "description": "New York Jets linebacker Demario Davis talks about his third stint with the team, explains why coach Aaron Glenn is the right man to lead them into the future, and shares about his philanthropic work. Also, host Rob Maad"
-    },
-    {
-      "id": "bMISeS6tHxw",
-      "title": "New US tariffs: 'Trump lashing out really indiscriminately', expert says • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-25T22:11:55.000Z",
-      "description": "The United States on Wednesday unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production. Speaking with FRANCE 24's Sharon Gaffney, Dean Ba"
-    },
-    {
-      "id": "CasKUp5nt4E",
-      "title": "Gordon Ramsay announced as new Top Gear host",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-25T22:15:31.000Z",
-      "description": "TV chef Gordon Ramsay will lead the new presenting line-up on BBC's Top Gear, which is being revived four years after it was last on air."
-    },
-    {
-      "id": "Z78kwufLXME",
-      "title": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-25T15:05:52.000Z",
-      "description": "A Jewish activist has confronted former Mossad chief David Barnea in Germany's parliament, accusing him of responsibility for the 2024 Lebanon pager attacks. Barnea was attending a closed-door parliamentary breakfast wit"
-    },
-    {
-      "id": "2ZZkNW0PcYw",
-      "title": "Ukraine targets jets that can fire hypersonic missiles",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-25T19:31:00.000Z",
-      "description": "Ukraine’s general staff has claimed an attack on Russia’s Savasleika airfield, 500 kilometers east of Moscow. A statement said three MiG-31 fighters, capable of carrying hypersonic Kinzhal missiles, along with two MiG-34"
     }
   ]
 }

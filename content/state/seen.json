@@ -1,17 +1,5 @@
 {
   "urls": {
-    "https://www.theguardian.com/news/audio/2026/nov/19/brejoin-is-andy-burnham-going-to-reverse-brexit-podcast": 1795058288426,
-    "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html": 1795058288426,
-    "https://www.bbc.co.uk/sounds/play/p0pnnkrh?at_medium=RSS&at_campaign=rss": 1795058288426,
-    "https://www.japantimes.co.jp/news/2026/11/19/world/israel-ground-operation-gaza/": 1795058295865,
-    "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss": 1795058295865,
-    "https://news.sky.com/story/israeli-troops-launch-ground-operation-in-central-gaza-13613724": 1795058295865,
-    "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza": 1795058295865,
-    "https://www.channelnewsasia.com/world/israel-army-launches-ground-operation-in-hamas-controlled-area-gaza-6563626": 1795058295865,
-    "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf": 1795058295865,
-    "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza": 1795058295865,
-    "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line": 1795058295865,
-    "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire": 1795058295865,
     "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories": 1795092921101,
     "https://www.france24.com/en/tv-shows/business/20261119-ai-lab-anthropic-sets-stock-market-record-with-81-billion-ipo": 1795092921101,
     "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide": 1795092973534,
@@ -218,11 +206,19 @@
     "https://deadline.com/2026/11/andy-taylor-dead-duran-duran-guitarist-1237233646/": 1795652136860,
     "https://news.sky.com/story/duran-duran-guitarist-andy-taylor-has-died-aged-65-13616421": 1795652136860,
     "https://www.rollingstone.com/music/music-news/duran-duran-guitarist-andy-taylor-dead-obituary-1234634531/": 1795652136860,
-    "https://variety.com/2026/music/news/andy-taylor-dead-duran-duran-guitarist-1236958437/": 1795652136860
+    "https://variety.com/2026/music/news/andy-taylor-dead-duran-duran-guitarist-1236958437/": 1795652136860,
+    "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece": 1795685280113,
+    "https://www.euronews.com/2026/11/26/moment-fuel-truck-fire-engulfs-traffic-on-cairo-highway": 1795685280113,
+    "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway": 1795685280113,
+    "https://www.cbsnews.com/news/egypt-fuel-tanker-crash-cairo-highway-fire/": 1795685280113,
+    "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway": 1795685280113,
+    "https://abcnews.com/International/wireStory/fire-major-highway-surrounding-cairo-kills-30-people-138450467": 1795685280113,
+    "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss": 1795685280113,
+    "https://sports.yahoo.com/tennis/articles/australian-open-chief-officially-confirms-090000510.html": 1795685298156,
+    "https://www.bbc.co.uk/sport/tennis/articles/c6x29q88r9v5o?at_medium=RSS&at_campaign=rss": 1795685298156,
+    "https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss": 1795685298156
   },
   "fps": {
-    "andy-brejoin-brexit-burnham-going-podcast-reverse": 1795058288426,
-    "central-dozens-flee-gaza-ground-israel-launches-operation": 1795058295865,
     "anthropic-can-couldn-earnings-ipo-market-nvidia-stock": 1795092921101,
     "committed-court-genocide-live-myanmar-rohingya-rules-updates": 1795092973535,
     "abundant-can-crops-global-hydrogen-improving-production-support": 1795123621404,
@@ -258,6 +254,8 @@
     "abrego-arrives-deporting-garcia-kilmar-self-spain": 1795620697550,
     "business-china-including-japan-live-partners-proposes-tariffs": 1795620724968,
     "army-calls-delays-detonation-iowa-live-macy-parade": 1795652118073,
-    "andy-dies-duran-guitarist-live-taylor-wire": 1795652136860
+    "andy-dies-duran-guitarist-live-taylor-wire": 1795652136860,
+    "cairo-crash-fire-fuel-highway-ignites-killing-least": 1795685280113,
+    "2027-australian-chief-confirms-event-jannik-miss-officially": 1795685298156
   }
 }
