@@ -1,14 +1,5 @@
 {
   "urls": {
-    "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss": 1795205053729,
-    "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html": 1795205053729,
-    "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html": 1795205053729,
-    "https://thehill.com/homenews/administration/6233765-trump-threatens-data-center-tax-overseas/": 1795205053729,
-    "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss": 1795205079690,
-    "https://timesofindia.indiatimes.com/world/us/our-nation-has-a-mass-incarceration-problem-mamdani-sets-2032-deadline-to-close-notorious-rikers-island-jail/articleshow/136035337.cms": 1795205079690,
-    "https://www.scmp.com/news/world/united-states-canada/article/3375293/mamdani-unveils-plan-close-new-yorks-notorious-rikers-island-jail": 1795205079690,
-    "https://www.euronews.com/2026/11/20/nyc-mayor-unveils-plan-to-close-notorious-rikers-island-jail-by-2032": 1795205079690,
-    "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model": 1795205079690,
     "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html": 1795224474816,
     "https://www.scientificamerican.com/article/dueling-claims-of-riemann-hypothesis-proofs-emerge/": 1795224474816,
     "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html": 1795224474816,
@@ -207,11 +198,21 @@
     "https://www.wired.com/story/early-black-friday-tv-deals-11-27-2026/": 1795781062486,
     "https://www.wired.com/story/best-black-friday-tech-deals-11-27-26/": 1795781062486,
     "https://www.wired.com/story/best-black-friday-phone-deals-11-27-26/": 1795781062486,
-    "https://www.wired.com/story/best-black-friday-deals-under-100-11-27-2026/": 1795781062486
+    "https://www.wired.com/story/best-black-friday-deals-under-100-11-27-2026/": 1795781062486,
+    "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf": 1795813817134,
+    "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants": 1795813817134,
+    "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html": 1795813817134,
+    "https://timesofindia.indiatimes.com/world/rest-of-world/canadas-supreme-court-largely-upholds-quebecs-2019-law-banning-certain-public-workers-from-wearing-religious-symbols-at-work-including-sikh-turbans-muslim-hijabs-and-christian-crosses/articleshow/136232101.cms": 1795813817134,
+    "https://abcnews.com/International/wireStory/canadas-supreme-court-largely-upholds-quebec-ban-religious-138482310": 1795813817134,
+    "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss": 1795813817134,
+    "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols": 1795813817134,
+    "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss": 1795813817134,
+    "https://sports.yahoo.com/mens-college-basketball/articles/mid-atlantic-sportswatch-daily-listings-210017566.html": 1795813822979,
+    "https://sports.yahoo.com/mens-college-basketball/articles/michigan-sportswatch-daily-listings-205958533.html": 1795813822979,
+    "https://sports.yahoo.com/college-sports/articles/gulf-states-sportswatch-daily-listings-205930635.html": 1795813822979,
+    "https://www.bbc.co.uk/sounds/play/p0pqb0nm?at_medium=RSS&at_campaign=rss": 1795813822979
   },
   "fps": {
-    "ban-building-centres-data-firms-overseas-threatens-trump": 1795205053729,
-    "2032-close-island-jail-mamdani-plan-rikers-unveils": 1795205079690,
     "anthropic-claims-claude-help-hypothesis-mathematician-riemann-solve": 1795224474816,
     "indian-jailed-man-murder-plot-separatist-sikh": 1795224490363,
     "doom-hands-humanity-make-obsolete-quest-render-robotic": 1795254065427,
@@ -244,6 +245,8 @@
     "85m-devouring-focker-games-hexed-hunger-launch-law": 1795721769303,
     "conversations-how-navigate-sayed-shares-spicier-thanksgiving": 1795747686634,
     "before-claims-data-demands-error-fake-gdp-midterms": 1795747697524,
-    "absolute-best-black-deals-far-found-friday": 1795781062486
+    "absolute-best-black-deals-far-found-friday": 1795781062486,
+    "bill-canada-court-largely-quebec-secularism-supreme-upholds": 1795813817134,
+    "atlantic-daily-listings-mid-sportswatch": 1795813822979
   }
 }
