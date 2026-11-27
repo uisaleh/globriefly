@@ -100,6 +100,9 @@
   "publishedAt": "2026-11-27T21:10:23.716Z",
   "updatedAt": "2026-11-27T21:10:23.716Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175587402681745",
+    "sharedAt": "2026-11-27T21:13:36.613Z"
+  },
   "ogImage": "/og/sports-fans-face-busy-holiday-schedule-across-football-and-basketball.jpg"
 }
