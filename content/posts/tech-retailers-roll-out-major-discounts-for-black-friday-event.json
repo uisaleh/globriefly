@@ -103,6 +103,9 @@
   "publishedAt": "2026-11-27T12:04:23.720Z",
   "updatedAt": "2026-11-27T12:04:23.720Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175554618681745",
+    "sharedAt": "2026-11-27T12:07:37.816Z"
+  },
   "ogImage": "/og/tech-retailers-roll-out-major-discounts-for-black-friday-event.jpg"
 }
