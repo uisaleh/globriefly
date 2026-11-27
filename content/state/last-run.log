@@ -1,24 +1,22 @@
-02:47:57 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-02:47:57 collecting videos…
-02:47:57   video feed BBC News: 15 in feed, 5 kept
-02:47:57   video feed Al Jazeera English: 15 in feed, 5 kept
-02:47:57   video feed DW News: 15 in feed, 5 kept
-02:47:57   video feed FRANCE 24 English: 15 in feed, 5 kept
-02:47:57   video feed Sky News: 15 in feed, 5 kept
-02:47:57   video feed Reuters: 15 in feed, 5 kept
-02:47:57   video feed Associated Press: 15 in feed, 5 kept
-02:47:57 videos: saved 24
-02:47:57 collecting feeds…
-02:48:00 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-02:48:00 610 new items
-02:48:01 486 candidate stories
-02:48:01 categories needing stories: politics, business, technology, science, health, entertainment, world, sports → reserved politics
-02:48:01 writing: El-Sayed shares how to navigate 'spicier' Thanksgiving conversations (2 sources)
-02:48:01   source text: 0 / 0 chars
-02:48:12   ✓ published: /news/politician-offers-advice-on-handling-tense-family-holiday-debates/ [politics] image: wikimedia via name "Abdul El-Sayed"
-02:48:12 writing: 'Record-setting error': Trump claims fake GDP data before midterms, demands probe (5 sources)
-02:48:13   source text: 2125 / 3609 / 2890 chars
-02:48:19   ✓ published: /news/trump-demands-investigation-into-revised-third-quarter-gdp-economic-data/ [politics] image: wikimedia via idea "White House Washington DC"
-02:48:19 writing explainer for: 'Record-setting error': Trump claims fake GDP data before midterms, demands probe
-02:48:24   ✓ explainer: /news/why-is-donald-trump-demanding-an-investigation-into-us-economic-growth/
-02:48:24 done — 2 stories
+12:04:12 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+12:04:12 collecting videos…
+12:04:12   video feed BBC News: 15 in feed, 5 kept
+12:04:12   video feed Al Jazeera English: 15 in feed, 5 kept
+12:04:12   video feed DW News: 15 in feed, 5 kept
+12:04:12   video feed FRANCE 24 English: 15 in feed, 5 kept
+12:04:12   video feed Sky News: 15 in feed, 5 kept
+12:04:12   video feed Reuters: 15 in feed, 5 kept
+12:04:12   video feed Associated Press: 15 in feed, 5 kept
+12:04:12 videos: saved 24
+12:04:12 collecting feeds…
+12:04:15 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+12:04:15 606 new items
+12:04:16 497 candidate stories
+12:04:16 categories needing stories: business, technology, science, health, sports, entertainment, world → reserved business
+12:04:16 writing: I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite? (2 sources)
+12:04:16   source text: 0 / 0 / 0 chars
+12:04:16   skipped: only paywalled sources, not enough readable text
+12:04:16 writing: The absolute best Black Friday deals we’ve found (so far) (3 sources)
+12:04:17   source text: 7000 / 7000 / 6211 chars
+12:04:24   ✓ published: /news/tech-retailers-roll-out-major-discounts-for-black-friday-event/ [technology] image: wikimedia via name "Black Friday"
+12:04:24 done — 1 stories

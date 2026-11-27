@@ -1,45 +1,173 @@
 {
-  "updatedAt": "2026-11-27T02:47:57.331Z",
+  "updatedAt": "2026-11-27T12:04:12.703Z",
   "videos": [
     {
-      "id": "5GOEij5kZZ8",
-      "title": "‘No future here': Why Senegal’s young people risk their lives to reach Europe",
+      "id": "2zUDAe3Bke0",
+      "title": "Ukraine: Residents brace for another difficult winter • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-27T11:54:13.000Z",
+      "description": "As Russia continues to target Ukraine's energy infrastructure, residents are preparing for another difficult winter of strikes and power cuts. With supply chains under pressure, food prices are also rising, forcing many "
+    },
+    {
+      "id": "WrmeGeF7i-0",
+      "title": "Poundland has collapsed. This Is Why.",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-27T11:30:38.000Z",
+      "description": "It has been a staple of Britain’s high streets for more than 30 years – but after being put into administration, the future looks bleak for the original discount store."
+    },
+    {
+      "id": "mZbb1trdsYU",
+      "title": "European Council President Costa says no long term budget agreement reached",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-27T02:30:29.000Z",
-      "description": "On the beach of the coastal fishing town of Kayar, Senegal, almost everyone has been touched by migration. More than 26,000 West Africans, mostly from Senegal and the Gambia, have reached Spain’s Canary Islands this year"
+      "publishedAt": "2026-11-27T11:30:22.000Z",
+      "description": "European Union leaders failed to reach an agreement on the bloc's next long-term budget after discussions in Brussels on Thursday, with disagreements persisting over the overall size of the budget, funding priorities and"
     },
     {
-      "id": "4iaPde17k-Q",
-      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+      "id": "yVEch5M-Jyc",
+      "title": "GTA VI Launch Sparks Concerns Over Digital-Only Sales",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-27T01:39:12.000Z",
-      "description": "On a call to soldiers deployed to the Gulf, US President Donald Trump claimed that the US does not ‘need Middle East oil’ and that they were maintaining their presence there to protect ‘Israel and other countries’."
+      "publishedAt": "2026-11-27T11:24:47.000Z",
+      "description": "GTA 6 generated a record-breaking $3.8 billion in sales on its first full day, becoming the biggest entertainment launch in history and potentially reshaping the future of the gaming industry."
     },
     {
-      "id": "jk3jbG1Ugqc",
-      "title": "How safe are residents after the Iowa explosion?",
+      "id": "n4HecYFKVk4",
+      "title": "Fans clash at match between Turkish and Israeli clubs",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-27T10:52:26.000Z",
+      "description": "The Europa League soccer match between Turkey's Besiktas and Israel's Hapoel Beer-Sheva was suspended for 30 minutes after clashes broke out in the stands. The game was moved to Batumi, Georgia, after it was ruled that i"
+    },
+    {
+      "id": "yThZTELCQcY",
+      "title": "Viral cricket catch on motorcycle",
       "channel": "DW News",
       "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-27T01:34:13.000Z",
+      "publishedAt": "2026-11-27T10:51:05.000Z",
+      "description": "Pakistan's Swat Premier League witnessed an incredible catch outside the stadium. A motorcycle passenger caught a ball with one hand while speeding past the ground."
+    },
+    {
+      "id": "wctExblHCjY",
+      "title": "I followed Putin to China for a historic summit",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-27T10:32:58.000Z",
+      "description": "Earlier this month, a historic meeting took place between the leaders of China, Russia and the US. Xi Jinping, Vladimir Putin and Donald Trump held their first public tri-lateral meeting in Shenzhen, China."
+    },
+    {
+      "id": "TQk5qGlseuY",
+      "title": "Spain election: Housing crisis and immigration dominate final campaign debate • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-27T11:51:06.000Z",
+      "description": "Spain goes to the polls on Sunday in an early parliamentary election that may usher in a right-wing coalition to replace the Socialist-led minority government of Prime Minister Pedro Sanchez, one of Europe's last leftist"
+    },
+    {
+      "id": "7XtNDaa-i3A",
+      "title": "Ed Davey calls for action to support young children caring for family members",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-27T11:00:28.000Z",
+      "description": "Ed Davey has called for more support for young carers after a Sky News report highlighted children taking on caring responsibilities."
+    },
+    {
+      "id": "uPSb5V94V14",
+      "title": "Estonia prepares to close its border crossings with Russia",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-27T10:00:26.000Z",
+      "description": "At the border crossing in Estonia's city of Narva, a long line of people braved the cold and rain as they waited for their turn to cross into Russia. Many said they had rushed to the border, hoping to visit family member"
+    },
+    {
+      "id": "OBsPQoF854w",
+      "title": "The billionaire apocalypse",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-27T11:00:22.000Z",
+      "description": "\"It's the same issue. It's a fight for life. And it's against this machine.\""
+    },
+    {
+      "id": "V68CPHf65rQ",
+      "title": "Search resumes for missing after illegal gold mine floods in Indonesia",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-27T09:06:23.000Z",
+      "description": "Indonesia’s Search and Rescue agency resumed their search operations for 13 workers trapped in an illegal gold mine in West Java province, with 13 others already confirmed dead."
+    },
+    {
+      "id": "Yi9nQKDcQKo",
+      "title": "Why cities are turning to moss to fight air pollution",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-27T10:00:50.000Z",
+      "description": "Most people see moss as a nuisance, something to scrape off their roofs and patios. But scientists and startups are discovering that this tiny plant may have a bigger role to play with its ability to trap pollution, moni"
+    },
+    {
+      "id": "bJOlN-Fmimw",
+      "title": "Met Police ruined my life, says man wrongly put on death row over attack on UK couple",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-27T08:48:33.000Z",
+      "description": "A Kenyan man who was wrongly sentenced to death over an attack on a British couple has told the BBC actions by London’s Metropolitan Police involved in the case destroyed his life."
+    },
+    {
+      "id": "Bzh3VlSkD2Y",
+      "title": "Kuwait: Two Italians killed in drone attack • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-27T11:45:47.000Z",
+      "description": "A drone attack in Kuwait killed two Italian technicians working on an air defence system on Thursday, marking the first fatal strike in the Gulf state for months."
+    },
+    {
+      "id": "Ad_pjt3o7vk",
+      "title": "Black Friday could turn into 'Black Fraud Day,' MPs warn",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-27T10:08:39.000Z",
+      "description": "Join Sky's Anna Jones and Kamali Melbourne live from the heart of London as they bring you the day's essential stories - and drive the conversation with agenda-setting interviews."
+    },
+    {
+      "id": "3YcItkKMTwE",
+      "title": "Mexico seeks U.S. talks over SpaceX use of Mexican airspace",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-27T09:00:20.000Z",
+      "description": "Mexican President Claudia Sheinbaum said her government was seeking talks with U.S. authorities over SpaceX's rocket launches that use part of Mexico’s airspace following allegations that debris from SpaceX operations ha"
+    },
+    {
+      "id": "QKcsOStMMws",
+      "title": "Why Benjamin Netanyahu's corruption trial could be unravelling",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-27T10:44:08.000Z",
+      "description": "Israeli judges have recommended dropping Prime Minister Benjamin Netanyahu’s most serious corruption charges, potentially throwing him a legal lifeline as he fights for his political survival. Al Jazeera’s Lina-Serene ex"
+    },
+    {
+      "id": "O_a--2cgMzc",
+      "title": "Putin, Kazakh leader tout AI while guarding national interests",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-27T07:23:51.000Z",
+      "description": "Kazakhstan's President Kassym-Jomart Tokayev advanced his country's AI ambitions at Russia's main AI conference, telling President Vladimir Putin that Russian companies Sberbank and Yandex were welcome in Kazakhstan's ma"
+    },
+    {
+      "id": "NVQxdkHn1Bs",
+      "title": "Spreading lead on purpose?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-27T10:00:01.000Z",
       "description": "The US Army has detonated nearly 10,000 pounds of explosives in Iowa – releasing lead contaminants in the process. What could this mean for residents and the environment?"
     },
     {
-      "id": "Cz00voInBHw",
-      "title": "Malls make a comeback as shoppers seek more than deals",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-27T00:06:30.000Z",
-      "description": "US mall owners and retailers are betting they can draw online shoppers with an experience they can't get from their screens: a festive day out."
-    },
-    {
-      "id": "L5buyIJWfJk",
-      "title": "'Biggest stalking shake-up' may not go far enough",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-26T23:07:44.000Z",
-      "description": "The victims' commissioner for England and Wales, Claire Waxman, has told Sky's Cathy Newman the government should go further in changes to stalking legislation."
+      "id": "h7obQwQWOds",
+      "title": "Zelensky questions 'strange' Trump-Putin friendship",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-27T02:51:37.000Z",
+      "description": "Volodymyr Zelensky has voiced his frustration with the United States and questioned US President Donald Trump's relationship with Russian President Vladimir Putin in an interview with the BBC."
     },
     {
       "id": "vnV6m0oqpRs",
@@ -50,148 +178,20 @@
       "description": "Once a strictly US affair, it's become a truly global phenomenon. From shoppers hunting for bargains in Louisiana, to queues forming outside stores in Venezuela, the Black Friday sales event has become the biggest day of"
     },
     {
-      "id": "u8z0aTy6RPA",
-      "title": "The '80s Campaign That Still Haunts US Parents",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-26T22:45:38.000Z",
-      "description": "In recent years, parents across the US have faced scrutiny – and even legal consequences – for letting their children play outside unsupervised. "
-    },
-    {
-      "id": "nDBxabp1JxU",
-      "title": "Heavy rain, wind and flooding plague much of US on Thanksgiving holiday",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-26T20:36:19.000Z",
-      "description": "Heavy rain and strong winds brought flooding to parts of the United States on Thanksgiving Day, with streets inundated in coastal New Jersey and unsettled weather affecting air travel. Floodwaters were seen covering road"
-    },
-    {
-      "id": "O5C4u4ta4kQ",
-      "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-27T01:33:46.000Z",
-      "description": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match. Besiktas was playing against Israel’s Hapoel Be’er Sheva. Play was halted for 30 minutes when scuffles began after fans "
-    },
-    {
-      "id": "n1hvZnFw7GA",
-      "title": "Europe can't deport some migrants. Could Rwanda be the answer?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-27T01:00:33.000Z",
-      "description": "The EU is considering \"return hubs\" outside the bloc for people ordered to leave but who cannot be sent directly to their country of origin. Rwanda could host one of the first. But how would it work, and what would happe"
-    },
-    {
-      "id": "lJc5rqFwkzo",
-      "title": "Powerful storm triggers flooding on US East Coast",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-26T23:30:38.000Z",
-      "description": "Coastal flooding worsened rapidly along parts of New Jersey's shore as a powerful Thanksgiving storm knocked out power for hundreds of thousands of people on the US East Coast and wind gusts toppled trees and power lines"
-    },
-    {
-      "id": "2EIWkBp4rTQ",
-      "title": "Labour and Tories battle for credit after fall in net migration",
+      "id": "L5buyIJWfJk",
+      "title": "'Biggest stalking shake-up' may not go far enough",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-26T22:59:48.000Z",
-      "description": "Join Gillian Joseph on The Wrap, as the Conservatives and Labour battle for credit for the dramatic fall in net migration to 77,000 in the year to June 2026 - while Reform says it's \"no cause for celebration.\""
+      "publishedAt": "2026-11-26T23:07:44.000Z",
+      "description": "The victims' commissioner for England and Wales, Claire Waxman, has told Sky's Cathy Newman the government should go further in changes to stalking legislation."
     },
     {
-      "id": "4hBFkgCFjnM",
-      "title": "RN’s antisemitic past ‘coming back to haunt them’: Will Le Pen ‘distance herself’ from Bardella?",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-26T22:25:02.000Z",
-      "description": "Could new allegations of antisemitism damage Jordan Bardella’s standing and the far-right National Rally’s electoral prospects? Charli James is pleased to welcome Paul Smith, Associate Professor in French and Francophone"
-    },
-    {
-      "id": "MpEcr0JLRTU",
-      "title": "Kuwait drone strike kills two Italian nationals",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-26T22:00:19.000Z",
-      "description": "Iran denies it was behind a drone attack on an air defence system in Kuwait which killed two Italian engineers. The President of the EU Commission says Europe needs to step up pressure on Tehran to end attacks on Gulf na"
-    },
-    {
-      "id": "5bQhQAM1L5c",
-      "title": "EU leaders are divided over budget spending as they weigh a $49B loan to Ukraine",
+      "id": "5GOEij5kZZ8",
+      "title": "‘No future here': Why Senegal’s young people risk their lives to reach Europe",
       "channel": "Associated Press",
       "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-26T18:53:35.000Z",
-      "description": "European Union leaders struggled on Thursday to bridge major differences over the bloc’s long-term budget and agree on a new $49 billion loan to help Ukraine meet its economic and military needs next year.\r"
-    },
-    {
-      "id": "LCl37_N-Zm0",
-      "title": "Spain election puts housing, jobs and rail safety in focus",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-27T01:24:43.000Z",
-      "description": "Spaniards head to a snap election torn over housing, jobs, rail safety and immigration, with PM Pedro Sanchez under pressure from deadly train crashes and a surging conservative bloc that may need far-right backing to go"
-    },
-    {
-      "id": "kFtVyg_Ftq0",
-      "title": "Who launched the first fatal strike on Kuwait in months?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-27T00:52:19.000Z",
-      "description": "Iran is denying involvement in a drone strike on Kuwait that killed two Italian technicians. Italy’s foreign minister says the drones were Iranian-made. It’s the latest in a series of drone strikes on US allies in the Gu"
-    },
-    {
-      "id": "RSPGm116vHw",
-      "title": "Heartbroken mother returns to site of Hong Kong fire one year later",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-26T23:19:01.000Z",
-      "description": "Sherly Ng returned to Hong ‌Kong's Wang Fuk Court housing complex one year after a devastating fire killed her daughter and husband. It was the deadliest fire in the city since 1948."
-    },
-    {
-      "id": "jSIxtjQy6hM",
-      "title": "Trump approves disaster relief after floods in Florida",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-26T22:30:41.000Z",
-      "description": "US President Donald Trump holds signing event in Florida."
-    },
-    {
-      "id": "Z9O42HQ6RjE",
-      "title": "'Citizens angry with the establishment' as Spain heads to the polls • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-26T22:15:37.000Z",
-      "description": "Three party leaders are vying in Spain's general election on Sunday, which leftist Prime Minister Pedro Sanchez called following a parliamentary setback over housing legislation that underscored the fragility of his mino"
-    },
-    {
-      "id": "8dCFusLZ90o",
-      "title": "Democrats go after Nvidia CEO Jensen Huang",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-26T21:00:05.000Z",
-      "description": "Donald Trump is facing criticism from Republicans and Democrats after personally intervening to bring Jensen Huang back as Nvidia’s CEO. Why does Trump see Huang as so important to his presidency, and can he survive the "
-    },
-    {
-      "id": "gJx8I8DvplM",
-      "title": "Gérard Depardieu will stand trial on rape charge",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-26T18:00:30.000Z",
-      "description": "French actor Gérard Depardieu has been ordered to stand trial on a charge of raping an actress at his Paris home in 2018.\r"
-    },
-    {
-      "id": "s6llMxm6O1c",
-      "title": "Inside Ukraine’s power crisis amid its war with Russia",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-27T00:45:10.000Z",
-      "description": "Electricity and water shortages have become part of daily life in Ukraine’s capital, with businesses using generators when the power goes out. Al Jazeera’s Audrey Macalpine shows how residents are adapting."
-    },
-    {
-      "id": "B5x_ZxLBURk",
-      "title": "Mixed messages on Putin raise new questions about Ukraine diplomacy",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-26T23:53:11.000Z",
-      "description": "Donald Trump says he urged Vladimir Putin to halt \"military aggression\" across Europe, but a prominent member of his team is offering a strikingly different assessment of Russia's president. In a podcast interview releas"
+      "publishedAt": "2026-11-27T02:30:29.000Z",
+      "description": "On the beach of the coastal fishing town of Kayar, Senegal, almost everyone has been touched by migration. More than 26,000 West Africans, mostly from Senegal and the Gambia, have reached Spain’s Canary Islands this year"
     }
   ]
 }
