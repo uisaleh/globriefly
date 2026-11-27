@@ -1,25 +1,24 @@
-19:34:29 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-19:34:29 collecting videos…
-19:34:29   video feed BBC News: 15 in feed, 5 kept
-19:34:29   video feed Al Jazeera English: 15 in feed, 5 kept
-19:34:29   video feed DW News: 15 in feed, 5 kept
-19:34:29   video feed FRANCE 24 English: 15 in feed, 5 kept
-19:34:29   video feed Sky News: 15 in feed, 5 kept
-19:34:29   video feed Reuters: 15 in feed, 5 kept
-19:34:29   video feed Associated Press: 15 in feed, 5 kept
-19:34:29 videos: saved 24
-19:34:29 collecting feeds…
-19:34:32 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-19:34:32 793 new items
-19:34:34 620 candidate stories
-19:34:34 categories needing stories: world, business, technology, science, health, politics, sports → reserved world
-19:34:34 writing: Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say (6 sources)
-19:34:34   source text: 7000 / 2544 / 2207 chars
-19:34:54 image source error: The operation was aborted due to timeout
-19:35:25 image source error: The operation was aborted due to timeout
-19:36:03   ✓ published: /news/two-italian-technicians-killed-in-drone-strike-on-kuwaiti-facility/ [world] image: openverse via subject "military installation"
-19:36:03 writing: ‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch (3 sources)
-19:36:04   source text: 7000 / 4215 / 4762 chars
-19:36:09 writer returned unusable output: { "headline": "Hunger Games prequel dominates Thanksgiving box office as new releases debut", "standfirst": "Lionsgate’s Hunger Games prequel leads the holi
-19:36:09   skipped
-19:36:09 done — 1 stories
+02:47:57 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+02:47:57 collecting videos…
+02:47:57   video feed BBC News: 15 in feed, 5 kept
+02:47:57   video feed Al Jazeera English: 15 in feed, 5 kept
+02:47:57   video feed DW News: 15 in feed, 5 kept
+02:47:57   video feed FRANCE 24 English: 15 in feed, 5 kept
+02:47:57   video feed Sky News: 15 in feed, 5 kept
+02:47:57   video feed Reuters: 15 in feed, 5 kept
+02:47:57   video feed Associated Press: 15 in feed, 5 kept
+02:47:57 videos: saved 24
+02:47:57 collecting feeds…
+02:48:00 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+02:48:00 610 new items
+02:48:01 486 candidate stories
+02:48:01 categories needing stories: politics, business, technology, science, health, entertainment, world, sports → reserved politics
+02:48:01 writing: El-Sayed shares how to navigate 'spicier' Thanksgiving conversations (2 sources)
+02:48:01   source text: 0 / 0 chars
+02:48:12   ✓ published: /news/politician-offers-advice-on-handling-tense-family-holiday-debates/ [politics] image: wikimedia via name "Abdul El-Sayed"
+02:48:12 writing: 'Record-setting error': Trump claims fake GDP data before midterms, demands probe (5 sources)
+02:48:13   source text: 2125 / 3609 / 2890 chars
+02:48:19   ✓ published: /news/trump-demands-investigation-into-revised-third-quarter-gdp-economic-data/ [politics] image: wikimedia via idea "White House Washington DC"
+02:48:19 writing explainer for: 'Record-setting error': Trump claims fake GDP data before midterms, demands probe
+02:48:24   ✓ explainer: /news/why-is-donald-trump-demanding-an-investigation-into-us-economic-growth/
+02:48:24 done — 2 stories

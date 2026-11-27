@@ -1,12 +1,5 @@
 {
   "urls": {
-    "https://phys.org/news/2026-11-hydrogen-production-abundant-global-crops.html": 1795123621404,
-    "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec": 1795123636141,
-    "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html": 1795123636141,
-    "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss": 1795123636141,
-    "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote": 1795123636141,
-    "https://www.scmp.com/news/china/diplomacy/article/3375122/power-plays-verbal-displays-xi-trump-putin-talk-historic-apec-summit-explained": 1795123636141,
-    "https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about": 1795123636141,
     "https://www.billboard.com/culture/product-recommendations/prime-video-black-friday-cyber-monday-streaming-deals-2026-1236385908/": 1795143960224,
     "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/": 1795143960224,
     "https://www.wired.com/story/hatch-black-friday-deals-2026/": 1795143960224,
@@ -208,11 +201,16 @@
     "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack": 1795721679523,
     "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/": 1795721769303,
     "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/": 1795721769303,
-    "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/": 1795721769303
+    "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/": 1795721769303,
+    "https://thehill.com/homenews/senate/6244988-el-sayed-thanksgiving-advice/": 1795747686634,
+    "https://www.nytimes.com/2026/11/25/insider/thanksgiving-dinner-politics-conversation.html": 1795747686634,
+    "https://timesofindia.indiatimes.com/world/us/record-setting-error-trump-alleges-fake-us-economic-data-released-before-midterms-demands-probe/articleshow/136206112.cms": 1795747697524,
+    "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html": 1795747697524,
+    "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss": 1795747697524,
+    "https://www.scmp.com/news/world/united-states-canada/article/3375962/trump-calls-gdp-figures-fake-demands-probe-his-own-commerce-department": 1795747697524,
+    "https://www.channelnewsasia.com/world/trump-demands-probe-gdp-data-released-midterms-6585701": 1795747697524
   },
   "fps": {
-    "abundant-can-crops-global-hydrogen-improving-production-support": 1795123621404,
-    "first-power-project-putin-seek-summit-trump": 1795123636141,
     "add-amazon-big-black-cyber-deals-friday-monday": 1795143960224,
     "beloved-days-dies-fiona-hat-hippo-swallowing-visitor": 1795143980563,
     "bill-bipartisan-concerns-energy-environmental-passes-senate": 1795174236208,
@@ -248,6 +246,8 @@
     "cairo-crash-fire-fuel-highway-ignites-killing-least": 1795685280113,
     "2027-australian-chief-confirms-event-jannik-miss-officially": 1795685298156,
     "attack-drone-iranian-italians-killed-kuwait-officials-two": 1795721679523,
-    "85m-devouring-focker-games-hexed-hunger-launch-law": 1795721769303
+    "85m-devouring-focker-games-hexed-hunger-launch-law": 1795721769303,
+    "conversations-how-navigate-sayed-shares-spicier-thanksgiving": 1795747686634,
+    "before-claims-data-demands-error-fake-gdp-midterms": 1795747697524
   }
 }
