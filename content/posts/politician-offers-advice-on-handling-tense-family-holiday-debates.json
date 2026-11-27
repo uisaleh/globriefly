@@ -96,6 +96,9 @@
   "publishedAt": "2026-11-27T02:48:12.265Z",
   "updatedAt": "2026-11-27T02:48:12.265Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175524510681745",
+    "sharedAt": "2026-11-27T02:51:36.723Z"
+  },
   "ogImage": "/og/politician-offers-advice-on-handling-tense-family-holiday-debates.jpg"
 }

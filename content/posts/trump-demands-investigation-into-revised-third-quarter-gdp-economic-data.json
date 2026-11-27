@@ -108,6 +108,9 @@
   "publishedAt": "2026-11-27T02:48:18.261Z",
   "updatedAt": "2026-11-27T02:48:18.261Z",
   "readingMinutes": 2,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175524678681745",
+    "sharedAt": "2026-11-27T02:51:59.049Z"
+  },
   "ogImage": "/og/trump-demands-investigation-into-revised-third-quarter-gdp-economic-data.jpg"
 }
