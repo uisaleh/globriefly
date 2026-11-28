@@ -121,6 +121,9 @@
   "publishedAt": "2026-11-28T03:51:44.862Z",
   "updatedAt": "2026-11-28T03:51:44.862Z",
   "readingMinutes": 3,
-  "facebook": null,
+  "facebook": {
+    "postId": "508173335710467_122175609722681745",
+    "sharedAt": "2026-11-28T03:55:10.137Z"
+  },
   "ogImage": "/og/openai-files-counterclaims-against-apple-in-escalating-legal-battle.jpg"
 }
