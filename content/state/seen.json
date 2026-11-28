@@ -1,17 +1,5 @@
 {
   "urls": {
-    "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html": 1795224474816,
-    "https://www.scientificamerican.com/article/dueling-claims-of-riemann-hypothesis-proofs-emerge/": 1795224474816,
-    "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html": 1795224474816,
-    "https://www.livescience.com/physics-mathematics/mathematics/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion": 1795224474816,
-    "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": 1795224474816,
-    "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS": 1795224474816,
-    "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/": 1795224474816,
-    "https://www.channelnewsasia.com/world/us-india-nikhil-gupta-sentenced-sikh-pannun-6570561": 1795224490363,
-    "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss": 1795224490363,
-    "https://www.scmp.com/news/world/united-states-canada/article/3375297/indian-man-jailed-over-us-murder-plot-against-sikh-separatist": 1795224490363,
-    "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss": 1795224490363,
-    "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist": 1795224490363,
     "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai": 1795254065427,
     "https://sports.yahoo.com/articles/harry-kane-facing-months-bayern-225025219.html": 1795254088178,
     "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss": 1795254088178,
@@ -210,11 +198,16 @@
     "https://sports.yahoo.com/mens-college-basketball/articles/mid-atlantic-sportswatch-daily-listings-210017566.html": 1795813822979,
     "https://sports.yahoo.com/mens-college-basketball/articles/michigan-sportswatch-daily-listings-205958533.html": 1795813822979,
     "https://sports.yahoo.com/college-sports/articles/gulf-states-sportswatch-daily-listings-205930635.html": 1795813822979,
-    "https://www.bbc.co.uk/sounds/play/p0pqb0nm?at_medium=RSS&at_campaign=rss": 1795813822979
+    "https://www.bbc.co.uk/sounds/play/p0pqb0nm?at_medium=RSS&at_campaign=rss": 1795813822979,
+    "https://timesofindia.indiatimes.com/world/us/openai-vs-apple-chatgpt-maker-countersues-iphone-maker-for-stealing-trade-secrets/articleshow/136236893.cms": 1795837895179,
+    "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets": 1795837895179,
+    "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss": 1795837895179,
+    "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/": 1795837895179,
+    "https://www.hollywoodreporter.com/tv/tv-news/watch-macys-thanksgiving-day-parade-2026-free-saturday-time-1236764275/": 1795837913964,
+    "https://thehill.com/homenews/state-watch/6245658-macys-thanksgiving-day-parade-weather-delay-hawaii-band/": 1795837913964,
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html": 1795837913964
   },
   "fps": {
-    "anthropic-claims-claude-help-hypothesis-mathematician-riemann-solve": 1795224474816,
-    "indian-jailed-man-murder-plot-separatist-sikh": 1795224490363,
     "doom-hands-humanity-make-obsolete-quest-render-robotic": 1795254065427,
     "ankle-bayern-confirm-few-harry-kane-ligament-months": 1795254088178,
     "2028-delayed-effort-killer-regulate-robots": 1795281917820,
@@ -247,6 +240,8 @@
     "before-claims-data-demands-error-fake-gdp-midterms": 1795747697524,
     "absolute-best-black-deals-far-found-friday": 1795781062486,
     "bill-canada-court-largely-quebec-secularism-supreme-upholds": 1795813817134,
-    "atlantic-daily-listings-mid-sportswatch": 1795813822979
+    "atlantic-daily-listings-mid-sportswatch": 1795813822979,
+    "apple-chatgpt-countersues-iphone-maker-openai-secrets-stealing": 1795837895179,
+    "100th-day-delay-historic-macy-parade-stream-thanksgiving": 1795837913964
   }
 }

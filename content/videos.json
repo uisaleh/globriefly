@@ -1,45 +1,141 @@
 {
-  "updatedAt": "2026-11-27T21:09:57.639Z",
+  "updatedAt": "2026-11-28T03:51:28.761Z",
   "videos": [
     {
-      "id": "qKqLGJXzBsM",
-      "title": "Space probe survives perilous mission to Mercury: What next?",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-27T20:54:01.000Z",
-      "description": "A space mission to Mercury is underway as the BepiColombo has entered Mercury's orbit after an eight-year journey to the planet. "
-    },
-    {
-      "id": "nSFaHw5f0Nk",
-      "title": "United States East Coast hit by floods",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-27T20:45:36.000Z",
-      "description": "Flooding caused by heavy rain on the East Coast of the United States has inundated roads, downed power lines and disrupted Thanksgiving travel."
-    },
-    {
-      "id": "NYT0-WQHu7M",
-      "title": "Nine children reunite with families in Ukraine after Melania Trump mediation",
+      "id": "8Ngt0uYxzB4",
+      "title": "Aid cuts and withdrawals leave northern Yemen in dire need, says NRC chief",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-27T20:36:08.000Z",
-      "description": "Nine Ukrainian children returned from Russia and Russian-controlled territories after mediation by US First Lady Melania Trump. "
+      "publishedAt": "2026-11-28T03:13:23.000Z",
+      "description": "The United Nations is calling for urgent aid in Yemen as families are pushed deeper into hunger. Renewed fighting has forced civilians to flee their homes, and more than 300,000 people have been displaced since August. "
     },
     {
-      "id": "bgONnPA8QU8",
-      "title": "How AI could be coming for your bank account",
+      "id": "3LJ3Q6f5z3U",
+      "title": "Zelenskyy questions 'strange' Trump-Putin friendship",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-28T02:30:19.000Z",
+      "description": "Ukrainian President Volodymyr Zelenskyy expressed frustration with the US stance toward Russian leader Vladimir Putin. Zelenskyy questioned Trump calling Putin his \"friend\" at a recent summit in China last week and liken"
+    },
+    {
+      "id": "447KgpcrLtI",
+      "title": "Nuclear watchdog sounds new Zaporizhzhia alert",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-27T20:30:09.000Z",
-      "description": "The Bank of England governor has raised concerns that AI models may becoming advanced enough to break through the encryption used to safeguard financial systems across the world."
+      "publishedAt": "2026-11-27T23:45:27.000Z",
+      "description": "Ukraine's President Zelensky has expressed deep frustration with the US, saying it is not pushing Russia hard enough in talks to end Europe's bloodiest conflict since the Second World War. He told the BBC that he found i"
     },
     {
-      "id": "-_9pMb4G7tY",
-      "title": "The End of Spain’s ‘Frankenstein’ Coalition? Presidential Plotting in Paris, Kushner & Kremlin Trap",
+      "id": "YkMLnjoLsHg",
+      "title": "Bargain hunters beat the sunrise to Black Friday deals",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-27T23:12:32.000Z",
+      "description": "Inflation-weary US shoppers thronged malls and websites on Black Friday, the traditional kickoff to the holiday spending season, but many said they were struggling to find robust enough bargains to counter the pinch of h"
+    },
+    {
+      "id": "OIGrk9_J0so",
+      "title": "Downing Street not ruling out 'malicious' cyber attack after DWP incident",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-27T22:59:23.000Z",
+      "description": "Join Gillian Joseph on The Wrap, Sky News' brand-new late-night show focusing on debating, analysing and making sense of the day's news, not just reporting it."
+    },
+    {
+      "id": "LZPdMu17AEk",
+      "title": "Parts of the US clean up, power outages being restored after Thanksgiving storm soaks East Coast",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-27T22:55:21.000Z",
+      "description": "Heavy rain over the East Coast is winding down, with power slowly being restored to hundreds of thousands of customers. The storms led to travel disruptions, downed trees and water rescues from New York to Virginia. Wet "
+    },
+    {
+      "id": "QoxFwerwAPY",
+      "title": "Uganda to withdraw troops from DR Congo • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-27T20:11:30.000Z",
-      "description": "Catch up with the World This Week with Gavin Lee. In just 45 minutes, make sense of seven extraordinary days in global affairs, as Gavin and his handpicked panel of four leading international correspondents unpack the st"
+      "publishedAt": "2026-11-27T21:43:31.000Z",
+      "description": "First, Uganda is heading for the exit in eastern DR Congo. Kampala has announced the withdrawal of its troops from a key town in North Kivu, as relations with Kinshasa deteriorate following provocative comments from Ugan"
+    },
+    {
+      "id": "zAdk8UvvYBE",
+      "title": "Bulgarians demand action by French after Marseille match violence",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-28T02:29:55.000Z",
+      "description": "Bulgarians protested outside the French embassy in Sofia after violence at a Europa League match between Marseille and Levski Sofia fans left six hospitalised on Thursday. French authorities are investigating amid report"
+    },
+    {
+      "id": "eFhljvQvbmM",
+      "title": "This Taiwanese comedian mocked Xi Jinping. Then came the threats",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-28T02:30:03.000Z",
+      "description": "He called Xi Jinping an idiot on stage. Then, someone in China allegedly paid to have his arms and legs broken. DW’s Rik Glauert talks to the Taiwanese comedian who refuses to stop joking."
+    },
+    {
+      "id": "EMtFvs9o8o4",
+      "title": "Marco Rubio v JD Vance: who will take over from Donald Trump?",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-27T23:00:10.000Z",
+      "description": "Donald Trump has two years left in the White House, but after a heavy midterms defeat, Republicans are already asking who will take over in 2028. How do the candidates distance themselves from him without risking revenge"
+    },
+    {
+      "id": "Q5vxPBjlXeE",
+      "title": "Hackers hit Air Force cloud as Musk unveils SpaceX share giveaway",
+      "channel": "Reuters",
+      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
+      "publishedAt": "2026-11-27T22:21:08.000Z",
+      "description": "Hackers breach the US Air Force's flagship cloud platform, though the full scope of the intrusion is unclear. Black Friday shoppers head back to malls in a boost for in-person retail, while Elon Musk promises SpaceX shar"
+    },
+    {
+      "id": "Arfsd-Rm4q0",
+      "title": "Hospital admissions for flu have surged by 80% in a week",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-27T22:45:00.000Z",
+      "description": "Hospital admissions for flu cases have surged by 80% in the last week - so why is this happening and should we be worried?"
+    },
+    {
+      "id": "WcE1hr0Ut-o",
+      "title": "Protests erupt in Puerto Rico's capital as living standards deteriorate",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-27T22:27:38.000Z",
+      "description": "Thousands of people protested in Puerto Rico’s capital Friday over record-high electric rates, rising living costs, and deteriorating services. (AP Video by Alejandro Granadillo)\r"
+    },
+    {
+      "id": "wMWHkqQjhas",
+      "title": "Spanish elections: 'Right-wing voters extremely mobilised, left-wing voters not mobilised enough'",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-27T21:04:24.000Z",
+      "description": "“His main political platform is to say, I am not Sánchez, I am the opposite of Sánchez.” As Spain heads to the polls, what do Alberto Núñez Feijóo's campaign and political career tell us about the kind of prime minister "
+    },
+    {
+      "id": "EatxZQQpAU0",
+      "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-28T01:53:18.000Z",
+      "description": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen, bringing its staff death toll to 17. MSF called it a ‘direct hit’, saying its logos were visible and Israel knew th"
+    },
+    {
+      "id": "q8DAOIG30LY",
+      "title": "Japanese PM's economic agenda: Has Takaichi faced backlash?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-28T01:00:17.000Z",
+      "description": "Japan's first female prime minister came to office with an ambitious vision for the country's future. One year into Sanae Takaichi's premiership, supporters say she's preparing Japan for a more dangerous world through a "
+    },
+    {
+      "id": "5MX21Y0IMTU",
+      "title": "How Trump's war with Iran and the Houthi conflict could change Saudi Arabia",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-27T22:00:32.000Z",
+      "description": "The Houthis have been stepping up their attacks on Saudi Arabia, as part of the ongoing fallout from the US-Israel war with Iran. The Tehran-backed group has launched drone and missile strikes deeper into Saudi Arabia, t"
     },
     {
       "id": "Qg6_0W2mJr8",
@@ -50,148 +146,52 @@
       "description": "Flooded roads and strong winds in Stone Harbor, New Jersey, after a powerful storm disrupted the Thanksgiving holiday along much of the US East Coast, knocking out power to nearly 1 million customers at one point as wind"
     },
     {
-      "id": "PoOiL5icii4",
-      "title": "Spain’s economy is thriving. Why aren’t voters feeling it?",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-27T18:40:09.000Z",
-      "description": "Spain’s economy has been growing faster than most of its European peers, but many Spaniards haven’t felt the benefits. Discontent, particularly around soaring housing costs, is widespread and bound to be a decisive force"
-    },
-    {
-      "id": "PYwuKAk7pJk",
-      "title": "'Predator' jailed for blackmailing children and sharing indecent images on Com network",
+      "id": "Nel15Jofl58",
+      "title": "Robot collects evidence of deepest known volcanic eruption on Earth",
       "channel": "Sky News",
       "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-27T20:34:47.000Z",
-      "description": "A man who was part of an organised crime group that blackmailed and distributed indecent images of children has been jailed for 14 and a half years."
+      "publishedAt": "2026-11-27T21:22:02.000Z",
+      "description": "A robot has been deployed by scientists to the Mariana Trench to collect rocks ejected in a volcanic eruption - the deepest known eruption on Earth."
     },
     {
-      "id": "2F4hyqfD0KM",
-      "title": "Germany is borrowing billions for defense. Who pays?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-27T20:45:20.000Z",
-      "description": "Germany is borrowing billions to boost defense. But who ultimately pays? In this Berlin Briefing, DW's Chief Political Editor Michaela Küfner discusses Germany's spending choices with Nina Haase, DW's Chief Political Cor"
+      "id": "vX6zpjB5YzA",
+      "title": "Ukrainian children return from Russia in an operation mediated by Melania Trump",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-27T19:55:50.000Z",
+      "description": "Ukrainian children returned from Russian-occupied territories and Russia, reunited with their mothers and relatives at the northern border on Friday after years of separation, in an operation mediated by US first lady Me"
     },
     {
-      "id": "1lsjzuUJFOs",
-      "title": "Hamas chief's last surviving son escapes Israeli strike in Gaza",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-27T20:16:47.000Z",
-      "description": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday, senior Hamas official Basem Naim said. Four of Izzeldeen's brothers were killed by Israeli forces, includin"
-    },
-    {
-      "id": "H25VTwvohTU",
-      "title": "Could Spain's socialists be about to lose power?",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-27T20:30:03.000Z",
-      "description": ""
-    },
-    {
-      "id": "LPwZFjtQ2q8",
-      "title": "The AI revolution: Will I lose my job? • FRANCE 24 English",
+      "id": "-_9pMb4G7tY",
+      "title": "The End of Spain’s ‘Frankenstein’ Coalition? Presidential Plotting in Paris, Kushner & Kremlin Trap",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-27T18:40:41.000Z",
-      "description": "Have you heard of FOBO? It stands for fear of being obsolete. So as AI spreads, is it going to impact women in the workforce more than men? And are we right to be fearful of becoming obsolete? The International Labour Or"
+      "publishedAt": "2026-11-27T20:11:30.000Z",
+      "description": "Catch up with the World This Week with Gavin Lee. In just 45 minutes, make sense of seven extraordinary days in global affairs, as Gavin and his handpicked panel of four leading international correspondents unpack the st"
     },
     {
-      "id": "MfhgeN4GIx4",
-      "title": "Philippines' Duterte at the ICC: What to know ahead of the trial",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-27T18:40:28.000Z",
-      "description": "Former Philippine leader Rodrigo Duterte goes on trial at the International Criminal Court for alleged crimes against humanity from an anti-drug campaign in which thousands of people were killed."
-    },
-    {
-      "id": "vkptIXh_SQs",
-      "title": "'Something new is happening here' analyst says on deadlock in New Zealand's election",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-27T18:04:13.000Z",
-      "description": "The final vote count in New Zealand’s election published Friday showed neither the right-wing incumbents nor the left-wing opposition bloc won enough seats to form a majority, giving a centrist party new to Parliament th"
-    },
-    {
-      "id": "jp4-T4Ynrcg",
-      "title": "How government 'cyber incident' affects you",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-27T19:52:13.000Z",
-      "description": "The government says a \"cyber incident\" saw some services at the Department for Work and Pensions taken offline \"as a precaution\"."
-    },
-    {
-      "id": "5F9EzEriL_k",
-      "title": "Football match between Turkish and Israeli clubs turns into diplomatic incident",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-27T20:00:37.000Z",
-      "description": "Clashes involving Besiktas fans at a football match in Georgia have triggered a diplomatic incident. The fans unfurled pro-Palestinian banners and flags before police intervened. Turkish and Israeli officials have weighe"
-    },
-    {
-      "id": "vdu5nWP_L4g",
-      "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+      "id": "STcyI6ukDIs",
+      "title": "Sanchez faces close call or defeat in Spain's snap election: Analysis",
       "channel": "Al Jazeera English",
       "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-27T20:05:52.000Z",
-      "description": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded ‘links to terrorist acts’. Albanese, who has documented Israel’s genocide in Gaza and faces US sanctions, accepted an honorary degree from "
+      "publishedAt": "2026-11-28T01:05:04.000Z",
+      "description": "Thousands of people have gathered at an arena outside Madrid to support Spanish Prime Minister Pedro Sanchez, who hopes to renew his mandate after eight years in power."
     },
     {
-      "id": "Yioto5Oek4I",
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving.",
+      "id": "D4EQfjqhejY",
+      "title": "Why are Nigerians drinking illicit monkey tail?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-27T23:38:08.000Z",
+      "description": "Monkey tail is one of Nigeria's most controversial local alcoholic drinks because it’s made by distilling palm wine and fermenting it with cannabis. Supporters say it helps them relax. Critics warn of serious health risk"
+    },
+    {
+      "id": "HM4MUu-8c5U",
+      "title": "Rare turtles found inside baggage at Amsterdam airport.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-27T20:00:32.000Z",
-      "description": ""
-    },
-    {
-      "id": "ol47WCFIzZA",
-      "title": "Is Spain 'nostalgic' for Franco? Would traditional right PP consider an alliance with far-right Vox?",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-27T18:31:40.000Z",
-      "description": "After eight years of socialist-led government, Spain is at a crossroads. Can Pedro Sánchez pull off another electoral comeback, or will the conservative Partido Popular make way for the far right into national government"
-    },
-    {
-      "id": "V68CPHf65rQ",
-      "title": "Search resumes for missing after illegal gold mine floods in Indonesia",
-      "channel": "Reuters",
-      "channelUrl": "https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ",
-      "publishedAt": "2026-11-27T09:06:23.000Z",
-      "description": "Indonesia’s Search and Rescue agency resumed their search operations for 13 workers trapped in an illegal gold mine in West Java province, with 13 others already confirmed dead."
-    },
-    {
-      "id": "mZbb1trdsYU",
-      "title": "European Council President Costa says no long term budget agreement reached",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-27T11:30:22.000Z",
-      "description": "European Union leaders failed to reach an agreement on the bloc's next long-term budget after discussions in Brussels on Thursday, with disagreements persisting over the overall size of the budget, funding priorities and"
-    },
-    {
-      "id": "WrmeGeF7i-0",
-      "title": "Poundland has collapsed. This Is Why.",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-27T11:30:38.000Z",
-      "description": "It has been a staple of Britain’s high streets for more than 30 years – but after being put into administration, the future looks bleak for the original discount store."
-    },
-    {
-      "id": "b83cgLvoZwQ",
-      "title": "One of the EU's last direct links to Russia is about to shut down",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-27T19:30:12.000Z",
-      "description": "Estonia will suspend road-border crossings with Russia on December 1, saying recent sabotage attacks attributed to Russian intelligence have created an unacceptable security risk. But in Narva, the border city's largely "
-    },
-    {
-      "id": "AQDGPLkkUb0",
-      "title": "Renewed fighting forces families to flee in eastern DR Congo",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-27T19:33:56.000Z",
-      "description": "Renewed fighting between the Congolese army and rebels from the FRN, a political-military coalition with links to M23, has driven families from their homes, separating some parents from their children. "
+      "publishedAt": "2026-11-27T21:00:19.000Z",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
     }
   ]
 }

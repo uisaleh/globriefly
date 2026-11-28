@@ -1,24 +1,24 @@
-21:09:54 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-21:09:54 collecting videos…
-21:09:54   video feed BBC News: 15 in feed, 5 kept
-21:09:55   video feed Al Jazeera English: 15 in feed, 5 kept
-21:09:55   video feed DW News: 15 in feed, 5 kept
-21:09:56   video feed FRANCE 24 English: 15 in feed, 5 kept
-21:09:56   video feed Sky News: 15 in feed, 5 kept
-21:09:57   video feed Reuters: 15 in feed, 5 kept
-21:09:57   video feed Associated Press: 15 in feed, 5 kept
-21:09:57 videos: saved 24
-21:09:57 collecting feeds…
-21:10:02 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-21:10:02 731 new items
-21:10:03 592 candidate stories
-21:10:03 categories needing stories: world, business, science, health, sports, entertainment, technology → reserved world
-21:10:03 writing: Canada: Supreme Court largely upholds Quebec secularism bill (8 sources)
-21:10:04   source text: 2602 / 7000 / 2458 chars
-21:10:11   too close to source wording — rewriting
-21:10:17 writer returned unusable output: { "headline": "Canada Supreme Court largely upholds Quebec law on religious symbols", "standfirst": "Canada's highest court has validated most of Quebec's c
-21:10:17   skipped
-21:10:17 writing: Mid-Atlantic Sportswatch Daily Listings (2 sources)
-21:10:18   source text: 399 / 399 / 4628 / 1247 chars
-21:10:25   ✓ published: /news/sports-fans-face-busy-holiday-schedule-across-football-and-basketball/ [sports] image: wikimedia via idea "college basketball game arena"
-21:10:25 done — 1 stories
+03:51:28 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+03:51:28 collecting videos…
+03:51:28   video feed BBC News: 15 in feed, 5 kept
+03:51:28   video feed Al Jazeera English: 15 in feed, 5 kept
+03:51:28   video feed DW News: 15 in feed, 5 kept
+03:51:28   video feed FRANCE 24 English: 15 in feed, 5 kept
+03:51:28   video feed Sky News: 15 in feed, 5 kept
+03:51:28   video feed Reuters: 15 in feed, 5 kept
+03:51:28   video feed Associated Press: 15 in feed, 5 kept
+03:51:28 videos: saved 24
+03:51:28 collecting feeds…
+03:51:30 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+03:51:30 543 new items
+03:51:30 424 candidate stories
+03:51:30 categories needing stories: world, politics, business, science, health, entertainment, technology, sports → reserved world
+03:51:30 writing: OpenAI vs Apple: ChatGPT maker countersues iPhone maker for stealing trade secrets (4 sources)
+03:51:30   source text: 2327 / 2882 / 2867 chars
+03:51:48   ✓ published: /news/openai-files-counterclaims-against-apple-in-escalating-legal-battle/ [world] image: wikimedia via name "OpenAI"
+03:51:48 writing: When and Where to Stream the 100th Macy’s Thanksgiving Day Parade After Its Historic Delay (3 sources)
+03:51:49   source text: 0 / 4370 / 0 chars
+03:51:54   ✓ published: /news/historic-weather-delay-pushes-macys-thanksgiving-day-parade-to-saturday/ [entertainment] image: wikimedia via idea "Macy's Thanksgiving Day Parade float"
+03:51:54 writing explainer for: OpenAI vs Apple: ChatGPT maker countersues iPhone maker for stealing trade secrets
+03:52:02   ✓ explainer: /news/why-are-openai-and-apple-battling-over-trade-secrets-and-ai-talent/
+03:52:02 done — 2 stories
