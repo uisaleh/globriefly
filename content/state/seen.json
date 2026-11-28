@@ -1,9 +1,5 @@
 {
   "urls": {
-    "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai": 1795254065427,
-    "https://sports.yahoo.com/articles/harry-kane-facing-months-bayern-225025219.html": 1795254088178,
-    "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss": 1795254088178,
-    "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england": 1795254088178,
     "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": 1795281917820,
     "https://www.thehindu.com/news/international/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028/article71729173.ece": 1795281917820,
     "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss": 1795281941773,
@@ -205,11 +201,15 @@
     "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/": 1795837895179,
     "https://www.hollywoodreporter.com/tv/tv-news/watch-macys-thanksgiving-day-parade-2026-free-saturday-time-1236764275/": 1795837913964,
     "https://thehill.com/homenews/state-watch/6245658-macys-thanksgiving-day-parade-weather-delay-hawaii-band/": 1795837913964,
-    "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html": 1795837913964
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html": 1795837913964,
+    "https://www.npr.org/2026/11/28/nx-s1-6052169/week-in-politics-trumps-thanksgiving-messaging-congress-pre-holiday-to-do-list": 1795870476441,
+    "https://www.theguardian.com/world/2026/nov/28/medecins-sans-frontieres-staff-killed-gaza-israeli-strike": 1795870484127,
+    "https://www.thehindu.com/news/international/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza/article71754241.ece": 1795870484127,
+    "https://www.france24.com/en/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza": 1795870484127,
+    "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss": 1795870484127,
+    "https://www.channelnewsasia.com/world/israel-gaza-strike-doctors-without-borders-6589316": 1795870484127
   },
   "fps": {
-    "doom-hands-humanity-make-obsolete-quest-render-robotic": 1795254065427,
-    "ankle-bayern-confirm-few-harry-kane-ligament-months": 1795254088178,
     "2028-delayed-effort-killer-regulate-robots": 1795281917820,
     "alleged-arrested-boss-cartel-chapo-isidro-mexico-who": 1795281941773,
     "day-match": 1795302487345,
@@ -242,6 +242,8 @@
     "bill-canada-court-largely-quebec-secularism-supreme-upholds": 1795813817134,
     "atlantic-daily-listings-mid-sportswatch": 1795813822979,
     "apple-chatgpt-countersues-iphone-maker-openai-secrets-stealing": 1795837895179,
-    "100th-day-delay-historic-macy-parade-stream-thanksgiving": 1795837913964
+    "100th-day-delay-historic-macy-parade-stream-thanksgiving": 1795837913964,
+    "congress-holiday-list-messaging-politics-pre-thanksgiving-trump": 1795870476441,
+    "charity-decins-fronti-gaza-israeli-killed-res-sans": 1795870484127
   }
 }

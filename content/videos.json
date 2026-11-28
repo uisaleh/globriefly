@@ -1,29 +1,53 @@
 {
-  "updatedAt": "2026-11-28T03:51:28.761Z",
+  "updatedAt": "2026-11-28T12:54:13.603Z",
   "videos": [
     {
-      "id": "8Ngt0uYxzB4",
-      "title": "Aid cuts and withdrawals leave northern Yemen in dire need, says NRC chief",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-28T03:13:23.000Z",
-      "description": "The United Nations is calling for urgent aid in Yemen as families are pushed deeper into hunger. Renewed fighting has forced civilians to flee their homes, and more than 300,000 people have been displaced since August. "
-    },
-    {
-      "id": "3LJ3Q6f5z3U",
-      "title": "Zelenskyy questions 'strange' Trump-Putin friendship",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-28T02:30:19.000Z",
-      "description": "Ukrainian President Volodymyr Zelenskyy expressed frustration with the US stance toward Russian leader Vladimir Putin. Zelenskyy questioned Trump calling Putin his \"friend\" at a recent summit in China last week and liken"
-    },
-    {
-      "id": "447KgpcrLtI",
-      "title": "Nuclear watchdog sounds new Zaporizhzhia alert",
+      "id": "zu-EycmdEp0",
+      "title": "Macy’s Thanksgiving Day Parade balloons reinflated ahead of rescheduled event.",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-27T23:45:27.000Z",
-      "description": "Ukraine's President Zelensky has expressed deep frustration with the US, saying it is not pushing Russia hard enough in talks to end Europe's bloodiest conflict since the Second World War. He told the BBC that he found i"
+      "publishedAt": "2026-11-28T12:30:10.000Z",
+      "description": ""
+    },
+    {
+      "id": "9_LolhtUlVY",
+      "title": "South Sudan Voter Registration Nears End Amid Election Concerns",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-28T12:23:41.000Z",
+      "description": "South Sudan is set to end voter registration on Saturday ahead of its first national elections since independence in 2011. The planned February vote faces delays and major challenges, including insecurity, funding shorta"
+    },
+    {
+      "id": "1_JyjElweAQ",
+      "title": "Lead: The poison you can't see, smell or taste",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-28T12:15:38.000Z",
+      "description": "A proposed detonation of 9,500 pounds of lead azide in Iowa has sparked debate about lead contamination and environmental risks. Here's what we know about the health effects of lead exposure."
+    },
+    {
+      "id": "hA7XW_FvO8U",
+      "title": "Court rules on Argentine bid to halt UK Falkland Islands oil drilling",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-28T11:51:16.000Z",
+      "description": "A ruling is read out at the International Tribunal for the Law of the Sea in Hamburg, in a dispute between Argentina and the UK over oil exploration in the Sea Lion field near the Falkland Islands. "
+    },
+    {
+      "id": "S8cx-HrOZWQ",
+      "title": "France holds nationwide protests against violence towards women • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-28T11:25:50.000Z",
+      "description": "Estimated 840 million women globally are subjected to violence."
+    },
+    {
+      "id": "M5zwfGjVps8",
+      "title": "Spain's party leaders hold final campaign rallies ahead of national election",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-28T10:39:39.000Z",
+      "description": "Spain is to elect a new government on Sunday in a snap election that could unseat prime minister Pedro Sánchez. On Friday evening, party leaders addressed their supporters at final campaign rallies ahead of the vote.\r"
     },
     {
       "id": "YkMLnjoLsHg",
@@ -34,52 +58,52 @@
       "description": "Inflation-weary US shoppers thronged malls and websites on Black Friday, the traditional kickoff to the holiday spending season, but many said they were struggling to find robust enough bargains to counter the pinch of h"
     },
     {
-      "id": "OIGrk9_J0so",
-      "title": "Downing Street not ruling out 'malicious' cyber attack after DWP incident",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-27T22:59:23.000Z",
-      "description": "Join Gillian Joseph on The Wrap, Sky News' brand-new late-night show focusing on debating, analysing and making sense of the day's news, not just reporting it."
-    },
-    {
-      "id": "LZPdMu17AEk",
-      "title": "Parts of the US clean up, power outages being restored after Thanksgiving storm soaks East Coast",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-27T22:55:21.000Z",
-      "description": "Heavy rain over the East Coast is winding down, with power slowly being restored to hundreds of thousands of customers. The storms led to travel disruptions, downed trees and water rescues from New York to Virginia. Wet "
-    },
-    {
-      "id": "QoxFwerwAPY",
-      "title": "Uganda to withdraw troops from DR Congo • FRANCE 24 English",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-27T21:43:31.000Z",
-      "description": "First, Uganda is heading for the exit in eastern DR Congo. Kampala has announced the withdrawal of its troops from a key town in North Kivu, as relations with Kinshasa deteriorate following provocative comments from Ugan"
-    },
-    {
-      "id": "zAdk8UvvYBE",
-      "title": "Bulgarians demand action by French after Marseille match violence",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-28T02:29:55.000Z",
-      "description": "Bulgarians protested outside the French embassy in Sofia after violence at a Europa League match between Marseille and Levski Sofia fans left six hospitalised on Thursday. French authorities are investigating amid report"
-    },
-    {
-      "id": "eFhljvQvbmM",
-      "title": "This Taiwanese comedian mocked Xi Jinping. Then came the threats",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-28T02:30:03.000Z",
-      "description": "He called Xi Jinping an idiot on stage. Then, someone in China allegedly paid to have his arms and legs broken. DW’s Rik Glauert talks to the Taiwanese comedian who refuses to stop joking."
-    },
-    {
-      "id": "EMtFvs9o8o4",
-      "title": "Marco Rubio v JD Vance: who will take over from Donald Trump?",
+      "id": "T3HI3a0BTCA",
+      "title": "Autonomous weapons are here. But can we control them?",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-27T23:00:10.000Z",
-      "description": "Donald Trump has two years left in the White House, but after a heavy midterms defeat, Republicans are already asking who will take over in 2028. How do the candidates distance themselves from him without risking revenge"
+      "publishedAt": "2026-11-28T12:00:29.000Z",
+      "description": "As artificial intelligence becomes increasingly embedded in modern warfare, that question is no longer theoretical. "
+    },
+    {
+      "id": "9FY0X1Fc5Cg",
+      "title": "Tarantulas, scorpions and more found in luggage at Peru airport",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-28T12:17:45.000Z",
+      "description": "Peruvian authorities have intercepted two Chinese nationals at Lima's international airport as they attempted to smuggle 677 wildlife specimens to China in their luggage. The haul, including hundreds of tarantulas, centi"
+    },
+    {
+      "id": "Gq4uMWR2RcU",
+      "title": "Russian newspaper 'Novaya Gazeta' closes but some journalists keep on reporting",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-28T10:00:26.000Z",
+      "description": "Independent Russian news outlet Novaya Gazeta is closing down following mounting pressure from authorities. Kirill Martynov says, that it \"lasted an astonishingly long time in a completely unfree society.\"  "
+    },
+    {
+      "id": "m1JPnkkj7D8",
+      "title": "'They don't know how bad it is': AI expert on DWP cyber incident",
+      "channel": "Sky News",
+      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
+      "publishedAt": "2026-11-28T11:43:42.000Z",
+      "description": "A suspected cyber attack on the Department for Work and Pensions (DWP) has left people unable to access benefit and pension services."
+    },
+    {
+      "id": "mYsgEjmB3yM",
+      "title": "Israeli strike kills two Doctors Without Borders staff in Gaza • FRANCE 24 English",
+      "channel": "FRANCE 24 English",
+      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "publishedAt": "2026-11-28T11:23:53.000Z",
+      "description": "Doctors Without Borders (MSF) said Saturday an Israeli strike killed two staff members at a clinic in Gaza, with the Israeli army labelling the pair as Hamas \"terrorists\". Noga Tarnopolsky is live from Jerusalem."
+    },
+    {
+      "id": "SM11qr1tptQ",
+      "title": "Taiwan holds elections to choose mayors and other local leaders as China looks on",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-28T10:03:10.000Z",
+      "description": "Taiwan is choosing mayors, council members and other local leaders across its 22 cities and counties. The election Saturday will test whether the ruling party can notch some wins at the local level. (AP Video by Taijing "
     },
     {
       "id": "Q5vxPBjlXeE",
@@ -90,6 +114,30 @@
       "description": "Hackers breach the US Air Force's flagship cloud platform, though the full scope of the intrusion is unclear. Black Friday shoppers head back to malls in a boost for in-person retail, while Elon Musk promises SpaceX shar"
     },
     {
+      "id": "robPkjK_ngk",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza.",
+      "channel": "BBC News",
+      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
+      "publishedAt": "2026-11-28T10:30:10.000Z",
+      "description": ""
+    },
+    {
+      "id": "WTrW5aynfU8",
+      "title": "What can we learn from successful peace deals?",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-28T11:30:16.000Z",
+      "description": "Having worked on peace deals in Bosnia and Herzegovina, Kosovo and her homeland Northern Ireland, Kate Fearon knows firsthand that negotiations are never simple."
+    },
+    {
+      "id": "V3_tCTKHMvU",
+      "title": "Can Syria's ancient city of Palmyra rise again?",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-28T08:30:14.000Z",
+      "description": "For decades, Palmyra was one of Syria's most visited destinations, drawing people from around the world to its ancient ruins, some of which are roughly 2,000 years old."
+    },
+    {
       "id": "Arfsd-Rm4q0",
       "title": "Hospital admissions for flu have surged by 80% in a week",
       "channel": "Sky News",
@@ -98,44 +146,20 @@
       "description": "Hospital admissions for flu cases have surged by 80% in the last week - so why is this happening and should we be worried?"
     },
     {
-      "id": "WcE1hr0Ut-o",
-      "title": "Protests erupt in Puerto Rico's capital as living standards deteriorate",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-27T22:27:38.000Z",
-      "description": "Thousands of people protested in Puerto Rico’s capital Friday over record-high electric rates, rising living costs, and deteriorating services. (AP Video by Alejandro Granadillo)\r"
-    },
-    {
-      "id": "wMWHkqQjhas",
-      "title": "Spanish elections: 'Right-wing voters extremely mobilised, left-wing voters not mobilised enough'",
+      "id": "QoxFwerwAPY",
+      "title": "Uganda to withdraw troops from DR Congo • FRANCE 24 English",
       "channel": "FRANCE 24 English",
       "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-27T21:04:24.000Z",
-      "description": "“His main political platform is to say, I am not Sánchez, I am the opposite of Sánchez.” As Spain heads to the polls, what do Alberto Núñez Feijóo's campaign and political career tell us about the kind of prime minister "
+      "publishedAt": "2026-11-27T21:43:31.000Z",
+      "description": "First, Uganda is heading for the exit in eastern DR Congo. Kampala has announced the withdrawal of its troops from a key town in North Kivu, as relations with Kinshasa deteriorate following provocative comments from Ugan"
     },
     {
-      "id": "EatxZQQpAU0",
-      "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-28T01:53:18.000Z",
-      "description": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen, bringing its staff death toll to 17. MSF called it a ‘direct hit’, saying its logos were visible and Israel knew th"
-    },
-    {
-      "id": "q8DAOIG30LY",
-      "title": "Japanese PM's economic agenda: Has Takaichi faced backlash?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-28T01:00:17.000Z",
-      "description": "Japan's first female prime minister came to office with an ambitious vision for the country's future. One year into Sanae Takaichi's premiership, supporters say she's preparing Japan for a more dangerous world through a "
-    },
-    {
-      "id": "5MX21Y0IMTU",
-      "title": "How Trump's war with Iran and the Houthi conflict could change Saudi Arabia",
-      "channel": "BBC News",
-      "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-27T22:00:32.000Z",
-      "description": "The Houthis have been stepping up their attacks on Saudi Arabia, as part of the ongoing fallout from the US-Israel war with Iran. The Tehran-backed group has launched drone and missile strikes deeper into Saudi Arabia, t"
+      "id": "zT1axIKr5TM",
+      "title": "How 3D maps might help save forests",
+      "channel": "Associated Press",
+      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
+      "publishedAt": "2026-11-28T04:07:34.000Z",
+      "description": "Scientists have created the largest collection of 3D forest maps, using laser data to reveal tree height and structure across 56 countries. The Global Canopy Atlas, led by University of Bristol researchers, could help sc"
     },
     {
       "id": "Qg6_0W2mJr8",
@@ -146,52 +170,28 @@
       "description": "Flooded roads and strong winds in Stone Harbor, New Jersey, after a powerful storm disrupted the Thanksgiving holiday along much of the US East Coast, knocking out power to nearly 1 million customers at one point as wind"
     },
     {
-      "id": "Nel15Jofl58",
-      "title": "Robot collects evidence of deepest known volcanic eruption on Earth",
-      "channel": "Sky News",
-      "channelUrl": "https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ",
-      "publishedAt": "2026-11-27T21:22:02.000Z",
-      "description": "A robot has been deployed by scientists to the Mariana Trench to collect rocks ejected in a volcanic eruption - the deepest known eruption on Earth."
-    },
-    {
-      "id": "vX6zpjB5YzA",
-      "title": "Ukrainian children return from Russia in an operation mediated by Melania Trump",
-      "channel": "Associated Press",
-      "channelUrl": "https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA",
-      "publishedAt": "2026-11-27T19:55:50.000Z",
-      "description": "Ukrainian children returned from Russian-occupied territories and Russia, reunited with their mothers and relatives at the northern border on Friday after years of separation, in an operation mediated by US first lady Me"
-    },
-    {
-      "id": "-_9pMb4G7tY",
-      "title": "The End of Spain’s ‘Frankenstein’ Coalition? Presidential Plotting in Paris, Kushner & Kremlin Trap",
-      "channel": "FRANCE 24 English",
-      "channelUrl": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "publishedAt": "2026-11-27T20:11:30.000Z",
-      "description": "Catch up with the World This Week with Gavin Lee. In just 45 minutes, make sense of seven extraordinary days in global affairs, as Gavin and his handpicked panel of four leading international correspondents unpack the st"
-    },
-    {
-      "id": "STcyI6ukDIs",
-      "title": "Sanchez faces close call or defeat in Spain's snap election: Analysis",
-      "channel": "Al Jazeera English",
-      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "publishedAt": "2026-11-28T01:05:04.000Z",
-      "description": "Thousands of people have gathered at an arena outside Madrid to support Spanish Prime Minister Pedro Sanchez, who hopes to renew his mandate after eight years in power."
-    },
-    {
-      "id": "D4EQfjqhejY",
-      "title": "Why are Nigerians drinking illicit monkey tail?",
-      "channel": "DW News",
-      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
-      "publishedAt": "2026-11-27T23:38:08.000Z",
-      "description": "Monkey tail is one of Nigeria's most controversial local alcoholic drinks because it’s made by distilling palm wine and fermenting it with cannabis. Supporters say it helps them relax. Critics warn of serious health risk"
-    },
-    {
-      "id": "HM4MUu-8c5U",
-      "title": "Rare turtles found inside baggage at Amsterdam airport.",
+      "id": "447KgpcrLtI",
+      "title": "Nuclear watchdog sounds new Zaporizhzhia alert",
       "channel": "BBC News",
       "channelUrl": "https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA",
-      "publishedAt": "2026-11-27T21:00:19.000Z",
-      "description": "Subscribe to our channel here: https://bbc.in/bbcnews"
+      "publishedAt": "2026-11-27T23:45:27.000Z",
+      "description": "Ukraine's President Zelensky has expressed deep frustration with the US, saying it is not pushing Russia hard enough in talks to end Europe's bloodiest conflict since the Second World War. He told the BBC that he found i"
+    },
+    {
+      "id": "22G0mGYVDBs",
+      "title": "Security tries to remove Palestinian flag at Selfridges on Black Friday",
+      "channel": "Al Jazeera English",
+      "channelUrl": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "publishedAt": "2026-11-28T11:27:51.000Z",
+      "description": "Pro-Palestinian protesters demonstrated in a Selfridges department store in London on Black Friday. They unfurled a Palestinian flag and urged shoppers to boycott brands linked to Israel as security tried to intervene. "
+    },
+    {
+      "id": "3LJ3Q6f5z3U",
+      "title": "Zelenskyy questions 'strange' Trump-Putin friendship",
+      "channel": "DW News",
+      "channelUrl": "https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg",
+      "publishedAt": "2026-11-28T02:30:19.000Z",
+      "description": "Ukrainian President Volodymyr Zelenskyy expressed frustration with the US stance toward Russian leader Vladimir Putin. Zelenskyy questioned Trump calling Putin his \"friend\" at a recent summit in China last week and liken"
     }
   ]
 }

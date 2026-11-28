@@ -1,24 +1,22 @@
-03:51:28 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
-03:51:28 collecting videos…
-03:51:28   video feed BBC News: 15 in feed, 5 kept
-03:51:28   video feed Al Jazeera English: 15 in feed, 5 kept
-03:51:28   video feed DW News: 15 in feed, 5 kept
-03:51:28   video feed FRANCE 24 English: 15 in feed, 5 kept
-03:51:28   video feed Sky News: 15 in feed, 5 kept
-03:51:28   video feed Reuters: 15 in feed, 5 kept
-03:51:28   video feed Associated Press: 15 in feed, 5 kept
-03:51:28 videos: saved 24
-03:51:28 collecting feeds…
-03:51:30 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
-03:51:30 543 new items
-03:51:30 424 candidate stories
-03:51:30 categories needing stories: world, politics, business, science, health, entertainment, technology, sports → reserved world
-03:51:30 writing: OpenAI vs Apple: ChatGPT maker countersues iPhone maker for stealing trade secrets (4 sources)
-03:51:30   source text: 2327 / 2882 / 2867 chars
-03:51:48   ✓ published: /news/openai-files-counterclaims-against-apple-in-escalating-legal-battle/ [world] image: wikimedia via name "OpenAI"
-03:51:48 writing: When and Where to Stream the 100th Macy’s Thanksgiving Day Parade After Its Historic Delay (3 sources)
-03:51:49   source text: 0 / 4370 / 0 chars
-03:51:54   ✓ published: /news/historic-weather-delay-pushes-macys-thanksgiving-day-parade-to-saturday/ [entertainment] image: wikimedia via idea "Macy's Thanksgiving Day Parade float"
-03:51:54 writing explainer for: OpenAI vs Apple: ChatGPT maker countersues iPhone maker for stealing trade secrets
-03:52:02   ✓ explainer: /news/why-are-openai-and-apple-battling-over-trade-secrets-and-ai-talent/
-03:52:02 done — 2 stories
+12:54:13 start — writer: Gemini key set (gemini-3.5-flash-lite, gemini-3.6-flash); photos: Wikimedia + Openverse; review mode: false
+12:54:13 collecting videos…
+12:54:13   video feed BBC News: 15 in feed, 5 kept
+12:54:13   video feed Al Jazeera English: 15 in feed, 5 kept
+12:54:13   video feed DW News: 15 in feed, 5 kept
+12:54:13   video feed FRANCE 24 English: 15 in feed, 5 kept
+12:54:13   video feed Sky News: 15 in feed, 5 kept
+12:54:13   video feed Reuters: 15 in feed, 5 kept
+12:54:13   video feed Associated Press: 15 in feed, 5 kept
+12:54:13 videos: saved 24
+12:54:13 collecting feeds…
+12:54:16 feed failed: ESA https://www.esa.int/rssfeed/Our_Activities/Space_News — Status code 404
+12:54:16 450 new items
+12:54:17 354 candidate stories
+12:54:17 categories needing stories: politics, business, technology, science, health, sports, world → reserved politics
+12:54:17 writing: Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list (1 sources)
+12:54:32   source text: 0 chars
+12:54:37   ✓ published: /news/political-updates-featuring-presidential-thanksgiving-messaging-and/ [politics] image: wikimedia via idea "United States Capitol building"
+12:54:37 writing: Two Médecins Sans Frontières staff killed by Israeli strike in Gaza, charity says (5 sources)
+12:54:38   source text: 2980 / 1180 / 355 / 3948 chars
+12:54:46   ✓ published: /news/israeli-strike-on-gaza-clinic-kills-two-humanitarian-staff-members/ [world] image: wikimedia via name "Médecins Sans Frontières"
+12:54:46 done — 2 stories
